@@ -38,12 +38,17 @@ of current systems and why they need to be restructured.
 
 # Waste generation projections for Curaçao
 
-    For the waste sector in Curaçao, population, tourism and economic growth were used as future demand drivers. Expected waste generation for population and tourists were merged to construct low, moderate and high waste generation scenarios, as shown in Figure 4.4.1. The projections show a broad range of waste generation by 2050, varying between 260 and 375 thousand tonnes per year.
+For the waste sector in Curaçao, population, tourism and economic growth were used as future demand drivers. Expected waste generation for population and tourists were merged to construct low, moderate and high waste generation scenarios, as shown in Figure 4.4.1. The projections show a broad range of waste generation by 2050, varying between 260 and 375 thousand tonnes per year.
 
-    Figure 4.4.1: Waste Generation Projections for Curaçao [@Fuldauer2019]
-    Waste management in Curaçao currently depends heavily on landfills, which are due to run out of capacity in the near future. Figure 4.4.2 shows that, at the current rate of waste generation, and without other interventions, landfills will be full by 2030. Therefore, waste management in the future will need new options, such as waste treatment and recycling plants, waste reduction programmes and as the last option (following the waste hierarchy described in mini-lecture 4.2), new landfills for final disposal.
+![](assets/Figure_4.4.1.jpg){width=100%}
 
-    Figure 4.4.2: Waste demand and current supply [@Adshead2018]
+**Figure 4.4.1**: Waste Generation Projections for Curaçao [@Fuldauer2019]
+
+Waste management in Curaçao currently depends heavily on landfills, which are due to run out of capacity in the near future. Figure 4.4.2 shows that, at the current rate of waste generation, and without other interventions, landfills will be full by 2030. Therefore, waste management in the future will need new options, such as waste treatment and recycling plants, waste reduction programmes and as the last option (following the waste hierarchy described in mini-lecture 4.2), new landfills for final disposal.
+
+![](assets/Figure_4.4.2.jpg){width=100%}
+
+**Figure 4.4.2**: Waste demand and current supply [@Adshead2018]
 
 # Electricity demand in Saint Lucia
 
@@ -53,8 +58,7 @@ projections to 2050 for cruise-ship tourists, stay-over tourists and the
 residential population. Not only do the numbers vary but also the
 trajectories (i.e. population can increase or decrease by 2050).
 
-![](media/image3.png){width="3.192720909886264in"
-height="3.8867924321959757in"}
+![](assets/Figure_4.4.3.jpg){width=100%}
 
 **Figure 4.4.3:** Residential and peak tourism scenarios
 [@Adshead2020]
@@ -78,8 +82,7 @@ emissions, the high cost of diesel and the dependence on this fossil
 fuel (which is imported), call for a restructuring of the system and the
 development of new energy supply options.
 
-![](media/image4.png){width="6.278495188101488in"
-height="3.111111111111111in"}
+![](assets/Figure_4.4.4.jpg){width=100%}
 
 **Figure 4.4.4:** Future energy needs for a moderate scenario
 [@Adshead2020]
@@ -99,8 +102,7 @@ growth rates of 2.3% and 3.6%, respectively, which are in line with the
 average growth rate of 2.6% for Palestine between 2007 and 2016
 [@Ives2018].
 
-![](media/image5.png){width="5.786215004374453in"
-height="3.5660378390201224in"}
+![](assets/Figure_4.4.5.jpg){width=100%}
 
 **Figure 4.4.5:** Population projections for Palestine [@Ives2018]
 
@@ -114,8 +116,7 @@ the central population growth and the baseline economic scenario, and
 (3) "unstable adversity" by combining the high population growth and the
 pessimistic economic scenario.
 
-![](media/image6.png){width="6.291346237970254in"
-height="3.4245286526684167in"}
+![](assets/Figure_4.4.6.jpg){width=100%}
 
 **Figure 4.4.6:** Economic projections for Palestine [@Ives2018]
 
@@ -127,8 +128,7 @@ ratio of 100 litres/capita/day (solid lines). In this way, the
 expectation to achieve certain development indicators can be established
 in the future projections of infrastructure demand.
 
-![](media/image7.png){width="6.179245406824147in"
-height="3.3119313210848644in"}
+![](assets/Figure_4.4.7.jpg){width=100%}
 
 **Figure 4.4.7:** Water demand projections for Palestine [@Ives2018]
 
@@ -158,14 +158,10 @@ optimistic scenario. Consequently, the projections shown in Figure 4.4.8
 are driven not only by population change but also by a progressive
 increase in per capita consumption patterns.
 
-![C:\\Personal\\Oxford\\CCG\\Course\\Lecture Block 7\\Images\\image
-(1).png](media/image8.png){width="5.495760061242344in"
-height="3.8301891951006124in"}
+![](assets/Figure_4.4.8.jpg){width=100%}
 
 Figure 4.4.8: Electricity demand projections for Ghana (based on data
 from @UNDESA2019 and @WorldBank2021)
-
-#
 
 # Summary
 

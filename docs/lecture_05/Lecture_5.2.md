@@ -1,20 +1,11 @@
 ---
 title: Mini-Lecture 5.2 - Setting a national vision for sustainable
   infrastructure based on the Sustainable Development Goals
----
-
-
-
 keywords:
-
 -   Infrastructure performance indicators
-
 -   Sustainable development
-
 authors:
-
 -   Dan Adshead
-
 ---
 
 This lecture will demonstrate how we can place infrastructure assessment
@@ -32,17 +23,13 @@ which incorporates a multi-dimensional, multi-sectoral approach.
     'pillars of sustainability' to infrastructure assessment within
     Sustainable Development Goal (SDG) targets.
 
-
-
 # Introduction
 
-# A wide variety of metrics can be used to assess national infrastructure performance and shape the implementation strategies for future projects and policies. The last lecture (mini-lecture 5.1) introduced how sustainability criteria are increasingly applied to indicator selection. Numerous government agencies now use the universally-recognised Sustainable Development Goal (SDG) framework to define a sustainable infrastructure vision as part of their national development. Similarly, Non-Governmental Organisations (NGOs) and the private sector increasingly aim to incorporate sustainability objectives into their vision and operation [@UNDP2016; @Busco2017].
+A wide variety of metrics can be used to assess national infrastructure performance and shape the implementation strategies for future projects and policies. The last lecture (mini-lecture 5.1) introduced how sustainability criteria are increasingly applied to indicator selection. Numerous government agencies now use the universally-recognised Sustainable Development Goal (SDG) framework to define a sustainable infrastructure vision as part of their national development. Similarly, Non-Governmental Organisations (NGOs) and the private sector increasingly aim to incorporate sustainability objectives into their vision and operation [@UNDP2016; @Busco2017].
 
-# In order to operationalise the 2030 Agenda for implementation at the global, regional, national, and sub-national levels, data-driven measurement tools and indicators have been developed to track progress and to identify gaps in indicator availability and coverage [@Schmidt-Traub2017; @Cassidy2014]. These tools and indicators aim to tackle the challenges of assessing global progress toward the SDGs and of quantifying "full" SDG achievement. While SDG targets are applied to all, including developed countries, they are assessed according to the nature and balance of the challenges they represent in each national context. Within each SDG, the UN has assigned multiple indicators as a means to measure achievement. However, these indicators generally reflect existing global datasets rather than ideal measures.
+In order to operationalise the 2030 Agenda for implementation at the global, regional, national, and sub-national levels, data-driven measurement tools and indicators have been developed to track progress and to identify gaps in indicator availability and coverage [@Schmidt-Traub2017; @Cassidy2014]. These tools and indicators aim to tackle the challenges of assessing global progress toward the SDGs and of quantifying "full" SDG achievement. While SDG targets are applied to all, including developed countries, they are assessed according to the nature and balance of the challenges they represent in each national context. Within each SDG, the UN has assigned multiple indicators as a means to measure achievement. However, these indicators generally reflect existing global datasets rather than ideal measures.
 
-# In the context of infrastructure, the 2030 Agenda provides a useful framework for informed decision-making, planning and implementation. It can be used as a means of measuring the potential impacts of investments and policies on long-term development objectives and is applicable to a range of international contexts and development challenges [@Adshead2019]. However, careful indicator development is necessary to ensure that future infrastructure provision reflects a wide range of sustainability criteria.
-
-# 
+In the context of infrastructure, the 2030 Agenda provides a useful framework for informed decision-making, planning and implementation. It can be used as a means of measuring the potential impacts of investments and policies on long-term development objectives and is applicable to a range of international contexts and development challenges [@Adshead2019]. However, careful indicator development is necessary to ensure that future infrastructure provision reflects a wide range of sustainability criteria
 
 # Framing infrastructure performance around sustainability dimensions: An example
 
@@ -61,6 +48,8 @@ infrastructure provision does not contribute exclusively to the
 development of social well-being -- it also allows firms to benefit from
 reliable infrastructure services required to ensure economic growth
 [@Adshead2019].
+
+![](assets/Fig_5.2.1.png){width=100%}
 
 **Figure 5.2.1:** The 'Energy Trilemma Index' developed by the World
 Energy Council [@WEC2017]
@@ -112,12 +101,13 @@ dimensions. This implies that the target outcome cannot be evaluated
 without assessing the affordability, environmental impact and level of
 service provision within the transport sector.
 
+![](assets/Fig_5.2.2.png){width=100%}
 
-    Figure 5.2.2: Number of infrastructure-linked SDG targets that incorporate a focus on service delivery, cost and affordability, and environmental impact. Adapted from @Adshead2019.
+**Figure 5.2.2**: Number of infrastructure-linked SDG targets that incorporate a focus on service delivery, cost and affordability, and environmental impact. Adapted from @Adshead2019.
 
 # Infrastructure sector contributions to SDG target achievement
 
-    The construction of indicators to measure infrastructure performance in sustainable development terms similarly requires consideration of how many, and which, infrastructure sectors are required to achieve the SDG target [@Adshead2019]. In some cases, the infrastructure service provided by a sector may be substitutable by another, while in others, each relevant sector is required.
+The construction of indicators to measure infrastructure performance in sustainable development terms similarly requires consideration of how many, and which, infrastructure sectors are required to achieve the SDG target [@Adshead2019]. In some cases, the infrastructure service provided by a sector may be substitutable by another, while in others, each relevant sector is required.
 
 Some targets focus exclusively on a single sector, for example 5.b
 (*"Enhance the use of enabling technology, in particular information and
@@ -184,8 +174,7 @@ they aim to achieve. Thus, an 'SDG indicator' can be constructed to
 merge infrastructure and sustainable development planning
 [@Adshead2019].
 
-![](media/image3.emf){width="6.492063648293963in"
-height="9.445594925634296in"}
+![](assets/Fig_5.2.3.png){width=100%}
 
 **Figure 5.2.3:** Target contribution to SDGs for Curaçao, showing
 trajectory to achievement of infrastructure-linked targets. Required

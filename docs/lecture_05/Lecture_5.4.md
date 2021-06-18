@@ -1,20 +1,11 @@
-**Mini-Lecture 5.4 - A target-driven development vision for a small
-island context**
-
-
-
+---
+title: Mini-Lecture 5.4 - A target-driven development vision for a small island context
 keywords:
-
 -   Targets
-
 -   Development planning
-
 -   SDGs
-
 authors:
-
 -   Dan Adshead
-
 ---
 
 This mini-lecture will demonstrate how development targets have been
@@ -22,16 +13,12 @@ incorporated in the infrastructure strategy of Saint Lucia using inputs
 from an infrastructure planning tool. It will present results showing
 specific targets being met within a broader infrastructure strategy.
 
-# Learning objectives {#learning-objectives-1}
-
+# Learning objectives
 -   To learn methods for constructing and incorporating development
     targets in infrastructure assessment
-
 -   To demonstrate the construction and use of a 'Sustainable
     Development Goal (SDG) indicator' as a measure of target progress,
     using knowledge developed in the previous lectures.
-
-
 
 # Development targets and objectives in national infrastructure planning
 
@@ -93,8 +80,9 @@ targets and indicators:
 These targets were entered into the infrastructure planning tool as
 shown in Figure 5.4.1.
 
+![](assets/Fig_5.4.1.png){width=100%}
 
-    Figure 5.4.1: Target inputs for Saint Lucia’s key infrastructure sectors, forming a National Infrastructure Strategy (NIS). Business-as-usual is denoted as BAU.
+**Figure 5.4.1**: Target inputs for Saint Lucia’s key infrastructure sectors, forming a National Infrastructure Strategy (NIS). Business-as-usual is denoted as BAU.
 
 # Example: Inputting NDC commitments as targets in the planning model
 
@@ -121,6 +109,8 @@ away from landfill towards lower emitting waste solutions. Although a
 high‐emitting sector, transport interventions were not included because
 demand in the sector relies on spatial considerations that could not be
 aggregated on a national scale.
+
+![](assets/Fig_5.4.2.png){width=100%}
 
 **Figure 5.4.2:** Saint Lucia's emissions reductions targets for 2025
 and 2030 in its first NDC, in relation to its baseline emissions
@@ -157,13 +147,11 @@ including through LED street lighting, lighting and cooling efficiencies
 in new buildings, and a focus on energy use reductions in the tourism
 sector [@Adshead2021].
 
-![](media/image3.emf){width="6.1625in" height="3.0625in"}
+![](assets/Fig_5.4.3.png){width=100%}
 
 **Figure 5.4.3:** Implementation and sequencing of a National
 Sustainability Strategy incorporating feasible investments and policies
 to meet relevant SDG and mitigation targets [@Adshead2021]
-
-# 
 
 # Using an 'SDG indicator' for infrastructure-linked targets
 
@@ -201,8 +189,7 @@ In order to ensure sustained progress toward SDG achievement, planned
 infrastructure interventions must also incorporate resilience to the
 threat of climate impacts and other external shocks [@Adshead2021].
 
-![](media/image4.emf){width="4.972839020122485in"
-height="6.1669739720034995in"}
+![](assets/Fig_5.4.4.png){width=100%}
 
 **Figure 5.4.4:** Combined SDG performance to 2030 by strategy,
 calculated across 18 targets directly linked to the provision of

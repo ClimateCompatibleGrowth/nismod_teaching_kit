@@ -1,22 +1,11 @@
 ---
-title: Mini-Lecture 5.1 - Assessing infrastructure performance through
-  targets and indicators
----
-
-
-
+title: Mini-Lecture 5.1 - Assessing infrastructure performance through targets and indicators
 keywords:
-
--   # Performance targets
-
--   # Indicators
-
+-   Performance targets
+-   Indicators
 -   Multi-attribute decision-making
-
 authors:
-
 -   Dan Adshead
-
 ---
 
 This lecture will review approaches to assessing the performance of
@@ -33,9 +22,7 @@ outcomes, with a view to aligning them with sustainability criteria.
 -   To list various shortcomings of current infrastructure indicator
     frameworks.
 
-
-
-# Introduction 
+# Introduction
 
 Infrastructure systems provide a wide range of services to society.
 However, there is a limit on what we can build or implement, which often
@@ -70,37 +57,31 @@ mini-lecture 5.2.
 
 # Conceptualising performance indicator frameworks
 
-# Several comprehensive frameworks for indicator development and use have been developed; these serve the purpose of stimulating countries to produce information that is more responsive to policy needs and public information requirements.
+Several comprehensive frameworks for indicator development and use have been developed; these serve the purpose of stimulating countries to produce information that is more responsive to policy needs and public information requirements.
 
-# As an example, @OECD2003 harmonises international environmental indicators using a *Pressure-State-Response* model, which aims to highlight cause-effect relationships and the interconnectedness of performance outcomes across environmental, economic, and other spheres. 
+As an example, [@OECD2003] harmonises international environmental indicators using a *Pressure-State-Response* model, which aims to highlight cause-effect relationships and the interconnectedness of performance outcomes across environmental, economic, and other spheres.
 
-# As shown in Figure 5.1.1, this framework aims to quantify the human activities that affect the underlying state of the environment (pressures), robust measures of the current quality of the environment (states), and societal responses to tackle identified problems such as economic and social policies or changes in awareness or behaviour. The aim is to further strengthen countries' capacity to monitor and assess environmental conditions and trends so as to increase their accountability and to evaluate how well they are satisfying both domestic objectives and international commitments [@OECD2003]. Three basic criteria for indicator selection used in this framework are: policy relevance and utility for users, analytical soundness, and measurability.
+As shown in Figure 5.1.1, this framework aims to quantify the human activities that affect the underlying state of the environment (pressures), robust measures of the current quality of the environment (states), and societal responses to tackle identified problems such as economic and social policies or changes in awareness or behaviour. The aim is to further strengthen countries' capacity to monitor and assess environmental conditions and trends so as to increase their accountability and to evaluate how well they are satisfying both domestic objectives and international commitments [@OECD2003]. Three basic criteria for indicator selection used in this framework are: policy relevance and utility for users, analytical soundness, and measurability.
 
-# While this framework can be applied in principle to many areas, it has been adapted to evaluate sustainability across a range of infrastructure types, including energy [@Li2019], water [@Kaur2020], and green infrastructure [@Spano2017]. It has also been specifically adapted to impose a structure on infrastructure indicators, by reflecting a) external forces that affect the welfare delivered by infrastructure (pressures); b) the contribution of infrastructure to societal welfare (state); and c) public and private responses to changes in each of these [@Beca2013]. This will be discussed later on.
+While this framework can be applied in principle to many areas, it has been adapted to evaluate sustainability across a range of infrastructure types, including energy [@Li2019], water [@Kaur2020], and green infrastructure [@Spano2017]. It has also been specifically adapted to impose a structure on infrastructure indicators, by reflecting a) external forces that affect the welfare delivered by infrastructure (pressures); b) the contribution of infrastructure to societal welfare (state); and c) public and private responses to changes in each of these [@Beca2013]. This will be discussed later on.
+
+![](assets/Fig_5.1.1.png){width=100%}
 
 **Figure 5.1.1:** The OECD's *Pressure-State-Response* model for
 environmental indicators [@OECD2003]
 
 # Critiques of traditional infrastructure indicator approaches
 
-# Indicator frameworks that fail to inform strategic decision-making are of limited use. A critique of the indicator framework used to assess infrastructure performance in the UK [@ICIF2015] suggested next steps to develop metrics that better serve the needs of the country's long-term strategic infrastructure vision. This provides many insights on shortcomings related to the structure and selection of indicators for broad themes such as infrastructure.
+Indicator frameworks that fail to inform strategic decision-making are of limited use. A critique of the indicator framework used to assess infrastructure performance in the UK [@ICIF2015] suggested next steps to develop metrics that better serve the needs of the country's long-term strategic infrastructure vision. This provides many insights on shortcomings related to the structure and selection of indicators for broad themes such as infrastructure.
 
-# As reported annually in the UK's National Infrastructure Plan, infrastructure performance indicators covered five sectors, relating to the following areas:
+As reported annually in the UK's National Infrastructure Plan, infrastructure performance indicators covered five sectors, relating to the following areas:
 
--   # Capacity, access and availability
-
--   # Asset or capacity utilisation
-
--   # Service quality and reliability
-
-```{=html}
-<!-- -->
-```
--   Asset condition
-
--   Safety
-
--   Efficiency.
+- Capacity, access and availability
+- Asset or capacity utilisation
+- Service quality and reliability
+- Asset condition
+-  Safety
+-  Efficiency
 
 Specific critiques include the following:
 
@@ -128,6 +109,8 @@ A proposed framework for indicators is shown in Figure 5.1.2,
 highlighting the importance of outcomes defined by stakeholder needs and
 delivered by infrastructure systems, and the interplay between them.
 
+![](assets/Fig_5.1.2.png){width=100%}
+
 **Figure 5.1.2:** Assessing performance of infrastructure through the
 delivery of outcomes, according to [@ICIF2015]
 
@@ -149,6 +132,8 @@ infrastructure (Figure 5.1.3). To populate the framework, a shortlist of
 performance measures could be narrowed down using a set of defined
 criteria.
 
+![](assets/Fig_5.1.3.png){width=100%}
+
 **Figure 5.1.3:** Proposed objectives, domains and sub-domains for UK
 infrastructure performance indicators [@JBA2017]
 
@@ -165,6 +150,8 @@ country's infrastructure, highlighting key trends and patterns. Of
 particular interest are the critical determinants of infrastructure
 performance, with a preference for simple indicators, but with
 sufficient depth to tell a meaningful story [@Beca2013].
+
+![](assets/Fig_5.1.4.jpg){width=100%}
 
 **Figure 5.1.4:** Criteria for selecting infrastructure performance
 indicators according to [adapted from @Beca2013]
@@ -206,6 +193,8 @@ definition of sustainability, which is addressed in the next lecture
 can be designed to use existing datasets to inform a broader range of
 attributes will continue to pose a challenge for infrastructure
 planners.
+
+![](assets/Fig_5.1.5.png){width=100%}
 
 **Figure 5.1.5:** The information hierarchy through the sustainable
 indicator prism for the transport sector [@Zegras2006]

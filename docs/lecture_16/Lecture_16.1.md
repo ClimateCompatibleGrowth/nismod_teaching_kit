@@ -2,9 +2,9 @@
 title: Mini-Lecture 16.1 - Nature-based solutions for water regulation
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Nature-based solutions
 
@@ -12,11 +12,11 @@ title: Mini-Lecture 16.1 - Nature-based solutions for water regulation
 
 -   Natural drought management
 
-## Authors 
+authors: 
 
 -   Amelie Paszkowski
 
-## Short description
+---
 
 This lecture illustrates how nature-based solutions can be used to
 regulate and manage extreme water events, such as floods and droughts. A
@@ -24,7 +24,7 @@ range of nature-based options for fluvial, pluvial and tidal flooding
 and drought are provided, and case studies are presented where
 applications of these can be seen in practice.
 
-## Learning objectives 
+# Learning objectives 
 
 -   To identify a portfolio of nature-based solutions for water
     regulation in extreme situations of flooding and drought
@@ -33,9 +33,9 @@ applications of these can be seen in practice.
 -   To recognise the value of nature-based solutions in adapting to and
     mitigating water extremes.
 
-# Lecture content 
+ 
 
-## Introduction to regulation of water extremes
+# Introduction to regulation of water extremes
 
 It is widely acknowledged that climate change is expected to increase
 the magnitude, frequency and duration of extreme weather. At present, an
@@ -67,7 +67,7 @@ Similarly, the other extreme side of the spectrum---drought---is
 described, with a real-life example of nature-based solutions for
 drought management outlined.
 
-## Nature-based solutions for flood regulation
+# Nature-based solutions for flood regulation
 
 Floodplains are amongst the most productive ecosystems. Traditional
 engineered solutions have often disconnected floodplains from their
@@ -250,7 +250,7 @@ to restore coastal wetlands and reef systems than to construct submerged
 breakwaters, which can significantly alleviate the financial burden of
 such infrastructure measures on some developing countries.
 
-## Nature-based solutions for flood regulation: Case study in China
+# Nature-based solutions for flood regulation: Case study in China
 
 The concept of a "Sponge City" was introduced by the Chinese Central
 Government in 2013, in response to the increasing flood impacts
@@ -281,7 +281,7 @@ height="1.8881944444444445in"}![](media/image4.jpeg){width="3.1680041557305336in
 height="1.8720002187226596in"}**Figure 16.1.2**: Application of China's
 sponge city concept in Jinhuan Yanwei Island Park [@Turenscape2014]
 
-## Nature-based solutions for drought regulation
+# Nature-based solutions for drought regulation
 
 Droughts have wide-reaching environmental, social and economic impacts,
 ranging from famine and human mortality, to losses in agriculture and
@@ -435,7 +435,7 @@ relieving drought conditions [@UnitedNations2018].
 |                |                |     intrusion  |                |
 +----------------+----------------+----------------+----------------+
 
-## Nature-based solutions for drought regulation: Case study in India
+# Nature-based solutions for drought regulation: Case study in India
 
 In 1985-1986, the State of Rajasthan in north-west India experienced
 unusually low rainfall, which, combined with excessive logging, led to
@@ -468,9 +468,9 @@ This case study shows how when humans adapt to the natural environment,
 allowing it to operate over its natural cycles without interference, the
 benefits experienced can be vast.
 
-## 
+# 
 
-## Summary 
+# Summary 
 
 This mini-lecture has provided an introduction to nature-based solutions
 for regulating water extremes. A portfolio of options has been provided

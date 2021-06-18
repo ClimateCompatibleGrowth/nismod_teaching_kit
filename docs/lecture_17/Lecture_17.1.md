@@ -2,9 +2,9 @@
 title: Mini-Lecture 17.1 - Nature-based solutions (NbS) for water supply
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Nature-based solutions
 
@@ -12,11 +12,11 @@ title: Mini-Lecture 17.1 - Nature-based solutions (NbS) for water supply
 
 -   Water quality
 
-## Authors
+authors:
 
 -   Robyn Haggis
 
-## Short description
+---
 
 This lecture will consider how nature-based solutions (NbS) can be
 strategically incorporated to support the delivery of freshwater supply.
@@ -24,7 +24,7 @@ A range of NbS services are illustrated, including their services for
 provisioning freshwater, enhancing water quality and preventing
 salination of water supplies.
 
-## Learning objectives 
+# Learning objectives 
 
 -   To recall a range of nature-based solutions which can support the
     delivery of freshwater
@@ -35,9 +35,9 @@ salination of water supplies.
 -   To recognise the value of integrating nature-based solutions with
     built infrastructure solutions for water supply.
 
-# Lecture content {#lecture-content-1}
+ {#lecture-content-1}
 
-## Introduction
+# Introduction
 
 Currently, one-third of people globally do not have access to safe
 drinking water, and 5.7 billion people could face some level of water
@@ -164,7 +164,7 @@ of quality freshwater [@Tremolet2020; @UNEP2014].
 |                                  |     intrusion                    |
 +----------------------------------+----------------------------------+
 
-## Provision and regulation of freshwater flows
+# Provision and regulation of freshwater flows
 
 Nature-based solutions support freshwater provision through services
 including water infiltration and storage, recharging aquifers, ponds and
@@ -213,7 +213,7 @@ provide key functions to cities, including delaying runoff during
 storms, and preventing contamination of urban water supplies due to
 sewer overflow.
 
-## Regulation and maintenance of water quality, including reduced sedimentation
+# Regulation and maintenance of water quality, including reduced sedimentation
 
 A major challenge of meeting water-related development needs is ensuring
 and maintaining water quality [@UNEP2014]. Pollution of water
@@ -270,7 +270,7 @@ enhance water quality of urban water supplies, through capturing and
 storing rainfall and preventing stormwater runoff and overflow
 [@Yao2015]. Photograph from @UNEP2014.
 
-## Water temperature control, biological control and turbidity control
+# Water temperature control, biological control and turbidity control
 
 Water temperature directly and indirectly affects aquatic ecosystems and
 their ability to provide water purification services [@UNEP2014].
@@ -320,9 +320,9 @@ control should be based on an understanding of the ecological context
 and suitability of the NbS, including its ability to assimilate
 pollutants [@Honlah2019].
 
-## 
+# 
 
-## Protecting water supplies from saline intrusion and being mindful of caveats for NbS implementation
+# Protecting water supplies from saline intrusion and being mindful of caveats for NbS implementation
 
 Coastal water supplies are likely to be impacted under future climate
 change as a result of saline intrusion by saltwater, as storm surges and
@@ -454,7 +454,7 @@ service providers. Examples are shown here [@Tremolet2020;
 |                                  | carbon sequestration.            |
 +----------------------------------+----------------------------------+
 
-## Summary 
+# Summary 
 
 Freshwater supplies originate in the broader watershed and are impacted
 by ecosystems and land use practices within the wider landscape context.

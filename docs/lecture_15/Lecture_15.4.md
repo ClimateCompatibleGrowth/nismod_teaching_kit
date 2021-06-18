@@ -3,9 +3,9 @@ title: Mini-Lecture 15.4 -- Nature-based solutions (NbS) underpinning
   infrastructure systems
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Green, grey and hybrid infrastructure
 
@@ -13,11 +13,11 @@ title: Mini-Lecture 15.4 -- Nature-based solutions (NbS) underpinning
 
 -   SustainABLE
 
-## Authors 
+authors: 
 
 -   Robyn Haggis
 
-## Short description
+---
 
 This mini-lecture provides an introduction to nature-based solutions
 (NbS) in the context of infrastructure development, which will be
@@ -25,7 +25,7 @@ expanded upon in subsequent mini-lectures. It provides a background as
 to why and how nature-based solutions can be strategically included in
 different infrastructure sectors.
 
-## Learning objectives 
+# Learning objectives 
 
 -   Explain the importance of NbS in built infrastructure systems
 
@@ -36,9 +36,9 @@ different infrastructure sectors.
     NbS can be included into different infrastructure sectors for the
     delivery on the SDG targets.
 
-# Lecture content {#lecture-content-1}
+ {#lecture-content-1}
 
-## Importance of planning for NbS in built infrastructure systems
+# Importance of planning for NbS in built infrastructure systems
 
 With huge global infrastructure needs and infrastructure investment at a
 global high (approximately USD2.3 trillion per year, almost USD100
@@ -85,7 +85,7 @@ uncertainty, as shown in Table 15.4.1.
   Unforeseen consequences    Interconnectedness of nature means actions in one area can impact elsewhere in the system, but these are not always understood. For example, species type and diversity impact surface, sub-surface and atmospheric processes, including water tables, biodiversity, pest resilience, disease, climate change and NbS performance
   Governance                 Managing NbS under shifting social, economic and political conditions is challenging, particularly where land rights are unclear.
 
-## Introduction to infrastructure and NbS
+# Introduction to infrastructure and NbS
 
 Without consideration of nature in infrastructure planning and
 decision-making, there is a risk that development could undermine the
@@ -150,7 +150,7 @@ infrastructure sectors [@Browder2019; @Kapos2019]
   Lower cost / cost-effective      Many NbS enable infrastructure services to be provided at a lower cost by reducing grey infrastructure and maintenance requirements. NbS can provide additional economic benefits due to co-benefits
   Co-benefits                      NbS offer many potential economic, social and environmental co-benefits. These include biodiversity conservation, climate mitigation, conservation of traditional knowledge, recreation and tourism, enhanced food security, job creation and inward investment.
 
-## NbS underpinning built infrastructure
+# NbS underpinning built infrastructure
 
 Infrastructure systems depend on various ecosystem services to fulfil
 their functions [@Browder2019]. However, to date, infrastructure
@@ -197,7 +197,7 @@ wastewater treatment. Grasslands can tolerate wildfire, retain moisture
 and support resilience to heat and drought. Photographs from Unsplash
 and @Browder2019.
 
-## Integrating the green and the grey
+# Integrating the green and the grey
 
 In many circumstances, combining green infrastructure with grey
 infrastructure, such as dams, levees, reservoirs, treatment systems, and
@@ -244,7 +244,7 @@ requirements. At the same time, nature provides aesthetic value and
 benefits including improved air quality, mental health and well-being
 and carbon sequestration. Photographs from Unsplash
 
-## Enhancing service provision and delivering on the SDGs through integrating NbS into built infrastructure systems
+# Enhancing service provision and delivering on the SDGs through integrating NbS into built infrastructure systems
 
 As introduced in mini-lecture 15.2, nature has the potential to
 influence multiple targets of the SDGs, beyond those specific to
@@ -282,7 +282,7 @@ strategically integrated into different infrastructure sectors in order
 to deliver benefits within and beyond the sector. Hands-on 10 provides a
 step-by-step walkthrough of the SustainABLE tool.
 
-## Summary 
+# Summary 
 
 NbS underpin the functioning of infrastructure through delivery of
 ecosystem services. They can be leveraged to provide various benefits to

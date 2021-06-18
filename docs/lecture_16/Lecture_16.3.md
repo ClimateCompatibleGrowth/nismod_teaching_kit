@@ -3,9 +3,9 @@ title: Mini-Lecture 16.3 - Nature-based solutions for erosion and
   landslide control
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Nature-based solutions
 
@@ -13,26 +13,26 @@ title: Mini-Lecture 16.3 - Nature-based solutions for erosion and
 
 -   Natural landslide control
 
-## Authors
+authors:
 
 -   Amelie Paszkowski
 
-## Short description
+---
 
 This mini-lecture provides an overview of how nature-based solutions can
 be used for erosion and landslides control. Case studies are presented
 to show some of these solutions in practice.
 
-## Learning objectives 
+# Learning objectives 
 
 -   Obtain a portfolio of nature-based solutions for both erosion and
     landslide mitigation
 -   Appreciate the value of nature-based solutions in addressing the
     hazards of erosion and landslides.
 
-# Lecture content 
+ 
 
-## Introduction
+# Introduction
 
 Climate change is anticipated to make extreme events more common.
 Intense precipitation events can lead to soil erosion and landslides
@@ -63,7 +63,7 @@ will assess nature-based solutions for erosion control with an example
 in Bangladesh, and then for landslide management with a case study in
 Nepal.
 
-## Nature-based solutions for erosion control
+# Nature-based solutions for erosion control
 
 Climate-related erosion occurs predominantly near waterbodies, as the
 force of water or waves exert pressures on unstable soils. A clear
@@ -168,7 +168,7 @@ erosion [@Kapos2019]
     As evident from the table, vegetating river catchments, particularly along the riverbanks, can stabilise the soil and reduce the risk to erosion. This vegetation also acts as cover for soil, reducing its exposure to surface soil erosion. In coastal areas, measures are centred around reducing the wave energy reaching the coastline. Mangroves are the most well-known nature-based solution for coastal protection from erosion; however, in areas where mangroves are not native, such as the UK for instance, sea grass has played a key role in regulating water currents and stabilising sediments, reducing the rates of erosion observed. 
     We will now show how nature-based solutions have been used in addressing the erosion challenges faced in Bangladesh.
 
-## Case study of nature-based solutions for erosion control: Bangladesh
+# Case study of nature-based solutions for erosion control: Bangladesh
 
 Bangladesh is a nation of rivers. It is home to the
 Ganges-Brahmaputra-Meghna (GBM) delta, with over 700 tributaries and
@@ -204,7 +204,7 @@ issue of erosion, but rather a combination of localised mitigation
 measures, and strong collaboration between decision-makers, researchers,
 engineers, local authorities and local communities.
 
-## Nature-based solutions for landslides
+# Nature-based solutions for landslides
 
 Similar to nature-based solutions for erosion, vegetation can be used to
 stabilise slopes that are prone to landslides. Thick roots act like
@@ -230,7 +230,7 @@ and slumping of earth materials [@ADPC2020].
 We will now show the use of nature-based solutions for landslide
 mitigation in Nepal.
 
-## Case study of nature-based solutions for landslides: Nepal
+# Case study of nature-based solutions for landslides: Nepal
 
 Nepal is located in a region of heavy precipitation (monsoon
 seasonality) and frequent earthquakes. This makes the country one of the
@@ -265,7 +265,7 @@ natural measures of soil stabilisation [IUCN2021].
 **Figure 16.3.1:** Local communities planting *Amriso* along unstable
 steep slopes [@WWF2013]
 
-## Summary 
+# Summary 
 
 This mini-lecture provided an overview of the challenges faced with
 erosion and landslides and how nature-based solutions can provide

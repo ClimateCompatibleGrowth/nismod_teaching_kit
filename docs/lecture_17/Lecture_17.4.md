@@ -3,9 +3,9 @@ title: Mini-Lecture 17.4 - Integrating nature-based solutions (NbS) in
   the built environment
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Nature-based solutions in buildings
 
@@ -13,18 +13,18 @@ title: Mini-Lecture 17.4 - Integrating nature-based solutions (NbS) in
 
 -   Nature-based solutions in the urban environment
 
-## Authors
+authors:
 
 -   Robyn Haggis
 
-## Short description
+---
 
 This lecture will consider how nature-based solutions (NbS) can be
 integrated into different aspects of the urban environment. It will
 provide examples of how NbS can be integrated into buildings and cities,
 and other aspects of urban contexts.
 
-## Learning objectives
+# Learning objectives
 
 -   Recall how NbS can be integrated to enhance building sector services
 
@@ -34,9 +34,9 @@ and other aspects of urban contexts.
 -   Consider the ways in which NbS can benefit occupants across
     different sectors.
 
-# Lecture content
 
-## Introduction to nature-based solutions in the built environment
+
+# Introduction to nature-based solutions in the built environment
 
 Nature-based solutions (NbS) can be strategically integrated into
 buildings across all infrastructure sectors, including residential,
@@ -194,9 +194,9 @@ buildings [@EuropeanCommission2013; @GMCA2019]
 |                                  |     recurring maintenance costs. |
 +----------------------------------+----------------------------------+
 
-## 
+# 
 
-## Nature-based solutions in cities
+# Nature-based solutions in cities
 
 Integrating NbS in urban landscapes such as cities can provide multiple
 social, environmental and economic benefits to the urban context
@@ -267,7 +267,7 @@ corridors in urban and suburban areas, supporting wider biodiversity
 goals, and contribute to carbon sequestration. Photographs from
 Unsplash.
 
-## Strategically integrating NbS to benefit offices, finance and retail 
+# Strategically integrating NbS to benefit offices, finance and retail 
 
 Integration of NbS has been shown to increase the effectiveness and
 productivity of workforces. Studies show that high quality accessible
@@ -306,7 +306,7 @@ height="4.164583333333334in"}
 Illinois. The roof helps slow stormwater runoff and provides the
 surrounding offices with a view of nature [@Browder2019]
 
-## Strategically integrating NbS to benefit industrial sectors
+# Strategically integrating NbS to benefit industrial sectors
 
 NbS can be integrated into industrial sectors, including solid waste,
 wastewater and manufacturing and production, to generate cost savings
@@ -344,7 +344,7 @@ height="4.1043482064741905in"}
 buildings for various benefits including increasing the health,
 well-being and productivity of workers. Photograph from Unsplash.
 
-## Strategically integrating NbS to benefit health and education
+# Strategically integrating NbS to benefit health and education
 
 **Health**
 
@@ -399,7 +399,7 @@ university buildings, students can have access to food and water,
 supporting the reduction in malnutrition, enable learning about
 vegetable growing, and take part in educational planting projects.
 
-## Summary
+# Summary
 
 This lecture has provided an overview of some of the ways in which
 nature-based solutions can be integrated into urban contexts. There are

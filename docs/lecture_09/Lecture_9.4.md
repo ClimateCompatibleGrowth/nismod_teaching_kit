@@ -3,9 +3,9 @@ title: Mini-Lecture 9.4 - Modelling energy networks and simulating
   service delivery
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   Energy networks
 
@@ -13,11 +13,11 @@ title: Mini-Lecture 9.4 - Modelling energy networks and simulating
 
 -   Spatial modelling
 
-## Authors
+authors:
 
 -   Aman Majid
 
-## Short description
+---
 
 This lecture will cover how to model energy networks to analyse service
 delivery under climatic disruptions. We will cover the fundamentals of
@@ -25,7 +25,7 @@ spatial and simulation modelling of energy systems, as well as
 understand how risks and impacts of climate hazards can be quantified
 through such models.
 
-## Learning objectives
+# Learning objectives
 
 -   Identify the critical processes within energy infrastructure systems
 -   Define an energy system simulation model in terms of its spatial and
@@ -33,9 +33,9 @@ through such models.
 -   Illustrate the quantification of climate risks in energy systems
     through simulation modelling.
 
-# Lecture content
 
-## Introduction to energy networks
+
+# Introduction to energy networks
 
 **Figure 9.4.1:** Schematic illustration of an energy system
 [@DECC2010].
@@ -67,7 +67,7 @@ infrastructure systems are inherently dependent upon energy (e.g. water,
 transport, digital telecoms), the risk of cascading failures is
 important to understand.
 
-## Modelling: Creating a spatial representation
+# Modelling: Creating a spatial representation
 
 **Figure 9.4.2:** An illustration of a spatial energy system model from
 the United Kingdom [@Russell2020].
@@ -76,7 +76,7 @@ the United Kingdom [@Russell2020].
     The amount of spatial detail you wish to capture is dependent upon your purpose. For large analyses, such as at a national or global level, an analyst may wish to map the major generation sites and the high voltage transmission lines. Meanwhile, for regional scale analyses, this level of detail may not suffice, and hence the analyst may seek to capture embedded generation sites, as well as the low voltage distribution networks. 
     We can create network models using Geographical Information Systems (GIS) software. Though there are numerous tools available to us for this purpose, a commonly used software is QGIS [@Graser2013], which is freely available and has a wide array of documentation. The use of QGIS for infrastructure research is common. 
 
-## Modelling: Creating a temporal representation
+# Modelling: Creating a temporal representation
 
 ![A picture containing chart Description automatically
 generated](media/image3.png){width="5.849890638670166in"
@@ -111,7 +111,7 @@ models to describe the random variables in the system (e.g. wind energy
 output). Stochastic processes are variables whose values change through
 time according to probabilistic laws (e.g. wind speed).
 
-## Modelling: Simulating the system
+# Modelling: Simulating the system
 
 After we've set up an energy network model, we are then ready to begin
 the process of *simulation*. Simulation models are a digital
@@ -151,7 +151,7 @@ short-circuit calculations [@Thurner2018]. For large system-scale
 analyses of power networks, the former approach is normally preferred to
 ensure model tractability and computational efficiency.
 
-## Risk analysis: Simulating climate hazards
+# Risk analysis: Simulating climate hazards
 
 At this stage, we are ready to simulate and understand the effects of
 climatic hazards on a given energy network. To date, studies have
@@ -180,7 +180,7 @@ within the network, we can quantify the following types of information:
 -   The **resilience** of the system. That is, how long does it take for
     the system to restore a normal level of service?
 
-## Summary 
+# Summary 
 
 This lecture has introduced the basic functions of energy systems and
 how these networks are modelled. We have shown how spatial

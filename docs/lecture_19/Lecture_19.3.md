@@ -2,9 +2,9 @@
 title: Mini-Lecture 19.3 -- National infrastructure planning units
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   National infrastructure planning units (NIPUs)
 
@@ -12,11 +12,11 @@ title: Mini-Lecture 19.3 -- National infrastructure planning units
 
 -   Case studies
 
-## Authors
+authors:
 
 -   Nicholas Chow
 
-## Short description
+---
 
 This mini-lecture introduces the ideas of national infrastructure
 planning units and how they support better decision-making in
@@ -25,7 +25,7 @@ infrastructure analyses. We also examine the values of this approach and
 two case studies which demonstrate some of the nuances unique to their
 designs.
 
-## Learning objectives 
+# Learning objectives 
 
 -   Understand the approach and value of national infrastructure
     planning units as an independent alternative to siloed
@@ -34,9 +34,9 @@ designs.
     different forms, which need to be context-specific to their
     governance setting in order to be effective.
 
-# Lecture content  {#lecture-content-1}
+  {#lecture-content-1}
 
-## The role of national infrastructure planning units
+# The role of national infrastructure planning units
 
 National infrastructure planning units (NIPUs) are governmental advisory
 bodies whose sole function is to assess and develop strategies for
@@ -72,7 +72,7 @@ The mini-lecture will be structured into the following segments:
 
 3)  Case study: UK National Infrastructure Commission.
 
-## The value of national infrastructure planning units
+# The value of national infrastructure planning units
 
 In practice, NIPUs overcome one of the common challenges faced by
 governments with siloed infrastructure management (e.g. water, energy,
@@ -104,7 +104,7 @@ of the key services that these NIPUs also provide is a central, public
 repository for infrastructure data, which enables further action among
 other governance entities as well as academia.
 
-## Case study: Infrastructure Australia
+# Case study: Infrastructure Australia
 
 Infrastructure Australia (IA) is one of the earliest examples of a NIPU,
 having been established in 2008 and strengthened in 2018. Its creation
@@ -133,7 +133,7 @@ initiatives and projects utilises and displays predominantly qualitive
 data, which allows it to easily shift with changing government
 priorities while also providing data and transparency to stakeholders.
 
-## Case study: UK National Infrastructure Commission
+# Case study: UK National Infrastructure Commission
 
 The UK NIC was created in 2015 and its mandate closely matches what
 we've established as baseline features for a NIPU --- technically-based
@@ -160,7 +160,7 @@ with the autonomy to be completely self-directed in its focus, and its
 large, publicly available database of quantitative data, NIC is seen to
 be an important and legitimate actor in the UK infrastructure space.
 
-## Summary
+# Summary
 
 In this lecture, we learned about National infrastructure planning units
 (NIPUs) which support effective governance through holistic,
@@ -189,4 +189,4 @@ the structure of NIPUs may play a useful role in developing national
 contexts by reducing the need for out-of-country experts, or at least
 ensuring sustained local capacity and knowledge building.
 
-## 
+# 

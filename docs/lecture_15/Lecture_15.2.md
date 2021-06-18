@@ -3,9 +3,9 @@ title: Mini-Lecture 15.2 -- Nature-based solutions (NbS) underpinning
   the Sustainable Development Goals (SDGs)
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Ecosystem Services
 
@@ -13,11 +13,11 @@ title: Mini-Lecture 15.2 -- Nature-based solutions (NbS) underpinning
 
 -   Sustainable Development Goals (SDGs)
 
-## Authors
+authors:
 
 -   Robyn Haggis
 
-## Short description
+---
 
 This mini-lecture introduces the concept of 'ecosystem services' and
 considers how these services link to the Sustainable Development Goals
@@ -26,7 +26,7 @@ and non-forests) can directly and indirectly influence SDG targets, and
 introduces a framework to help decision-makers understand the ways in
 which nature-based solutions (NbS) can influence development outcomes.
 
-## Learning objectives
+# Learning objectives
 
 -   Describe the concept of ecosystem services and give examples of the
     multiple ways in which nature can influence the targets of the SDGs
@@ -37,9 +37,9 @@ which nature-based solutions (NbS) can influence development outcomes.
 -   Recall how nature may provide substitutable, unique or complementary
     influences.
 
-# Lecture content  {#lecture-content-1}
+  {#lecture-content-1}
 
-## Introducing the concept of ecosystem services
+# Introducing the concept of ecosystem services
 
 Natural and semi-natural ecosystems, including grasslands, forests,
 wetlands, dune systems and reefs, provide ecosystem services which
@@ -89,7 +89,7 @@ coastal wetlands, as well as forests. Understanding this will be
 important for later on in the course, when we consider how ecosystems
 can be integrated into infrastructure systems and climate adaptation.
 
-## Nature underpinning the SDGs
+# Nature underpinning the SDGs
 
 In 2015, the United Nations established the 2030 Agenda for Sustainable
 Development with the aim of eradicating extreme poverty, reducing
@@ -138,7 +138,7 @@ Development Goals: societies, economies and the environment
 The extent to which nature can influence the SDGs can be understood
 through analysis of nature's influence on the SDG targets.
 
-## Achieving the SDGs through ecosystem services
+# Achieving the SDGs through ecosystem services
 
 Building upon the research outlined in mini-lecture 1.3, which explored
 the potential for engineered infrastructure sectors to influence the SDG
@@ -180,7 +180,7 @@ dunes; croplands; forests (not shown). Photographs from Unsplash Images
 (Photographers: Etienne Steenkamp, Nils Leonhardt, Viktoria Spokojna,
 Maria Prusik, Chantal Kemp, Devon Daniel)
 
-## A closer look at the potential for nature to influence the SDGs
+# A closer look at the potential for nature to influence the SDGs
 
 @Fuldauer2021 undertook a systematic analysis and found that natural
 environments directly influence 40 out of the 169 SDG targets (25%)
@@ -385,7 +385,7 @@ and indirect influences will be shown in Hands-on 9.
 |                                  |     such as COVID-19.            |
 +----------------------------------+----------------------------------+
 
-## Using the 'nature-SDG' tool for exploring influences
+# Using the 'nature-SDG' tool for exploring influences
 
 The study undertaken by @Fuldauer2021 has provided a granular
 identification of the links between nature and the SDGs. The tool
@@ -416,9 +416,9 @@ engineered infrastructure, which will be important for when we explore
 how NbS can be integrated into built infrastructure sectors for
 progressing on the SDGs.
 
-## 
+# 
 
-## Summary 
+# Summary 
 
 Nature directly or indirectly underpins all SDGs through the provision
 of ecosystem services. Understanding the types of influences of nature

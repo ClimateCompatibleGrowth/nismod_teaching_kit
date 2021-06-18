@@ -3,9 +3,9 @@ title: Mini-Lecture 20.1 - Summary and learning outcomes for
   infrastructure sustainability and resilience
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Infrastructure resilience
 
@@ -13,11 +13,11 @@ title: Mini-Lecture 20.1 - Summary and learning outcomes for
 
 -   Uncertainty
 
-## Authors
+authors:
 
 -   Prof Jim Hall
 
-## Short description
+---
 
 This mini-lecture draws together themes and conclusions from the whole
 course. We examine how the concepts and learning in this course factors
@@ -25,7 +25,7 @@ into decision-making about sustainable and resilient infrastructure. We
 present a generic risk management cycle and highlight the main
 challenges in decision-making, relating to valuation and uncertainty.
 
-## Learning objectives
+# Learning objectives
 
 -   Place the learnings from the previous lectures into the context of
     infrastructure decision-making
@@ -33,9 +33,9 @@ challenges in decision-making, relating to valuation and uncertainty.
     resilience
 -   Recognise the fundamental challenges of valuation and uncertainty.
 
-# Lecture content
 
-## Decision making for sustainable and resilient infrastructure
+
+# Decision making for sustainable and resilient infrastructure
 
 The materials in this course aim to improve decision-making about
 infrastructure systems. We regard infrastructure decisions as being
@@ -62,7 +62,7 @@ height="4.358397856517935in"}
 
 **Figure 20.1.1:** Iterative risk management framework [@IPCC2014]
 
-## Sustainability as the goal of infrastructure systems
+# Sustainability as the goal of infrastructure systems
 
 In Lecture 1, we examined the relationship between infrastructure
 systems and sustainability. We explained the mutual relationship between
@@ -96,7 +96,7 @@ a piece of infrastructure, or we can adopt a multi-attribute, or
 multi-objective, approach to decision-making. We have seen both versions
 of decision making in these lectures.
 
-## Where does resilience fit into decision-making?
+# Where does resilience fit into decision-making?
 
 Resilience is often cited as a desirable attribute of infrastructure
 systems. It surely is. But it seems to be a different type of attribute
@@ -128,7 +128,7 @@ this is what is quantified in a fragility curve. But we can extend risk
 analysis to incorporate the duration of disturbance, which is a function
 of emergency coping capacity.
 
-## Where do infrastructure options come from? 
+# Where do infrastructure options come from? 
 
 The focus of this course has been on analysis -- analysing performance
 of, and risks to, infrastructure systems. We have explained how to
@@ -148,7 +148,7 @@ they complement each other and compensate for each other's deficiencies.
 You will wish to consider the sequence of interventions, and how that
 sequence can be adapted, depending on uncertain future conditions.
 
-## Dealing with uncertainty
+# Dealing with uncertainty
 
 Uncertainty about what the future holds is one of the greatest
 challenges in decision-making. We think about two sources of
@@ -173,7 +173,7 @@ Good decision-making processes carefully examine future uncertainties
 and use appropriate methods for factoring these uncertainties into
 decisions.
 
-## Summary
+# Summary
 
 Infrastructure is delivered through decision-making processes. To make a
 decision, we need some options and alternatives and some goals or values

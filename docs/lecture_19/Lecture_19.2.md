@@ -3,9 +3,9 @@ title: Mini-Lecture 19.2 -- Common challenges in infrastructure
   governance
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   Enabling environment
 
@@ -13,11 +13,11 @@ title: Mini-Lecture 19.2 -- Common challenges in infrastructure
 
 -   Infrastructure development contexts
 
-## Authors
+authors:
 
 -   Nicholas Chow
 
-## Short description
+---
 
 This mini-lecture highlights important challenges in infrastructure
 governance using the framework of the enabling environment to identify
@@ -27,7 +27,7 @@ continuity, and stakeholder engagement. Succinct examples illustrate
 specific instances of enabling environment factors impacting governance
 and management of infrastructure.
 
-## Learning objectives 
+# Learning objectives 
 
 -   Define the enabling environment in the context of infrastructure
     development and governance
@@ -36,9 +36,9 @@ and management of infrastructure.
 -   Recognise the unintentional negative impacts of systems and metrics
     on effective infrastructure governance.
 
-# Lecture content  {#lecture-content-1}
+  {#lecture-content-1}
 
-## Infrastructure governance context: Enabling environment
+# Infrastructure governance context: Enabling environment
 
 Infrastructure projects are planned, financed, constructed, and operated
 in unique governance and social settings that shift over time and space.
@@ -72,7 +72,7 @@ discuss:
 
 4)  Participatory planning
 
-## Balancing regulation and enforcement
+# Balancing regulation and enforcement
 
 **Figure 19.2.2:** A simplified classification of the components of the
 enabling environment highlighting the components most relevant to
@@ -110,7 +110,7 @@ ensure reasonable compliance and safety, without unreasonable burden.
 Through this process, infrastructure actors should have the autonomy to
 flexibly meet their goals and regulatory requirements.
 
-## Transboundary governance
+# Transboundary governance
 
 **Figure 19.2.3:** A simplified classification of the components of the
 enabling environment, highlighting the components most relevant to
@@ -146,7 +146,7 @@ governance endeavours, but also demonstrates in his work that
 subnational resource conflict is a burgeoning concern for infrastructure
 that is widely unattended to.
 
-## Political continuity
+# Political continuity
 
 **Figure 19.2.4:** A simplified classification of the components of the
 enabling environment, highlighting the components most relevant to
@@ -180,7 +180,7 @@ practice, among others, has led to utilities being routinely underfunded
 [@Rozenberg2019], as customers pay rates that have stagnated in
 comparison to the cost of operations.
 
-## Participatory planning 
+# Participatory planning 
 
 **Figure 19.2.5:** A simplified classification of the components of the
 enabling environment, highlighting the components most relevant to
@@ -218,7 +218,7 @@ Cochabamba Water War, where communities protesting the increasing price
 of water effectively shut down facility operations by disrupting
 workers.
 
-## Summary 
+# Summary 
 
 In this mini-lecture, we established a simplified framework for the
 enabling environment and used that as a tool to give a brief

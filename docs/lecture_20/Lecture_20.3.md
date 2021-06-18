@@ -3,9 +3,9 @@ title: Mini-Lecture 20.3 -- Next steps for infrastructure sustainability
   and resilience
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   Sustainable infrastructure
 
@@ -13,27 +13,27 @@ title: Mini-Lecture 20.3 -- Next steps for infrastructure sustainability
 
 -   Data availability
 
-## Authors
+authors:
 
 -   Prof Jim Hall
 
-## Short description
+---
 
 This mini-lecture looks towards future innovations in infrastructure
 systems analysis, which can be expected in the coming years. We also
 consider the potential for more widespread uptake of the datasets and
 tools that have been provided in this course.
 
-## Learning objectives 
+# Learning objectives 
 
 -   Have some knowledge of future directions in infrastructure systems
     analysis
 -   Understand how technological innovation can help to promote the
     uptake of methodologies for infrastructure systems analysis.
 
-# Lecture content 
+ 
 
-## Introduction
+# Introduction
 
 This lecture series has described the state-of-the-art in infrastructure
 systems modelling. We have reviewed methods for system analysis and risk
@@ -45,7 +45,7 @@ knowledge that will not be immediately filled by technological
 innovation. Local contextual knowledge and expertise continue to be
 essential ingredients for sustainable infrastructure decision making.
 
-## Opportunities from new data sources
+# Opportunities from new data sources
 
 New data sources are revolutionising our capacity for infrastructure
 systems analysis. Three notable examples are:
@@ -77,7 +77,7 @@ expect further rapid innovations in the near future, which will continue
 to revolutionise our capacity for infrastructure systems analysis
 anywhere on Earth.
 
-## Advanced systems analysis
+# Advanced systems analysis
 
 Analysis of large complex infrastructure systems has been made possible
 thanks to increasing computing capacity. Some aspects of systems
@@ -95,7 +95,7 @@ analysis of complex systems, which is verified and validated. The move
 towards open-source code helps to ensure that systems analysis is open
 to scrutiny and widely available.
 
-## Platforms for decision support
+# Platforms for decision support
 
 Infrastructure systems analysis is being made available through decision
 support platforms. In this course we have introduced the National
@@ -116,7 +116,7 @@ data, anywhere on Earth.
 **Figure 20.3.1:** Example of the NISMOD interface for transport network
 vulnerability analysis in Argentina
 
-## Capacity building
+# Capacity building
 
 New datasets, computational tools and decision support platforms are
 providing wider access to advanced analytics to support infrastructure
@@ -134,7 +134,7 @@ these skills, but they need to understand the principles of
 infrastructure systems analysis and the relationship with
 decision-making, as described in this course.
 
-## Summary
+# Summary
 
 The aim of this course has been to promote knowledge and uptake of
 methods for infrastructure systems analysis in support of sustainable

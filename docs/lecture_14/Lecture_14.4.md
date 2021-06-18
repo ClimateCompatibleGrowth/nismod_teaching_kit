@@ -3,9 +3,9 @@ title: Mini-Lecture 14.4 - Methods and processes for good
   decision-making
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Stakeholder involvement
 
@@ -13,11 +13,11 @@ title: Mini-Lecture 14.4 - Methods and processes for good
 
 -   Adaptation pathways
 
-## Authors
+authors:
 
 -   Jasper Verschuur
 
-## Short description
+---
 
 In this lecture we will look at processes for good decision-making, and
 the various applications of bottom-up risk analysis. The stakeholders
@@ -25,16 +25,16 @@ are the central actors here, identifying critical thresholds and the
 preferred adaptation options that can then be systemically tested for
 suitability by the modeller.
 
-## Learning objectives
+# Learning objectives
 
 -   Identify the key processes of stakeholder engagement
 -   Explain what a bottom-up vulnerability analysis is
 -   Understand the need for sequential decision-making for adaptation
     purposes.
 
-# Lecture content
 
-## Introduction
+
+# Introduction
 
 In mini-lectures 14.1-14.3, we discussed the various methods of
 performing risk analyses that take a wide range of uncertainties into
@@ -71,7 +71,7 @@ do-nothing scenario in which risk will increase in the future, (b) is
 the upfront investment scenario to keep risk tolerable, and (c) is the
 periodic upgrading scenario to keep risk tolerable [@Hall2012]
 
-## Bottom-up vulnerability analysis
+# Bottom-up vulnerability analysis
 
 In the next few sections, we will look at various methods in which a
 'bottom-up' analysis is adopted to determine suitable pathways to a
@@ -104,7 +104,7 @@ non-blue areas.
 
     Figure 14.4.2: A system response surface of a reservoir in northern Italy with changes in temperature and precipitation as the critical parameters. The blue dots illustrate the conditions at which the reservoir can continue to operate [@Culley2016] 
 
-## Adaptation pathways for multiple criteria
+# Adaptation pathways for multiple criteria
 
 In the previous sections, we demonstrated the need for stakeholder
 engagement throughout the decision-making process in order to make
@@ -142,7 +142,7 @@ status quo, while the next three rows cover different adaptation
 options. The solution space is set out against changes in precipitation
 and mean river flow [@Poff2016]
 
-## Dynamic adaptation pathways
+# Dynamic adaptation pathways
 
 Apart from identifying when and if a certain failure state will be
 reached, it is important to evaluate when decisions have to be made and,
@@ -180,7 +180,7 @@ coloured lines show all possible pathways to maintain system functioning
 until 2100 without exceeding any adaptation tipping points
 [@Haasnoot2013]
 
-## Exploring long-term adaptation options
+# Exploring long-term adaptation options
 
 A similar exercise has been carried out to identify adaptation pathways
 for the city of London. Within the Thames Estuary 2100 project,
@@ -219,7 +219,7 @@ the rise in sea level by 2300 [@Hall2019]
 the best performing pathway given different sea level rise scenarios for
 2300 [@Hall2019]
 
-## Summary
+# Summary
 
 In this lecture, we looked at processes for good decision-making that
 start with the identification and involvement of all stakeholders. These

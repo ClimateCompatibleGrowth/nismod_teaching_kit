@@ -3,7 +3,7 @@ title: Mini-Lecture 16.2 -- Nature-based solutions for coastal
   protection
 ---
 
-# Metadata 
+ 
 
 **Keywords **
 
@@ -13,11 +13,11 @@ title: Mini-Lecture 16.2 -- Nature-based solutions for coastal
 
 -   Climate adaptation
 
-## Authors 
+authors: 
 
 -   Yu Mo
 
-## Short description 
+--- 
 
 This lecture provides an overview of the applications of nature-based
 solutions for coastal protection. The principles underlying such
@@ -26,16 +26,16 @@ provide flexibility and adaptation under a changing climate. Examples of
 implementing nature-based solutions for coastal protection in practice
 are presented. 
 
-## Learning objectives
+# Learning objectives
 
 -   Recognise the value of nature-based solutions for coastal protection
 
 -   Obtain a basic understanding of how nature-based solutions will
     adjust and adapt to future climate along the coast.
 
-# Lecture content  {#lecture-content-1}
+  {#lecture-content-1}
 
-## Vital coastal ecosystems 
+# Vital coastal ecosystems 
 
 Human settlements are concentrated near the coast (Figure 16.2.1). Over
 40% of the world's population lives within 100 km of the coastline
@@ -65,7 +65,7 @@ Human settlements are concentrated near the coast (Figure 16.2.1). Over
 
 ![](media/image1.emf){width="6.5in" height="2.5483748906386703in"}
 
-###  Figure 16.2.1: Global population grid in 3D[@Martino2016]
+##  Figure 16.2.1: Global population grid in 3D[@Martino2016]
 
 Various coastal ecosystems, such as coastal wetlands including mangroves
 and marshes, coral and oyster reefs, sand beaches and dunes, and
@@ -91,7 +91,7 @@ These services can be vital to coastal communities, such as food
 provision and storm protection, and to the global society, such as
 biodiversity conservation and climate mitigation. 
 
-### Figure 16.2.2: Global distribution of kelp forests, mangroves, salt marsh, and seagrass [@Krause-Jensen2018]
+## Figure 16.2.2: Global distribution of kelp forests, mangroves, salt marsh, and seagrass [@Krause-Jensen2018]
 
 This lecture will provide an overview of the applications of
 nature-based solutions in coastal protection. The principles underlying
@@ -100,7 +100,7 @@ solutions provide flexibility and adaptation under a changing climate.
 Examples of implementing nature-based solutions for coastal protection
 in practice will also be presented. 
 
-## Nature-based solutions for coastal protection 
+# Nature-based solutions for coastal protection 
 
 Under a changing climate, coastal communities are under increasing
 threats from rising sea-levels and more frequent and intense tropical
@@ -131,7 +131,7 @@ provide valuable co-benefits. Table 16.2.1 summarises the engineered and
 nature-based options for coastal protection and highlights some of the
 co-benefits of the nature-based solutions. 
 
-### Table 16.2.1: Nature-based solutions for coastal protection and their co-benefits [@Kapos2019; @WorldBank2016] 
+## Table 16.2.1: Nature-based solutions for coastal protection and their co-benefits [@Kapos2019; @WorldBank2016] 
 
 +----------------+----------------+----------------+----------------+
 | Hazards        | Hard           | Nature-based   | Co-benefits    |
@@ -295,7 +295,7 @@ Multiscale Integrated Models of Ecosystem Services (MIMES). A more
 through discussion of the tools can be found in a report by the World
 Bank [@WorldBank2016].
 
-## The flexibility and adaptation of nature-based solutions under climate change 
+# The flexibility and adaptation of nature-based solutions under climate change 
 
 As discussed above, coastal ecosystems provide protection against
 natural hazards and are able to self-adjust under different future
@@ -327,7 +327,7 @@ height="2.2in"}![The role of coastal plant communities for climate
 change mitigation and adaptation \| Nature Climate
 Change](media/image3.jpeg){width="2.9249584426946633in" height="2.2in"}
 
-### Figure 16.2.3: Key processes of vegetated coastal habitats for climate change mitigation and adaptation[@Duarte2013]. Processes that affect the capacity for climate change mitigation (CO~2~ sinks) and adaptation (shoreline protection from rising sea level) are shown for seagrass meadows (upper panel), salt marshes (middle panel) and mangrove forests (lower panel). Blue arrows indicate transport of atmospheric or dissolved material, red arrows show transport of particulates and purple arrows indicate vegetative growth.
+## Figure 16.2.3: Key processes of vegetated coastal habitats for climate change mitigation and adaptation[@Duarte2013]. Processes that affect the capacity for climate change mitigation (CO~2~ sinks) and adaptation (shoreline protection from rising sea level) are shown for seagrass meadows (upper panel), salt marshes (middle panel) and mangrove forests (lower panel). Blue arrows indicate transport of atmospheric or dissolved material, red arrows show transport of particulates and purple arrows indicate vegetative growth.
 
 However, the ability of coastal ecosystem to adjust to a changing
 climate can be impaired by anthropogenic activities, such as land
@@ -336,7 +336,7 @@ ecosystem[@Richards2016]. In order to have effective nature-based
 solutions, strategies should also account for the natural and human
 constraints in the region of interest.
 
-## Nature-based solutions for storm protection: Case study in Bangladesh
+# Nature-based solutions for storm protection: Case study in Bangladesh
 
 Bangladesh, a tropical developing country, faces high stress from
 hurricanes, but also houses the world's largest stretch of mangrove
@@ -359,7 +359,7 @@ of the coastal area. These programmes aim to:
 -   Develop suitable environments for wildlife, fish, and other
     estuarine and marine fauna.
 
-### Figure 16.2.4: Land cover maps of the Sundarban mangrove forest, obtained from Landsat image classification for (a) 1975/1977, (b) 1989, (c) 2000 and (d) 2010. Cyclone tracks of November 1970, November 1988, and that of cyclone SIDR in November 2007 are shown on classified image of 1975, 1989 and 2010 respectively [@Quader2017]
+## Figure 16.2.4: Land cover maps of the Sundarban mangrove forest, obtained from Landsat image classification for (a) 1975/1977, (b) 1989, (c) 2000 and (d) 2010. Cyclone tracks of November 1970, November 1988, and that of cyclone SIDR in November 2007 are shown on classified image of 1975, 1989 and 2010 respectively [@Quader2017]
 
 The program has achieved a certain level of success by accreting
 approximately 500km^2^ of new land in Bangladesh each year
@@ -371,7 +371,7 @@ mature enough for human settlement, people start to clear forest and
 begin living and developing shrimp farms on the new land 5 to 6 years
 after new land formation [@Iftekhar2004].
 
-## Nature-based solutions for coastal resilience: Case study in Uruguay 
+# Nature-based solutions for coastal resilience: Case study in Uruguay 
 
 Over 10 % of Uruguay's population live in the low elevation coastal zone
 [@Villamizar2016]. In 2012, Kiyú, at the Rio de la Plata's tidal
@@ -412,14 +412,14 @@ nature-based solutions and hard engineering approaches:
     and re-profiling coastal roads to allow the rainwater to enter the
     gutters.
 
-### Figure 16.2.5: Schematic representation of the beach profile (a) before, and (b) after the implementation of soft interventions. Panel (c) shows the desired near-future state, illustrating an ideal rebuilding of both beach profile and ridge of dunes [@Carro2018].
+## Figure 16.2.5: Schematic representation of the beach profile (a) before, and (b) after the implementation of soft interventions. Panel (c) shows the desired near-future state, illustrating an ideal rebuilding of both beach profile and ridge of dunes [@Carro2018].
 
 The Kiyú pilot project was implemented in 2013 and 2014. It demonstrated
 sufficient success for Uruguay to launch a second cycle of coastal
 management projects, expanding the actions along the coast of San José,
 starting 2015.
 
-## Summary {#summary-1}
+# Summary {#summary-1}
 
 Nature-based solutions provide effective coastal protection. More
 importantly, nature-based solutions offer extra flexibility and

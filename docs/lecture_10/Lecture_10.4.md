@@ -2,19 +2,19 @@
 title: Mini-Lecture 10.4 - Assessing the risk of multi-asset failure
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Multiple asset failures
 
 -   Infrastructure risk
 
-## Authors
+authors:
 
 -   Olivia Becher
 
-## Short description
+---
 
 This mini-lecture explores three different examples of how the
 likelihood and impacts of multiple infrastructure assets can be
@@ -22,7 +22,7 @@ disrupted simultaneously by large-scale hazards. The mini-lecture closes
 with a discussion on the pros and cons of applying each of these
 approaches.
 
-## Learning objectives
+# Learning objectives
 
 -   To distinguish between different approaches that can be employed to
     analyse the risks of multiple infrastructure asset failures
@@ -30,9 +30,9 @@ approaches.
 -   To be able to evaluate the pros and cons of different approaches to
     different applications.
 
-# Lecture content
 
-## Introduction
+
+# Introduction
 
 Hazards are often driven by large-scale weather processes that may
 impact multiple infrastructure assets at the same time (see mini-lecture
@@ -64,7 +64,7 @@ for the risk of multi-asset failures:
     calculate a system‐wide estimate for the risk of scour resulting in
     bridge failures [@Lamb2019].
 
-## Overview of comprehensive risk assessment for flood events
+# Overview of comprehensive risk assessment for flood events
 
 Figure 10.4.1 provides an overview of a potential methodology for
 calculating flood risk at a national scale [@Hall2003]. First, data
@@ -89,7 +89,7 @@ risks (in term of expected annual damage) across all floodplains across
 the country would be affected by the assumption of full dependence, as
 discussed in mini-lecture 10.3.
 
-## Simulation of multiple asset failures
+# Simulation of multiple asset failures
 
 @Koks2019 aim to estimate the extent of business disruptions and
 economic loss caused by electricity failures and flooding in the UK. To
@@ -119,7 +119,7 @@ the scalability of this method is limited, as it would be
 computationally inefficient to quantify the impacts of all potential
 combinations of asset failure for a larger number of assets.
 
-## Quantifying likelihood and consequence of widespread flood events
+# Quantifying likelihood and consequence of widespread flood events
 
 @Lamb2019 calculate a system‐wide estimate for the risk of bridge
 failures caused by scour in the UK, by quantifying the likelihood of
@@ -151,7 +151,7 @@ infrastructure sector (railway journeys). In the context of multiple
 types of assets and multiple, interacting infrastructure systems (water,
 electricity and transport) this would be significantly more complex.
 
-## Discussion of different approaches
+# Discussion of different approaches
 
 These examples provide an overview of different approaches for
 addressing the problem of assessing multi-failure risks.
@@ -181,7 +181,7 @@ joint-probability statistics. The consequences of the most likely
 combinations of asset failures can subsequently be examined to provide
 an estimate of risk.
 
-## Summary 
+# Summary 
 
 This mini-lecture described, evaluated and compared different ways to
 analyse the likelihood and impacts of multiple infrastructure assets

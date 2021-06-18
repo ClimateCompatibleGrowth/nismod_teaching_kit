@@ -3,21 +3,21 @@ title: Mini-Lecture 9.2 -- Modelling of transport network flows and
   service disruptions
 ---
 
-# Metadata
 
-## Keywords
 
--   ## Transport networks
+keywords:
 
--   ## Flow mapping
+-   # Transport networks
 
--   ## Flow disruptions
+-   # Flow mapping
 
-## Authors
+-   # Flow disruptions
+
+authors:
 
 -   Raghav Pant
 
-## Short description
+---
 
 This mini-lecture will cover the general principles of transport network
 flow modelling, to analyse how services are delivered. We will also look
@@ -27,16 +27,16 @@ mapping and flow simulation modelling of transport systems, as well as
 understand what kinds of disruption metrics can be created from such
 models.
 
-## Learning objectives {#learning-objectives-1}
+# Learning objectives {#learning-objectives-1}
 
 -   Identify the critical components of transport systems
 -   Define the general principles of a transport flow model in terms of
     its spatial and temporal dimensions
 -   Show how to do disruption analysis for transport networks.
 
-# Lecture content {#lecture-content-1}
+ {#lecture-content-1}
 
-## Understanding critical components of transport networks
+# Understanding critical components of transport networks
 
 When we think of transport networks, we refer to roads, railways,
 waterways (inland and maritime) and airline networks. Each of these
@@ -76,7 +76,7 @@ railway networks.
 
 **Figure 9.2.1:** Multi-scale representations of transport networks
 
-## Multi-modal transport flows
+# Multi-modal transport flows
 
     Flow modelling of transport networks means defining and solving a traffic assignment problem, whose goal is to represent the movement of vehicles (with people and goods) over space and time while considering the capacities (maximum allowable vehicles over space and times) of the underlying transport network being used. A detailed traffic assignment problem has several complex model assumptions and parameters, which are beyond the scope of this mini-lecture. The reader can learn about some of these details in @patriksson2015traffic and @jiang2019modelling.
 
@@ -115,7 +115,7 @@ and steps:
 ```
     Figure 9.2.2: Illustrative process and steps for building a transport flow assignment model. Applied in a transport risks analysis study in Viet Nam [@oh2019addressing]
 
-## Flow disruption modelling
+# Flow disruption modelling
 
 Following the modelling of transport flows, the flow disruption problem
 involves disrupting the transport network's ability to provide mobility
@@ -155,7 +155,7 @@ and demonstrated with an example in Figure 9.2.3.
 **Figure 9.2.3:** Representation of the steps and example of transport
 flow disruption modelling for a road network that is flooded
 
-## Criticality assessment of transport networks
+# Criticality assessment of transport networks
 
 Transport disruption analysis is a very useful tool for identifying the
 criticality of nodes and links in the transport network. We introduced
@@ -191,7 +191,7 @@ affected by natural hazards (flooding, landslides, cyclones) in Viet Nam
 in US\$ per day associated with roads disrupted by natural hazards in
 Viet Nam [@oh2019addressing]
 
-## Transport accessibility analysis 
+# Transport accessibility analysis 
 
 Transport networks are extremely significant in improving people's
 access to locations of importance in countries, which is critical for
@@ -225,7 +225,7 @@ via the road network in the country. The darkest colours show the
 population concentrations that have the poorest connectivity to health
 centres, making them the most vulnerable during disasters [@Pant2018]
 
-## Summary
+# Summary
 
 This mini-lecture introduced multi-modal transport systems and how these
 networks are modelled. We discussed how transport systems are spatially

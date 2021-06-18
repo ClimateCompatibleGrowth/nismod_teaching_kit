@@ -3,9 +3,9 @@ title: Mini-Lecture 8.1 -- Introduction to infrastructure risk and
   resilience
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Infrastructure systems
 
@@ -13,11 +13,11 @@ title: Mini-Lecture 8.1 -- Introduction to infrastructure risk and
 
 -   Climate adaptation
 
-## Authors
+authors:
 
 -   Prof Jim W Hall
 
-## Short description
+---
 
 This mini-lecture provides an overview of the climate challenges facing
 infrastructure systems around the world and briefly reviews the options
@@ -25,17 +25,17 @@ for adapting infrastructure systems in response to these challenges. It
 sets the scene for the analysis of climate risks to infrastructure which
 is presented in the following lectures.
 
-## Learning objectives
+# Learning objectives
 
--   ## Gain an understanding of climate risks to infrastructure systems
+-   # Gain an understanding of climate risks to infrastructure systems
 
--   ## Recall options for adapting infrastructure systems in the context of a changing climate
+-   # Recall options for adapting infrastructure systems in the context of a changing climate
 
--   ## Explain how risk analysis fits into adaptation decision-making.
+-   # Explain how risk analysis fits into adaptation decision-making.
 
-# Lecture content
 
-## Introduction
+
+# Introduction
 
 Infrastructure systems (energy, transport, digital communications, water
 and waste management) sustain civilisations. Many of these systems are
@@ -69,7 +69,7 @@ approaches and tools for assessing climate risk to infrastructure
 systems and how to make infrastructure more resilient for
 climate-compatible growth.
 
-## Types of climate risks to infrastructure systems
+# Types of climate risks to infrastructure systems
 
 Given their central importance to the functioning of economies and
 societies, networked infrastructure systems represent particular points
@@ -110,7 +110,7 @@ categorised into three predominant types of climate risks
 **Figure 8.1:** Examples of climate hazards to infrastructure sectors
 [@Hall2019; @Dawson2016]
 
-## Priorities for adapting infrastructure systems
+# Priorities for adapting infrastructure systems
 
 Decisions about adapting infrastructure assets and networks need to be
 taken at a range of different scales. Design decisions for individual
@@ -319,7 +319,7 @@ energy sub-sectors [@Hall2019]
 |                      |                      |     storage tanks    |
 +----------------------+----------------------+----------------------+
 
-## **Systemic resilience across infrastructure networks**
+# **Systemic resilience across infrastructure networks**
 
 In addition to these asset-based adaptations, it is important to look at
 the big picture of how systemic resilience can be achieved
@@ -351,7 +351,7 @@ the big picture of how systemic resilience can be achieved
     options in a range of possible futures -- which is a process that
     will yield better and more sustainable infrastructure worldwide.
 
-## Summary
+# Summary
 
 This lecture has examined the nature of climate risks to infrastructure
 systems and the options available for adapting to those risks. There are

@@ -2,9 +2,9 @@
 title: Mini-Lecture 14.1 - Actions for enhancing resilience
 ---
 
-# Metadata
 
-## **Keywords**
+
+# **Keywords**
 
 -   Interventions
 
@@ -12,27 +12,27 @@ title: Mini-Lecture 14.1 - Actions for enhancing resilience
 
 -   Disaster risk reduction
 
-## Authors
+authors:
 
 -   Jasper Verschuur
 
-## Short description
+---
 
 In this lecture we will discuss the various ways in which resilience can
 be improved through the use of targeted interventions. A distinction
 between the type of interventions and their ability to reduce risk will
 be discussed. In addition, we introduce ways to reduce systemic risk.
 
-## Learning objectives
+# Learning objectives
 
 -   Compare and contrast different types of interventions to improve
     resilience
 -   Identify how interventions can reduce risk in different ways
 -   Describe how to improve the resilience of infrastructure networks.
 
-# Lecture content
 
-## Introduction 
+
+# Introduction 
 
 In the previous lectures, it was shown that risk is increasing over time
 and will likely increase in the future due to the combined effect of
@@ -71,7 +71,7 @@ programmes and insurance.
 reforestation in front of embankments can allow reduced embankment
 height [@Jongman2018]
 
-## Risk cascade
+# Risk cascade
 
 In practice, interventions are not implemented in isolation. Often a
 portfolio of structural and non-structural interventions is designed,
@@ -102,7 +102,7 @@ combines interventions from different cascades.
 
     Figure 14.1.2: An overview of the risk cascade for integrated flood risk management [@APFM2020]
 
-## Risk layering 
+# Risk layering 
 
 The balance between different interventions within a portfolio depends
 on the local risk setting. A good way to look at this is through the
@@ -140,7 +140,7 @@ middle. It emphasises that different risk and resilience strategies need
 to be targeted for different types of events [adapted from
 @Mechler2014].
 
-## Improving network resilience: Theory
+# Improving network resilience: Theory
 
 The unique nature of infrastructure systems means that a single node
 failure has the potential to cause far-reaching systemic impacts. The
@@ -182,7 +182,7 @@ network resilience.
 centralised network towards a decentralised network
 [@Hochrainer-Stigler2020]
 
-## Improving network resilience in practice
+# Improving network resilience in practice
 
 Improving the network resilience of real-world infrastructure systems is
 often more difficult. This is because:
@@ -222,7 +222,7 @@ electricity failure; illustrating the difference between a scenario with
 backup generators to a scenario without in the United Kingdom
 [@Pant2020]
 
-## Summary 
+# Summary 
 
 In this lecture, we summarised the different types of interventions to
 improve both asset and network resilience. We discussed how different

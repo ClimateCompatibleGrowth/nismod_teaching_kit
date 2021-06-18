@@ -3,9 +3,9 @@ title: Mini-Lecture 18.4 -- Implementing, monitoring and governing
   nature-based solutions (NbS) in infrastructure projects
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   Participatory decision-making
 
@@ -13,11 +13,11 @@ title: Mini-Lecture 18.4 -- Implementing, monitoring and governing
 
 -   Adaptive management
 
-## Authors 
+authors: 
 
 -   Robyn Haggis
 
-## Short description
+---
 
 This lecture considers the importance of taking a participatory approach
 to designing, implementing and governing nature-based solutions (NbS),
@@ -26,7 +26,7 @@ need to consider timescale and take an adaptive management approach when
 developing NbS projects is discussed, along with actions to support
 scaling-up.
 
-## Learning objectives {#learning-objectives-1}
+# Learning objectives {#learning-objectives-1}
 
 -   Recall why it is important to engage local and indigenous
     communities in NbS projects
@@ -34,9 +34,9 @@ scaling-up.
     projects
 -   Explain why NbS projects should include social safeguards.
 
-# Lecture content
 
-## Participatory approach
+
+# Participatory approach
 
 Approaches to integrate NbS over the project lifecycle (planning and
 decision-making, implementation, operation and maintenance) should take
@@ -90,7 +90,7 @@ climate, hydrology, engineering, ecology, economics and social sciences
   Development partners               To help develop and finance the project
   Potential investors                Develop supportive partnerships with those who can bring financial resources (e.g. potential investors)
 
-## Setting social and environmental safeguards
+# Setting social and environmental safeguards
 
 Decision-making on NbS often involves conflicting beliefs, needs and
 values of different stakeholders, which are likely to result in social
@@ -129,7 +129,7 @@ In the event of trade-offs, mechanisms for resolution include grievance
 mechanisms, consultation obligation, right to appeal, substantive
 contracts, legal and regulatory provision.
 
-## The issue of timescale
+# The issue of timescale
 
 NbS have different timeframes for reaching full functionality and
 delivering benefits [@WorldBank2017]. These need to be considered
@@ -167,7 +167,7 @@ the full potential of NbS, in order to support uptake and scaling
 built infrastructure or other natural solutions until the chosen NbS
 reaches full potential for service delivery.
 
-## Governing and managing NbS to ensure long-term success
+# Governing and managing NbS to ensure long-term success
 
 Managing NbS under shifting social, economic, political and
 environmental conditions is challenging, particularly where land rights
@@ -212,7 +212,7 @@ NbS projects using an active management approach [@IUCN2020b]
   Effectiveness                   Monitor effectiveness of the NbS in addressing the societal challenge and other targets or objectives. If not, decide on follow-on actions.
   Development of the NbS          Monitor how the NbS and associated service functions are progressing (if according to plan, etc.,), identify opportunities to improve performance, understand response under changing conditions.
 
-## Implementing and scaling-up successful NbS
+# Implementing and scaling-up successful NbS
 
 There remains a need to contribute to new data and methods on NbS, to
 support implementation and scaling-up [@IUCN2020b]. For example,
@@ -254,7 +254,7 @@ practitioners and others in the field in planning, designing and
 implementing successful NbS projects, and will support the
 standardisation of approaches in order to help scale-up NbS globally.
 
-## Summary
+# Summary
 
 To ensure successful implementation and scaling-up of NbS projects, a
 participatory approach is required, with particular focus on engaging

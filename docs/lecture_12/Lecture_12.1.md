@@ -2,9 +2,9 @@
 title: Mini-Lecture 12.1 - What are the future challenges?
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   Climate change
 
@@ -12,11 +12,11 @@ title: Mini-Lecture 12.1 - What are the future challenges?
 
 -   Future risk
 
-## Authors
+authors:
 
 -   Jasper Verschuur
 
-## Short description
+---
 
 This lecture introduces the future challenges faced by decision-makers
 when planning long-term infrastructure projects. It describes four
@@ -24,16 +24,16 @@ drivers that can influence risk in the future: (1) climate change, (2)
 environmental change, (3) socio-economic change and (4) changes in
 societal dependencies on infrastructure.
 
-## Learning objectives 
+# Learning objectives 
 
 -   Understand how risk has changed over time
 -   Identify the different drivers of changing risk
 -   Learn what dependencies and feedbacks exist between infrastructure
     and society.
 
-# Lecture content 
+ 
 
-## Introduction 
+# Introduction 
 
 We have seen in the previous lectures that risk is defined as the
 interplay between the hazard, the population and assets that are
@@ -71,7 +71,7 @@ change in future risk:
 **Figure 12.1.1:** Global reported natural disaster by type between
 1970-2019 [@owidnaturaldisasters]
 
-## Introduction to climate change
+# Introduction to climate change
 
 We start by looking at how climate change might affect the frequency and
 magnitude of the hazards. Some hazards are more sensitive to changes in
@@ -101,7 +101,7 @@ and illustrate how to model future hazards.
 period 1960-2010, including the four hotspot areas
 [@TheIrishTimes2017]
 
-## Introduction to environmental drivers 
+# Introduction to environmental drivers 
 
 Apart from changes in the climate system that might affect the
 occurrence of natural hazards, changes in environmental factors can also
@@ -136,7 +136,7 @@ unintended consequences on the occurrence of hazards.
 **Figure 12.1.3:** The effect of deforestation on the occurrence of
 landslides in four regions worldwide [@Lehmann2019]
 
-## Introduction to socio-economic growth
+# Introduction to socio-economic growth
 
 The spatial locations of assets, and how society depends on these
 assets, determines the extent to which assets and populations are
@@ -176,7 +176,7 @@ how cities are expanding in different ways.
 **Figure 12.1.4:** The urban expansion over time for cities in Sri
 Lanka, Viet Nam, China, Bangladesh, Israel, Pakistan [@EspaceMondial]
 
-## Introduction to infrastructure dependencies 
+# Introduction to infrastructure dependencies 
 
 The aforementioned drivers of risk are mainly external drivers, meaning
 that external processes determine whether an area or asset will
@@ -202,7 +202,7 @@ result of positive feedback processes between infrastructure and
 society, which can increase the vulnerability of the dependent
 population [@DiBaldassarre2018]
 
-## Summary 
+# Summary 
 
 In this lecture, we have given a brief introduction to how risk changes
 over time and identified the four main drivers of future hazard risk.

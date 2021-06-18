@@ -3,21 +3,21 @@ title: Mini-Lecture 8.3 -- Characterising hazards and risk calculations
   for infrastructure networks
 ---
 
-# Metadata
 
-## Keywords
 
--   ## Probabilistic hazards
+keywords:
 
--   ## Loss-probability curves
+-   # Probabilistic hazards
 
--   ## Risk calculations
+-   # Loss-probability curves
 
-## Authors
+-   # Risk calculations
+
+authors:
 
 -   Raghav Pant
 
-## Short description
+---
 
 This mini-lecture introduces the theory of quantifying hazards for
 infrastructure risk analysis. The concept of loss-probability curves and
@@ -25,17 +25,17 @@ the calculations of expected risks are also discussed. The lecture
 provides some useful data sources of openly available global hazard
 maps, that are used widely in risk analysis.
 
-## Learning objectives
+# Learning objectives
 
--   ## Introduce the concept of hazard exceedance probabilities
+-   # Introduce the concept of hazard exceedance probabilities
 
--   ## Discuss the process of generating loss-probability curves
+-   # Discuss the process of generating loss-probability curves
 
--   ## Show how to calculate expected risks for discrete probabilities and losses.
+-   # Show how to calculate expected risks for discrete probabilities and losses.
 
-# Lecture content
 
-## Quantifying a hazard
+
+# Quantifying a hazard
 
 As introduced in mini-lecture 8.2, an extreme weather event only becomes
 a hazard when it causes adverse effects to exposed and vulnerable
@@ -77,7 +77,7 @@ possible extreme events:
     and possibly a hazard. This is a 1 in 1000-year return period flood
     event.
 
-## Hazard information used in practice
+# Hazard information used in practice
 
     Figure 8.3.1 shows a river flooding hazard map for Uruguay, from a global flood modelling product known as FATHOM [@wing2020toward]. River flooding occurs when the rivers overtop their banks, and the water inundates the surrounding areas. The map shows the following information:
 
@@ -103,7 +103,7 @@ possible extreme events:
 
     Figure 8.3.1: A 1 in 1000 exceedance probability river flood map for Uruguay showing areas with different flood depths in metres. Created from FATHOM data [@wing2020toward]. 
 
-## Generating loss-exceedance probability curves
+# Generating loss-exceedance probability curves
 
 A key result in risk analysis is the distribution of the vulnerability
 outcomes (losses) for different hazard events sampled from a probability
@@ -132,7 +132,7 @@ includes the following steps:
     a curve of loss vs the exceedance probability of a loss, i.e.,
     $\mathbb{P}\left\lbrack L > \overline{l} \right\rbrack$.
 
-## Risk calculations from loss-probability curves
+# Risk calculations from loss-probability curves
 
 Figures 8.3.2 shows the loss-exceedance probability curves that are
 created from the steps outlined in the previous section. These curves
@@ -159,13 +159,13 @@ $\text{EP}_{k}$ and losses $l_{k}$.
 $EAL = \ \frac{1}{2}\sum_{k = 1}^{m}{\left( \text{EP}_{k + 1} - \text{EP}_{k} \right)\left( l_{k} + l_{k + 1} \right)}$
 (2)
 
-##  
+#  
 
 **Figure 8.3.2:** Minimum and maximum daily loss vs exceedance
 probability curves for river flooding of the national road network. From
 a climate risk analysis study in Viet Nam [@oh2019addressing].
 
-## Nuances in infrastructure risk assessments 
+# Nuances in infrastructure risk assessments 
 
 The overall risk calculations and exceedance probability curves being
 done here apply to any infrastructure network risk analysis problem that
@@ -193,7 +193,7 @@ creating good network flow models. Across Lecture 9 transport, water and
 energy flow models are presented to show the nuances for each type of
 infrastructure network.
 
-## Summary {#summary-1}
+# Summary {#summary-1}
 
 In this lecture, we explained the general theory of sampling hazard
 events from hazard models. We introduced the concept of exceedance

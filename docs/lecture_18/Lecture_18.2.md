@@ -3,9 +3,9 @@ title: Mini-Lecture 18.2 - Data Requirements for implementing
   nature-based solutions (NbS)
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   Nature-based solutions
 
@@ -13,11 +13,11 @@ title: Mini-Lecture 18.2 - Data Requirements for implementing
 
 -   Landscape approach
 
-## Authors
+authors:
 
 -   Robyn Haggis
 
-## Short description
+---
 
 This lecture will discuss the importance of taking a landscape approach
 to designing and implementing projects involving nature-based solutions.
@@ -25,7 +25,7 @@ It will provide an overview of the key data requirements for developing
 solutions using nature. These include ecological, climate and
 socio-political data requirements.
 
-## Learning objectives 
+# Learning objectives 
 
 -   Describe the key data requirements for implementing NbS
 -   Recall the importance of taking a system-wide landscape approach
@@ -34,7 +34,7 @@ socio-political data requirements.
 
 #  Lecture content
 
-## Landscape approach but rooted in the local ecological and socio-economic context
+# Landscape approach but rooted in the local ecological and socio-economic context
 
 When aiming to integrate nature-based solutions (NbS), it is critical
 that planning, decision-making and actions take a systems perspective,
@@ -83,7 +83,7 @@ consequences if implemented in drought-stricken countries. Monoculture
 eucalyptus plantations also support lower biodiversity levels.
 Photograph @GlobalForestCoalition2018.
 
-## Defining the societal challenge and understanding where NbS can help to meet service needs
+# Defining the societal challenge and understanding where NbS can help to meet service needs
 
 As introduced in mini-lecture 15.1, to be considered a NbS, a solution
 using nature must be designed to address one of 7 societal challenges,
@@ -132,7 +132,7 @@ lecture, however, in practice, the exact data requirements will be
 specific to the challenge that is being addressed and to the context in
 which it is situated.
 
-## Ecological data 
+# Ecological data 
 
 A baseline assessment should be undertaken to identify the baseline
 condition of the target landscape, including ecosystem extent, condition
@@ -384,7 +384,7 @@ qualitative evidence can be gathered from:
 |                                  | s://www.unbiodiversitylab.org/). |
 +----------------------------------+----------------------------------+
 
-## Climate data
+# Climate data
 
 Present and future conditions need to be taken into account when
 determining the appropriateness of potential NbS options and their
@@ -420,7 +420,7 @@ explores risks to ecosystems, but also to ecosystems that impact the
 wider functioning of the target area (e.g. in the context of the wider
 watershed or upstream in the watercourse).
 
-## Socio-political data
+# Socio-political data
 
 NbS are specifically intended to address societal challenges, and so
 each solution should be rooted in the local socio-economic and
@@ -465,7 +465,7 @@ Relevant national and regional development strategies should also be
 consulted to identify opportunities to build on existing strategies
 through leveraging NbS.
 
-## Summary
+# Summary
 
 Planning, designing and implementing NbS must start with a system-wide
 landscape approach. This is critical given the interconnectedness of

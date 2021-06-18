@@ -3,9 +3,9 @@ title: Mini-Lecture 20.2 -- Embedding sustainability and resilience in
   infrastructure decisions
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   Decision-making
 
@@ -13,27 +13,27 @@ title: Mini-Lecture 20.2 -- Embedding sustainability and resilience in
 
 -   Planning
 
-## Authors 
+authors: 
 
 -   Prof Jim Hall
 
-## Short description
+---
 
 This mini-lecture reviews decision points in the infrastructure
 life-cycle. We briefly discuss the nature of decision-making at these
 points and review how the methodologies presented in this course can be
 factored into decision-making.
 
-## Learning objectives
+# Learning objectives
 
 -   Understand the decision-making points in the infrastructure
     life-cycle
 -   Understand how sustainability and resilience can be factored into
     these points.
 
-# Lecture content 
+ 
 
-## Introduction
+# Introduction
 
 Embedding sustainability and resilience into infrastructure systems
 requires consideration of the whole infrastructure life-cycle (as
@@ -53,7 +53,7 @@ operates as a *system*. The performance of the existing (legacy) system
 is often more important than the increment of additional functionality
 that is provided by a project.
 
-## Infrastructure planning
+# Infrastructure planning
 
 The greatest opportunities for embedding sustainability and resilience
 in decision-making is at the earliest stages in infrastructure planning.
@@ -80,7 +80,7 @@ planning processes. Setting targets based on sustainability criteria
 means that infrastructure planning will help to identify investments and
 policies that contribute to sustainability.
 
-## Infrastructure feasibility and investment project preparation
+# Infrastructure feasibility and investment project preparation
 
 Once a project has been identified as a possibility in a national
 infrastructure assessment, it needs to be developed in more detail up to
@@ -108,7 +108,7 @@ financing process. Finance institutions have their own approaches to
 embedding sustainability and climate resilience within project
 preparation.
 
-## Infrastructure project design
+# Infrastructure project design
 
 Embedding sustainability and resilience in project design is determined
 to a large extent by the Terms of Reference that are provided by the
@@ -128,7 +128,7 @@ known solutions are less uncertain. Where more experimental solutions
 are proposed, it will be necessary to emphasise on-going monitoring and
 possible adaptation in the future.
 
-## Infrastructure implementation, operation and maintenance
+# Infrastructure implementation, operation and maintenance
 
 Negative environmental and social impacts from infrastructure need to be
 managed during the construction process, though these should have been
@@ -151,7 +151,7 @@ solutions is that they can be adapted through time, and indeed NbS
 naturally adapt to changing environmental conditions. However, this
 relies upon adequate monitoring and interpretation.
 
-## Summary
+# Summary
 
 Questions of sustainability and resilience need to become embedded
 within decision-making processes. They should not be regarded as an

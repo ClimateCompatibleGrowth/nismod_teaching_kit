@@ -3,9 +3,9 @@ title: "Mini-Lecture 17.3 - Designing integrated NbS-built
   infrastructure networks: transport, energy and digital communications"
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Integrated networks and networked infrastructure
 
@@ -13,11 +13,11 @@ title: "Mini-Lecture 17.3 - Designing integrated NbS-built
 
 -   Nature-based solutions
 
-## Authors
+authors:
 
 -   Robyn Haggis
 
-## Short description 
+--- 
 
 This mini-lecture will consider the ways in which nature-based solutions
 (NbS) can be integrated into built infrastructure networks for
@@ -26,7 +26,7 @@ NbS in transport networks (water, road and rail, air), transmission
 lines (energy and digital communications) and in the energy sector more
 broadly.
 
-## Learning objectives
+# Learning objectives
 
 -   Consider how NbS can be integrated into transport networks for
     improved service delivery
@@ -36,9 +36,9 @@ broadly.
 
 -   Consider how NbS can be integrated into transmission line networks.
 
-# Lecture content
 
-## Integrating nature-based solutions in water transport networks
+
+# Integrating nature-based solutions in water transport networks
 
 While water transport infrastructure is predominantly reliant upon grey
 infrastructure, such as ports, harbours, networks of canals, etc.,
@@ -189,7 +189,7 @@ water transport services [@Hijdra2021; @VitalPorts;
 |                      |                      |     be deposited     |
 +----------------------+----------------------+----------------------+
 
-## Integrating nature-based solutions into road and rail networks
+# Integrating nature-based solutions into road and rail networks
 
 Road and rail networks have a fundamental role to play in meeting basic
 service needs, through facilitating the mobility of people and goods
@@ -234,7 +234,7 @@ project which is designing an integrated transport and ecological
 network in Europe for improved safety and biodiversity benefits
 [@EuropeanCommission2019; @Transgreen2017].
 
-## Integrating nature-based solutions into airports
+# Integrating nature-based solutions into airports
 
 Opportunities to integrate NbS into built infrastructure sectors extend
 to the air transport sector, where they can be leveraged for
@@ -281,7 +281,7 @@ and forest, which provides cooling and energy savings to the airport,
 saving the airport money whilst supporting regulation of the indoor
 microclimate. Photograph from Unsplash.
 
-## Integrating nature-based solutions into energy and digital transmission line networks
+# Integrating nature-based solutions into energy and digital transmission line networks
 
 Transmission networks provide essential services to people, through
 facilitating the transmission of electricity and communications. NbS can
@@ -321,9 +321,9 @@ transmission networks (2011-2017). It delivered additional benefits
 including pollination, carbon storage, increased amenity value
 [@EuropeanCommission2019; @LifeElia2021]. Photograph from Unsplash.
 
-## 
+# 
 
-## Integrating nature-based solutions into the energy sector
+# Integrating nature-based solutions into the energy sector
 
 While grey infrastructure solutions will continue to have a fundamental
 role in the delivery of energy services going forward, NbS can
@@ -371,7 +371,7 @@ The restoration, management or creation of new ecosystems around fixed
 energy assets can protect grey infrastructure assets and safeguard
 service delivery in a changing climate [@Semeraro2020].
 
-## Summary
+# Summary
 
 Built infrastructure networks, such as transport (road, rail, water and
 air), energy and digital communications, typically rely on grey

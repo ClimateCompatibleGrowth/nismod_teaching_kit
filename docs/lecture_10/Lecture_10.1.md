@@ -2,19 +2,19 @@
 title: Mini-Lecture 10.1 - Assessing infrastructure asset vulnerability
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Asset vulnerability
 
 -   Climate hazards
 
-## Authors
+authors:
 
 -   Olivia Becher
 
-## Short description
+---
 
 Estimating climate risks to infrastructure systems entails assessing the
 performance of infrastructure assets, individually and in combination.
@@ -22,16 +22,16 @@ This mini-lecture explores the quantification of climate risks to
 infrastructure assets in more detail. We look at the performance of the
 assets when confronted with an extreme load.
 
-## Learning objectives
+# Learning objectives
 
 -   To be able to explain the concept of asset vulnerability
 -   To be aware of the different definitions of vulnerability
 -   To recognise the difference between the sensitivity and fragility
     approaches to vulnerability assessments.
 
-# Lecture content
 
-## Introduction
+
+# Introduction
 
 As outlined in mini-Lecture 8.2, infrastructure risk is a combination of
 hazards, exposure and vulnerability. This lecture deals with the
@@ -45,7 +45,7 @@ provide an overview of the implications of the spatial footprint of
 extreme events for infrastructure risk assessments, which will be
 further explored in mini-lecture 10.4.
 
-## Defining vulnerability
+# Defining vulnerability
 
 Definitions of vulnerability in the climate change-related literature
 tend to fall into two categories: (1) biophysical vulnerability, or (2)
@@ -76,7 +76,7 @@ Report: *"Vulnerability refers to the propensity of exposed elements
 such as human beings, their livelihoods, and assets to suffer adverse
 effects when impacted by hazard events"* [@McCarthy2001].
 
-## Vulnerability functions as sensitivity
+# Vulnerability functions as sensitivity
 
 Vulnerability can be conceptualised as asset-level sensitivity, or the
 level of asset deterioration associated with a given load. Note that, in
@@ -104,7 +104,7 @@ Note that here we are referring only to direct economic damages, as
 opposed to considering indirect damages. The differences between direct
 and indirect damages are discussed in mini-lecture 11.1.
 
-## Fragility curves for measuring vulnerability 
+# Fragility curves for measuring vulnerability 
 
 Vulnerability can alternatively be conceptualised in terms of asset
 fragility*.* The fragility of an asset describes the conditional
@@ -123,7 +123,7 @@ hazard loading [@GPSS2019]
 The formalisation and applications of fragility curves for different
 kinds of assets are explored further in the following mini-lecture 10.2.
 
-## Process of calculating vulnerability using fragility curves
+# Process of calculating vulnerability using fragility curves
 
 Thus, the steps that must be taken to formalise the vulnerability of an
 asset via a sensitivity or fragility curve are as follows:

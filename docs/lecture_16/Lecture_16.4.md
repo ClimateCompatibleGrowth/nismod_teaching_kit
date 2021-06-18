@@ -2,9 +2,9 @@
 title: Mini-Lecture 16.4 - Nature-based solutions for urban cooling
 ---
 
-# Metadata 
+ 
 
-## Keywords 
+keywords: 
 
 -   Nature-based solutions
 
@@ -12,11 +12,11 @@ title: Mini-Lecture 16.4 - Nature-based solutions for urban cooling
 
 -   Natural urban cooling
 
-## Authors
+authors:
 
 -   Amelie Paszkowski
 
-## Short description
+---
 
 This mini-lecture introduces the challenges faced with increasing
 temperatures in urban areas. Different nature-based solutions that can
@@ -24,16 +24,16 @@ be used for addressing the urban heat island effect are presented. The
 mini-lecture closes with a case study where these solutions are applied
 in practice.
 
-## Learning objectives 
+# Learning objectives 
 
 -   Understand why and how the urban heat island occurs
 -   Recognise the importance of nature-based solutions in addressing
     urban heat island effects
 -   Obtain a portfolio of nature-based solutions for urban cooling
 
-# Lecture content
 
-## Introduction to the need for cooling
+
+# Introduction to the need for cooling
 
 Cities around the world are increasingly threatened by rising
 temperatures. In Europe, over 140,000 deaths have been associated with
@@ -68,7 +68,7 @@ temperatures [@Bowler2010].
 **Figure 16.4.1:** Introduction to natural solutions for heat mitigation
 in urban settings (Unsplash photograph: Jarrett Tan)
 
-## The urban heat island (UHI) effect 
+# The urban heat island (UHI) effect 
 
 Atmospheric temperature within forested or natural areas have been shown
 to be lower than that in non-green urban sites [@Bowler2010]. This is
@@ -99,7 +99,7 @@ energy-intensive. Nature-based solutions in the form of blue and/or
 green infrastructure can offer cost-effective cooling via shade and
 evapotranspiration [@Makido2019].
 
-## Nature-based solutions for UHI mitigation 
+# Nature-based solutions for UHI mitigation 
 
 The air temperature difference between natural areas and urban areas
 with less vegetation can be as much as 4°C [@Kapos2019;
@@ -132,7 +132,7 @@ sequestration and storage, improved soil fertility, pollution control,
 biodiversity conservation, tourism opportunities, and improved physical
 and mental health in urban populations [@Kapos2019].
 
-## Nature-based solutions for cooling at the building scale
+# Nature-based solutions for cooling at the building scale
 
 In many urban environments, the built form is already established,
 leaving little room for creating large new greenspaces. Green and blue
@@ -165,7 +165,7 @@ and stimulates health and well-being in the working environment.
 **Figure 16.4.5:** Indoor green wall in the David Attenborough Building,
 Cambridge, UK (photograph by author)
 
-## Case study of urban greening: Singapore
+# Case study of urban greening: Singapore
 
 Singapore is a city state with one of the highest population densities
 in the world. It is almost 100% urbanised, with a population of over 5.6
@@ -207,7 +207,7 @@ creativity and innovation behind the urban landscape design of the city.
 mitigating the urban heat island effect. Unsplash photographs by: Kirill
 Petropavlov (top) and Annie Spratt (bottom).
 
-## Summary
+# Summary
 
 This mini-lecture has introduced the challenges of rising urban
 temperatures, defined the urban heat island effect, and provided

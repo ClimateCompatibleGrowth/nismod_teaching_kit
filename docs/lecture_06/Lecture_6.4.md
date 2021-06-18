@@ -4,7 +4,7 @@ title: Mini-Lecture 6.4 -- Infrastructure strategies in practice
 
 # **Metadata**
 
-## Keywords
+keywords:
 
 -   Strategy development
 
@@ -12,18 +12,18 @@ title: Mini-Lecture 6.4 -- Infrastructure strategies in practice
 
 -   Transparency
 
-## Authors 
+authors: 
 
 -   Lena Fuldauer
 
-## Short description
+---
 
 This mini-lecture introduces different case studies of sustainable
 infrastructure strategy development, the methods used to develop
 strategies in practice, and useful tools to transparently communicate
 and describe data quality and data sources.
 
-## Learning objectives 
+# Learning objectives 
 
 -   Describe an example of an infrastructure strategy in a sector of
     your choice in practice
@@ -32,9 +32,9 @@ and describe data quality and data sources.
 -   Provide an example of a means by which to transparently communicate
     data quality in infrastructure strategy development.
 
-# Lecture content 
+ 
 
-## Introduction to sector and cross-sectoral infrastructure strategies in practice 
+# Introduction to sector and cross-sectoral infrastructure strategies in practice 
 
 This mini-lecture will introduce sector and cross-sectoral
 infrastructure strategies in practice within strategic infrastructure
@@ -80,7 +80,7 @@ efficiency with scarcity, and infrastructure-led development strategy:
 -   The infrastructure-led development is an aspirational strategy
     focused on ambitious future visions [@Ives2019].
 
-## Practical examples of sector-specific infrastructure strategies and attributes
+# Practical examples of sector-specific infrastructure strategies and attributes
 
 Focusing on the waste sector in Curaçao, different infrastructure
 strategies were developed through participatory methods, with the aim of
@@ -111,7 +111,7 @@ Development Goals (SDGs) (see Table 6.4.1)
 
     Table 6.4.1: Different waste management strategies in Curaçao, [@Fuldauer2019]
 
-## Practical examples of developing infrastructure strategies 
+# Practical examples of developing infrastructure strategies 
 
 In a practical case study in Saint Lucia, various infrastructure
 strategies have been developed using hybrid methods of both
@@ -147,9 +147,9 @@ height="5.1482874015748035in"}
 **Figure 6.4.2:** Performance of strategies on 18 SDG targets directly
 linked to the provision of infrastructure [@Adshead2021].
 
-## 
+# 
 
-## Transparency and communication in infrastructure strategy development in practice 
+# Transparency and communication in infrastructure strategy development in practice 
 
 Transparently communicating data gaps and limitations of infrastructure
 strategies is critical to providing decision-makers with the means to
@@ -194,7 +194,7 @@ attached to it (Figure 6.4.5).
 can add different interventions or investments to an infrastructure
 strategy and embed its confidence [@Fuldauer2018].
 
-## Conclusions and lessons learnt for future infrastructure strategy development 
+# Conclusions and lessons learnt for future infrastructure strategy development 
 
 This mini-lecture has outlined practical examples of infrastructure
 strategies in different developing country contexts. Whilst

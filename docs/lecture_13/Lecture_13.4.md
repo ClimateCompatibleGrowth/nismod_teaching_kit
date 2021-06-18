@@ -2,9 +2,9 @@
 title: Mini-Lecture 13.4 -- Future infrastructure needs in practice
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Infrastructure needs
 
@@ -12,13 +12,13 @@ title: Mini-Lecture 13.4 -- Future infrastructure needs in practice
 
 -   Curaçao
 
-## Authors 
+authors: 
 
 -   Lena Fuldauer
 
 -   Daniel Adshead
 
-## Short description 
+--- 
 
 This mini-lecture provides practical examples of identifying future
 infrastructure needs, based on population growth, tourism growth and
@@ -26,7 +26,7 @@ climate scenarios. Examples are taken from applications of a methodology
 to assess future infrastructure needs, usage and risk in the small
 islands of Curaçao and Saint Lucia.
 
-## Learning objectives  {#learning-objectives-1}
+# Learning objectives  {#learning-objectives-1}
 
 -   Recall an example of how population and tourism scenarios are used
     to project future infrastructure demand
@@ -35,9 +35,9 @@ islands of Curaçao and Saint Lucia.
 -   Explain how future infrastructure exposure for one asset can been
     calculated.
 
-# Lecture content 
+ 
 
-## Introduction to case study examples on future infrastructure needs
+# Introduction to case study examples on future infrastructure needs
 
 In the previous mini-lectures 13.1 -13.3, we have explored the drivers
 and ways in which we can predict the future need for infrastructure,
@@ -65,7 +65,7 @@ iii) Location-specific future infrastructure assets and related
 iv) Location-specific future infrastructure assets and their exposure to
     future hazards.
 
-## Estimating future infrastructure needs using population and tourism projections in practice
+# Estimating future infrastructure needs using population and tourism projections in practice
 
 As described in mini-lecture 13.1, future infrastructure needs can be
 estimated using changes in population or economic growth, amongst other
@@ -99,7 +99,7 @@ Various infrastructure strategies were then created (see mini-lecture
 scenario, in order to evaluate the performance of these strategies under
 the various population and economic growth scenarios [@Fuldauer2019].
 
-## Estimating future infrastructure usage using climate scenarios in practice
+# Estimating future infrastructure usage using climate scenarios in practice
 
 As described in mini-lecture 13.3, infrastructure supply and use can
 also change in the future, including due to climate change. Notably, the
@@ -138,7 +138,7 @@ loss reductions and infrastructure investments, can be a useful strategy
 to adapt to reduced chronic river runoff and associated reduced
 wastewater treatment capacity
 
-## Estimating future infrastructure needs from proposed assets in practice
+# Estimating future infrastructure needs from proposed assets in practice
 
 As described in mini-lecture 13.2, there are various ways in which
 future infrastructure needs can be identified. Such infrastructure
@@ -179,7 +179,7 @@ increased infrastructure needs from the electricity, water, wastewater
 and water sectors resulting from the relocation and expansion of the
 cargo port.
 
-## Estimating future hazard exposure from proposed infrastructure assets
+# Estimating future hazard exposure from proposed infrastructure assets
 
 In the previous section, we analysed the potential infrastructure needs
 resulting from proposed infrastructure assets. Here, we superimpose
@@ -231,7 +231,7 @@ appropriately considered. A comprehensive approach to adaptation of
 infrastructure systems as part of the overall goal of achieving
 sustainability will be essential.
 
-## Summary
+# Summary
 
 This mini-lecture provided an overview of practical examples of
 identifying future infrastructure needs, based on population growth,

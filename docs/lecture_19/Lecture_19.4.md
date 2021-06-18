@@ -2,9 +2,9 @@
 title: Mini-Lecture 19.4 -- The basics of finance in infrastructure
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   Types of finance
 
@@ -12,11 +12,11 @@ title: Mini-Lecture 19.4 -- The basics of finance in infrastructure
 
 -   Infrastructure investments
 
-## Authors
+authors:
 
 -   Nicholas Chow
 
-## Short description
+---
 
 This mini-lecture introduces the different types of infrastructure
 financing and describes their relative benefits and drawbacks. It goes
@@ -25,16 +25,16 @@ different types of financing and closes by highlighting how
 infrastructure financing changes across the lifecycle of an
 infrastructure project.
 
-## Learning objectives 
+# Learning objectives 
 
 -   Recognise the different types of infrastructure financing and
     distinguish which types of projects might attract each
 -   Understand the lifecycle of infrastructure assets and when financing
     and debt service takes place.
 
-# Lecture content  {#lecture-content-1}
+  {#lecture-content-1}
 
-## Introduction
+# Introduction
 
 Traditional economists are of the opinion that infrastructure is at the
 core of any economy, as it represents development, critical service for
@@ -67,7 +67,7 @@ covering the ideas of who finances, why they do so, and when then do so:
 >
 > \(3\) Financing across asset lifecycles.
 
-## Sources of infrastructure financing
+# Sources of infrastructure financing
 
 Financing for infrastructure projects can arise from any number of
 sources, with each type having its own benefits and drawbacks (Figure
@@ -110,7 +110,7 @@ and due to their bureaucratic nature, require oversight and contractual
 inflexibility. These funders tend to hold large technical capacity and
 expertise, and sometimes provide this in lieu of direct financing.
 
-## The attraction of infrastructure investments
+# The attraction of infrastructure investments
 
 Financiers are motivated to invest in projects that they believe can
 provide a return on investment. Examining the benefits and customers of
@@ -151,7 +151,7 @@ by infrastructure project type noting commercial projects towards the
 top and social projects towards the bottom [@Chen2017;
 @U.S.BureauofEconomicAnalysis2015]
 
-## Financing across asset lifecycles
+# Financing across asset lifecycles
 
 While the single largest cost of an asset is incurred during its use
 phase for maintenance and operations (Figure 19.4.3), early project
@@ -185,7 +185,7 @@ put towards paying back the entities that financed earlier phases of the
 project. After debt services are fully paid off, capital financing
 practices have little role to play in the asset's Disposal Phase.
 
-## Summary 
+# Summary 
 
 In this mini-lecture, we learned that infrastructure financing plays a
 crucial role in providing upfront capital costs for constructing and
@@ -220,4 +220,4 @@ infrastructure financing and should equip you to begin evaluating
 infrastructure projects, understanding the objectives of their
 financiers, and their likely cost recovery approach.
 
-## 
+# 

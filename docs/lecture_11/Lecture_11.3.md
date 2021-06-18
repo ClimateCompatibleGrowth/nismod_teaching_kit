@@ -2,35 +2,35 @@
 title: Mini-Lecture 11.3 - Calculating disruptions to end-users
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Infrastructure service disruptions
 
 -   Population affected by disruptions
 
-## Authors
+authors:
 
 -   Olivia Becher
 
-## Short description
+---
 
 This mini-lecture covers how infrastructure disruptions affect people
 who are dependent on infrastructure services. A method for calculating
 the extent of people served by infrastructure assets, and hence exposed
 to disruptions, at a large scale, is also described.
 
-## Learning objectives
+# Learning objectives
 
 -   To recognise society's direct and indirect dependence on
     infrastructure
 -   To be able to quantify the number of people affected by disruptions
     for large-scale analysis.
 
-# Lecture content
 
-## Introduction
+
+# Introduction
 
 This mini-lecture explores the extent of infrastructure disruptions in
 terms of the population affected. A widely used method for estimating
@@ -43,7 +43,7 @@ that puts these concepts into practice to understand the population
 directly and indirectly affected by flooding in the Thames catchment is
 explored.
 
-## Identifying which populations are served by infrastructure assets
+# Identifying which populations are served by infrastructure assets
 
 At large scales, data on which infrastructure assets serve which
 populations is largely unavailable. To overcome this, a technique that
@@ -101,7 +101,7 @@ the total number of people disrupted, highlighting the importance of
 understanding the behaviour of infrastructure as an interconnected
 network or system-of-systems.
 
-## Consequences for criticality analysis and decision-making
+# Consequences for criticality analysis and decision-making
 
 The populations served both directly and indirectly by individual assets
 provides an indication of the population exposed to asset failure, and
@@ -121,7 +121,7 @@ calculated by combining:
 This metric can be used to guide decision-making by prioritising the
 most 'critical' assets for improvement works.
 
-## Putting it into practice
+# Putting it into practice
 
 This was put into practice by [@Pant2018] in the Thames catchment.
 The number of domestic customers exposed to the direct flood-induced
@@ -145,7 +145,7 @@ Disruptions to infrastructure services not only affect people, but also
 affect various economic activities. This will be explored in the
 following section.
 
-## Summary 
+# Summary 
 
 This mini-lecture discusses the disruptions that infrastructure failures
 impose on dependent populations. You should now recognise society's

@@ -2,9 +2,9 @@
 title: Mini-Lecture 14.3 -- Decision-making under uncertainty
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   Uncertainty
 
@@ -12,11 +12,11 @@ title: Mini-Lecture 14.3 -- Decision-making under uncertainty
 
 -   Multi-objective planning
 
-## Authors 
+authors: 
 
 -   Aman Majid
 
-## Short description
+---
 
 This lecture introduces decision theory under conditions of imperfect or
 incomplete information. We will cover how to define and categorise
@@ -24,7 +24,7 @@ uncertainties relevant to specific decision problems. After introducing
 the basic components of frameworks within decision theory under
 uncertainty, we will run through an illustrative example.
 
-## Learning objectives
+# Learning objectives
 
 -   Be able to define and categorise uncertainties
 -   Understand the tenets of frameworks within decision theory under
@@ -32,9 +32,9 @@ uncertainty, we will run through an illustrative example.
 -   Recognise the importance of robustness within decision-making
     frameworks.
 
-# Lecture content
 
-## Uncertainty and decision-making
+
+# Uncertainty and decision-making
 
 Making decisions about infrastructure and environmental systems
 necessitates a process to anticipate and manage change. Nowadays this
@@ -58,7 +58,7 @@ choices based on imperfect or incomplete information. It has come to be
 recognised as an important aspect in planning and managing
 infrastructure systems.
 
-## Types of uncertainty
+# Types of uncertainty
 
 In order for us to manage uncertainty when making decisions, it is
 important to first identify the types of uncertainties that we are
@@ -91,7 +91,7 @@ In any case, the first step in dealing with uncertainties is to list and
 categorise each uncertainty relevant to a decision problem. This allows
 us to define the best approach to handle the given uncertainty.
 
-## Dealing with uncertainty
+# Dealing with uncertainty
 
 Recent times have witnessed a proliferation in the number of
 methodologies developed for decision-making under uncertainty. The most
@@ -123,7 +123,7 @@ Rather, it is argued that decision-makers ought to go beyond this frame
 of thinking to identify robust solutions, which can perform acceptably
 under numerous possible states of the world.
 
-## Robust decision-making: An example (part I)
+# Robust decision-making: An example (part I)
 
 Let us illustrate decision theory under uncertain conditions through an
 example. Building on the contents of mini-lecture 14.2, consider a
@@ -166,7 +166,7 @@ such models is widespread in infrastructure planning and management.
 **Figure 14.3.3**: An example simulation model constructed for the
 Thames basin, England, using the WATHNET platform
 
-## Robust decision-making: An example (part II)
+# Robust decision-making: An example (part II)
 
 Once we have constructed a system model and formulated a set of
 uncertainties and options, we can begin conducting vast number of
@@ -203,7 +203,7 @@ investigation that meet their risk thresholds with regards to the three
 objectives. In this example, the solutions circled in yellow and red
 were analysed further.
 
-## Summary
+# Summary
 
 Making decisions under uncertainty is an inherent part of infrastructure
 planning. Whilst it is nearly impossible for us to gain perfect

@@ -3,19 +3,19 @@ title: Mini-Lecture 11.1 - Introduction to calculating damage and
   disruption
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Direct and indirect damages
 
 -   Infrastructure service disruptions
 
-## Authors
+authors:
 
 -   Olivia Becher
 
-## Short description
+---
 
 This mini-lecture provides an overview of the full range of impacts of
 infrastructure disruptions. First, the difference between direct and
@@ -23,7 +23,7 @@ indirect consequences of infrastructure disruption is discussed,
 followed by the potential impacts of infrastructure disruptions to
 people and the economy.
 
-## Learning objectives
+# Learning objectives
 
 -   To recognise that infrastructure failures may propagate to affect
     other infrastructure assets, dependent populations and the economy
@@ -31,9 +31,9 @@ people and the economy.
     infrastructure failures, as well as disruptions to people and the
     economy, for risk analysis.
 
-# Lecture content
 
-## Introduction
+
+# Introduction
 
 Infrastructure is vulnerable to climate hazards such as flooding.
 Depending on the severity of the hazard and the vulnerability of an
@@ -74,7 +74,7 @@ The following sections will introduce the key concepts that are
 important for understanding the full range of disruptions caused by
 infrastructure failures.
 
-## Direct damages - recap
+# Direct damages - recap
 
 Direct damage to infrastructure is defined as the physical stock damaged
 during an extreme event, such as flooding. Different infrastructures
@@ -104,7 +104,7 @@ form a basis for decision-making. However, this calculation does not
 account for the indirect impacts of infrastructure assets on other
 infrastructure systems.
 
-## Indirect damages
+# Indirect damages
 
 Infrastructure systems are interconnected, and can thus be
 conceptualised as a system of interconnected systems, or a
@@ -129,7 +129,7 @@ Indirect damages may significantly contribute to the overall damages
 incurred during an extreme event, and may even outweigh the direct
 damages incurred. This will be discussed further in mini-lecture 11.2.
 
-## Disruptions to people
+# Disruptions to people
 
 Society is dependent on the basic services provided by infrastructure
 systems such as electricity, water and transport. The criticality of
@@ -163,7 +163,7 @@ dependent populations and how the complex relationship between
 infrastructure assets will determine the extent of a disruption
 [@Pant2018]
 
-## Disruptions to the economy
+# Disruptions to the economy
 
 Various economic activities are also affected by disruptions to
 infrastructure services.
@@ -183,7 +183,7 @@ The wider economic impacts of infrastructure disruptions are important
 to understand for decision-making. This will be discussed in
 mini-lecture 11.4.
 
-## Summary
+# Summary
 
 The mini-lecture provided an overview of the multiple outcomes of
 infrastructure failures on other infrastructure assets, to dependent

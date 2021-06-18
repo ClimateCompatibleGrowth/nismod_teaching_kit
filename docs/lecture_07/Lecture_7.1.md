@@ -3,9 +3,9 @@ title: Mini-Lecture 7.1 -- Key considerations for infrastructure
   decision-making
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Stakeholders
 
@@ -13,23 +13,23 @@ title: Mini-Lecture 7.1 -- Key considerations for infrastructure
 
 -   Uncertainty
 
-## Authors 
+authors: 
 
 -   Orlando Roman
 
-## Short description
+---
 
 In this mini-lecture we will describe the main considerations and
 challenges of making decisions for infrastructure planning.
 
-## Learning objectives 
+# Learning objectives 
 
 -   List key considerations for infrastructure decision-making
 -   Explain why each of them are important.
 
-# Lecture content
 
-## Overview of performance evaluation
+
+# Overview of performance evaluation
 
 Following previous lectures, we are already able to:
 
@@ -52,7 +52,7 @@ is not an easy task. Infrastructure, as a high-cost long-lived asset,
 needs to take into account a variety of factors, scenarios, objectives,
 stakeholders and interdependencies with other sectors.
 
-## Multiple objectives
+# Multiple objectives
 
 Infrastructure systems don't only provide basic needs, they also
 facilitate economic growth and social well-being. Additionally, these
@@ -88,7 +88,7 @@ planners are expected to consider climate mitigation objectives while
 developing a reliable and cost effective energy system
 [@Bhardwaj2019].
 
-## Interdependencies between infrastructure sectors
+# Interdependencies between infrastructure sectors
 
     Each infrastructure sector is a multifaceted socio-technical system, that contains a complex web of interconnections. Given the increased recognition of the need to take a more integrated view of infrastructure, many studies have evaluated infrastructure networks by analysing interdependencies between sectors such as the expanding body of research on the water-energy nexus [@Hamiche2016; @Artioli2017]. An example of interdependent infrastructure networks is shown in Figure 7.1.2. In the figure you can see schematic interactions between infrastructure sectors and with societal and financial networks. The interactions are differentiated as intra-network (within the same sector), inter-network and human-centric communication.
 
@@ -100,7 +100,7 @@ height="4.19200021872266in"}
     Some system interdependencies can be found between the energy and water sectors, mainly through hydropower plants (which generate water and energy at the same time), and the important amount of energy needed for water treatment and desalination. Interdependencies between the energy and transportation sectors are the fossil fuels used for vehicles and the increasing electrification of transport. Finally, interdependencies between waste and energy are the so-called waste-to-energy projects such as incinerators or anaerobic digesters as well as the methane collection in landfills.
     Some direct interdependencies between sectors were described, but it is important to identify other types of indirect dependencies. For instance, if infrastructure is planned centrally, one common budget might be distributed for different sectors, therefore the budget spent in one sector might affect another. On the demand side, a demand-management strategy such as increasing environmental awareness can have an impact on all sectors and can be considered a cross-sectoral intervention.
 
-## Uncertainty on infrastructure forecasts
+# Uncertainty on infrastructure forecasts
 
 As seen in Lecture 4, infrastructure drivers are used to predict future
 demand. However, the longer the planning timeframe, the more uncertain
@@ -138,7 +138,7 @@ used:
     decisions in the present, and propose adaptive approaches through
     time.
 
-## Multiple stakeholders
+# Multiple stakeholders
 
 Given that infrastructure is costly and its impacts are widespread,
 infrastructure decisions are usually taken by a group of stakeholders.
@@ -166,7 +166,7 @@ height="4.746358267716535in"}
 **Figure 7.1.4:** A framework for the participatory decision-making
 process [@LePira2015]
 
-## Summary
+# Summary
 
 In this mini-lecture we reviewed key considerations for infrastructure
 decision-making. Infrastructure normally has multiple objectives,

@@ -2,9 +2,9 @@
 title: Mini-Lecture 8.2 -- Key concepts and definitions
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Infrastructure networks
 
@@ -12,28 +12,28 @@ title: Mini-Lecture 8.2 -- Key concepts and definitions
 
 -   Resilience
 
-## Authors
+authors:
 
 -   Raghav Pant
 
-## Short description
+---
 
 This mini-lecture introduces the concept of infrastructure networks. It
 also lists the definitions of hazards, exposures and vulnerabilities in
 a general context and within the context of infrastructures. The concept
 of infrastructure resilience is also introduced in the lecture.
 
-## Learning objectives
+# Learning objectives
 
--   ## Explain the definition and concept of an infrastructure
+-   # Explain the definition and concept of an infrastructure
 
--   ## Define and conceptualise infrastructure risk as a combination of hazard, vulnerability and exposure, showing the role of networks in risk propagations
+-   # Define and conceptualise infrastructure risk as a combination of hazard, vulnerability and exposure, showing the role of networks in risk propagations
 
--   ## Explain the relevant definitions in understanding infrastructure resilience.
+-   # Explain the relevant definitions in understanding infrastructure resilience.
 
-# Lecture content
 
-## Understanding infrastructure networks
+
+# Understanding infrastructure networks
 
 This lecture specifically looks at the infrastructures included within
 energy, transport, water, waste, and telecommunications sectors.
@@ -75,7 +75,7 @@ height="3.3789009186351704in"}
 hierarchical infrastructure networks connected to customers and the
 economy [@THACKER201730]
 
-## The notion of hazard exposures, vulnerabilities and risks
+# The notion of hazard exposures, vulnerabilities and risks
 
     Critical infrastructures are exposed to hazards, which introduce vulnerabilities and risks to such systems. We first provide some definitions here, relevant to developing our understanding of infrastructure risks. All definitions are from the Intergovernmental Panel on Climate Change (IPCC)[@field2014climate].
 
@@ -94,7 +94,7 @@ economy [@THACKER201730]
 
     Figure 8.2.2: Conceptualising infrastructure risks as a combination of hazard, exposures and vulnerabilities
 
-## Conceptualising infrastructure layers 
+# Conceptualising infrastructure layers 
 
 Broadly, all infrastructure networks can be conceptualised as
 collections of three types of layers [@THACKER201730;
@@ -120,7 +120,7 @@ layers might serve as source, intermediate and sink -- for example,
 transport layers are all sources (origins), intermediates and sinks
 (destinations) to facilitate journeys for people and goods.
 
-## Cascading risks through the infrastructure network
+# Cascading risks through the infrastructure network
 
 Due to the multi-scale hierarchical structures of infrastructure
 networks, hazards affect them at multiple locations and scales. The
@@ -149,7 +149,7 @@ electricity substation.
 disruption propagation effects seen in multi-scale hierarchical
 structures of infrastructure networks [@pant2018critical]
 
-## Infrastructure resilience
+# Infrastructure resilience
 
 To protect against or diminish risks, infrastructure should be
 resilient. There are many interpretations and definitions on resilience
@@ -194,7 +194,7 @@ height="3.2670702099737534in"}
 states of service levels during a disruption and resilient recovery
 [@PANT2014183]
 
-## Summary
+# Summary
 
 In this lecture, we introduced the concept of infrastructure networks.
 We showed how infrastructures exist as interdependent multi-scale

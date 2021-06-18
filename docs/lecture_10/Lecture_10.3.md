@@ -2,19 +2,19 @@
 title: Mini-Lecture 10.3 - Infrastructure systems reliability analysis
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Spatial dependence
 
 -   Widespread damages
 
-## Authors
+authors:
 
 -   Olivia Becher
 
-## Short description
+---
 
 This mini-lecture discusses the limitations of the traditional approach
 for calculating the exposure of infrastructure to natural hazards, using
@@ -22,7 +22,7 @@ return period maps. This is followed by a comparison between the
 traditional approach and two alternative approaches for quantifying the
 exposure of infrastructure to natural hazards.
 
-## Learning objectives
+# Learning objectives
 
 -   To recognise that hazards do not only incur damages locally but are
     associated with a spatial footprint which may incur widespread
@@ -32,9 +32,9 @@ exposure of infrastructure to natural hazards.
     independence and partial dependence for aggregating risk analysis at
     multiple asset locations.
 
-# Lecture content
 
-## Introduction
+
+# Introduction
 
 Given that many hazards are driven by large-scale weather systems, if
 one location or infrastructure asset is affected by an extreme event, it
@@ -60,7 +60,7 @@ locations is of particular interest for stakeholders that are interested
 in conducting risk assessments at a large-scale, including governments,
 insurance providers and planners.
 
-## Spatial footprint of flood events
+# Spatial footprint of flood events
 
 Figure 10.3.1 shows three flooding events that occurred in the UK, where
 discs represent how extreme the streamflow recorded at each gauging
@@ -80,7 +80,7 @@ occurred in the UK, where discs represent how extreme the streamflow
 recorded at each gauging station was relative to the historical record
 at each gauge [@Towe2018]
 
-## Quantifying the spatial dependence between infrastructure damages
+# Quantifying the spatial dependence between infrastructure damages
 
 To quantify the risk of flood-induced damage occurring at multiple
 locations simultaneously, it is necessary to quantify the spatial
@@ -99,7 +99,7 @@ losses at multiple assets.
 calculating the spatial dependency between flood damages at multiple
 locations [@Lamb2010]
 
-## Comparison between approaches for measuring spatial dependencies
+# Comparison between approaches for measuring spatial dependencies
 
 Thus, hazards, and hazard-induced damages, have a complex spatial
 pattern and are spatially and temporally connected. However, in risk
@@ -137,7 +137,7 @@ dependence; the blue curve represents the assumptions of complete
 independence; and the black curve represents the true nature of
 dependence between river flows [@Towe2018].
 
-## Implications of spatial dependence for risk assessments
+# Implications of spatial dependence for risk assessments
 
 How we analyse the systemic risks posed by hazards is important for
 insurance and risk analysis undertaken at the asset level in the context
@@ -166,7 +166,7 @@ events.
 The next lecture explores how disruptions propagate through
 infrastructure systems in detail.
 
-## Summary
+# Summary
 
 This mini-lecture discussed the limitations of not accounting for the
 spatial dependence between extremes for risk analysis. You should now be

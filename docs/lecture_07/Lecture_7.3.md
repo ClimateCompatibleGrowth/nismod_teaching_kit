@@ -2,9 +2,9 @@
 title: Mini-Lecture 7.3 -- Methods for decision making under uncertainty
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   Decision making under deep uncertainty
 
@@ -12,24 +12,24 @@ title: Mini-Lecture 7.3 -- Methods for decision making under uncertainty
 
 -   Adaptive planning
 
-## Authors
+authors:
 
 -   Orlando Roman
 
-## Short description
+---
 
 In this mini-lecture we will describe the most classical methods for
 decision-making under deep uncertainty (DMDU), looking at their
 applicability and differences.
 
-## Learning objectives 
+# Learning objectives 
 
 -   List and describe some DMDU methods
 -   Explain when a particular method is preferred.
 
-# Lecture content 
+ 
 
-## Introduction
+# Introduction
 
 One typical approach to address uncertain problems is through the
 evaluation of scenarios as explorations of plausible futures, where
@@ -61,7 +61,7 @@ the deliberative process of decision-making in a systematised fashion,
 thus reducing possible biases. The most commonly used methods will be
 described in this mini-lecture.
 
-## Exploratory analysis
+# Exploratory analysis
 
 One of the first decision-making under deep uncertainty (DMDU) tools,
 and the basis of the most recent approaches, is the so-called
@@ -93,7 +93,7 @@ the analysis is to find regions of sensitivity, grouping and
 classification of future states or optimisation of strategies under
 uncertainty.
 
-## Robust decision-making (RDM)
+# Robust decision-making (RDM)
 
 Robust decision-making (RDM) is a method that uses analytics to perform
 an exploratory model allowing the evaluation of hundreds of alternative
@@ -137,7 +137,7 @@ Figure 7.3.2 shows the steps of the process:
 The RDM method allows iteration and learning in each round of analysis
 until a satisfactory robust strategy is found.
 
-## Real/engineering options analysis
+# Real/engineering options analysis
 
 The previous methods exploit concepts such as the exploration of futures
 and robustness. In contrast, Real Options Analysis [@deNeufville2011]
@@ -168,7 +168,7 @@ height="3.330074365704287in"}
 **Figure 7.3.3:** Distribution of desalination capacity added over 1,000
 simulations [@Fletcher2019]
 
-## Dynamic Adaptive Planning
+# Dynamic Adaptive Planning
 
 The RDM and Real Options methods can be complemented very well with the
 dynamic adaptive approach [@Kwakkel2016]. While the RDM method allows
@@ -201,7 +201,7 @@ flexibility that allows adaptation over time to other, better
 strategies. In practice, the estimation of tipping points or adaptation
 triggers is not easy but can be obtained [@Hall2019].
 
-## Summary 
+# Summary 
 
 In this mini-lecture we explained the need of more sophisticated methods
 when facing complex systems and a huge range of possible scenarios. Then

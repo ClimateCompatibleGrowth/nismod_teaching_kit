@@ -3,21 +3,21 @@ title: Mini-Lecture 8.4 -- Hazard exposure and vulnerability analysis in
   practice for high-level decision-making
 ---
 
-# Metadata
 
-## Keywords
 
--   ## Flood maps
+keywords:
 
--   ## Road networks
+-   # Flood maps
 
--   ## Flood vulnerabilities
+-   # Road networks
 
-## Authors
+-   # Flood vulnerabilities
+
+authors:
 
 -   Raghav Pant
 
-## Short description
+---
 
 This mini-lecture introduces some basic understanding of how hazard
 information is spatially combined with infrastructure network
@@ -26,18 +26,18 @@ flooding over a road network in Uruguay, we look at a very simple case
 of generating useful exposure and vulnerability outcomes of hazard
 network intersections.
 
-## Learning objectives
+# Learning objectives
 
--   ## Show exposure analysis with a road network layer and a flood hazard layer
+-   # Show exposure analysis with a road network layer and a flood hazard layer
 
--   ## Measure network vulnerabilities
+-   # Measure network vulnerabilities
 
 -   Highlight vulnerable network locations (hotspots) at the national
     scale.
 
-# Lecture content 
+ 
 
-## Road network exposure analysis
+# Road network exposure analysis
 
 In mini-lecture 8.3, we introduced the concept of exceedance probability
 maps and how they are used in estimating infrastructure network risks.
@@ -55,7 +55,7 @@ Figure 8.4.1).
 **Figure 8.4.1:** Spatial representation of the national road network in
 Uruguay showing the average daily vehicle counts along different roads
 
-## Hazards and network overlays
+# Hazards and network overlays
 
 We infer the potential exposure and vulnerability of infrastructure
 networks by spatially intersecting them with hazard maps. As shown in
@@ -73,7 +73,7 @@ programming language, which are covered in the Hands-on sessions 5 and
 **Figure 8.4.2:** Overlaying a 1 in 1000 flood hazard map with a road
 network and identifying locations of flood exposures
 
-## Exposures and vulnerability metrics
+# Exposures and vulnerability metrics
 
 As a single road could be exposed to flooding over several sections and
 many flood depths, we can estimate the total length of flooding and
@@ -96,7 +96,7 @@ this road (daily total traffic -- tpda, numbers of automobiles -- auto,
 numbers of buses -- bus) (Figure generated in QGIS software
 [@QGIS_software])
 
-## Identifying locations of vulnerabilities at national scales
+# Identifying locations of vulnerabilities at national scales
 
 A simple way of identifying the most critical roads in the country is to
 look at the roads with the highest lengths or percentages of flood
@@ -131,7 +131,7 @@ terms of their exposures and potential traffic counts disrupted due to a
 1 in 1000-year return period river flood at different locations in the
 country. The selected locations all have flood depths \> 1metre
 
-## Limitations and further analysis steps
+# Limitations and further analysis steps
 
 The approach we have presented in this lecture is a very simplistic way
 of screening potential vulnerable locations on networks and identifying
@@ -165,7 +165,7 @@ here for the reader to understand what to look forward to:
     more complete picture of vulnerabilities and risks. This is
     discussed across Lecture 11 and Hands-on 6.
 
-## Summary {#summary-1}
+# Summary {#summary-1}
 
 In this mini-lecture we demonstrated a very simplistic hazard exposure
 and vulnerability analysis. We used a river flooding exceedance

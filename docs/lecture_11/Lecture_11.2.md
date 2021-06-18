@@ -3,9 +3,9 @@ title: Mini-Lecture 11.2 - Calculating direct asset damage and
   interruptions to network flows
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Direct damages
 
@@ -13,27 +13,27 @@ title: Mini-Lecture 11.2 - Calculating direct asset damage and
 
 -   Damage assessment for transport sector
 
-## Authors
+authors:
 
 -   Olivia Becher
 
-## Short description
+---
 
 This mini-lecture discusses the difference between direct and indirect
 consequences of infrastructure failure. The case of the transport sector
 is used to illustrate the differences between direct and indirect damage
 assessments for infrastructure.
 
-## Learning objectives
+# Learning objectives
 
 -   Conceptually understand the difference between direct and indirect
     infrastructure damages
 -   Be able to calculate direct and indirect damages for the transport
     sector.
 
-# Lecture content
 
-## Introduction
+
+# Introduction
 
 Traditionally, infrastructure risk assessments conducted by engineers,
 insurers or government would only account for direct damages. However,
@@ -45,7 +45,7 @@ damage assessment. Direct and indirect impacts will be discussed in turn
 from a conceptual standpoint, before exploring the difference in more
 depth for the transport sector.
 
-## Direct damages: a function of exposure and vulnerability
+# Direct damages: a function of exposure and vulnerability
 
 To quantify the direct damages to infrastructure, physical hazard
 exposure analyses are overlaid with fragility or vulnerability
@@ -70,7 +70,7 @@ railway assets are exposed to a 1 in 100-year flood event.
 **Figure 11.2.1:** Global multi-hazard transport infrastructure exposure
 [@Koks2019]
 
-## Indirect damages: a function of the strength of connection between infrastructure sectors
+# Indirect damages: a function of the strength of connection between infrastructure sectors
 
 While direct damages help understand the extent of physical stock of
 assets that are at risk, they provide an incomplete picture about the
@@ -99,7 +99,7 @@ This clearly also has implications for our understanding of the extent
 of disruption to end-users and dependent economic activities, which will
 be discussed in the subsequent mini-lecture (11.3).
 
-## Indirect impacts of transport sector disruptions
+# Indirect impacts of transport sector disruptions
 
 In the transport sector, calculating the direct consequence of natural
 hazards would simply involve calculating the economic cost of repairing
@@ -127,7 +127,7 @@ would have to be rerouted during a flood, and hence how the costs of the
 flood damage go beyond the cost of reconstructing the section of road
 that is directly affected [@Hall2019]
 
-## Transport sector indirect damage assessment case study: Tanzania
+# Transport sector indirect damage assessment case study: Tanzania
 
 The cost of rerouting the flow of freight under scenarios of present and
 future flooding was quantified by @Pant2018b in Tanzania. Figure 11.2.4
@@ -151,7 +151,7 @@ Both direct and indirect consequences of infrastructure failure affect
 society. The next section explores how the extent of disruptions to
 people can be quantified.
 
-## Summary
+# Summary
 
 This lecture provides a comparison between direct and indirect
 infrastructure damages, using the transport sector as an in-depth case

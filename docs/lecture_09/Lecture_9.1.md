@@ -3,9 +3,9 @@ title: Mini-Lecture 9.1 - Introduction to infrastructure services and
   infrastructure modelling
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Infrastructure modelling
 
@@ -13,11 +13,11 @@ title: Mini-Lecture 9.1 - Introduction to infrastructure services and
 
 -   Geospatial data
 
-## Authors
+authors:
 
 -   Sarah Gall
 
-## Short description
+---
 
 This mini-lecture gives an introduction to the overall lecture
 "Modelling infrastructure assets". First, we'll discuss what insights we
@@ -28,7 +28,7 @@ geospatial data for infrastructure modelling is given. This mini-lecture
 provides the basic knowledge, which is then applied to the energy, water
 and transport sectors in the following mini-lectures.
 
-## Learning objectives
+# Learning objectives
 
 -   To be able to explain why we model infrastructure
 -   To understand which services infrastructure provides and what their
@@ -36,9 +36,9 @@ and transport sectors in the following mini-lectures.
 -   To have a basic understanding on what geospatial data is and where
     datasets for infrastructure modelling can be found.
 
-# Lecture content
 
-## Introduction to infrastructure modelling
+
+# Introduction to infrastructure modelling
 
 In this lecture we'll give an overview of how to model infrastructure
 networks and take a closer look at applications in the water, energy and
@@ -63,7 +63,7 @@ It shows the "National Infrastructure Systems Model" (NISMOD) which was
 designed by the UK Infrastructure Transitions Research Consortium (ITRC)
 to inform infrastructure assessment on a national level [@Hall2016].
 
-## Infrastructure services
+# Infrastructure services
 
 In the previous lectures (such as mini-lectures 4.1, 4.2, 8.1 and 8.2)
 we have discussed different aspects of infrastructure. Before we start
@@ -94,7 +94,7 @@ with services around the removal, treatment and recovery of solid waste
 and wastewater. Lastly, communication services enable the exchange and
 computation of information and data. [@Hall2016]
 
-## Spatial relations between infrastructure and society
+# Spatial relations between infrastructure and society
 
     For infrastructure modelling it is important to get an understanding of the spatial aspect of infrastructure systems and services. From now on, we will focus on the water, energy and transport sector. All three sectors are based on assets that form infrastructure networks covering a region or an entire country. 
 
@@ -125,7 +125,7 @@ can be done, assessing the accessibility of certain points within the
 transport network and the amount of passenger or freight transport
 that's affected by a malfunction.
 
-## Introduction to geospatial data for infrastructure modelling
+# Introduction to geospatial data for infrastructure modelling
 
 As we've seen in the previous section, the spatial aspect is crucial
 when looking at infrastructure networks and their service provision.
@@ -164,7 +164,7 @@ Catalog. Under the section "geospatial data" you can find all kinds of
 spatial datasets. In Hands-on 5, you will learn how to download data
 from Open Street Map and other data providers.
 
-## Conclusion and outlook
+# Conclusion and outlook
 
 Now you know more about the service provision of infrastructure networks
 and its spatial component. Additionally, you have learnt how to
@@ -180,7 +180,7 @@ those. In Hands-on 5 you will learn more about how to work with some of
 the software you were just introduced to and you'll get the chance to
 work with some geospatial data.
 
-## Summary
+# Summary
 
 This mini-lecture introduces infrastructure modelling. First, we've
 discussed why we want to model infrastructure and what insights we can

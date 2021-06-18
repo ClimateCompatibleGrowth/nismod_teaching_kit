@@ -2,9 +2,9 @@
 title: Mini-Lecture 6.1 - An introduction to infrastructure strategies
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   Strategic alternatives
 
@@ -12,11 +12,11 @@ title: Mini-Lecture 6.1 - An introduction to infrastructure strategies
 
 -   Sustainable Infrastructure Vision
 
-## Authors 
+authors: 
 
 -   Lena Fuldauer
 
-## Short description 
+--- 
 
 This mini-lecture introduces the concept of future infrastructure
 strategies, lists examples of real-world strategies for different
@@ -24,16 +24,16 @@ sectors, as well as cross-sectoral strategies, and describes how
 attribute information can be added to different strategies to enable
 their comparison.
 
-## Learning objectives 
+# Learning objectives 
 
 -   Describe what infrastructure strategies are
 -   Provide real world examples of infrastructure strategies for more
     than two sectors
 -   Recall how to add attribute information to each strategy.
 
-# Lecture content 
+ 
 
-## What are infrastructure strategies?
+# What are infrastructure strategies?
 
 This mini-lecture will introduce:
 
@@ -63,7 +63,7 @@ necessary to achieve certain sustainability or climate targets. Taken
 together, these interventions form 'strategies', and in essence are a
 set of future investment plans.
 
-## Importance of strategic planning for infrastructure systems
+# Importance of strategic planning for infrastructure systems
 
 Strategic planning of infrastructure for sustainable development is a
 grand challenge. To date, most infrastructure development projects have
@@ -96,7 +96,7 @@ monitoring of strategies [@Sachs2019]. Ideally, the process of
 infrastructure strategy planning and visioning can itself contribute to
 sustainable development [@Fuldauer2019].
 
-## Real-world infrastructure strategies in practice
+# Real-world infrastructure strategies in practice
 
 Example strategies might include a development-aligned strategy, which
 includes ambitious investments to meet certain SDG, climate-, or other
@@ -140,7 +140,7 @@ current/inaction, business‐as‐usual, and national sustainability
 strategy for (a) electricity (b) water supply (c) wastewater and (d)
 solid waste [@Adshead2021].
 
-## Strategy attributes to enable comparison
+# Strategy attributes to enable comparison
 
 Each intervention under each strategy, whether a sector-specific or
 cross-sectoral one, must be assigned certain attributes to enable
@@ -158,7 +158,7 @@ across strategies).
 showing a business‐as‐usual case, and reductions attributed to emissions
 targets modelled in the electricity and waste sectors [@Adshead2021].
 
-## Conclusion
+# Conclusion
 
 In this lecture, we identified that meeting global or national targets
 requires strategic planning of new investments and interventions. To

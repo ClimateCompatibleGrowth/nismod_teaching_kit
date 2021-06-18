@@ -3,32 +3,32 @@ title: Mini-Lecture 7.4 --Strategic evaluation of infrastructure in
   practice
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Strategic performance
 
 -   Infrastructure interdependencies
 
-## Authors
+authors:
 
 -   Orlando Roman
 
-## Short description
+---
 
 This mini-lecture we use the case studies of Curaçao, Saint Lucia and
 Palestine to provide examples of performance evaluation of strategies
 and decision-making processes for infrastructure planning.
 
-## Learning objectives
+# Learning objectives
 
 -   List different indicators used to evaluate strategies in practice
 -   Identify infrastructure interdependencies between sectors.
 
-# Lecture content
 
-## Overview of infrastructure strategy evaluation in practice
+
+# Overview of infrastructure strategy evaluation in practice
 
 This mini-lecture will showcase different applications of the National
 Infrastructure Systems MODel -- International (NISMOD-Int) for strategy
@@ -45,7 +45,7 @@ provide insight on the participatory nature of this process and how
 different contexts, needs and priorities shape the infrastructure
 planning process.
 
-## Waste management strategy evaluation in Curaçao (part I)
+# Waste management strategy evaluation in Curaçao (part I)
 
 The waste management system in Curaçao heavily depends on landfills,
 which will run out of capacity in the next five years. Figure 7.4.1a
@@ -76,7 +76,7 @@ economy approach shows a better performance on employment and recycling.
 **Figure 7.4.2:** Performance of waste strategies on SDG indicators
 [@Fuldauer2019]
 
-## Waste management strategy evaluation in Curaçao (part II)
+# Waste management strategy evaluation in Curaçao (part II)
 
 The three main strategies for Curaçao were also evaluated against cost
 and carbon emissions, as shown in Figure 7.4.3. While there is an
@@ -105,7 +105,7 @@ height="3.6944444444444446in"}
 
 **Figure 7.4.4:** Waste management pathway [@Adshead2018]
 
-## Strategic performance for water provision in Palestine
+# Strategic performance for water provision in Palestine
 
 As shown in mini-lecture 6.4, five infrastructure strategies were
 developed for the Fast Track Infrastructure Analysis for Palestine,
@@ -133,7 +133,7 @@ consumption based on WHO recommendations. While this can be achieved for
 the "central" projection, a more pessimistic projection called "unstable
 adversity" was only able to achieve 30 litres/capita/day.
 
-## Infrastructure interdependencies in Saint Lucia
+# Infrastructure interdependencies in Saint Lucia
 
 For Saint Lucia, the National Infrastructure Assessment evaluated the
 electricity, water, wastewater and solid waste sectors. As shown in
@@ -169,7 +169,7 @@ height="3.5692311898512687in"}
 **Figure 7.4.7:** Quantification of cross-sectoral infrastructure
 interdependencies for Saint Lucia by 2050 [@Adshead2020]
 
-## Summary 
+# Summary 
 
 In this mini-lecture we illustrate previous concepts with practical
 applications of strategic evaluation on real cases. We explored waste

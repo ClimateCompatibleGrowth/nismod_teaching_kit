@@ -2,9 +2,9 @@
 title: Mini-Lecture 12.3 - Projecting future hazards
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Future hazards
 
@@ -12,11 +12,11 @@ title: Mini-Lecture 12.3 - Projecting future hazards
 
 -   Model uncertainty
 
-## Authors
+authors:
 
 -   Jasper Verschuur
 
-## Short description
+---
 
 In this lecture we will discuss how climate model outputs can be used to
 predict future changes in hazards that can impact infrastructure. We
@@ -24,16 +24,16 @@ will distinguish between short-term extreme events (flooding,
 hurricanes, storm surges, landslides) and more long-term chronic changes
 (temperature rise, sea-level rise).
 
-## Learning objectives
+# Learning objectives
 
 -   Understand how climate change might change the occurrence of hazards
 -   Summarise how infrastructure exposure can change in the future
 -   Evaluate what the different uncertainties are when predicting future
     hazards.
 
-# Lecture content 
+ 
 
-## Introduction 
+# Introduction 
 
 In mini-lecture 12.2, we identified that climate change might alter the
 occurrence of hazards in the future. When evaluating changes in future
@@ -71,7 +71,7 @@ might change in the future.
 magnitude (vertical line) of different return periods of coastal
 flooding [@Vitousek2017]
 
-## Hazard sensitivity to climate change
+# Hazard sensitivity to climate change
 
 Some hazards are more sensitive to climate change than others. This
 reflects the differences in the underlying physical processes that drive
@@ -106,7 +106,7 @@ estimated at around 3mm per year [@Nerem2018].
 Earthquakes are unaffected by climate and will not change in the future
 because of climate change.
 
-## Expected changes in hazard occurrence 
+# Expected changes in hazard occurrence 
 
 We will discuss some of the mean trends identified in the literature on
 expected changes in extreme hazards. These estimates are derived by
@@ -144,7 +144,7 @@ model.
 flood return period over the 21^st^ century for Representative
 Concentration Pathway (RCP) 8.5 [@Hirabayashi2021]
 
-## Future infrastructure exposure 
+# Future infrastructure exposure 
 
 Using the modelled hazard output, we can project the increase in the
 exposure and risk of people and infrastructure in the future due to
@@ -179,7 +179,7 @@ distribution of infrastructure damages.
 for multiple hazards. The figures show the baseline scenario and the
 change in risk for 2020, 2050 and 2080 [@Forzieri2018]
 
-## Future hazard uncertainties
+# Future hazard uncertainties
 
 As discussed, the way in which climate change affects hazard occurrence
 can be projected using climate scenarios that feed into climate models.
@@ -221,7 +221,7 @@ functions (right) of the expected sea-level rise in 2065 in Louisiana
 scenarios, the model spread and additional uncertainties surrounding the
 rapid disintegration of the Antarctic ice sheet (FD) [@Wong2017]
 
-## Summary
+# Summary
 
 In this lecture we have discussed how to use the climate scenarios and
 climate models to predict the future occurrence of hazards and the

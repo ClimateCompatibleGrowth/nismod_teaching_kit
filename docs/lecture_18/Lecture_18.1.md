@@ -3,9 +3,9 @@ title: "Mini-Lecture 18.1 - []{#_Hlk67331875 .anchor}Decision-making for
   nature-based solutions"
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Nature-based solution
 
@@ -13,11 +13,11 @@ title: "Mini-Lecture 18.1 - []{#_Hlk67331875 .anchor}Decision-making for
 
 -   Evidenced-based decision-making
 
-## Authors 
+authors: 
 
 -   Yu Mo
 
-## Short description 
+--- 
 
 This lecture provides an overview of the process of decision-making when
 planning nature-based solutions. This lecture also introduces the common
@@ -26,7 +26,7 @@ lecture discussed the uncertainty in the process, and how adaptive
 management and evidence-based decision-making can help to solve that. A
 case study demonstrating the concepts is presented.
 
-## Learning objectives 
+# Learning objectives 
 
 -   Understand what the key considerations are when planning
     nature-based solutions
@@ -37,9 +37,9 @@ case study demonstrating the concepts is presented.
 -   Obtain a basic understanding of how to account for uncertainty in
     the planning of nature-based solutions.
 
-# Lecture content
 
-## Decision-making in nature-based solutions 
+
+# Decision-making in nature-based solutions 
 
 An effective decision-making mechanism should allow informed,
 transparent, and ethical decisions towards the sustainable
@@ -101,7 +101,7 @@ to the successful implementation of nature-based solutions [@MEA2005;
 -   Lack of information on the value of nonmarketed ecosystem services
     and the linkage between these services and human well-being.
 
-## Tools for better decision-making 
+# Tools for better decision-making 
 
 There are many tools that can be used to assist decision-making
 concerning ecosystems and their services at a variety of scales,
@@ -148,7 +148,7 @@ for nature-based solution planning:
     classification, and prioritisation of vulnerable elements in the
     system.
 
-### Table 18.1.1: Applicability of decision support methods and frameworks [@MEA2005]
+## Table 18.1.1: Applicability of decision support methods and frameworks [@MEA2005]
 
   Method                    Optimisation   Equity   Thresholds   Uncertainty
   ------------------------- -------------- -------- ------------ -------------
@@ -165,7 +165,7 @@ uncertainty) the method has already been modified to handle uncertainty
 
 --: weak but not impossible applicability with significant effort
 
-## The uncertainty of nature-based solutions 
+# The uncertainty of nature-based solutions 
 
 Nature-based solutions should be factored into infrastructure and
 development planning from the outset, to ensure sustainable, resilient
@@ -207,7 +207,7 @@ would otherwise occur. Given the high levels of uncertainty surrounding
 coupled socioecological systems, the use of active adaptive management
 is often warranted.
 
-## Evidenced-based decision-making 
+# Evidenced-based decision-making 
 
 Evidenced-based decision-making can address the uncertainty in
 nature-based solution implementation and provide communication among
@@ -254,7 +254,7 @@ issues [@Bauduceau2015]:
 <!-- -->
 ```
 
-## Case Study: Eco-safe roads in Nepal 
+# Case Study: Eco-safe roads in Nepal 
 
 This study presents the implementation of eco-safe roads in Nepal
 through a science-practice and policy approach [@Monty2017].
@@ -302,7 +302,7 @@ height="2.2055555555555557in"}**Figure 18.1.1:** Demonstration site
 Gharelu before interventions (left) after interventions (right)
 [@Monty2017]
 
-## Summary 
+# Summary 
 
 This lecture introduces the process of decision-making when planning
 nature-based solutions and the common tools that can be used in the

@@ -3,9 +3,9 @@ title: Mini-Lecture 7.2 -- Principles of decision analysis under
   uncertainty
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   Flaw of Averages
 
@@ -13,26 +13,26 @@ title: Mini-Lecture 7.2 -- Principles of decision analysis under
 
 -   Flexibility
 
-## Authors 
+authors: 
 
 -   Orlando Roman
 
-## Short description
+---
 
 In this mini-lecture we will introduce some key concepts of decision
 analysis focused mainly on uncertainty. We will introduce multi-criteria
 decision analysis (MCDA) as a classic method for making decisions and
 the concepts of robustness and flexibility.
 
-## Learning objectives
+# Learning objectives
 
 -   Describe the types of uncertainty and when deep uncertainty arises
 -   Describe some approaches of MCDA
 -   Explain the difference between robust and adaptive plans
 
-# Lecture content
 
-## Overview on decision analysis
+
+# Overview on decision analysis
 
 One of the bases of decision theory is the concept of expected utility
 as formulated by @Savage1954. In this theory, one can formulate a
@@ -57,7 +57,7 @@ The concepts elaborated in this mini-lecture will therefore tackle the
 challenges of making decisions under uncertainty using a participatory
 and adaptive approach.
 
-## Types of risk and uncertainty
+# Types of risk and uncertainty
 
 Long-term planning is particularly difficult due to the inherent
 uncertainty about the future. Figure 7.2.1 shows the range of
@@ -81,7 +81,7 @@ estimation process makes the results doubtful. This issue has produced
 important literature on Decision Making under Deep Uncertainty (DMDU)
 methods and applications, as will be seen in mini-lecture 7.3.
 
-## Multi-criteria decision analysis
+# Multi-criteria decision analysis
 
 A decision-making process evaluates a set of alternatives by using
 different criteria, including attributes and objectives. Attributes are
@@ -112,7 +112,7 @@ Pareto Frontier [@Cohon1978].
 There are several methods used in the industry that use MCDA approaches,
 such as the Analytic Hierarchy Process (AHP) ELECTRE or PROMETHEE.
 
-## Robustness in decision making
+# Robustness in decision making
 
 Robustness is the concept of making decisions in the present that will
 also achieve objectives in the future. In this sense, decision-makers do
@@ -134,7 +134,7 @@ minimises possible regrets is critical.
 **Figure 7.2.2:** Projected mean changes in annual temperature (°C) and
 precipitation (%) for a hydropower project [@Taner2017]
 
-## Flexibility and adaptation in decision making
+# Flexibility and adaptation in decision making
 
 In contrast with the concept of robustness, flexibility takes a
 sequential decision-making approach. This means, flexibility does not
@@ -169,7 +169,7 @@ supply system.
 **Figure 7.2.3:** Drawdown threshold for the decision to expand or not
 in a reservoir dam [@Fletcher2019]
 
-## Summary 
+# Summary 
 
 In this mini-lecture we introduced the Flaw of Averages to illustrate
 the mistake of making decisions based on average performance. Then we

@@ -2,9 +2,9 @@
 title: "Mini-Lecture 12.4 - Future hazard risk: Case study"
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   Argentina case study
 
@@ -12,27 +12,27 @@ title: "Mini-Lecture 12.4 - Future hazard risk: Case study"
 
 -   Hotspot analysis
 
-## Authors
+authors:
 
 -   Jasper Verschuur
 
-## Short description
+---
 
 In this lecture we will go through a detailed example on how to include
 future climate change in risk analysis. This lecture illustrates the
 output that can be generated using the model framework for
 infrastructure risk analysis introduced in previous lectures.
 
-## Learning objectives
+# Learning objectives
 
 -   Learn how climate change can influence risk to assets in different
     ways
 -   Identify infrastructure risk hotspots
 -   Explain how a future climate risk assessment can inform adaptation.
 
-# Lecture content
 
-## Introduction
+
+# Introduction
 
 In this lecture, we will go through a detailed example of incorporating
 future climate change projections into infrastructure risk analysis. We
@@ -70,7 +70,7 @@ including the tonnage of freight allocated for the different assets
 including the tonnage of freight allocated for the different assets
 [@Pant2019]
 
-## Future hazard scenarios
+# Future hazard scenarios
 
     As mentioned, in this mini-lecture we look particularly at flooding of transport infrastructure assets. For this purpose, flood hazard maps for ten return periods were adopted (ranging between 5 and 1,000-years). In this example, we will mainly focus on river flooding. The flood maps include flood extent and the inundation depth. 
     To account for future changes in river flooding, the output of 32 Global Climate Models (GCMs) from the CMIP5 model ensemble was used. The 2050 time horizon was adopted in this study across two Representative Concentration Pathway (RCP) scenarios (RCP4.5 and RCP8.5). 
@@ -80,7 +80,7 @@ including the tonnage of freight allocated for the different assets
 
     Figure 12.4.3: An example of fluvial inundation in the baseline scenario for the north of Argentina [@Pant2019]
 
-## Future infrastructure exposure
+# Future infrastructure exposure
 
 By overlaying the current and future hazard maps with the transport
 network, insights can be gained on the changes in the exposure of the
@@ -122,7 +122,7 @@ event and a 100-year event, aggregated to a department level
 10-year event and a 100-year event, aggregated to a department level
 [@Pant2019]
 
-## Future economic losses
+# Future economic losses
 
 Next, we consider the consequences of disruptions to the exposed
 transport assets. Without going into detail of disruption analysis, a
@@ -155,7 +155,7 @@ losses to railway assets by 2050 [@Pant2019]
 **Figure 12.4.7:** The percentage change in expected annual economic
 losses to road bridge assets by 2050 [@Pant2019]
 
-## Final considerations
+# Final considerations
 
 We have considered the different aspects of performing a future climate
 risk analysis using Argentina as a case study. Some lessons learned from
@@ -187,7 +187,7 @@ this are:
     analysis is the backbone for evaluating the benefits of different
     types of interventions to improve resilience (mini-lecture 14.1).
 
-## Summary
+# Summary
 
 In this lecture, we went through a detailed example of how to perform
 and analyse future climate risk to infrastructure assets on a national

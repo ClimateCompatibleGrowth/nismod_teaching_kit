@@ -3,7 +3,7 @@ title: Mini-Lecture 11.4 - Calculating economic consequence of
   disruptions to businesses
 ---
 
-# Metadata
+
 
 **Keywords**
 
@@ -11,11 +11,11 @@ title: Mini-Lecture 11.4 - Calculating economic consequence of
 
 -   Macro-economic losses
 
-## Authors
+authors:
 
 -   Olivia Becher
 
-## Short description
+---
 
 This mini-lecture covers how economic activities are dependent on
 reliable infrastructure services. A commonly applied method for
@@ -24,16 +24,16 @@ disruptions is introduced. Case studies are then explored which
 illustrate how the analysis can be applied to a range of infrastructure
 types and kinds of economic activity.
 
-## Learning objectives
+# Learning objectives
 
 -   To recognise how various economic activities depend on
     infrastructure services
 -   To quantify the macro-economic impacts of infrastructure
     disruptions.
 
-# Lecture content
 
-## Introduction
+
+# Introduction
 
 Many economic activities are dependent on reliable infrastructure
 services. When infrastructure disruptions impact businesses, they have
@@ -62,7 +62,7 @@ case studies that explore the importance of infrastructure for economic
 activities and how disruptions may have broader, macro-economic
 consequences.
 
-## Input-Output modelling
+# Input-Output modelling
 
 Input-Output (IO) tables describe the rate of transaction between
 different production sectors. IO impact assessments involve quantifying
@@ -75,7 +75,7 @@ assessments can be, and are increasingly being, integrated with spatial
 infrastructure network models to quantify indirect economic losses
 associated with infrastructure failures.
 
-## Macro-economic impacts of port disruption
+# Macro-economic impacts of port disruption
 
 @Verschuur2021 used IO tables to perform a criticality analysis of port
 and maritime transport networks globally with respect to their
@@ -94,7 +94,7 @@ embedding 1.7% of global output.
 Therefore, large macro-economic impacts, both on a national and global
 scale, could be expected when ports are affected by climatic extremes.
 
-## Macro-economic impacts of electricity disruption
+# Macro-economic impacts of electricity disruption
 
 @Koks2019 combined geospatial locations of electricity infrastructure
 assets in the south-east of England supplying to local industrial areas,
@@ -125,7 +125,7 @@ flooding at business asset locations (left) and at both business asset
 locations as well as the electricity assets that serve them (right), in
 absolute (top) and relative (bottom) terms [@Koks2019]
 
-## Drought impacts on energy prices
+# Drought impacts on energy prices
 
 The previously mentioned examples relate to the macro-economic impacts
 of infrastructure asset failures due to the dependence of various
@@ -146,7 +146,7 @@ economic model of electricity supply, demand and prices to find that the
 macro-economic impacts of future droughts, via increased electricity
 prices, range from GBP29--66 million per year.
 
-## Summary
+# Summary
 
 This mini-lecture provided an overview of the interaction between
 infrastructure services and the economy, and various case studies that

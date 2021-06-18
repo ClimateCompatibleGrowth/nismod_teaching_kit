@@ -3,17 +3,17 @@ title: "Mini-Lecture 9.3 - []{#_Hlk66091292 .anchor}Modelling of water
   infrastructure networks and service delivery"
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   Water infrastructure
 
-## Authors 
+authors: 
 
 -   Olivia Becher
 
-## Short description 
+--- 
 
 This mini-lecture provides an overview of what constitutes a water
 infrastructure network, how water infrastructure is distinct from other
@@ -22,7 +22,7 @@ affect water supplies. The type of causes of water supply disruption,
 from asset-related failures to source-related failures, are discussed in
 turn.
 
-## Learning objectives 
+# Learning objectives 
 
 -   Be able to identify the components of water infrastructure systems
 
@@ -32,9 +32,9 @@ turn.
 -   To be able to explain the full range of water infrastructure
     disruptions and how they can be modelled.
 
-# Lecture content 
+ 
 
-## Introduction 
+# Introduction 
 
 Water infrastructure systems are made up of the assets that abstract
 (intakes), treat (water treatment plants), pump (pumping stations),
@@ -73,7 +73,7 @@ different standards and protocols for water management, for example, for
 the level of treatment, the capacity and form of storage, and the kind
 of connection to consumers (e.g. household-level, versus standpipes).
 
-## Global datasets on water 
+# Global datasets on water 
 
 Although water infrastructure datasets on treatment plants, intakes and
 pumping stations are hard to come by even at national scales, there is a
@@ -114,7 +114,7 @@ water infrastructure
   Connections to piped water supply and sewer systems   [Joint Monitoring Programme](https://washdata.org/data)
   Water use                                             [FAO, AquaSTAT](http://www.fao.org/aquastat/)
 
-## Hazard interactions with water infrastructure
+# Hazard interactions with water infrastructure
 
 All infrastructure is vulnerable to a range of climate extremes, with
 floods, earthquakes and hurricanes imposing a heavy financial burden in
@@ -190,7 +190,7 @@ The following sections explore the modelling approaches employed to
 analyse the risk that flood and drought hazards pose to water
 infrastructure systems.
 
-## Risks to water network infrastructure
+# Risks to water network infrastructure
 
 Water supply disruptions can be caused by flood damage to water
 infrastructure assets or dependent electricity supply infrastructure.
@@ -218,7 +218,7 @@ failures and associated network disruptions can be randomly simulated to
 identify hotspots of critical assets or worst-case failure scenarios in
 water networks.
 
-## Risks to water resources
+# Risks to water resources
 
 Water resources variations - such as water shortages and harmful water
 quality events - also pose a major risk to water supplies. Water
@@ -249,7 +249,7 @@ The kinds of risk analysis discussed in this lecture are widely applied
 to guiding water infrastructure planning decisions, which will be
 discussed in future sections.
 
-## Summary
+# Summary
 
 This mini-lecture provides an overview of the components of water
 infrastructure systems, how systems are affected by hazards and how the

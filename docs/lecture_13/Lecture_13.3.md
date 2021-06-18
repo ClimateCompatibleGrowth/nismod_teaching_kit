@@ -2,9 +2,9 @@
 title: Mini-Lecture 13.3 - Changes in infrastructure dependencies
 ---
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Society
 
@@ -12,11 +12,11 @@ title: Mini-Lecture 13.3 - Changes in infrastructure dependencies
 
 -   Planning decisions
 
-## Authors
+authors:
 
 -   Jasper Verschuur
 
-## Short description
+---
 
 In this lecture, we will look at three additional critical factors that
 determine the need and success of future infrastructure provision. These
@@ -25,7 +25,7 @@ infrastructure use, the different planning pathways towards success, and
 the feedbacks between society and infrastructure and
 intra-infrastructure feedbacks.
 
-## Learning objectives
+# Learning objectives
 
 -   Analyse the additional critical factors that need to be considered
     for infrastructure planning
@@ -34,9 +34,9 @@ intra-infrastructure feedbacks.
 -   Identify possible infrastructure pathways and complementary
     infrastructure investment needs.
 
-# Lecture content 
+ 
 
-## Introduction
+# Introduction
 
 In mini-lecture 13.1 and 13.2, we explored the underlying drivers and
 ways in which we can predict the future need for infrastructure.
@@ -62,7 +62,7 @@ Three critical factors are considered in this lecture:
     future (e.g. construct one big road versus a couple of smaller
     ones), which change the underlying network structure and hence use.
 
-## Changes in societal norms
+# Changes in societal norms
 
 The COVID-19 pandemic has been an unexpected test of the resilience of
 infrastructure systems. As covered extensively in Lectures 9-11, the
@@ -101,7 +101,7 @@ infrastructure for many years to come.
 of customer interactions due to the COVID-19 pandemic
 [@McKinsey&Company2020]
 
-## Societal feedbacks with infrastructure
+# Societal feedbacks with infrastructure
 
 Infrastructure can lock-in development by stimulating urban expansion
 into areas that were initially hazard-prone or create new urban areas in
@@ -146,7 +146,7 @@ additional investments. For the normal scenarios, losses will not change
 much over time due to the adaptation effect of people not settling in
 these areas [@DiBaldassarre2015]
 
-## Infrastructure provision pathways
+# Infrastructure provision pathways
 
 In the case that an infrastructure target is set, or demand for
 infrastructure is forecasted to change, there are often still
@@ -182,7 +182,7 @@ infrastructure provision.
 in six countries in Africa for four infrastructure provision pathways
 (3G vs 4G and fixed vs wireless) [@Oughton2021]
 
-## Complementary infrastructure needs
+# Complementary infrastructure needs
 
 So far, we have looked at projecting demand for individual
 infrastructure systems. However, as discussed in Lecture 8,
@@ -217,7 +217,7 @@ more efficient way.
 **Figure 13.3.4:** The portfolio of planned projects under the Belt and
 Road Initiative [@Brookings2019]
 
-## Summary 
+# Summary 
 
 In the lecture we discussed additional critical factors for sustainable
 and efficient future infrastructure development, which including taking

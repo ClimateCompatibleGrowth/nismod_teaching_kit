@@ -2,9 +2,9 @@
 title: Mini-Lecture 12.2 - Projecting Future Climate
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   Climate change
 
@@ -12,26 +12,26 @@ title: Mini-Lecture 12.2 - Projecting Future Climate
 
 -   Emission scenarios
 
-## Authors 
+authors: 
 
 -   Jasper Verschuur
 
-## Short description 
+--- 
 
 In this lecture we will answer the question: "How do we predict future
 change in climate?" We will discuss the use of climate models to predict
 future conditions including the kind of scenarios they are driven by and
 how they can inform risk management.
 
-## Learning objectives 
+# Learning objectives 
 
 -   Learn what a climate model is
 -   Compare and contrast the outcomes of different climate scenarios
 -   Recognise that climate impacts may differ across regions.
 
-# Lecture content 
+ 
 
-## Introduction 
+# Introduction 
 
 Most of us check the weather forecast on a daily basis, but not many of
 us look at a forecast of climate. There is often a lot of confusion
@@ -62,7 +62,7 @@ how these model projections inform us on future climate risk.
 between 1850 and present. The different colours indicate different data
 sources [@EuropeanEnvironmentalAgence2020]
 
-## Global climate models
+# Global climate models
 
 To model how the climate might change in the future, we use so-called
 General Circulation Models (GCMs). GCMs are numerical (mathematical)
@@ -94,7 +94,7 @@ step is essential before we can use a GCM to project into the future.
 with the horizontal and vertical grids that are used to simulate the
 climate, land and ocean processes [@GFDL]
 
-## Representative Concentration Pathways
+# Representative Concentration Pathways
 
 In order to predict how the future climate might look, we need scenarios
 of external forcing that we can feed into the climate model. To do this,
@@ -130,7 +130,7 @@ per RCP scenario [@Vuuren2011]
 **Figure 12.2.5:** The carbon dioxide trajectories per RCP scenario
 [@Vuuren2011]
 
-## Predicting future climate
+# Predicting future climate
 
 The various RCP scenarios can be used to force a climate model and
 predict how the climate might change in the future. Across the world,
@@ -163,7 +163,7 @@ temperature for the different climate scenarios. The range indicates the
 spread in model results, with the dot the median value and the range the
 smallest and largest model result [@CarbonBrief2019]
 
-## Regional climate variations
+# Regional climate variations
 
 From the previous section, one takeaway was that the spread across
 models can be large. Another important point is that the climate might
@@ -196,7 +196,7 @@ two time slices (2030-2059 and 2070-2099) and two climate and
 socio-economic scenarios (RCP4.5 and RCP8.5, and SSP2 and SSP5)
 [@Almazroui2020]
 
-## Summary 
+# Summary 
 
 In this lecture we have looked at how the climate is changing globally.
 We described how we make use of climate models and projections to

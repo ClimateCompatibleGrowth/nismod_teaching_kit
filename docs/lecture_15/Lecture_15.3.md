@@ -3,9 +3,9 @@ title: Mini-Lecture 15.3 -- Nature-based solutions (NbS) and the Paris
   Agreement
 ---
 
-# Metadata 
+ 
 
-## Keywords
+keywords:
 
 -   Paris Agreement
 
@@ -13,11 +13,11 @@ title: Mini-Lecture 15.3 -- Nature-based solutions (NbS) and the Paris
 
 -   Mitigation and adaptation
 
-## Authors
+authors:
 
 -   Robyn Haggis
 
-## Short description
+---
 
 This mini-lecture provides an overview of the potential for nature-based
 solutions (NbS) to enhance progress on the Paris Agreement through
@@ -26,7 +26,7 @@ infrastructure practitioners to leverage nature in order to contribute
 to climate and development goals, which will be explored in subsequent
 lectures.
 
-## Learning objectives
+# Learning objectives
 
 -   Recall the potential of NbS for meeting the goals of the Paris
     Agreement (mitigation and adaptation)
@@ -34,9 +34,9 @@ lectures.
 -   Consider the integration of NbS into infrastructure systems in order
     to enhance progress on the Paris Agreement.
 
-# Lecture content {#lecture-content-1}
+ {#lecture-content-1}
 
-## Recap on the Paris Agreement and inclusion of NbS
+# Recap on the Paris Agreement and inclusion of NbS
 
 As introduced in mini-lecture 1.2, the Paris Agreement is a global
 climate change agenda, with the objective to keep global temperature
@@ -47,7 +47,7 @@ climate mitigation and adaptation, recognising that while mitigation is
 necessary to limit global temperature increase, some climate impacts are
 unavoidable.
 
-## ![Logo, company name Description automatically generated](media/image1.tiff){width="6.5in" height="2.1486111111111112in"}
+# ![Logo, company name Description automatically generated](media/image1.tiff){width="6.5in" height="2.1486111111111112in"}
 
 **Figure 15.3.1:** Key objectives of the Paris Agreement on Climate
 Change of relevance to nature-based solutions [@UNFCCC2017]
@@ -90,7 +90,7 @@ in mitigation and adaptation commitments.
   7.2       Parties recognise that adaptation is a global challenge faced by all with local, subnational, national, regional and international dimensions, and that it is a key component of and makes a contribution to the long-term global response to climate change **to protect people, livelihoods and ecosystems**, taking into account the urgent and immediate needs of those developing country Parties that are particularly vulnerable to the adverse effects of climate change
   8.4       Accordingly, areas of cooperation and facilitation to enhance understanding, action and support may include: **Resilience of communities, livelihoods and ecosystems.**
 
-## An introduction to NbS in Nationally Determined Contributions 
+# An introduction to NbS in Nationally Determined Contributions 
 
 The Paris Agreement requires each signatory nation to define their
 individual commitments in terms of mitigation reductions in the form of
@@ -123,9 +123,9 @@ marine ecosystems (e.g. mangroves, reefs) are under-represented. For
 example, only 19% of countries with coastal ecosystems refer to them for
 mitigation in their NDC [@Seddon2019].
 
-## 
+# 
 
-## Contributing to the Paris Agreement through synergising NbS for adaptation and mitigation
+# Contributing to the Paris Agreement through synergising NbS for adaptation and mitigation
 
 ﻿NbS have potential to contribute to both climate mitigation and
 adaptation objectives simultaneously, and at relatively low-cost, while
@@ -182,7 +182,7 @@ whilst sequestering carbon and providing benefits for mental health and
 well-being (see mini-lecture 16.4). Photograph from Unsplash
 (Photographer: Victor Garcia).
 
-## Contributing to the Paris Agreement through enhanced ambition on NbS 
+# Contributing to the Paris Agreement through enhanced ambition on NbS 
 
 Well-designed NbS, which are implemented with consideration of the local
 socio-economic and ecological context (see Lecture 18) and which
@@ -218,7 +218,7 @@ on the Paris Agreement, there remains an urgent need for supportive
 enabling conditions, including new financial and policy support
 [@Seddon2019].
 
-## Contributing to the Paris Agreement and supporting sustainable development through integration of NbS in infrastructure
+# Contributing to the Paris Agreement and supporting sustainable development through integration of NbS in infrastructure
 
 Infrastructure is responsible for 87% of greenhouse gas (GHG) emissions
 globally [@Thacker2019]. Furthermore, climate impacts pose a high
@@ -266,7 +266,7 @@ the causes and consequences of climate change. These include (but are
 not limited to) forests, wetlands, savannas, soils, coral and oyster
 reefs and seagrass. Photographs from Unsplash.
 
-## Summary
+# Summary
 
 Through carbon sequestration and adaptation services, ecosystems can
 contribute to addressing the causes and consequences of climate change.

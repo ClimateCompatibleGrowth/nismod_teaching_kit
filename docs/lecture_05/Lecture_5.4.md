@@ -1,9 +1,9 @@
 **Mini-Lecture 5.4 - A target-driven development vision for a small
 island context**
 
-# Metadata
 
-## Keywords
+
+keywords:
 
 -   Targets
 
@@ -11,18 +11,18 @@ island context**
 
 -   SDGs
 
-## Authors
+authors:
 
 -   Dan Adshead
 
-## Short description
+---
 
 This mini-lecture will demonstrate how development targets have been
 incorporated in the infrastructure strategy of Saint Lucia using inputs
 from an infrastructure planning tool. It will present results showing
 specific targets being met within a broader infrastructure strategy.
 
-## Learning objectives {#learning-objectives-1}
+# Learning objectives {#learning-objectives-1}
 
 -   To learn methods for constructing and incorporating development
     targets in infrastructure assessment
@@ -31,9 +31,9 @@ specific targets being met within a broader infrastructure strategy.
     Development Goal (SDG) indicator' as a measure of target progress,
     using knowledge developed in the previous lectures.
 
-# Lecture content
 
-## Development targets and objectives in national infrastructure planning
+
+# Development targets and objectives in national infrastructure planning
 
 Targets and objectives are an integral component of the infrastructure
 planning process. As described in mini-lectures 5.1 and 5.2, they allow
@@ -50,7 +50,7 @@ the overall strategy and outputs. The use of targets should be flexible
 and define an infrastructure vision which is subject to dynamic change,
 such as the emergence of new data and shifting national priorities.
 
-## A systematic method of infrastructure performance target setting in a national context
+# A systematic method of infrastructure performance target setting in a national context
 
 Quantified infrastructure performance targets used in the Saint Lucia
 assessment were established after a collaborative process of engagement
@@ -96,7 +96,7 @@ shown in Figure 5.4.1.
 
     Figure 5.4.1: Target inputs for Saint Lucia’s key infrastructure sectors, forming a National Infrastructure Strategy (NIS). Business-as-usual is denoted as BAU.
 
-## Example: Inputting NDC commitments as targets in the planning model
+# Example: Inputting NDC commitments as targets in the planning model
 
 As described in the previous section, the infrastructure planning model
 introduced the government\'s mitigation targets, as stated in the NDCs,
@@ -126,7 +126,7 @@ aggregated on a national scale.
 and 2030 in its first NDC, in relation to its baseline emissions
 [@GoSL2015]
 
-## Structuring investments and policies to meet targets in the energy sector
+# Structuring investments and policies to meet targets in the energy sector
 
 Figure 5.4.3 shows how the achievement of these targets is presented
 within the results of the long-term infrastructure planning assessment
@@ -163,9 +163,9 @@ sector [@Adshead2021].
 Sustainability Strategy incorporating feasible investments and policies
 to meet relevant SDG and mitigation targets [@Adshead2021]
 
-## 
+# 
 
-## Using an 'SDG indicator' for infrastructure-linked targets
+# Using an 'SDG indicator' for infrastructure-linked targets
 
 Figure 5.4.4 aggregates sector-specific targets and relative achievement
 under the various strategies developed for the assessment (see Lecture
@@ -208,7 +208,7 @@ height="6.1669739720034995in"}
 calculated across 18 targets directly linked to the provision of
 infrastructure using a scoring method developed by [@Adshead2019].
 
-## Summary
+# Summary
 
 This mini-lecture has demonstrated the incorporation of targets in
 infrastructure planning. It has used a small island case study to show

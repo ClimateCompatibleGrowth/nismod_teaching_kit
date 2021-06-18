@@ -8,22 +8,18 @@ authors:
 -   Orlando Roman
 ---
 
-## Short description
-
 This mini-lecture will continue exploring the main infrastructure
 drivers and their specific features. It will also serve as a guide to
 select different drivers according to different case study applications.
 
-## Learning objectives
+# Learning objectives
 
 -   List different infrastructure drivers that might be considered for
     demand forecasting
 -   Describe how different contexts might require a different set of
     demand drivers.
 
-# Lecture content
-
-## Key considerations
+# Key considerations
 
 This mini-lecture will continue exploring the main infrastructure
 drivers and some of their specific features. It is important to note
@@ -51,7 +47,7 @@ toward the end of the century might need assumptions about disruptive
 technological and socio-economic changes that can fundamentally
 restructure our relationship with infrastructure services.
 
-## Population trends
+# Population trends
 
 As we have seen in previous mini-lectures, population is one of the main
 drivers of future infrastructure demand [@Thoung2016]. Population
@@ -83,7 +79,7 @@ estimations including prediction intervals that can help with
 uncertainty quantification and detailed analysis for infrastructure
 planning.
 
-## Per capita consumption rates and seasonal effects
+# Per capita consumption rates and seasonal effects
 
 Based on the analysis of population trends, the next step is to estimate
 the infrastructure services that will be needed, which is normally done
@@ -116,7 +112,7 @@ persists in the projections of the future.
 
 **Figure 4.3.2:** Seasonal energy demand in the UK [@Staffell2018]
 
-## Spatially distributed demand
+# Spatially distributed demand
 
 Another simplification in infrastructure forecasting is to develop national aggregates for central planning purposes. However, the spatial distribution of infrastructure needs might be crucial for several applications. This is clearer with the development of mega urban centres in which infrastructure demand is high. On the other hand, when looking into the future, the potential rural-urban migration, or the development of satellite urban settlements, play a role in how we perform our infrastructure planning.
 Scenario narratives might also influence the spatial distribution of demand. For instance, one explored scenario might be the expansion of current urban centres while a different scenario might assume a redistribution of development along semi-urban and rural areas.
@@ -127,13 +123,13 @@ Figure 4.3.3 shows how different regions bring different changes in population b
 **Figure 4.3.3:** Spatial population change in Nordic municipalities by
 2040 [@Gassen2019]
 
-## Other chronic effects and climate change
+# Other chronic effects and climate change
 
 Planning methods under uncertainty have developed extensively during the last decades, mainly due to the critical importance of climate change for our future [@Lempert2010] [@Haasnoot2013]. Alongside the importance of adaptation and mitigation, climate change might have an impact on our ability to meet infrastructure demand.
 Firstly, climate change can modify our consumption patterns in terms of heating, cooling and demand for services [@Clarke2018]. It will certainly increase the seasonal variability of demand and have major impacts on our supply systems. For instance, changes in temperature, wind and rainfall patterns will affect the functioning of renewable energy (solar and wind) and water supplies [@Urich2014] (as seen in mini-lecture 4.2).
 Another chronic effect that might be important for infrastructure planning is the inevitable ageing of infrastructure assets, or the slow deterioration of our systems, which can be mitigated by good maintenance programmes. Also, strong demographic changes (increasing elderly population and variation in gender profiles) can play a role in modified consumption patterns into the future. In summary, different contexts might require a different set of drivers.
 
-## Summary
+# Summary
 
 In this mini-lecture we explored in more detail some infrastructure
 demand drivers such as population growth and per capita consumption

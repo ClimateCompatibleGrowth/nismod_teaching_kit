@@ -1,21 +1,13 @@
 ---
 title: "Mini-Lecture 1.4 -- Case study: Infrastructure challenges in a
   small-island context"
----
-
-# Metadata
-
-## Keywords
-
+keywords:
 -   Small islands
-
 -   Infrastructure vision
-
 -   Infrastructure systems modelling
-
-## Authors
-
+authors:
 -   Daniel Adshead
+---
 
 ## Short description
 
@@ -52,6 +44,8 @@ country or region will define which infrastructure policies,
 investments, and projects may be feasibly implemented, or be most
 effective to meet these future objectives.
 
+![](assets/Fig_1.4.1.png){width=100%}
+
 **Figure 1.4.1:** Examples of infrastructure-related challenges. Photos:
 Unsplash.
 
@@ -67,14 +61,16 @@ assessed independently for each country or region.
 Recent examples of unique infrastructure challenges assessed in
 different country contexts are shown in Figure 1.4.2.
 
-**abc**
+![](assets/Fig_1.4.2a.png){width=30%}
+![](assets/Fig_1.4.2b.png){width=30%}
+![](assets/Fig_1.4.2c.png){width=30%}
 
 **Figure 1.4.2:** Examples of specific infrastructure challenges in a
 post-conflict (Palestine), small-island (Curacao), and advanced economy
-(UK) context. a) Kernel density map derived from satellite imagery
+(UK) context. left) Kernel density map derived from satellite imagery
 representing damages sustained during the 2014 conflict in Gaza
-[@Ives2018a]; b) Flood risk to coastal areas and built assets
-[@Adshead2018]; c) Train travel times to London with and without
+[@Ives2018a]; middle) Flood risk to coastal areas and built assets
+[@Adshead2018]; right) Train travel times to London with and without
 high-speed rail extensions [@Hall2012]
 
 This mini-lecture will introduce the Caribbean country of Saint Lucia,
@@ -102,6 +98,8 @@ capacity is increased, demand is reduced, or efficiencies are integrated
 into the network. Water supply, wastewater treatment, and solid waste
 management capacity are all below current needs [@Adshead2021].
 
+![](assets/Fig_1.4.3.png){width=100%}
+
 **Figure 1.4.3:** Current and projected infrastructure capacity in
 relation to needs to 2030 across four key sectors in Saint Lucia
 [@Adshead2021]
@@ -113,8 +111,9 @@ pose a major threat to social and economic development on the island
 examples from the case study, in the course lecture blocks on risk and
 resilience (e.g. 13.4).
 
-![](media/image6.tiff){width="6.5in"
-height="4.1506944444444445in"}**Figure 1.4.4:** Climate-related hazards
+![](assets/Fig_1.4.4.png){width=100%}
+
+**Figure 1.4.4:** Climate-related hazards
 affecting Saint Lucia's built infrastructure and natural environment
 [@Adshead2020]
 
@@ -160,6 +159,8 @@ countries:
     dumping and informal waste incineration -- or the need to export
     waste at a high cost.
 
+![](assets/Fig_1.4.5.png){width=100%}
+
 **Figure 1.4.5:** Key challenges across four of Saint Lucia's main
 infrastructure sectors -- water, electricity, solid waste management,
 wastewater treatment. Photos: Unsplash; FFelix (UNOPS); GoSL.
@@ -200,12 +201,16 @@ to sector:
     Saint Lucia's circular economy by supporting the recycling and
     compost industries​.
 
+![](assets/Fig_1.4.6.png){width=100%}
+
 **Figure 1.4.6:** Saint Lucia's vision for national infrastructure is
 based around the government's national priorities, which include reaping
 economic benefits from its natural beauty and tourism sector, as well as
 developing other sectors, such as agriculture, to ensure
 self-sufficiency and food security. Photos: FFelix (UNOPS); Pexels;
 Unsplash
+
+![](assets/Fig_1.4.7.png){width=100%}
 
 **Figure 1.4.7:** Examples of effective infrastructure solutions in a
 small-island context. For example, regional (inter-island) waste
@@ -215,7 +220,9 @@ Photos: FFelix (UNOPS); LUCELEC; Saint Lucia News Online
 
 ## How the small island case study was implemented
 
-## The case study took the form of a participatory national infrastructure assessment consisting of a series of analysis steps discussed further in the next lectures: the identification and quantification of drivers of future infrastructure needs; the aggregation of investment and policy options to increase supply capacity or reduce demand; the targets that define optimal performance achievement; and the interdependent modelling that brings these components together. These steps are represented in Figure 1.4.8.
+The case study took the form of a participatory national infrastructure assessment consisting of a series of analysis steps discussed further in the next lectures: the identification and quantification of drivers of future infrastructure needs; the aggregation of investment and policy options to increase supply capacity or reduce demand; the targets that define optimal performance achievement; and the interdependent modelling that brings these components together. These steps are represented in Figure 1.4.8.
+
+![](assets/Fig_1.4.8.png){width=100%}
 
 **Figure 1.4.8:** Schematic overview of the components within the
 National Infrastructure Systems Model (NISMOD) [@Adshead2020]
@@ -241,6 +248,8 @@ commitments in the long run. Providing decision-makers with the
 required, evidence‐based tools to undertake strategic infrastructure
 assessment will better equip the government to make effective
 investments and policies in the future [@Adshead2021].
+
+![](assets/Fig_1.4.9.png){width=100%}
 
 **Figure 1.4.9:** Role of the National Integrated Planning and Programme
 unit (NIPP) in coordinating efforts to ensure streamlined and efficient

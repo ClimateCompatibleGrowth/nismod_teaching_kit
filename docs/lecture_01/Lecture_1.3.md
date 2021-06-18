@@ -1,19 +1,12 @@
 ---
-title: "**Mini-Lecture 1.3 -- Infrastructure services and sustainable
-  development**"
----
-
-# Metadata
-
-## Keywords
-
+title: "Mini-Lecture 1.3 -- Infrastructure services and sustainable
+  development"
+keywords:
 -   Infrastructure services
-
 -   Sustainable Development Goals (SDGs)
-
-## Authors
-
+authors:
 -   Daniel Adshead
+---
 
 ## Short description
 
@@ -118,6 +111,8 @@ Overall, networked infrastructure systems such as energy or road
 networks or water supply systems are found to influence all 17 of the
 SDGs, including 121 of the 169 targets (72%) [@Thacker2019].
 
+![](assets/Fig_1.3.1.png){width=100%}
+
 **Figure 1.3.1:** Summary of the influence of infrastructure across all
 SDGs. Circles represent the individual targets of each SDG. Circles are
 coloured when they can be influenced by at least one type of
@@ -161,6 +156,8 @@ may be undertaken so as to improve water and waste sector outcomes
 through the incorporation of drainage systems and waste management
 connectivity.
 
+![](assets/Fig_1.3.2.png){width=100%}
+
 **Figure 1.3.2:** Graphical representation of the influence of networked
 and non-networked infrastructure on the targets of SDG 1. The specific
 influences related to Target 1.3 are highlighted in black
@@ -200,6 +197,8 @@ show a high degree of substitutability, while solid waste provides most
 of its contributions as a unique or complementary infrastructure
 service.
 
+![](assets/Fig_1.3.3.png){width=100%}
+
 **Figure 1.3.3: a.** Counts of the number of different infrastructure
 sectors that influence the SDG targets (where 5 is the maximum) that are
 identified as being able to influence different targets of the SDGs.
@@ -209,7 +208,7 @@ classified as unique when different sectors influence a target in a
 different way (top right) and shared when different sectors influence a
 target in the same way (bottom left) [@Thacker2019]
 
-## 
+##
 
 ## Summary
 

@@ -1,21 +1,13 @@
 ---
 title: Mini-Lecture 1.2 -- Sustainable development, the global agendas,
   and infrastructure
----
-
-# Metadata
-
-## Keywords
-
+keywords:
 -   Sustainable development
-
 -   Sustainable Development Goals (SDGs)
-
 -   Paris Agreement
-
-## Authors
-
+authors:
 -   Daniel Adshead
+---
 
 ## Short description
 
@@ -31,7 +23,7 @@ achieving a wide range of sustainable development outcomes.
 -   Identify the general principles of the Sustainable Development Goals
     and the Paris Agreement.
 
-# Lecture content {#lecture-content-1}
+# Lecture content
 
 ## Introduction
 
@@ -78,17 +70,16 @@ other. For example, environmental sustainability should not be
 considered solely in the context of providing resources to support the
 economy.
 
-![](media/image1.emf){width="6.2911395450568675in"
-height="3.9924540682414698in"}
+![](assets/Fig_1.2.1.png){width=100%}
 
 **Figure 1.2.1:** Different representations of sustainability, composed
 of social, economic, and environmental dimensions, with 'three circles
 diagram' at left [@Purvis2019]
 
 
-    In order to formalise sustainable development in a policy framework that can be applied universally across countries, the 2030 Agenda for Sustainable Development was adopted by all United Nations Member States in 2015. At the heart of the 2030 Agenda are the Sustainable Development Goals (SDGs), which are an urgent call for action by all countries in a global partnership. The 17 SDGs (Figure 1.2.2) recognise that ending poverty and other deprivations must go hand-in-hand with improving health and education, reducing inequality, and spurring economic growth – all while tackling climate change and working to preserve oceans and forests [@UnitedNations2015].
+In order to formalise sustainable development in a policy framework that can be applied universally across countries, the 2030 Agenda for Sustainable Development was adopted by all United Nations Member States in 2015. At the heart of the 2030 Agenda are the Sustainable Development Goals (SDGs), which are an urgent call for action by all countries in a global partnership. The 17 SDGs (Figure 1.2.2) recognise that ending poverty and other deprivations must go hand-in-hand with improving health and education, reducing inequality, and spurring economic growth – all while tackling climate change and working to preserve oceans and forests [@UnitedNations2015].
 
-![](media/image2.png)
+![](assets/Fig_1.2.2.png){width=100%}
 
 **Figure 1.2.2:** The 17 Sustainable Development Goals
 [@UnitedNations2015]
@@ -116,7 +107,7 @@ commitments are expected at certain intervals, including 2020, which
 marked the beginning of a new phase of action and programme
 implementation to meet ambitious emissions reductions targets.
 
-![](media/image3.tiff){width="6.5in" height="7.100321522309711in"}
+![](assets/Fig_1.2.3.png){width=100%}
 
 **Figure 1.2.3:** Key objectives of the Paris Agreement on climate
 change [@UNFCCC2017]
@@ -171,6 +162,8 @@ rights abuses. However, they may also imply trade-offs for 65 targets,
 such as those related to poverty eradication or access to food or clean
 water [@FusoNerini2019].
 
+![](assets/Fig_1.2.4.png){width=100%}
+
 **Figure 1.2.4:** Infrastructure underpinning sustainable development:
 Networked systems providing the basic services essential for the
 functioning of non-networked systems and how they both influence the
@@ -213,16 +206,12 @@ required to match the highest performing countries. To ensure these
 targets are met, infrastructure initiatives must be well-coordinated and
 aligned with development challenges faced in each national context.
 
-**a**
-
-**b**
+![](assets/Fig_1.2.5.png){width=100%}
 
 **Figure 1.2.5** Gap in infrastructure spending between current
 (baseline) trends, investment needs to match best-performing countries,
-and investment needs including achievement of the SDGs, shown as (a) %
-of GDP and (b) trillion USD [@GIHub2020].
-
-## 
+and investment needs including achievement of the SDGs, shown as (left) %
+of GDP and (right) trillion USD [@GIHub2020].
 
 ## Summary
 

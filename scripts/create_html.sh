@@ -1,12 +1,14 @@
 #!/bin/bash
 mkdir -p _build/assets
-for filename in docs/lecture*/*.md; do
+for lecture in docs/lecture_*; do
+for filename in $lecture/*.md; do
     echo Converting "$filename"
 
     MD_NAME=$(basename "$filename" .md)
-    DIR_NAME=$(dirname "$filename")
+    DIR_NAME=$lecture
     BIBFILE=$DIR_NAME/bibliography.bib
-    OUTPUT=_build
+    OUTPUT=_build/$(basename $lecture)
+    mkdir -p $OUTPUT/assets
 
     CSL=https://climatecompatiblegrowth.github.io/style/csl-style.css
     PAN=https://climatecompatiblegrowth.github.io/style/pandoc.css
@@ -17,7 +19,7 @@ for filename in docs/lecture*/*.md; do
     if test -f "$BIBFILE"; then
         # Render citations and write bibliography to HTML
         echo "" >> $MD_TMP
-        echo "## Bibliography" >> $MD_TMP
+        echo "# Bibliography" >> $MD_TMP
         sed -E -f scripts/bib.sed $BIBFILE > tmp.bib
         pandoc --standalone --css $PAN --css $CSL --citeproc $MD_TMP --bibliography tmp.bib -o $OUTPUT/$MD_NAME.html
     else
@@ -25,5 +27,6 @@ for filename in docs/lecture*/*.md; do
     fi
     cp -f $DIR_NAME/assets/* $OUTPUT/assets
     rm $MD_TMP
+done;
 done;
 # Clean up

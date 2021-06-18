@@ -1,38 +1,26 @@
 ---
 title: Mini-Lecture 4.1 -- Overview of future infrastructure demand and
   drivers
----
-
-# Metadata
-
-## Keywords
-
+keywords:
 -   Infrastructure drivers
-
 -   Infrastructure demand
-
 -   Shared Socio-economic Pathways (SSPs)
-
-## Authors 
-
+authors:
 -   Orlando Roman
-
-## Short description
+---
 
 This mini-lecture provides an overview of the future uncertainty for
 infrastructure demand, some methods to provide forecasts using scenario
 analysis, and a preliminary description of common infrastructure
 drivers.
 
-## Learning objectives
+# Learning objectives
 
 -   Recognise the importance of defining uncertainty in future
     infrastructure planning
 -   Identify potential drivers of infrastructure demand.
 
-# Lecture content
-
-## Introduction 
+# Introduction
 
 Demand for infrastructure is driven by complex future social, economic
 and technological changes, which are highly uncertain and difficult to
@@ -57,12 +45,11 @@ recognising uncertainty. Finally, we will describe the main future
 trends in developing countries and their consequences for infrastructure
 demand.
 
-![](media/image1.png){width="5.8840890201224845in" height="3.325in"}
+![](assets/Figure_4.1.1.jpg){width=100%}
 
 **Figure 4.1.1:** World Population Forecast by 2100 (based on data from
 @UNDESA2019)
-
-## Infrastructure as long-lived assets
+# Infrastructure as long-lived assets
 
 Emerging markets and developing economies will require annual
 infrastructure investments of around USD1 trillion, according to the
@@ -73,8 +60,7 @@ for more than 66% of the total investment needed by 2040. Furthermore,
 from 2016 to 2040, approximately USD 94 trillion (USD 3.7 trillion per
 year) will be needed globally.
 
-![](media/image2.png){width="4.833333333333333in"
-height="2.7555555555555555in"}
+![](assets/Figure_4.1.2.jpg){width=100%}
 
 **Figure 4.1.2:** Growing annual infrastructure investment requirements
 by sector (based on data from @GIHub2020)
@@ -92,8 +78,7 @@ trends is uncertain and hard to predict [@Thoung2016]. Therefore, a
 predict-then-act approach is not recommended for these long-lived
 assets, but rather to predict a range of possible futures in recognition
 of this uncertainty.
-
-## Scenario analysis for infrastructure investments
+# Scenario analysis for infrastructure investments
 
 During the last decades, there was an important body of literature on
 scenario analysis, as a means of developing possible futures and asking
@@ -120,9 +105,10 @@ of this forecasting exercise (presenting multiple future scenarios) as
 opposed to normative scenarios (building toward one vision of the
 future).
 
-**Figure 4.1.3:** The challenge space of SSPs [@ONeill2014]
+![](assets/Figure_4.1.3.jpg){width=100%}
 
-## Shared Socio-economic Pathways (SSPs)
+**Figure 4.1.3:** The challenge space of SSPs [@ONeill2014]
+# Shared Socio-economic Pathways (SSPs)
 
 SSPs can be differentiated from each other in terms of their challenges
 of mitigation and adaptation. The models that inform SSPs include, at a
@@ -159,8 +145,7 @@ Commonly, five SSP narratives are used and are summarised as follows
 
 Therefore, we can see how different socio-economic and technological
 projections can help us navigate the uncertain future.
-
-## Infrastructure drivers 
+# Infrastructure drivers
 
 When confronting with the difficult task of forecasting infrastructure
 demand, there are many drivers that may have a potential impact on the
@@ -198,13 +183,11 @@ using the SSP scenarios. Here, the large differences in the different
 narratives in terms of population, education, urbanisation and GDP are
 evident.
 
-![Fig. 2](media/image4.jpg){width="5.948044619422572in"
-height="7.849930008748906in"}
+![](assets/Figure_4.1.4.jpg){width=100%}
 
 **Figure 4.1.4:** Forecasting of different drivers under the SSPs
 [@Riahi2017]
-
-## Summary 
+# Summary
 
 In this mini-lecture, the complexity that the future poses on
 infrastructure was described. This mini-lecture explains the concept of

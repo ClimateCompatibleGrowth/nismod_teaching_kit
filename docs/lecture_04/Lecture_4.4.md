@@ -1,37 +1,25 @@
 ---
 title: Mini-Lecture 4.4 -- Infrastructure demand forecasts in practice
----
-
-# Metadata
-
-## Keywords
-
+keywords:
 -   Population growth
-
 -   Socio-economic development
-
 -   Infrastructure demand
-
-## Authors
-
+authors:
 -   Orlando Roman
-
-## Short description
+---
 
 This mini-lecture shows four practical examples of demand forecasting
 applications in Curaçao, Saint Lucia, Palestine and Ghana. These case
 studies provide examples of forecasting estimation based on population
 growth, tourism and economic development.
 
-## Learning objectives
+# Learning objectives
 
 -   Describe forecast estimation for different contexts
 -   Identify differences in future demand across infrastructure sectors
     in practice.
 
-# Lecture content
-
-## Overview of demand projections in practice
+# Overview of demand projections in practice
 
 This mini-lecture will showcase different applications of the National
 Infrastructure Systems MODel -- International (NISMOD-Int) for demand
@@ -48,7 +36,7 @@ infrastructure sectors: waste, electricity and water. Additionally,
 infrastructure needs are also discussed in terms of future performance
 of current systems and why they need to be restructured.
 
-## Waste generation projections for Curaçao
+# Waste generation projections for Curaçao
 
     For the waste sector in Curaçao, population, tourism and economic growth were used as future demand drivers. Expected waste generation for population and tourists were merged to construct low, moderate and high waste generation scenarios, as shown in Figure 4.4.1. The projections show a broad range of waste generation by 2050, varying between 260 and 375 thousand tonnes per year.
 
@@ -57,7 +45,7 @@ of current systems and why they need to be restructured.
 
     Figure 4.4.2: Waste demand and current supply [@Adshead2018]
 
-## Electricity demand in Saint Lucia
+# Electricity demand in Saint Lucia
 
 In the Saint Lucia case study, energy demand was also estimated based on
 population and tourism growth, as in Curaçao. Figure 4.4.3 shows three
@@ -96,7 +84,7 @@ height="3.111111111111111in"}
 **Figure 4.4.4:** Future energy needs for a moderate scenario
 [@Adshead2020]
 
-## Combining socio-economic projections and expectations in Palestine
+# Combining socio-economic projections and expectations in Palestine
 
 For a Fast Track Analysis of infrastructure provision in Palestine
 [@Ives2018], population change and economic development were used as
@@ -144,7 +132,7 @@ height="3.3119313210848644in"}
 
 **Figure 4.4.7:** Water demand projections for Palestine [@Ives2018]
 
-## Population growth and socio-economic development for Ghana
+# Population growth and socio-economic development for Ghana
 
 Population growth and how socio-economic development might change
 consumption patterns were used for water and electricity demand
@@ -177,9 +165,9 @@ height="3.8301891951006124in"}
 Figure 4.4.8: Electricity demand projections for Ghana (based on data
 from @UNDESA2019 and @WorldBank2021)
 
-## 
+#
 
-## Summary
+# Summary
 
 In this mini-lecture we described the forecasting process for
 infrastructure demand in four different countries in which the

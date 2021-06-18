@@ -8,7 +8,7 @@ authors:
 -   Sapphire Vital
 ---
 
-## Short description
+# Short description
 
 Mini-lecture 3.4 presents a case study on collecting infrastructure data
 for performance evaluation using the island of Curaçao. The mini-lecture
@@ -16,14 +16,12 @@ outlines the data collection method utilised in Curaçao's most recent
 infrastructure development assessment and provides examples of the
 infrastructure data inputted.
 
-## Learning objectives
+# Learning objectives
 
 -   Apply best practice data collection methods to a specific country
     context.
 
-# Lecture content
-
-## Introduction
+# Introduction
 
 This case study provides a look into infrastructure planning conducted
 for the island of Curaçao in 2018 [@Adshead2018a]. The case study
@@ -46,7 +44,7 @@ system. The results for the evaluation feed into scenario planning and
 strategy development in the balance of the evidence-based infrastructure
 development process employed.
 
-## Solid waste data collected
+# Solid waste data collected
 
 Data on Curaçao's solid waste system was obtained from two main sources
 and complemented by other resources: the Central Bureau of Statistics
@@ -90,7 +88,7 @@ along with the lifespans of infrastructure assets. For example, the
 design life of Curaçao's only landfill will end by 2026
 [@Adshead2018a].
 
-## Stakeholder engagement
+# Stakeholder engagement
 
 Stakeholder consultation was conducted to complement the data obtained
 from the desktop study. The desktop study brought about a list of key
@@ -114,7 +112,7 @@ of views. Most of the stakeholders agreed that Curaçao's existing waste
 sector is unsustainable and action is particularly required to ensure
 environmentally safe recycling practices and disposal of chemical waste.
 
-## Resulting map of Curaçao's waste management system
+# Resulting map of Curaçao's waste management system
 
 The data collected and the insights gained from the stakeholders
 surveyed resulted in the map of the existing waste management system
@@ -131,7 +129,7 @@ incinerated, reused or exported.
 **Figure 3.4.2:** Curaçao's existing waste management system; MT=million
 tonnes [@Fuldauer2019]
 
-## Summary
+# Summary
 
 Mini-lecture 3.4 provided an insight into the application of the
 principles laid out in mini-lectures 3.1- 3.3 to a specific country

@@ -1,5 +1,5 @@
 #!/bin/bash
-echo $1
+mkdir -p _build/assets
 for filename in docs/lecture*/*.md; do
     echo Converting "$filename"
 

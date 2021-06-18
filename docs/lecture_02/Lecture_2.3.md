@@ -1,23 +1,13 @@
 ---
 title: Mini-Lecture 2.3 - Determining key infrastructure sectors for
   mitigation action by assessing cross sectoral co-benefits
----
-
-# Metadata
-
-## Keywords
-
+keywords:
 -   Mitigation
-
 -   Co-benefits
-
 -   Sustainable Development Goals
-
-## Authors
-
+authors:
 -   Sapphire Vital
-
-## Short description
+---
 
 Mini-lecture 2.3 provides an overview of infrastructure and mitigation
 action's potential co-benefits using the United Nation's Sustainable
@@ -25,7 +15,7 @@ Development Goal (SDG) framework. Through the methodologies presented,
 the lecture highlights key infrastructure sectors for mitigation action
 and far-reaching cross-sectoral sustainable development.
 
-## Learning objectives
+# Learning objectives
 
 -   Indicate infrastructure's influence on sustainable development using
     the SDG framework
@@ -34,9 +24,7 @@ and far-reaching cross-sectoral sustainable development.
 -   Utilise the SDG framework to pinpoint key infrastructure sectors for
     mitigation action based on mutual SDG influence.
 
-# Lecture content
-
-## Introduction
+# Introduction
 
 Using the first steps of the Nationally Determined Contribution (NDC)
 target development approach from mini-lecture 2.2, we can recognise the
@@ -76,7 +64,7 @@ development, mitigation action, and sustainable development. Points of
 intersection present opportunities to utilise limited resources to reach
 multiple objectives simultaneously [@Northrop2016].
 
-## Revision of the SDG framework
+# Revision of the SDG framework
 
 The widely accepted SDG framework was developed after the end of tenure
 of the Millennium Development Goals (MDGs). The MDGs and other
@@ -94,7 +82,7 @@ guide implementation action.
 **Figure 2.3.1:** 17 Sustainable Development Goals
 [@UnitedNations2021]
 
-## Infrastructure's influence on the SDGs
+# Infrastructure's influence on the SDGs
 
 Infrastructure development has the potential to contribute significantly
 to sustainable development. Research undertaken to quantify the
@@ -127,7 +115,7 @@ initiate extensive impact.
 **Figure 2.3.2:** Number of direct and indirect infrastructure SDG
 influences [@Thacker2019]
 
-## Mitigation action's influence on the SDGs
+# Mitigation action's influence on the SDGs
 
 Similar research has been conducted on mapping mitigation with the SDGs.
 @FusoNerini2019 revealed that climate action, including both mitigation
@@ -153,7 +141,7 @@ Similar to the research on infrastructure's SDG influence, these studies
 illustrate the sustainable development impact of well-planned mitigation
 action [@Vital2020].
 
-## Identifying key mitigation action in the infrastructure system by superimposing infrastructure and mitigation SDG influence
+# Identifying key mitigation action in the infrastructure system by superimposing infrastructure and mitigation SDG influence
 
 Evaluating the overlap between infrastructure and mitigation SDG
 influence extracts the potential sustainable impact of mitigation action
@@ -190,7 +178,7 @@ mitigation action in the infrastructure sector [@Vital2019].
 **Figure 2.3.5:** SDGs influenced by each networked infrastructure
 system. Those not influenced are depicted in greyscale. [@Vital2019]
 
-## Summary  {#summary-1}
+# Summary  {#summary-1}
 
 This mini-lecture provided insight into evaluating the sustainable
 development impact of mitigation actions within networked infrastructure

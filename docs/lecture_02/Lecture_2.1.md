@@ -1,23 +1,13 @@
 ---
 title: Mini-Lecture 2.1 - Infrastructure systems and greenhouse gas
   emissions
----
-
-# Metadata
-
-## Keywords
-
+keywords:
 -   Infrastructure
-
 -   Greenhouse gas emissions
-
 -   Emissions gap
-
-## Authors
-
+authors:
 -   Sapphire Vital
-
-## Short description
+---
 
 This mini-lecture outlines global infrastructure systems' contribution
 to greenhouse gas emissions. It provides an overview of the emissions
@@ -26,7 +16,7 @@ Nationally Determined Contributions (NDC). Against this backdrop, the
 lecture highlights key reduction activities within critical
 infrastructure systems.
 
-## Learning objectives
+# Learning objectives
 
 -   Indicate infrastructure systems' contribution to greenhouse gas
     emissions
@@ -34,9 +24,7 @@ infrastructure systems.
 -   Identify effective emissions reduction solutions for infrastructure
     systems.
 
-# Lecture content
-
-## Introduction
+# Introduction
 
 Based on the most recent data, global greenhouse gas emissions reached
 approximately 59.1 GtCO~2~e (gigatonnes of carbon dioxide equivalent) in
@@ -64,7 +52,7 @@ mitigation efforts. Further, given the global presence of aging
 infrastructure, infrastructure systems offer us an ideal opportunity to
 alter our carbon intensive trajectory.
 
-## Greenhouse gas emissions from the infrastructure sector
+# Greenhouse gas emissions from the infrastructure sector
 
 Taking a more in-depth look, the infrastructure system of systems
 generates approximately three quarters of global greenhouse gas
@@ -101,7 +89,7 @@ energy consumption in the lifecycle of Information and Communication
 Technology [@Malmodin2018]; energy is consumed in the manufacture and
 operation of user equipment, access networks, and service providers.
 
-## Nationally Determined Contributions' emissions gap
+# Nationally Determined Contributions' emissions gap
 
 The Paris Agreement requires its signatories to commit to emissions
 reduction through non-binding Nationally Determined Contributions
@@ -140,7 +128,7 @@ plans and other related goals [@UnitedNations2020].
 **Figure 2.1.2**: 2030 emissions gap based on current policies
 [@UnitedNations2020]
 
-## Key emission reduction actions
+# Key emission reduction actions
 
 What actions can we take to bridge the emissions gap? Mitigation action
 involves the two broad areas of greenhouse gas emissions reduction and
@@ -212,7 +200,7 @@ activities should not be supported. Rather, emissions reduction
 initiatives should be advanced through top-down measures to redesign
 infrastructure systems and bottom-up lifestyle changes.
 
-## Summary
+# Summary
 
 The current picture of global emissions is bleak as greenhouse gas
 emissions continue to rise. Infrastructure systems are major

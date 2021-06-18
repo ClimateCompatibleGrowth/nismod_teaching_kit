@@ -1,22 +1,14 @@
 ---
 title: "Mini-Lecture 3.4- Case study: Curaçao"
+keywords:
+-   Infrastructure performance
+-   Data collection
+-   Curaçao
+authors:
+-   Sapphire Vital
 ---
 
-# Metadata 
-
-## Keywords
-
--   Infrastructure performance
-
--   Data collection
-
--   Curaçao
-
-## Authors 
-
--   Sapphire Vital
-
-## Short description 
+## Short description
 
 Mini-lecture 3.4 presents a case study on collecting infrastructure data
 for performance evaluation using the island of Curaçao. The mini-lecture
@@ -24,14 +16,14 @@ outlines the data collection method utilised in Curaçao's most recent
 infrastructure development assessment and provides examples of the
 infrastructure data inputted.
 
-## Learning objectives 
+## Learning objectives
 
 -   Apply best practice data collection methods to a specific country
     context.
 
-# Lecture content 
+# Lecture content
 
-## Introduction 
+## Introduction
 
 This case study provides a look into infrastructure planning conducted
 for the island of Curaçao in 2018 [@Adshead2018a]. The case study
@@ -54,7 +46,7 @@ system. The results for the evaluation feed into scenario planning and
 strategy development in the balance of the evidence-based infrastructure
 development process employed.
 
-## Solid waste data collected 
+## Solid waste data collected
 
 Data on Curaçao's solid waste system was obtained from two main sources
 and complemented by other resources: the Central Bureau of Statistics
@@ -67,11 +59,19 @@ Additional information on the population and per capita waste production
 were collected to compute Curaçao's future waste system's needs. Tables
 3.4.1 and 3.4.2 illustrate the core data collected [@Fuldauer2019].
 
+
 **Table 3.4.1:** Core data collected on waste infrastructure assets'
 capacity and cost [@Fuldauer2019]
 
+![](assets/Table_3.4.1.png){width=100%}
+
+
 **Table 3.4.2:** Population and per capita data collected on Curaçao's
 waste sector [@Fuldauer2019]
+
+![](assets/Table_3.4.2.png){width=100%}
+
+![](assets/Figure_3.4.1.png){width=100%}
 
 **Figure 3.4.1:** Graphical depiction of Curaçao's solid waste sector
 [@Adshead2018a]
@@ -126,10 +126,12 @@ company Selikor. Most of the island\'s waste was disposed of in the
 landfill. The balance of the waste, in decreasing order, was recycled,
 incinerated, reused or exported.
 
+![](assets/Figure_3.4.2.png){width=100%}
+
 **Figure 3.4.2:** Curaçao's existing waste management system; MT=million
 tonnes [@Fuldauer2019]
 
-## Summary 
+## Summary
 
 Mini-lecture 3.4 provided an insight into the application of the
 principles laid out in mini-lectures 3.1- 3.3 to a specific country

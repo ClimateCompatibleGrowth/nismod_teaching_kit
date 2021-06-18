@@ -1,20 +1,11 @@
 ---
 title: Mini-Lecture 3.1- Overview of needed infrastructure data
----
-
-# Metadata 
-
-## Keywords
-
+keywords:
 -   Infrastructure
-
 -   Data
-
-## Authors 
-
+authors:
 -   Sapphire Vital
-
-## Short description 
+---
 
 To begin Lecture Block 3, this mini-lecture provides an overview of the
 infrastructure data needed to assess systems' current performance. There
@@ -22,15 +13,13 @@ are various primary datasets such as supply, demand, capacity, design
 life, and carbon emissions that need to be collected to capture a clear
 picture of an infrastructure system.
 
-## Learning objectives 
+# Learning objectives
 
 -   Indicate critical data fields needed to assess current
     infrastructure systems
 -   Describe the utility of each type of data needed.
 
-# Lecture content 
-
-## Introduction 
+# Introduction
 
 Evaluating the status of current infrastructure systems is the first
 step in the evidence-based infrastructure development process
@@ -43,13 +32,12 @@ The needed data covers key technical, social, economic, and
 environmental features of infrastructure systems. The following sections
 expand on each of these areas.
 
-![](media/image1.png){width="6.3572583114610675in"
-height="2.791489501312336in"}
+![](assets/Figure_3.1.1.png){width=100%}
 
 **Figure 3.1.1:** Evidence-based infrastructure development process
 [@Adshead2018a]
 
-## Technical features of infrastructure systems: Supply versus demand
+# Technical features of infrastructure systems: Supply versus demand
 
 Infrastructure systems consist of supply and demand components. Supply
 infrastructure provides the specific infrastructure service, while
@@ -117,7 +105,7 @@ example, data may be disaggregated based on the following categories:
 hotels, cruise ships, agriculture, biomedical, pharmaceuticals, tires,
 fiberglass, and asbestos.
 
-## Technical features of infrastructure systems: Capacity and design life
+# Technical features of infrastructure systems: Capacity and design life
 
 It is important to capture the capacity of each infrastructure system.
 Capacity here refers to the quantity of service each infrastructure
@@ -176,7 +164,7 @@ significant portion of electricity to a community but be aged and in
 need of replacement within two years. The facility would therefore be a
 critical consideration when projecting future infrastructure needs.
 
-## Social features of infrastructure systems: Population served
+# Social features of infrastructure systems: Population served
 
 The number of people served by infrastructure system assets indicates
 the coverage of that particular service. Comparing the percentage of
@@ -189,7 +177,7 @@ infrastructure development strategies. For instance, a country may be
 its capital. This country therefore would allocate more resource towards
 improving the wastewater system.
 
-## Economic features of infrastructure systems: monetary value 
+# Economic features of infrastructure systems: monetary value
 
 The capital and expenditure costs of infrastructure assets are needed to
 evaluate the cost-effectiveness of varying infrastructure development
@@ -205,7 +193,7 @@ consider the Paris Agreement are the most cost-effective
 between infrastructure systems as well as low-hanging fruit such as
 improving system efficiency.
 
-## Environmental features of infrastructure systems: Carbon emissions 
+# Environmental features of infrastructure systems: Carbon emissions
 
 The carbon emissions from each infrastructure component should be
 estimated to capture the contribution of the infrastructure systems to
@@ -220,7 +208,7 @@ be obtained from national greenhouse gas inventories whose methodologies
 should reflect the recommendations and guidelines of the United Nations
 Framework Convention on Climate Change.
 
-## Summary 
+# Summary
 
 This mini-lecture provided an overview of the data required to assess
 the current performance of infrastructure systems. The data required,

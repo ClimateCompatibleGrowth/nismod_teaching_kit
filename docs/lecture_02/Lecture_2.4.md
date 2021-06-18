@@ -1,22 +1,12 @@
 ---
 title: Mini-Lecture 2.4 - Saint Lucia Case Study
----
-
-# Metadata
-
-## Keywords
-
+keywords:
 -   Case Study
-
 -   Saint Lucia
-
 -   Nationally Determined Contributions (NDCs)
-
-## Authors
-
+authors:
 -   Sapphire Vital
-
-## Short description
+---
 
 This mini-lecture, the last in Lecture block 2, brings all the
 information from the previous mini-lectures together via a case study on
@@ -24,7 +14,7 @@ the small island developing state of Saint Lucia. To do this, the case
 study applies the approach to developing infrastructure targets within
 NDCs presented in mini-lecture 2.2 step by step.
 
-## Learning objectives
+# Learning objectives
 
 -   Describe Saint Lucia's national priorities, greenhouse gas
     emissions, implementation capacity, mitigation co-benefits, and
@@ -33,9 +23,7 @@ NDCs presented in mini-lecture 2.2 step by step.
 -   Apply the approach to developing infrastructure targets within NDCs
     to a desired country context.
 
-# Lecture content
-
-## Step 1: Assess national infrastructure development priorities and identify key infrastructure systems
+# Step 1: Assess national infrastructure development priorities and identify key infrastructure systems
 
 This case study provides a walkthrough of each step (outlined in
 mini-lecture 2.2) using relevant information from Saint Lucia. The
@@ -74,7 +62,7 @@ efficiency as a critical cross-cutting development area [@GoSL2020].
 These two areas can therefore be considered as Saint Lucia's priority
 infrastructure systems.
 
-## Step 2: Estimate the mitigation potential of infrastructure systems
+# Step 2: Estimate the mitigation potential of infrastructure systems
 
 Saint Lucia's 2010 greenhouse gas inventory was conducted in line with
 the IPCC Revised Guidelines for National Greenhouse Gas Inventories
@@ -102,7 +90,7 @@ transportation sectors have immense mitigation potential.
 **Figure 2.4.2:** Sectoral breakdown of Saint Lucia's total greenhouse
 gas emissions (excluding LULUCF) [@GoSL2015a]
 
-## Step 3: Evaluate resiliency and adaptation needs within infrastructure systems
+# Step 3: Evaluate resiliency and adaptation needs within infrastructure systems
 
 Saint Lucia is vulnerable to several hazards due to its seismic
 location, position in the tropical cyclone belt, small size, mountainous
@@ -135,7 +123,7 @@ water sectors would therefore safeguard against the loss of these
 services and the indirect impact on interconnected areas such as
 economic growth and healthcare.
 
-## Steps 4-7: Assess implementation capacity; ascertain sustainable development co-benefits; finalise all information; and devise NDC targets
+# Steps 4-7: Assess implementation capacity; ascertain sustainable development co-benefits; finalise all information; and devise NDC targets
 
 [Step 4:]{.ul}
 
@@ -160,11 +148,11 @@ Lucia's INDC
   **INDC**
   ------------------------------------------ ---------------------------
   **Sustainable Development Co-benefits**    **Directly Related SDGs**
-  Investment and technological advancement
-  Employment generation
-  Fuel foreign exchange savings
-  Energy cost savings across sectors
-  Human health
+  Investment and technological advancement      8
+  Employment generation                         1, 8
+  Fuel foreign exchange savings                 8
+  Energy cost savings across sectors            1, 8
+  Human health                                  3
 
 [Step 6:]{.ul}
 
@@ -186,7 +174,7 @@ sector given international support. This percentage is an increase from
 the INDC's conditional commitment to 2% greenhouse gas emission
 reduction within the same constraints [@GoSL2021].
 
-## Step 8: Finalise the previous information addressed and present the NDC based on the requirements laid out by the Paris Agreement
+# Step 8: Finalise the previous information addressed and present the NDC based on the requirements laid out by the Paris Agreement
 
 Saint Lucia's NDC provided additional updates and all information
 required for clarity, transparency, and understanding. The following
@@ -222,7 +210,7 @@ points summarise the major updates:
     benefits to education, health, food security, water and sanitation,
     housing and social protection, economic growth, gender, and youth.
 
-## Summary
+# Summary
 
 This mini-lecture walked through the basic information required to
 develop NDCs using Saint Lucia as a case study. The mini-lecture sought

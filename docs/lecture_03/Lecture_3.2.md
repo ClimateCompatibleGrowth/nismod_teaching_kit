@@ -1,36 +1,24 @@
 ---
 title: Mini-Lecture 3.2 - Methods of gathering infrastructure data
----
-
-# Metadata 
-
-## Keywords
-
+keywords:
 -   Infrastructure
-
 -   Data Collection
-
 -   Participatory Research
-
-## Authors 
-
+authors:
 -   Sapphire Vital
-
-## Short description 
+---
 
 Mini-lecture 3.2 outlines methods of gathering data on infrastructure
 assets as well as sources of information. The mini-lecture explores the
 use of desktop studies, and stakeholder engagement in conducting
 participatory research.
 
-## Learning objectives 
+# Learning objectives
 
 -   Describe and utilise effective methods to gather infrastructure
     information.
 
-# Lecture content 
-
-## Introduction 
+# Introduction
 
 Mini-lecture 3.1 identified the fields of data that are needed to
 evaluate current infrastructure performance. Following on from this,
@@ -53,7 +41,7 @@ two key aspects of participatory research:
 -   **Stakeholder engagement**: Involves interviewing key stakeholders
     across the public and private sector and civil society.
 
-## Participatory research in the evidence-based infrastructure development process
+# Participatory research in the evidence-based infrastructure development process
 
 Participatory research methods can be utilised throughout evidence-based
 infrastructure development process from data collection to scenario
@@ -62,8 +50,8 @@ developing action plans. Figure 3.2.1 depicts how participatory
 engagement is involved in key steps in the evidence-based infrastructure
 development process.
 
-![](media/image1.png){width="5.614584426946632in"
-height="5.081609798775153in"}
+![](assets/Figure_3.2.1.png){width=100%}
+
 
 **Figure 3.2.1:** Participatory engagement involvement in the
 evidence-based infrastructure development process [@Fuldauer2019]
@@ -79,7 +67,7 @@ infrastructure. This can be achieved through desktop studies,
 stakeholder interviews, and workshops -- detailed in the following
 sections.
 
-## Desktop studies 
+# Desktop studies
 
 Desktop studies consist of conducting research to capture physical
 infrastructure data as well as develop a multi-level stakeholder map.
@@ -96,7 +84,7 @@ and international research institutions, and international development
 agencies, among others. Information from these sources may include
 primary or secondary data, or point towards the source of primary data.
 
-## Stakeholder engagement 
+# Stakeholder engagement
 
 Knowledge gained from the desktop studies guides and provides background
 knowledge for stakeholder engagement. Further, stakeholders should be
@@ -118,13 +106,14 @@ set of questions developed for semi-structured interviews to assess
 infrastructure development in line with the Paris Agreement and
 Sustainable Development Goals.
 
-![](media/image2.emf){width="6.145833333333333in" height="4.34375in"}
+![](assets/Figure_3.2.2.png){width=100%}
+
 
 **Figure 3.2.2:** Questions used to guide semi-structured interviews on
 infrastructure development in line with the Paris Agreement and the
 Sustainable Development Goals [@Vital2019]
 
-## Summary 
+# Summary
 
 Mini-lecture 3.2 provided an overview of methods to gather
 infrastructure information, grounded in participatory processes. The

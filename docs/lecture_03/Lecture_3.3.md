@@ -1,20 +1,13 @@
 ---
 title: Mini-Lecture 3.3 -- Estimating infrastructure carbon emissions
+keywords:
+-   Infrastructure Systems
+-   Carbon Emissions
+authors:
+-   Sapphire Vital
 ---
 
-# Metadata 
-
-## Keywords
-
--   Infrastructure Systems
-
--   Carbon Emissions
-
-## Authors 
-
--   Sapphire Vital
-
-## Short description 
+## Short description
 
 Following mini-lecture 3.2, this mini-lecture provides an insight into
 estimating infrastructure carbon emissions. Ideally, carbon emissions
@@ -23,13 +16,13 @@ cases the data is not available or insufficient and infrastructure
 emissions need to be estimated. This mini-lecture outlines a methodology
 for calculating these emissions.
 
-## Learning objectives 
+## Learning objectives
 
 -   Estimate gross carbon emissions of infrastructure systems.
 
-# Lecture content 
+# Lecture content
 
-## Gross carbon emissions calculation method 
+## Gross carbon emissions calculation method
 
 Mini-lecture 3.3 presents the method for estimating gross emissions
 utilised by @Adshead2018. This simplified method to estimate the gross
@@ -83,18 +76,18 @@ energy, transportation, wastewater and waste infrastructure systems.
 Where minimum, median, and/or maximum factors are given, estimates can
 be made using the median or average value.
 
-## Energy 
+## Energy
 
 The capacity factors for the energy system are described as the
 lifecycle emissions and are measured in gCO~2~eq/kWh as shown in Figure
 3.3.1 below.
 
-![](media/image1.png){width="6.5in" height="3.6277777777777778in"}
+![](assets/Figure_3.3.1.png){width=100%}
 
 **Figure 3.3.1:** Emissions of electricity supply technologies
 [@Schlomer2014]
 
-## Transport 
+## Transport
 
 The capacity factor for the transportation system is noted as
 gCO~2~eq/p-km (grams of carbon dioxide equivalent per passenger
@@ -104,7 +97,7 @@ traversed by passengers using a particular transportation mode.
 depicted in Figure 3.3.2 below, and expected future passenger and
 freight transportation.
 
-![](media/image2.png){width="6.5in" height="4.841666666666667in"}
+![](assets/Figure_3.3.2.png){width=100%}
 
 **Figure 3.3.2:** Passenger transport emissions factors for commercially
 available technologies [@Schlomer2014]
@@ -125,22 +118,24 @@ carbon dioxide equivalent per tonne of Municipal Solid Waste) (see
 Figure 3.3.3). This factor would be used to calculate gross carbon
 emissions.
 
-![](media/image3.png){width="6.5in" height="3.0284722222222222in"}
+![](assets/Figure_3.3.3.png){width=100%}
+
 
 **Figure 3.3.3:** Depiction of the capacity factors for waste treatment
 technologies [@Schlomer2014]
 
-## 
+##
 
 The capacity factor for wastewater is stated in tCO~2~eq/tBOD~5~ (tonnes
 of carbon dioxide equivalent per tonne of biological oxygen demand) as
 seen in Figure 3.3.4 below.
 
-![](media/image4.png){width="6.5in" height="1.4111111111111112in"}
+![](assets/Figure_3.3.4.png){width=100%}
+
 
 **Figure 3.3.4:** Wastewater capacity factor [@Schlomer2014].
 
-## Summary 
+## Summary
 
 Mini-lecture 3.3 illustrated a simple method for estimating the carbon
 emissions of infrastructure systems in lieu of detailed in-country data.

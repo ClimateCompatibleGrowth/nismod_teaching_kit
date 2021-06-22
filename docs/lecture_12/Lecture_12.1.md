@@ -1,21 +1,11 @@
 ---
 title: Mini-Lecture 12.1 - What are the future challenges?
----
-
- 
-
 keywords:
-
 -   Climate change
-
 -   Socio-economic change
-
 -   Future risk
-
 authors:
-
 -   Jasper Verschuur
-
 ---
 
 This lecture introduces the future challenges faced by decision-makers
@@ -24,16 +14,14 @@ drivers that can influence risk in the future: (1) climate change, (2)
 environmental change, (3) socio-economic change and (4) changes in
 societal dependencies on infrastructure.
 
-# Learning objectives 
+# Learning objectives
 
 -   Understand how risk has changed over time
 -   Identify the different drivers of changing risk
 -   Learn what dependencies and feedbacks exist between infrastructure
     and society.
 
- 
-
-# Introduction 
+# Introduction
 
 We have seen in the previous lectures that risk is defined as the
 interplay between the hazard, the population and assets that are
@@ -57,16 +45,15 @@ for decision-makers to justify and inform investment decisions.
 In this lecture we will briefly introduce the four main drivers of
 change in future risk:
 
-> \(1\) Changes in the climate which may cause the frequency and
-> magnitude of hazards to change
->
-> \(2\) Changes in the environment which may cause the frequency and
-> magnitude of hazards to change
->
-> \(3\) Changes in the use of existing infrastructure systems and need
-> for new infrastructure systems due to socio-economic changes
->
-> \(4\) Changes in societal dependencies with regards to infrastructure.
+1. Changes in the climate which may cause the frequency and
+magnitude of hazards to change
+2. Changes in the environment which may cause the frequency and
+magnitude of hazards to change
+3. Changes in the use of existing infrastructure systems and need
+for new infrastructure systems due to socio-economic changes
+4. Changes in societal dependencies with regards to infrastructure.
+
+![](assets/Figure_12.1.1.png){width=100%}
 
 **Figure 12.1.1:** Global reported natural disaster by type between
 1970-2019 [@owidnaturaldisasters]
@@ -97,11 +84,13 @@ specific and needs localized analysis in order to capture this.
 In mini-lectures 12.2-4, we will investigate this problem in more detail
 and illustrate how to model future hazards.
 
+![](assets/Figure_12.1.2.png){width=100%}
+
 **Figure 12.1.2:** The change in river flood timing for Europe over the
 period 1960-2010, including the four hotspot areas
 [@TheIrishTimes2017]
 
-# Introduction to environmental drivers 
+# Introduction to environmental drivers
 
 Apart from changes in the climate system that might affect the
 occurrence of natural hazards, changes in environmental factors can also
@@ -132,6 +121,8 @@ after deforestation happened [@Lehmann2019].
 
 These two examples highlight that changing land-use patterns might have
 unintended consequences on the occurrence of hazards.
+
+![](assets/Figure_12.1.3.png){width=100%}
 
 **Figure 12.1.3:** The effect of deforestation on the occurrence of
 landslides in four regions worldwide [@Lehmann2019]
@@ -173,10 +164,12 @@ areas that demand more infrastructure services. Figure 12.1.4 shows the
 rapid urban expansion in multiple cities between 1975 and 2015, showing
 how cities are expanding in different ways.
 
+![](assets/Figure_12.1.4.jpg){width=100%}
+
 **Figure 12.1.4:** The urban expansion over time for cities in Sri
 Lanka, Viet Nam, China, Bangladesh, Israel, Pakistan [@EspaceMondial]
 
-# Introduction to infrastructure dependencies 
+# Introduction to infrastructure dependencies
 
 The aforementioned drivers of risk are mainly external drivers, meaning
 that external processes determine whether an area or asset will
@@ -197,12 +190,14 @@ Figure 12.1.5 below, showing that increasing the reservoir storage and
 water supply can lead to an increasing dependency and vulnerability when
 the reservoir levels are low, resulting in larger economic damages.
 
+![](assets/Figure_12.1.5.png){width=100%}
+
 **Figure 12.1.5:** A schematic diagram of the reservoir effect as a
 result of positive feedback processes between infrastructure and
 society, which can increase the vulnerability of the dependent
 population [@DiBaldassarre2018]
 
-# Summary 
+# Summary
 
 In this lecture, we have given a brief introduction to how risk changes
 over time and identified the four main drivers of future hazard risk.

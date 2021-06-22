@@ -1,22 +1,11 @@
 ---
-title: Mini-Lecture 11.2 - Calculating direct asset damage and
-  interruptions to network flows
----
-
-
-
+title: Mini-Lecture 11.2 - Calculating direct asset damage and interruptions to network flows
 keywords:
-
 -   Direct damages
-
 -   Indirect damages
-
 -   Damage assessment for transport sector
-
 authors:
-
 -   Olivia Becher
-
 ---
 
 This mini-lecture discusses the difference between direct and indirect
@@ -26,12 +15,8 @@ assessments for infrastructure.
 
 # Learning objectives
 
--   Conceptually understand the difference between direct and indirect
-    infrastructure damages
--   Be able to calculate direct and indirect damages for the transport
-    sector.
-
-
+- Conceptually understand the difference between direct and indirect infrastructure damages
+- Be able to calculate direct and indirect damages for the transport sector.
 
 # Introduction
 
@@ -67,6 +52,8 @@ countries had the highest multi-hazard exposures. It was found that
 one hazard with a 1 in 250 return period and \~7.5% of the road and
 railway assets are exposed to a 1 in 100-year flood event.
 
+![](assets/Figure_11.2.1.png){width=100%}
+
 **Figure 11.2.1:** Global multi-hazard transport infrastructure exposure
 [@Koks2019]
 
@@ -90,6 +77,8 @@ Figure 11.2.2 represents the electricity network and its connections to
 other infrastructures. This shows how the consequences of failure of a
 given electricity asset may have cascading impacts to other
 infrastructures such as telecommunications.
+
+![](assets/Figure_11.2.2.png){width=100%}
 
 **Figure 11.2.2:** Illustration of the structure of electricity
 infrastructure networks and its interconnections with other sectors
@@ -122,6 +111,8 @@ to repair it. However, there is also a cost associated with re-directing
 the transportation of goods via the alternative route. The latter cost
 is the indirect cost of disruption.
 
+![](assets/Figure_11.2.3.png){width=100%}
+
 **Figure 11.2.3:** Illustration of how the flow of goods and services
 would have to be rerouted during a flood, and hence how the costs of the
 flood damage go beyond the cost of reconstructing the section of road
@@ -134,6 +125,8 @@ future flooding was quantified by @Pant2018b in Tanzania. Figure 11.2.4
 shows the rerouted Annual Average Daily Flow (AADF) of freight for road
 network links (2016) and bottom right shows the projected cost of
 rerouting for road network links (2030).
+
+![](assets/Figure_11.2.4.png){width=100%}
 
 **Figure 11.2.4:** The rerouted AADF of goods per section of road in
 Tanzania [@Pant2018b]

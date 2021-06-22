@@ -1,20 +1,10 @@
 ---
-title: Mini-Lecture 11.1 - Introduction to calculating damage and
-  disruption
----
-
-
-
+title: Mini-Lecture 11.1 - Introduction to calculating damage and disruption
 keywords:
-
 -   Direct and indirect damages
-
 -   Infrastructure service disruptions
-
 authors:
-
 -   Olivia Becher
-
 ---
 
 This mini-lecture provides an overview of the full range of impacts of
@@ -30,8 +20,6 @@ people and the economy.
 -   To recognise the importance of considering the indirect impacts of
     infrastructure failures, as well as disruptions to people and the
     economy, for risk analysis.
-
-
 
 # Introduction
 
@@ -65,6 +53,8 @@ demonstrating the importance of accounting for the full range of
 consequences of asset failure when quantifying impacts to populations
 and businesses.
 
+![](assets/Figure_11.1.1.png){width=100%}
+
 **Figure 11.1.1:** Illustration of the range of types of impact of flood
 damages, including direct impacts and indirect impacts to assets that
 are dependent on affected business facilities or infrastructure services
@@ -90,6 +80,8 @@ costs.
 
 Figure 11.1.2 below shows the relationship between load (e.g., flood
 depth) and economic damages [@Lamb2010].
+
+![](assets/Figure_11.1.2.jpg){width=100%}
 
 **Figure 11.1.2:** Schematic showing the relationship between a given
 load and economic damages, a distribution of potential economic damages
@@ -155,8 +147,7 @@ which are connected directly to the customers to deliver the resources
 generated at the source nodes. Quantifying the extent of infrastructure
 disruptions to people will be discussed in depth in mini-lecture 11.3.
 
-![image](media/image2.jpeg){width="4.159428040244969in"
-height="4.097772309711286in"}
+![](assets/Figure_11.1.3.jpg){width=100%}
 
 **Figure 11.1.3:** Illustration of how a hazard goes on to affect
 dependent populations and how the complex relationship between
@@ -169,7 +160,7 @@ Various economic activities are also affected by disruptions to
 infrastructure services.
 
 One example of this is the impact of disruptions to port infrastructure
-- e.g. caused by hurricanes - on supply chains. Such supply chain
+e.g. caused by hurricanes - on supply chains. Such supply chain
 disruptions could go on to have cascading repercussions on manufacturing
 operations, which may impact other dependent economic activities and/or
 end-users.

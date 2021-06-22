@@ -1,20 +1,10 @@
 ---
-title: Mini-Lecture 11.4 - Calculating economic consequence of
-  disruptions to businesses
----
-
-
-
-**Keywords**
-
--   Disruptions to businesses
-
--   Macro-economic losses
-
+title: Mini-Lecture 11.4 - Calculating economic consequence of disruptions to businesses
+keywords:
+- Disruptions to businesses
+- Macro-economic losses
 authors:
-
--   Olivia Becher
-
+- Olivia Becher
 ---
 
 This mini-lecture covers how economic activities are dependent on
@@ -26,12 +16,10 @@ types and kinds of economic activity.
 
 # Learning objectives
 
--   To recognise how various economic activities depend on
-    infrastructure services
--   To quantify the macro-economic impacts of infrastructure
-    disruptions.
-
-
+- To recognise how various economic activities depend on
+infrastructure services
+- To quantify the macro-economic impacts of infrastructure
+disruptions.
 
 # Introduction
 
@@ -40,19 +28,19 @@ services. When infrastructure disruptions impact businesses, they have
 cascading macro-economic impacts. This can occur in a variety of ways,
 three examples are outlined below:
 
-1.  Many factory operations require a reliable supply of water and
-    electricity. If factory operations are disrupted due to power or
-    water supply cuts, this may cause further ripple effects through
-    supply chains [@Koks2019]
+1. Many factory operations require a reliable supply of water and
+electricity. If factory operations are disrupted due to power or
+water supply cuts, this may cause further ripple effects through
+supply chains [@Koks2019]
 
-2.  As a key node of supply chains, when port infrastructure is
-    disrupted, the flow of goods will also be disrupted, possibly across
-    large scales [@Verschuur2021]
+2. As a key node of supply chains, when port infrastructure is
+disrupted, the flow of goods will also be disrupted, possibly across
+large scales [@Verschuur2021]
 
-3.  A more nuanced example would be the potential impact of future
-    droughts on cooling water shortages to thermo-electric power plants,
-    and the potential consequences of that for increasing electricity
-    prices in the future [@Byers2020].
+3. A more nuanced example would be the potential impact of future
+droughts on cooling water shortages to thermo-electric power plants,
+and the potential consequences of that for increasing electricity
+prices in the future [@Byers2020].
 
 It is important to understand the full cost of infrastructure service
 disruptions to prioritise funding for adaptation. This section first
@@ -118,7 +106,7 @@ showed that daily direct output flow losses could increase up to a
 factor of 33 and total output flow losses up to a factor of 3, when
 including electricity failure in the loss assessment.
 
-![Fig. 6](media/image1.png){width="6.260416666666667in" height="5.1in"}
+![](assets/Figure_11.4.1.png){width=100%}
 
 **Figure 11.4.1:** Projected reduction in employment due to extreme
 flooding at business asset locations (left) and at both business asset

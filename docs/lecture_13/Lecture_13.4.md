@@ -1,24 +1,13 @@
 ---
 title: Mini-Lecture 13.4 -- Future infrastructure needs in practice
----
-
-
-
 keywords:
-
 -   Infrastructure needs
-
 -   St Lucia
-
 -   Curaçao
-
-authors: 
-
+authors:
 -   Lena Fuldauer
-
 -   Daniel Adshead
-
---- 
+---
 
 This mini-lecture provides practical examples of identifying future
 infrastructure needs, based on population growth, tourism growth and
@@ -35,15 +24,13 @@ islands of Curaçao and Saint Lucia.
 -   Explain how future infrastructure exposure for one asset can been
     calculated.
 
- 
-
 # Introduction to case study examples on future infrastructure needs
 
-In the previous mini-lectures 13.1 -13.3, we have explored the drivers
+In the previous mini-lectures 13.1-13.3, we have explored the drivers
 and ways in which we can predict the future need for infrastructure,
 different usage of infrastructure, and the different ways future
 infrastructure might be provided, which all include a set of different
-methods (see mini-lectures 13.1 - 13.3).
+methods (see mini-lectures 13.1-13.3).
 
 Here, we show examples from practical applications of these methods at
 the national scale, using examples of the Small Island Developing States
@@ -51,25 +38,20 @@ the national scale, using examples of the Small Island Developing States
 cross-sectoral examples and exemplify the different methods of
 predicting future infrastructure needs, including:
 
-i)  Future changes in infrastructure demand: population, tourism,
-    economic growth
-
-ii) Changes in the use of infrastructure due to climate change (using an
+1. Future changes in infrastructure demand: population, tourism, economic growth
+2. Changes in the use of infrastructure due to climate change (using an
     example of how future climate projections in the dry season reduce
     river flow and thereby reduce the capacity of existing and future
     planned treatment plants)
-
-iii) Location-specific future infrastructure assets and related
-     infrastructure needs
-
-iv) Location-specific future infrastructure assets and their exposure to
+3. Location-specific future infrastructure assets and related infrastructure needs
+4. Location-specific future infrastructure assets and their exposure to
     future hazards.
 
 # Estimating future infrastructure needs using population and tourism projections in practice
 
 As described in mini-lecture 13.1, future infrastructure needs can be
 estimated using changes in population or economic growth, amongst other
-factors [@Otto2016; @Hall2016; @Ives2017]. Quantitative changes in
+factors [@Otto2016;@Hall2016;@Ives2017]. Quantitative changes in
 these long-term trends can be identified using, for example, information
 on national economic or demographic projections, and can be complemented
 with expert judgement.
@@ -86,12 +68,14 @@ which reflect various economic growth potentials for Curaçao, were
 utilised in order to create a low, moderate, and high growth scenario
 capturing future uncertainty (Figure 13.4.1).
 
+![](assets/Figure_13.4.1.png){width=100%}
+
 **Figure 13.4.1:** Curaçao's future waste scenarios until 2050
 [@Fuldauer2019]. Calculations were based on waste generation factors
 for SIDS
-[@[Mohee2015](https://www.sciencedirect.com/science/article/pii/S095965261930678X#bib66); @[WorldBank2012](https://www.sciencedirect.com/science/article/pii/S095965261930678X#bib110)],
+[@Mohee2015](https://www.sciencedirect.com/science/article/pii/S095965261930678X#bib66);[@WorldBank2012](https://www.sciencedirect.com/science/article/pii/S095965261930678X#bib110)],
 residential growth scenarios
-[@[terBals2014]](https://www.sciencedirect.com/science/article/pii/S095965261930678X#bib6)
+[@terBals2014](https://www.sciencedirect.com/science/article/pii/S095965261930678X#bib6)
 and tourism growth scenarios.
 
 Various infrastructure strategies were then created (see mini-lecture
@@ -127,11 +111,17 @@ infrastructure strategy, which includes adaptation to chronic river
 runoff, can help eliminate the shortage and ensure continuous water
 supply, including in the dry season (Figure 13.4.4).
 
+![](assets/Figure_13.4.2.png){width=100%}
+
 **Figure 13.4.2:** Inaction with respect to water infrastructure into
 the future
 
+![](assets/Figure_13.4.3.png){width=100%}
+
 **Figure 13.4.3:** Business-as-usual investment in infrastructure into
 the future leaves peak shortage in the dry season
+
+![](assets/Figure_13.4.4.png){width=100%}
 
 **Figure 13.4.4:** A national infrastructure strategy, including water
 loss reductions and infrastructure investments, can be a useful strategy
@@ -155,6 +145,8 @@ A database of five large infrastructure investments, which are to be
 constructed in the coming years, was provided by the Government of Saint
 Lucia (Figure 13.4.5)
 
+![](assets/Figure_13.4.5.png){width=100%}
+
 **Figure 13.4.5:** Location of new infrastructure investments in Saint
 Lucia [@Adshead2020]
 
@@ -168,6 +160,8 @@ shown in Figure 13.4.6 below. As described in detail in
 conflicts of resources and space with the cruise ship arrivals port in
 the capital Castries. The analysis calculated the estimated
 infrastructure needs of the port, which are summarised in Figure 13.4.6.
+
+![](assets/Figure_13.4.6.png){width=100%}
 
 **Figure 13.4.6:** Estimated infrastructure need from proposed
 relocation and expansion of cargo port [@Adshead2020]
@@ -196,9 +190,7 @@ the critical services it provides for more than 70 Sustainable
 Development Goal (SDG) targets are potentially exposed
 [@Fuldauer2021b].
 
-![](media/image7.png){width="1.8355818022747157in"
-height="1.6744181977252843in"}![](media/image8.png){width="5.611111111111111in"
-height="4.957364391951006in"}
+![](assets/Figure_13.4.7.png){width=100%}
 
 **Figure 13.4.7:** New proposed port in Saint Lucia exposed to storm
 surge, flash flood and landslides [@Adshead2020]
@@ -209,15 +201,11 @@ Superimposing the future proposed road data with the hazard information,
 we find that in terms of metres and percentage of the total road length
 exposed:
 
-> • 1% of total km exposed to storm surge (4-metre)
->
-> • 6% exposed to flash floods
->
-> • 4% exposed to landslides
+- 1% of total km exposed to storm surge (4-metre)
+- 6% exposed to flash floods
+- 4% exposed to landslides
 
-![](media/image9.png){width="1.8886406386701662in"
-height="1.4534886264216973in"}![](media/image10.png){width="5.708333333333333in"
-height="5.5in"}
+![](assets/Figure_13.4.8.png){width=100%}
 
 **Figure 13.4.8:** Proposed north-south road (red) potentially exposed
 to storm surges, flash floods and landslides [@Adshead2020]

@@ -1,21 +1,11 @@
 ---
 title: Mini-Lecture 13.3 - Changes in infrastructure dependencies
----
-
-
-
 keywords:
-
 -   Society
-
 -   Feedbacks
-
 -   Planning decisions
-
 authors:
-
 -   Jasper Verschuur
-
 ---
 
 In this lecture, we will look at three additional critical factors that
@@ -33,8 +23,6 @@ intra-infrastructure feedbacks.
     being used
 -   Identify possible infrastructure pathways and complementary
     infrastructure investment needs.
-
- 
 
 # Introduction
 
@@ -97,6 +85,8 @@ sustainability efforts.
 The pandemic therefore will reshape the way we think and use
 infrastructure for many years to come.
 
+![](assets/Figure_13.3.1.png){width=100%}
+
 **Figure 13.3.1:** An illustration of the rapid increase in digitisation
 of customer interactions due to the COVID-19 pandemic
 [@McKinsey&Company2020]
@@ -138,6 +128,8 @@ migration from rural to urban areas.
 Therefore, it is essential to consider what the wider feedback processes
 are between infrastructure provision and society.
 
+![](assets/Figure_13.3.2.png){width=100%}
+
 **Figure 13.3.2:** An illustration of the levee effect on the right-hand
 side, showing how the construction of levees can result in low risk
 compared to the situation without levees, but can cause very extreme
@@ -178,6 +170,8 @@ rapidly developing regions in particular, exploration of various
 pathways is essential to prevent lock-in patterns of unsustainable
 infrastructure provision.
 
+![](assets/Figure_13.3.3.png){width=100%}
+
 **Figure 13.3.3:** The costs of achieving broadband universal services
 in six countries in Africa for four infrastructure provision pathways
 (3G vs 4G and fixed vs wireless) [@Oughton2021]
@@ -214,10 +208,12 @@ feedbacks are to be expected, and how complementary infrastructure
 investment can be made, help to roll out infrastructure services in a
 more efficient way.
 
+![](assets/Figure_13.3.4.jpg){width=100%}
+
 **Figure 13.3.4:** The portfolio of planned projects under the Belt and
 Road Initiative [@Brookings2019]
 
-# Summary 
+# Summary
 
 In the lecture we discussed additional critical factors for sustainable
 and efficient future infrastructure development, which including taking

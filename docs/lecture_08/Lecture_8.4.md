@@ -1,22 +1,11 @@
 ---
-title: Mini-Lecture 8.4 -- Hazard exposure and vulnerability analysis in
-  practice for high-level decision-making
----
-
-
-
+title: Mini-Lecture 8.4 -- Hazard exposure and vulnerability analysis in practice for high-level decision-making
 keywords:
-
--   # Flood maps
-
--   # Road networks
-
--   # Flood vulnerabilities
-
+- Flood maps
+- Road networks
+- Flood vulnerabilities
 authors:
-
--   Raghav Pant
-
+- Raghav Pant
 ---
 
 This mini-lecture introduces some basic understanding of how hazard
@@ -28,14 +17,10 @@ network intersections.
 
 # Learning objectives
 
--   # Show exposure analysis with a road network layer and a flood hazard layer
-
--   # Measure network vulnerabilities
-
+- Show exposure analysis with a road network layer and a flood hazard layer
+- Measure network vulnerabilities
 -   Highlight vulnerable network locations (hotspots) at the national
     scale.
-
- 
 
 # Road network exposure analysis
 
@@ -51,6 +36,8 @@ We present a simplified exposure and vulnerability assessment for the
 national scale road network in Uruguay, for which we know the average
 daily traffic count of vehicles along different road sections (see
 Figure 8.4.1).
+
+![](assets/Figure_8.4.1.png){width=100%}
 
 **Figure 8.4.1:** Spatial representation of the national road network in
 Uruguay showing the average daily vehicle counts along different roads
@@ -70,6 +57,8 @@ such as QGIS [@QGIS_software] or using spatial functions in Python
 programming language, which are covered in the Hands-on sessions 5 and
 6.
 
+![](assets/Figure_8.4.2.png){width=100%}
+
 **Figure 8.4.2:** Overlaying a 1 in 1000 flood hazard map with a road
 network and identifying locations of flood exposures
 
@@ -88,6 +77,8 @@ All these insights are shown in the Figure 8.4.3 for a particular road
 overlaid with the 1 in 1000-year return period flood map. See Figure
 8.4.3 caption for the exposure and vulnerability outcomes highlighted
 for this road network section.
+
+![](assets/Figure_8.4.3.png){width=100%}
 
 **Figure 8.4.3:** Result of overlaying a road with the flood outline.
 Here we see the length of the road flooded (road_flood), and flood depth
@@ -125,6 +116,8 @@ can be subjected to detailed site-specific investigations, building more
 complex hazard and structural models. This would be a cost-effective way
 of prioritising resources for risk identification and disaster
 resilience planning.
+
+![](assets/Figure_8.4.4.png){width=100%}
 
 **Figure 8.4.4:** Identification of critical road hotspots in Uruguay in
 terms of their exposures and potential traffic counts disrupted due to a
@@ -165,7 +158,7 @@ here for the reader to understand what to look forward to:
     more complete picture of vulnerabilities and risks. This is
     discussed across Lecture 11 and Hands-on 6.
 
-# Summary {#summary-1}
+# Summary
 
 In this mini-lecture we demonstrated a very simplistic hazard exposure
 and vulnerability analysis. We used a river flooding exceedance

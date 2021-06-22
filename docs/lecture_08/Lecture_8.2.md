@@ -1,21 +1,11 @@
 ---
 title: Mini-Lecture 8.2 -- Key concepts and definitions
----
-
-
-
 keywords:
-
 -   Infrastructure networks
-
 -   Risks
-
 -   Resilience
-
 authors:
-
 -   Raghav Pant
-
 ---
 
 This mini-lecture introduces the concept of infrastructure networks. It
@@ -25,11 +15,9 @@ of infrastructure resilience is also introduced in the lecture.
 
 # Learning objectives
 
--   # Explain the definition and concept of an infrastructure
-
--   # Define and conceptualise infrastructure risk as a combination of hazard, vulnerability and exposure, showing the role of networks in risk propagations
-
--   # Explain the relevant definitions in understanding infrastructure resilience.
+- Explain the definition and concept of an infrastructure
+- Define and conceptualise infrastructure risk as a combination of hazard, vulnerability and exposure, showing the role of networks in risk propagations
+- Explain the relevant definitions in understanding infrastructure resilience.
 
 
 
@@ -38,10 +26,10 @@ of infrastructure resilience is also introduced in the lecture.
 This lecture specifically looks at the infrastructures included within
 energy, transport, water, waste, and telecommunications sectors.
 
-These infrastructures have been defined as '*the collection and
+These infrastructures have been defined as "*the collection and
 interconnection of all physical assets and human systems that are
 operated in a coordinated way to provide a particular infrastructure
-service'* [@Hall2016]. This definition emphasises the importance of
+service*" [@Hall2016]. This definition emphasises the importance of
 the services that infrastructures provide, such as energy, water,
 mobility or data connectivity, which are critical for the survival and
 security of societies and economies. Hence, the term *critical
@@ -68,8 +56,7 @@ provides goods and services to individual members of the population,
 households, business and industrial installations (see Figure 8.2.1)
 [@THACKER201730].
 
-![](media/image1.emf){width="4.739051837270341in"
-height="3.3789009186351704in"}
+![](assets/Figure_8.2.1.png){width=100%}
 
 **Figure 8.2.1:** System-of-systems representation of interdependent
 hierarchical infrastructure networks connected to customers and the
@@ -77,46 +64,45 @@ economy [@THACKER201730]
 
 # The notion of hazard exposures, vulnerabilities and risks
 
-    Critical infrastructures are exposed to hazards, which introduce vulnerabilities and risks to such systems. We first provide some definitions here, relevant to developing our understanding of infrastructure risks. All definitions are from the Intergovernmental Panel on Climate Change (IPCC)[@field2014climate].
+Critical infrastructures are exposed to hazards, which introduce vulnerabilities and risks to such systems. We first provide some definitions here, relevant to developing our understanding of infrastructure risks. All definitions are from the Intergovernmental Panel on Climate Change (IPCC)[@field2014climate].
 
 -   Hazard refers to the possible future occurrence of natural or human-induced physical events that may have adverse effects on vulnerable and exposed elements. For example, a flood that breaches flood defences and damages roads would be classified as a hazard. If there were no breaches and damages, then the same event would not be classified as a hazard. It is a hazard only when it threatens systems.
 
--   Exposure refers to the inventory of elements in an area in which hazard events may occur. For example, the numbers of houses, roads, railway lines, electricity substations within a flooded area would be considered as exposed to a flooding hazard. 
+-   Exposure refers to the inventory of elements in an area in which hazard events may occur. For example, the numbers of houses, roads, railway lines, electricity substations within a flooded area would be considered as exposed to a flooding hazard.
 
--   Vulnerability refers to the propensity of exposed elements such as human beings, their livelihoods, and assets to suffer adverse effects when impacted by hazard events. For example, the inability of people to get access to markets because their nearest bridge gets washed away during a flood makes them vulnerable to aflooding hazard. 
+-   Vulnerability refers to the propensity of exposed elements such as human beings, their livelihoods, and assets to suffer adverse effects when impacted by hazard events. For example, the inability of people to get access to markets because their nearest bridge gets washed away during a flood makes them vulnerable to aflooding hazard.
 
--   Risk is a combination of the hazard, exposure, and vulnerability. It is often represented as a probability of occurrence of hazardous events or trends multiplied by the consequences of impacts to vulnerable systems if these events or trends occur [@oppenheimer2015emergent]. 
+-   Risk is a combination of the hazard, exposure, and vulnerability. It is often represented as a probability of occurrence of hazardous events or trends multiplied by the consequences of impacts to vulnerable systems if these events or trends occur [@oppenheimer2015emergent].
 
-```{=html}
-<!-- -->
-```
-    Figure 8.2.2 shows how infrastructure risk is conceptualised as a combination of hazards, exposures and vulnerabilities, and the different types of elements being measured in quantifying the different components of risks.
+Figure 8.2.2 shows how infrastructure risk is conceptualised as a combination of hazards, exposures and vulnerabilities, and the different types of elements being measured in quantifying the different components of risks.
 
-    Figure 8.2.2: Conceptualising infrastructure risks as a combination of hazard, exposures and vulnerabilities
+![](assets/Figure_8.2.2.png){width=100%}
 
-# Conceptualising infrastructure layers 
+**Figure 8.2.2:** Conceptualising infrastructure risks as a combination of hazard, exposures and vulnerabilities
+
+# Conceptualising infrastructure layers
 
 Broadly, all infrastructure networks can be conceptualised as
 collections of three types of layers [@THACKER201730;
 @pant2018critical]:
 
-> \(1\) *Source layers:* Where resources are generated -- for example,
-> power generation sites, rivers and reservoirs for water
->
-> \(2\) *Intermediate layers:* Where resources are stored and (or)
-> converted to be delivered further downstream -- for example,
-> electricity transmission substations and cables, ports, water
-> treatment plants
->
-> \(3\) *Sink layers:* Which resources are connected to the final
-> customers (people, businesses, systems) who receive the infrastructure
-> service -- for example, electricity, gas and water distributions
-> systems connected to homes, local roads.
+1. *Source layers:* Where resources are generated - for example,
+ power generation sites, rivers and reservoirs for water
+
+2. *Intermediate layers:* Where resources are stored and (or)
+ converted to be delivered further downstream - for example,
+ electricity transmission substations and cables, ports, water
+ treatment plants
+
+3. *Sink layers:* Which resources are connected to the final
+ customers (people, businesses, systems) who receive the infrastructure
+ service - for example, electricity, gas and water distributions
+ systems connected to homes, local roads.
 
 Figure 8.2.3. (see next section) shows a graphical representation of a
 multi-scale hierarchical infrastructure network. We note that these
 layers are not necessarily rigid and in many cases some assets and
-layers might serve as source, intermediate and sink -- for example,
+layers might serve as source, intermediate and sink - for example,
 transport layers are all sources (origins), intermediates and sinks
 (destinations) to facilitate journeys for people and goods.
 
@@ -144,6 +130,8 @@ could knock out telecommunications, water, and railways network using
 the electricity, thereby creating a cascading effect of much larger
 disruptions than the original failure which was only that of the
 electricity substation.
+
+![](assets/Figure_8.2.3.png){width=100%}
 
 **Figure 8.2.3:** Graphical representation of the hazard exposures and
 disruption propagation effects seen in multi-scale hierarchical
@@ -187,8 +175,7 @@ aspects of resilience are enhanced include [@hickford2018resilience]:
     damaged road, or electricity backup supply can be provided for
     networks that rely on a continuous supply of electricity.
 
-![](media/image4.emf){width="5.898876859142607in"
-height="3.2670702099737534in"}
+![](assets/Figure_8.2.4.png){width=100%}
 
 **Figure 8.2.4:** Transitions of an infrastructure system to different
 states of service levels during a disruption and resilient recovery

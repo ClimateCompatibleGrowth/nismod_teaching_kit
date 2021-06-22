@@ -1,22 +1,12 @@
 ---
 title: Mini-Lecture 8.1 -- Introduction to infrastructure risk and
   resilience
----
-
-
-
 keywords:
-
 -   Infrastructure systems
-
 -   Resilience
-
 -   Climate adaptation
-
 authors:
-
 -   Prof Jim W Hall
-
 ---
 
 This mini-lecture provides an overview of the climate challenges facing
@@ -27,13 +17,9 @@ is presented in the following lectures.
 
 # Learning objectives
 
--   # Gain an understanding of climate risks to infrastructure systems
-
--   # Recall options for adapting infrastructure systems in the context of a changing climate
-
--   # Explain how risk analysis fits into adaptation decision-making.
-
-
+-   Gain an understanding of climate risks to infrastructure systems
+-   Recall options for adapting infrastructure systems in the context of a changing climate
+-   Explain how risk analysis fits into adaptation decision-making.
 
 # Introduction
 
@@ -107,8 +93,10 @@ categorised into three predominant types of climate risks
     adaptation will be needed in the future. These development patterns
     then further influence the provision of infrastructure.
 
+![](assets/Figure_8.1.1.jpeg){width=100%}
+
 **Figure 8.1:** Examples of climate hazards to infrastructure sectors
-[@Hall2019; @Dawson2016]
+[@Hall2019;@Dawson2016]
 
 # Priorities for adapting infrastructure systems
 

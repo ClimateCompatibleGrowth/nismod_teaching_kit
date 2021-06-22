@@ -1,33 +1,21 @@
 ---
 title: Mini-Lecture 7.3 -- Methods for decision making under uncertainty
----
-
- 
-
 keywords:
-
 -   Decision making under deep uncertainty
-
 -   Exploratory analysis
-
 -   Adaptive planning
-
 authors:
-
 -   Orlando Roman
-
 ---
 
 In this mini-lecture we will describe the most classical methods for
 decision-making under deep uncertainty (DMDU), looking at their
 applicability and differences.
 
-# Learning objectives 
+# Learning objectives
 
 -   List and describe some DMDU methods
 -   Explain when a particular method is preferred.
-
- 
 
 # Introduction
 
@@ -82,6 +70,8 @@ work well whatever the future may be. A second, and complementary
 approach, is to identify decision points to adapt over time, encouraging
 flexibility for uncertainty management.
 
+![](assets/Figure_7.3.1.jpg){width=100%}
+
 **Figure 7.3.1:** Types of future scenario approaches [@McGowan2019]
 
 Some open source tools have been created with this purpose, such as the
@@ -102,8 +92,7 @@ starts by proposing possible strategies which are then evaluated against
 different possible futures, checking vulnerabilities and generating
 feedback loops to build even better strategies.
 
-![https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-05252-2_2/MediaObjects/427530_1\_En_2\_Fig1_HTML.png](media/image2.png){width="5.441666666666666in"
-height="3.914095581802275in"}
+![](assets/Figure_7.3.2.jpg){width=100%}
 
 **Figure 7.3.2:** Iterative steps in RDM [@Lempert2019]
 
@@ -162,8 +151,7 @@ times an expansion of desalination capacity was needed over the lifetime
 of the project. Therefore, the likeliness and timing of potential
 expansion can be evaluated by the decision-maker.
 
-![https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/1748-9326/14/11/114022/1/erlab4664f5_hr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1617616674&Signature=ulX7WrEa1ANfEZcOVaOjnYtOGxg%3D](media/image3.jpeg){width="3.7852996500437444in"
-height="3.330074365704287in"}
+![](assets/Figure_7.3.3.jpg){width=100%}
 
 **Figure 7.3.3:** Distribution of desalination capacity added over 1,000
 simulations [@Fletcher2019]
@@ -182,8 +170,7 @@ and D. The Figure shows the concept of tipping points: where the
 strategies are no longer satisfactory, a new course of action is
 required.
 
-![](media/image4.png){width="4.594936570428697in"
-height="2.4423786089238844in"}
+![](assets/Figure_7.3.4.jpg){width=100%}
 
 **Figure 7.3.4:** Adaptation pathways map [@Haasnoot2013]
 
@@ -201,7 +188,7 @@ flexibility that allows adaptation over time to other, better
 strategies. In practice, the estimation of tipping points or adaptation
 triggers is not easy but can be obtained [@Hall2019].
 
-# Summary 
+# Summary
 
 In this mini-lecture we explained the need of more sophisticated methods
 when facing complex systems and a huge range of possible scenarios. Then

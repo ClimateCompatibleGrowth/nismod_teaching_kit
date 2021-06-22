@@ -1,22 +1,12 @@
 ---
 title: Mini-Lecture 7.2 -- Principles of decision analysis under
   uncertainty
----
-
- 
-
 keywords:
-
 -   Flaw of Averages
-
 -   Robustness
-
 -   Flexibility
-
-authors: 
-
+authors:
 -   Orlando Roman
-
 ---
 
 In this mini-lecture we will introduce some key concepts of decision
@@ -30,12 +20,10 @@ the concepts of robustness and flexibility.
 -   Describe some approaches of MCDA
 -   Explain the difference between robust and adaptive plans
 
-
-
 # Overview on decision analysis
 
 One of the bases of decision theory is the concept of expected utility
-as formulated by @Savage1954. In this theory, one can formulate a
+as formulated by [@Savage1954]. In this theory, one can formulate a
 personal utility function, which is a function about how one values
 different aspects, and is by nature, subjective. One can also formulate
 a probability distribution of the potential outcomes of a certain
@@ -69,6 +57,8 @@ probabilities. However, long-term strategies, due to unpredictable new
 technologies, changing trends in demography and societal behaviours, and
 climate change effects, usually fall under the right side, characterised
 by deep uncertainty.
+
+![](assets/Figure_7.2.1.jpg){width=100%}
 
 **Figure 7.2.1:** Different types of uncertainty [@Buurman2016]
 
@@ -131,6 +121,8 @@ in a huge challenge for the project design. Given the non-flexible
 nature of a hydropower dam, in this case, a robust decision that
 minimises possible regrets is critical.
 
+![](assets/Figure_7.2.2.jpg){width=100%}
+
 **Figure 7.2.2:** Projected mean changes in annual temperature (°C) and
 precipitation (%) for a hydropower project [@Taner2017]
 
@@ -150,12 +142,11 @@ uncertainty.
 
 Flexibility is an important advantage for two main reasons:
 
-> \(1\) Adaptive strategies do not usually require a large capital
-> investment and are more attractive because they postpone investments
->
-> \(2\) Postponing decisions into the future has the advantage that in
-> the future there may be much more information and less uncertainty
-> than in the present.
+1. Adaptive strategies do not usually require a large capital
+   investment and are more attractive because they postpone investments
+2. Postponing decisions into the future has the advantage that in
+   the future there may be much more information and less uncertainty
+   than in the present.
 
 Figure 7.2.3 shows an analysis in which the decision to expand or not to
 expand a reservoir dam depends on a variable threshold through time. If
@@ -166,10 +157,12 @@ difficult, another option might be to prepare small desalination or
 treatment plants where needed, increasing the flexibility of the water
 supply system.
 
+![](assets/Figure_7.2.3.jpg){width=100%}
+
 **Figure 7.2.3:** Drawdown threshold for the decision to expand or not
 in a reservoir dam [@Fletcher2019]
 
-# Summary 
+# Summary
 
 In this mini-lecture we introduced the Flaw of Averages to illustrate
 the mistake of making decisions based on average performance. Then we

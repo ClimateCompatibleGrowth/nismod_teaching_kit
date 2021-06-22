@@ -1,21 +1,11 @@
 ---
 title: Mini-Lecture 6.4 -- Infrastructure strategies in practice
----
-
-# **Metadata**
-
 keywords:
-
 -   Strategy development
-
 -   Uncertainties
-
 -   Transparency
-
-authors: 
-
+authors:
 -   Lena Fuldauer
-
 ---
 
 This mini-lecture introduces different case studies of sustainable
@@ -23,7 +13,7 @@ infrastructure strategy development, the methods used to develop
 strategies in practice, and useful tools to transparently communicate
 and describe data quality and data sources.
 
-# Learning objectives 
+# Learning objectives
 
 -   Describe an example of an infrastructure strategy in a sector of
     your choice in practice
@@ -32,9 +22,7 @@ and describe data quality and data sources.
 -   Provide an example of a means by which to transparently communicate
     data quality in infrastructure strategy development.
 
- 
-
-# Introduction to sector and cross-sectoral infrastructure strategies in practice 
+# Introduction to sector and cross-sectoral infrastructure strategies in practice
 
 This mini-lecture will introduce sector and cross-sectoral
 infrastructure strategies in practice within strategic infrastructure
@@ -46,7 +34,7 @@ infrastructure strategy development into the future.
 
 The development of infrastructure strategies is embedded as a key step
 in strategic infrastructure planning tools that have been applied in
-various contexts [@Ives2019; @Fuldauer2019; @Adshead2021].
+various contexts [@Ives2019;@Fuldauer2019;@Adshead2021].
 
 A case study of infrastructure planning in Palestine has identified a
 broad set of infrastructure strategies in order to meet infrastructure
@@ -56,9 +44,11 @@ levels. Rather than aiming to produce an optimal strategy for Palestine,
 a range of strategies have been developed that allow the exploration of
 implications of alternative policies [@Ives2019]
 
+![](assets/Figure_6.4.1.png){width=100%}
+
 **Figure 6.4.1:** Infrastructure strategies in Palestine, developed with
 the aim of exploring implications of alternative policies. Author
-compilation, based on @Ives2019
+compilation, based on [@Ives2019]
 
 The various strategies include a no-built, pipeline, status quo,
 efficiency with scarcity, and infrastructure-led development strategy:
@@ -67,16 +57,12 @@ efficiency with scarcity, and infrastructure-led development strategy:
     counterfactual to the other, more realistic, strategies. Here,
     infrastructure services will deteriorate through time as demand
     grows
-
 -   This is compared to a pipeline of planned infrastructure investments
     as identified by the Palestinian Authority
-
 -   A status quo strategy uses levels of investment in line with
     historic levels
-
 -   The efficiency with scarcity strategy is based on an in-country
     report which envisions a more autonomous state
-
 -   The infrastructure-led development is an aspirational strategy
     focused on ambitious future visions [@Ives2019].
 
@@ -109,9 +95,11 @@ strategy, which were compared to an inaction strategy for their
 performance on different indicators aligned with the Sustainable
 Development Goals (SDGs) (see Table 6.4.1)
 
-    Table 6.4.1: Different waste management strategies in Curaçao, [@Fuldauer2019]
+![](assets/Table_6.4.1.png){width=100%}
 
-# Practical examples of developing infrastructure strategies 
+Table 6.4.1: Different waste management strategies in Curaçao, [@Fuldauer2019]
+
+# Practical examples of developing infrastructure strategies
 
 In a practical case study in Saint Lucia, various infrastructure
 strategies have been developed using hybrid methods of both
@@ -141,15 +129,12 @@ Comparing these strategies allows for identification of their
 performance on certain indicators, such as on combined SDG performance
 (see Figure 6.4.2.)
 
-![](media/image2.jpeg){width="4.1508059930008745in"
-height="5.1482874015748035in"}
+![](assets/Figure_6.4.2.png){width=100%}
 
 **Figure 6.4.2:** Performance of strategies on 18 SDG targets directly
 linked to the provision of infrastructure [@Adshead2021].
 
-# 
-
-# Transparency and communication in infrastructure strategy development in practice 
+# Transparency and communication in infrastructure strategy development in practice
 
 Transparently communicating data gaps and limitations of infrastructure
 strategies is critical to providing decision-makers with the means to
@@ -170,6 +155,8 @@ developed to explicitly include information on the level of confidence
 with respect to each data, as well as encoding the source of the data
 point (see Figure 6.4.3) [@Fuldauer2018].
 
+![](assets/Figure_6.4.3.png){width=100%}
+
 **Figure 6.4.3:** Confidence interval used in practical tools that embed
 strategy development in long-term infrastructure planning
 [@Fuldauer2018].
@@ -181,6 +168,8 @@ for Curaçao,. The tool allows users to first define strategies
 themselves, which can represent different visions of the future (see
 Figure 6.4.4).
 
+![](assets/Figure_6.4.4.png){width=100%}
+
 **Figure 6.4.4:** Screenshot of National Infrastructure Systems
 Modelling tool where users can develop their own strategies
 [@Fuldauer2018].
@@ -190,11 +179,13 @@ or deleting certain interventions or investments from a strategy, by
 inputting a 1 or 0. Each intervention has a specific level of confidence
 attached to it (Figure 6.4.5).
 
+![](assets/Figure_6.4.5.png){width=100%}
+
 **Figure 6.4.5:** Screenshot of infrastructure planning tool where users
 can add different interventions or investments to an infrastructure
 strategy and embed its confidence [@Fuldauer2018].
 
-# Conclusions and lessons learnt for future infrastructure strategy development 
+# Conclusions and lessons learnt for future infrastructure strategy development
 
 This mini-lecture has outlined practical examples of infrastructure
 strategies in different developing country contexts. Whilst

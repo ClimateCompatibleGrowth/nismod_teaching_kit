@@ -1,22 +1,12 @@
 ---
 title: Mini-Lecture 6.1 - An introduction to infrastructure strategies
----
-
- 
-
 keywords:
-
 -   Strategic alternatives
-
 -   Infrastructure strategy
-
 -   Sustainable Infrastructure Vision
-
-authors: 
-
+authors:
 -   Lena Fuldauer
-
---- 
+---
 
 This mini-lecture introduces the concept of future infrastructure
 strategies, lists examples of real-world strategies for different
@@ -24,14 +14,12 @@ sectors, as well as cross-sectoral strategies, and describes how
 attribute information can be added to different strategies to enable
 their comparison.
 
-# Learning objectives 
+# Learning objectives
 
 -   Describe what infrastructure strategies are
 -   Provide real world examples of infrastructure strategies for more
     than two sectors
 -   Recall how to add attribute information to each strategy.
-
- 
 
 # What are infrastructure strategies?
 
@@ -126,14 +114,17 @@ recycling infrastructure. These two different strategies are compared to
 an 'inaction' strategy, which assumes no further investment in waste
 management [@Fuldauer2019] (see Figure 6.1.1).
 
-![](media/image1.png "Inserting image..."){width="6.390109361329833in"
-height="5.34375in"}**Figure 6.1.1:** Waste infrastructure strategies in
+![](assets/Figure_6.1.1.png){width=100%}
+
+**Figure 6.1.1:** Waste infrastructure strategies in
 Curaçao, by waste treated [@Fuldauer2019].
 
 Infrastructure strategies across sectors (energy, water, waste,
 wastewater) include a 'national sustainability strategy', a
 'business-as-usual\' and an 'inaction' strategy [@Adshead2021], which
 are made up of different interventions (see Figure 6.1.2).
+
+![](assets/Figure_6.1.2.png){width=100%}
 
 **Figure 6.1.2:** Comparison of infrastructure strategy portfolios for
 current/inaction, business‐as‐usual, and national sustainability
@@ -152,7 +143,7 @@ example, cost attributes, capacity margin attributes, or annual
 emissions (see Figure 6.1.3 for an example of a comparison of emissions
 across strategies).
 
-![](media/image3.png){width="6.5in" height="4.319024496937883in"}
+![](assets/Figure_6.1.3.png){width=100%}
 
 **Figure 6.1.3:** Emissions by sector compared to a 2010 baseline,
 showing a business‐as‐usual case, and reductions attributed to emissions

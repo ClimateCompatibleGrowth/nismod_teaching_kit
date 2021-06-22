@@ -1,44 +1,28 @@
 ---
-title: Mini-Lecture 7.1 -- Key considerations for infrastructure
-  decision-making
----
-
-
-
+title: Mini-Lecture 7.1 -- Key considerations for infrastructure decision-making
 keywords:
-
 -   Stakeholders
-
 -   Multiple objectives
-
 -   Uncertainty
-
-authors: 
-
+authors:
 -   Orlando Roman
-
 ---
 
 In this mini-lecture we will describe the main considerations and
 challenges of making decisions for infrastructure planning.
 
-# Learning objectives 
+# Learning objectives
 
 -   List key considerations for infrastructure decision-making
 -   Explain why each of them are important.
-
-
 
 # Overview of performance evaluation
 
 Following previous lectures, we are already able to:
 
 -   Establish the current state of infrastructure systems
-
 -   Develop forecasts of future infrastructure demands
-
 -   Establish a vision, performance metrics and goals for the future
-
 -   Develop strategic alternatives for future infrastructure provision.
 
 Therefore, in this lecture we will set the basis for decision-making on
@@ -46,8 +30,7 @@ evaluating what strategies perform better under future forecasts to
 achieve our defined goals.
 
 The lack of strategic long-term planning is seen as one of the main
-challenges to overhauling infrastructure systems [@Anheier2016;
-@OECD2017]. However, making the right decisions about infrastructure
+challenges to overhauling infrastructure systems [@Anheier2016;@OECD2017]. However, making the right decisions about infrastructure
 is not an easy task. Infrastructure, as a high-cost long-lived asset,
 needs to take into account a variety of factors, scenarios, objectives,
 stakeholders and interdependencies with other sectors.
@@ -68,8 +51,7 @@ protection, flood mitigation, reducing erosion and water supply.
 Infrastructure impacts are broad, therefore it is common to take
 multiple goals in the decision-making process.
 
-![](media/image1.png){width="6.520833333333333in"
-height="4.467517497812773in"}
+![](assets/Figure_7.1.1.jpg){width=100%}
 
 **Figure 7.1.1:** Natural infrastructure for multiple
 objectives[@Cohen-Shacham2016]
@@ -90,15 +72,14 @@ developing a reliable and cost effective energy system
 
 # Interdependencies between infrastructure sectors
 
-    Each infrastructure sector is a multifaceted socio-technical system, that contains a complex web of interconnections. Given the increased recognition of the need to take a more integrated view of infrastructure, many studies have evaluated infrastructure networks by analysing interdependencies between sectors such as the expanding body of research on the water-energy nexus [@Hamiche2016; @Artioli2017]. An example of interdependent infrastructure networks is shown in Figure 7.1.2. In the figure you can see schematic interactions between infrastructure sectors and with societal and financial networks. The interactions are differentiated as intra-network (within the same sector), inter-network and human-centric communication.
+Each infrastructure sector is a multifaceted socio-technical system, that contains a complex web of interconnections. Given the increased recognition of the need to take a more integrated view of infrastructure, many studies have evaluated infrastructure networks by analysing interdependencies between sectors such as the expanding body of research on the water-energy nexus [@Hamiche2016; @Artioli2017]. An example of interdependent infrastructure networks is shown in Figure 7.1.2. In the figure you can see schematic interactions between infrastructure sectors and with societal and financial networks. The interactions are differentiated as intra-network (within the same sector), inter-network and human-centric communication.
 
-![](media/image2.png){width="4.470660542432196in"
-height="4.19200021872266in"}
+![](assets/Figure_7.1.2.jpg){width=100%}
 
 **Figure 7.1.2:** Interdependent infrastructure systems [@Amini2020]
 
-    Some system interdependencies can be found between the energy and water sectors, mainly through hydropower plants (which generate water and energy at the same time), and the important amount of energy needed for water treatment and desalination. Interdependencies between the energy and transportation sectors are the fossil fuels used for vehicles and the increasing electrification of transport. Finally, interdependencies between waste and energy are the so-called waste-to-energy projects such as incinerators or anaerobic digesters as well as the methane collection in landfills.
-    Some direct interdependencies between sectors were described, but it is important to identify other types of indirect dependencies. For instance, if infrastructure is planned centrally, one common budget might be distributed for different sectors, therefore the budget spent in one sector might affect another. On the demand side, a demand-management strategy such as increasing environmental awareness can have an impact on all sectors and can be considered a cross-sectoral intervention.
+Some system interdependencies can be found between the energy and water sectors, mainly through hydropower plants (which generate water and energy at the same time), and the important amount of energy needed for water treatment and desalination. Interdependencies between the energy and transportation sectors are the fossil fuels used for vehicles and the increasing electrification of transport. Finally, interdependencies between waste and energy are the so-called waste-to-energy projects such as incinerators or anaerobic digesters as well as the methane collection in landfills.
+Some direct interdependencies between sectors were described, but it is important to identify other types of indirect dependencies. For instance, if infrastructure is planned centrally, one common budget might be distributed for different sectors, therefore the budget spent in one sector might affect another. On the demand side, a demand-management strategy such as increasing environmental awareness can have an impact on all sectors and can be considered a cross-sectoral intervention.
 
 # Uncertainty on infrastructure forecasts
 
@@ -109,8 +90,7 @@ of scenarios is what we can do with them? Figure 7.1.3 shows the huge
 variation of expected sea level rise (between 1m to 8m) for the Thames
 river in London.
 
-![https://ars.els-cdn.com/content/image/1-s2.0-S2212096318301487-gr5_lrg.jpg](media/image3.jpeg){width="5.452174103237096in"
-height="4.008637357830271in"}
+![](assets/Figure_7.1.3.jpg){width=100%}
 
 **Figure 7.1.3:** Different forecasts of sea level rise for London
 [@Hall2019]
@@ -121,17 +101,14 @@ used:
 -   One can use simple statistic estimations such as the average or the
     median of the forecasts and plan accordingly. This is not considered
     a good uncertainty management.
-
 -   One can be a bit more detailed and evaluate the probability
     distribution of the forecasts. Then, it's possible to better
     evaluate the likelihood of different scenarios and estimate an
     expected value. This holds if the only goal is to maximise the
     overall expected value of the decision.
-
 -   One can take a more conservative approach and decide to use the
     worst-case scenario. In this way the solution might be expensive but
     will always work.
-
 -   As we will see in the next mini-lectures, more specialised
     approaches intending to evaluate the performance of different
     strategies under the whole range of scenarios, can result in robust
@@ -160,8 +137,7 @@ decision-making. Figure 7.1.4 exemplifies a participatory
 decision-making process proposed for transportation planning. As evident
 in the figure, this entails a complex and iterative process.
 
-![https://www.researchgate.net/profile/Michela-Le-Pira/publication/292643361/figure/fig3/AS:613899741171751@1523376512658/Framework-of-the-participatory-decision-making-process-in-transport-planning-Le-Pira-et_W640.jpg](media/image4.jpeg){width="5.886956474190726in"
-height="4.746358267716535in"}
+![](assets/Figure_7.1.4.jpg){width=100%}
 
 **Figure 7.1.4:** A framework for the participatory decision-making
 process [@LePira2015]

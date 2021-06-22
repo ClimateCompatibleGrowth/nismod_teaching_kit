@@ -21,9 +21,9 @@ for filename in $lecture/*.md; do
         echo "" >> $MD_TMP
         echo "# Bibliography" >> $MD_TMP
         sed -E -f scripts/bib.sed $BIBFILE > tmp.bib
-        pandoc --standalone --css $PAN --css $CSL --citeproc $MD_TMP --bibliography tmp.bib -o $OUTPUT/$MD_NAME.html
+        pandoc --mathjax --standalone --css $PAN --css $CSL --citeproc $MD_TMP --bibliography tmp.bib -o $OUTPUT/$MD_NAME.html
     else
-        pandoc --standalone --css $PAN --css $CSL $MD_TMP -o $OUTPUT/$BNAME.html
+        pandoc --mathjax --standalone --css $PAN --css $CSL $MD_TMP -o $OUTPUT/$BNAME.html
     fi
     cp -f $DIR_NAME/assets/* $OUTPUT/assets
     rm $MD_TMP

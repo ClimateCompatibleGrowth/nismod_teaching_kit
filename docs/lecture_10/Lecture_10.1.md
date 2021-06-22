@@ -1,19 +1,10 @@
 ---
 title: Mini-Lecture 10.1 - Assessing infrastructure asset vulnerability
----
-
-
-
 keywords:
-
 -   Asset vulnerability
-
 -   Climate hazards
-
 authors:
-
 -   Olivia Becher
-
 ---
 
 Estimating climate risks to infrastructure systems entails assessing the
@@ -28,8 +19,6 @@ assets when confronted with an extreme load.
 -   To be aware of the different definitions of vulnerability
 -   To recognise the difference between the sensitivity and fragility
     approaches to vulnerability assessments.
-
-
 
 # Introduction
 
@@ -92,8 +81,7 @@ replacement cost of an infrastructure asset. Such a function is
 illustrated in Figure 10.1.1, where the variance distribution deals with
 the uncertainty associated with the function.
 
-![](media/image1.emf){width="3.8101454505686787in"
-height="2.7304352580927382in"}
+![](assets/Figure_10.1.1.png){width=100%}
 
 **Figure 10.1.1:** A sensitivity curve which formalises the relationship
 between hazard intensity (e.g. flood inundation depth) versus the mean
@@ -104,7 +92,7 @@ Note that here we are referring only to direct economic damages, as
 opposed to considering indirect damages. The differences between direct
 and indirect damages are discussed in mini-lecture 11.1.
 
-# Fragility curves for measuring vulnerability 
+# Fragility curves for measuring vulnerability
 
 Vulnerability can alternatively be conceptualised in terms of asset
 fragility*.* The fragility of an asset describes the conditional
@@ -114,7 +102,7 @@ modes of failure, or damage states, in Figure 10.1.2. Uncertainty in
 this formalisation is communicated by the probability distribution
 function of each damage state of the fragility functions.
 
-![](media/image2.emf){width="3.125in" height="2.4015146544181976in"}
+![](assets/Figure_10.1.2.png){width=100%}
 
 **Figure 10.1.2:** Range of potential different states of asset failure
 that can be used to derive a probability of failure conditional on
@@ -166,8 +154,7 @@ This function is what is described by a fragility curve, such as in
 Figure 10.1.3, whereby the probability of failure, $P(D_{i}|x)$, can be
 extracted for a given loading scenario, $x$.
 
-![](media/image3.png){width="5.69166447944007in"
-height="2.8833333333333333in"} 
+![](assets/Figure_10.1.3.png){width=100%}
 
 **Figure 10.1.3:** Overtopping fragility curve used in national flood
 risk assessment (fluvial and sea defence). Note that Uncertainty is

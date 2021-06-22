@@ -1,19 +1,10 @@
 ---
 title: Mini-Lecture 10.4 - Assessing the risk of multi-asset failure
----
-
-
-
 keywords:
-
 -   Multiple asset failures
-
 -   Infrastructure risk
-
 authors:
-
 -   Olivia Becher
-
 ---
 
 This mini-lecture explores three different examples of how the
@@ -78,6 +69,8 @@ of the floodplain (depth-damage relationship). The final step is to
 aggregate the risk output for each floodplain to provide a national
 picture of flood risk.
 
+![](assets/Figure_10.4.1.png){width=100%}
+
 **Figure 10.4.1:** Overview of method for national scale flood
 assessment [@Hall2003]
 
@@ -107,6 +100,8 @@ substation up to the failure of all five substations at once.
 Figure 10.4.2 below shows a region of the UK, illustrating the location
 of these substations and the spatial extent of the affected service
 areas.
+
+![](assets/Figure_10.4.2.png){width=100%}
 
 **Figure 10.4.2:** The spatial extent of disruption that would occur as
 a result of each of five electricity substations failing [@Koks2019]
@@ -139,6 +134,8 @@ failure of bridge(s) on a single railway line (network edge) is only
 \~24% of the total risk, whereas risk of disruption caused by
 combinations of multiple railway line disruptions is much greater, at
 76% of the risk.
+
+![](assets/Figure_10.4.3.jpg){width=100%}
 
 **Figure 10.4.3:** The distribution of all disruptions identified in the
 analysis with respect to the number of railway lines simultaneously
@@ -181,7 +178,7 @@ joint-probability statistics. The consequences of the most likely
 combinations of asset failures can subsequently be examined to provide
 an estimate of risk.
 
-# Summary 
+# Summary
 
 This mini-lecture described, evaluated and compared different ways to
 analyse the likelihood and impacts of multiple infrastructure assets

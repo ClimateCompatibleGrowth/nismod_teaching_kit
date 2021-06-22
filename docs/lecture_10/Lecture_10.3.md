@@ -1,19 +1,10 @@
 ---
 title: Mini-Lecture 10.3 - Infrastructure systems reliability analysis
----
-
-
-
 keywords:
-
 -   Spatial dependence
-
 -   Widespread damages
-
 authors:
-
 -   Olivia Becher
-
 ---
 
 This mini-lecture discusses the limitations of the traditional approach
@@ -31,8 +22,6 @@ exposure of infrastructure to natural hazards.
 -   To distinguish between assumptions of full dependence, full
     independence and partial dependence for aggregating risk analysis at
     multiple asset locations.
-
-
 
 # Introduction
 
@@ -75,6 +64,8 @@ for example, would have an interest in ensuring that their customers are
 not all likely to suffer damage during an extreme event at the same
 time.
 
+![](assets/Figure_10.3.1.jpg){width=100%}
+
 **Figure 10.3.1:** The spatial extent of three major flood events that
 occurred in the UK, where discs represent how extreme the streamflow
 recorded at each gauging station was relative to the historical record
@@ -94,6 +85,8 @@ locations. By estimating the economic losses associated with extreme
 river flows for each property via damage curves, the joint probability
 of extreme river flows is converted to the joint probability of economic
 losses at multiple assets.
+
+![](assets/Figure_10.3.2.jpg){width=100%}
 
 **Figure 10.3.2:** Schematic of a joint probability model for
 calculating the spatial dependency between flood damages at multiple
@@ -129,6 +122,8 @@ approaches are compared in Figure 10.3.3.
     between flood events and, therefore, provides the most realistic
     understanding of the probability of flooding at multiple sites at a
     large scale.
+
+![](assets/Figure_10.3.3.jpg){width=100%}
 
 **Figure 10.3.3:** Comparison of probability of observing extreme river
 flow at least one gauge in a given year for each of the three dependence

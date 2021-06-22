@@ -1,22 +1,11 @@
 ---
-title: Mini-Lecture 13.1 - Introduction to the future needs for
-  infrastructure
----
-
-
-
+title: Mini-Lecture 13.1 - Introduction to the future needs for infrastructure
 keywords:
-
 -   Socio-economic growth
-
 -   Infrastructure needs
-
 -   Future risk
-
-authors: 
-
+authors:
 -   Jasper Verschuur
-
 ---
 
 In this lecture, an outlook is provided for the need to invest in
@@ -31,8 +20,6 @@ the main differences between them.
 -   Compare and contrast the different Shared Socio-economic Pathway
     (SSP) scenarios
 -   Interpret studies that use SSP scenarios for future risk estimates.
-
-
 
 # Introduction
 
@@ -64,24 +51,26 @@ is needed by 2050, which is equal to around USD45 trillion
 Whatever the exact number might be, there is an enormous amount of
 infrastructure needed to meet the needs of our future society.
 
+![](assets/Figure_13.1.1.png){width=100%}
+
 **Figure 13.1.1:** An illustration of the global infrastructure gap for
 2040, with the red circle showing the current stock and the blue circle
 the investment need [@Thacker2019]
 
 # Drivers of infrastructure needs
 
-    To better understand where largest demand for new infrastructure lies, we can distinguish different drivers of infrastructure needs.
-    As mentioned, a growing population and urban expansion highlight the need for an increasing coverage and expansion of infrastructure services. Most infrastructure networks, such as road, rail, water, electricity and telecommunications are directly coupled to the growth in populations. 
-    Socio-economic growth may also change the ways in which we can afford certain infrastructure services, shifting demand. For instance, people might buy a car and start using the road network, while initially they could only afford taking the bus. Additionally, larger wealth may shift the quality of infrastructure being provided. For instance, water was initially only treated up to certain standards, but this will be upgraded to higher standards given society’s ability to pay for better quality water. Similarly, wealth changes might shift the need for a denser network, such as a larger number of telecommunications towers, to increase service speed. 
-    Other infrastructure types, such as ports and airports, are more dependent on developments in terms of international trade flows or tourism, which are not just confined to national boundaries. For instance, increasing demand for products from a certain country requires that country to increase the port capacity. 
-    For each type of infrastructure, it is therefore important to understand the current use and capacity of the systems and the main drivers of future infrastructure needs. 
+To better understand where largest demand for new infrastructure lies, we can distinguish different drivers of infrastructure needs.
+As mentioned, a growing population and urban expansion highlight the need for an increasing coverage and expansion of infrastructure services. Most infrastructure networks, such as road, rail, water, electricity and telecommunications are directly coupled to the growth in populations.
+Socio-economic growth may also change the ways in which we can afford certain infrastructure services, shifting demand. For instance, people might buy a car and start using the road network, while initially they could only afford taking the bus. Additionally, larger wealth may shift the quality of infrastructure being provided. For instance, water was initially only treated up to certain standards, but this will be upgraded to higher standards given society’s ability to pay for better quality water. Similarly, wealth changes might shift the need for a denser network, such as a larger number of telecommunications towers, to increase service speed.
+Other infrastructure types, such as ports and airports, are more dependent on developments in terms of international trade flows or tourism, which are not just confined to national boundaries. For instance, increasing demand for products from a certain country requires that country to increase the port capacity.
+For each type of infrastructure, it is therefore important to understand the current use and capacity of the systems and the main drivers of future infrastructure needs.
 
 # Introduction to Shared Socio-economic Pathways
 
 Similar to the climate scenarios, scenarios of global development that
 cover the uncertainty in future socio-economic conditions have been
-developed. These societal development scenarios, called the \'Shared
-Socio-economic Pathways' (SSP) cover both quantitative and qualitative
+developed. These societal development scenarios, called the
+'Shared Socio-economic Pathways' (SSP) cover both quantitative and qualitative
 components [@ONeill2017].
 
 The SSP scenarios are designed to construct a wider range of outcomes.
@@ -106,6 +95,8 @@ environment, agriculture, land-use).
 
 In the next sub-section, we will discuss some of the major differences
 between the five scenarios.
+
+![](assets/Figure_13.1.2.png){width=100%}
 
 **Figure 13.1.2:** The five SSP scenarios and how they relate to the
 challenges for adaptation and mitigation. The key words show the main
@@ -146,6 +137,8 @@ models, including projections of the future risk of hazard impact under
 the various scenarios. To do this, however, the SSP scenarios should be
 coupled to spatially explicit maps of exposed assets.
 
+![](assets/Figure_13.1.3.png){width=100%}
+
 **Figure 13.1.3:** The key assumptions of, and main differences between,
 the SSP scenarios with regards to adaptation and mitigation
 [@Bauer2017]
@@ -175,14 +168,18 @@ the Yangtze and Indus basins and the basins in Sub-Saharan Africa
 interacts with risk is very much location specific, therefore requiring
 spatial scenarios of socio-economic development.
 
+![](assets/Figure_13.1.4.png){width=100%}
+
 **Figure 13.1.4:** The evolution of global urban land over the 21^st^
 century for different SSP scenarios [@Gao2020]
+
+![](assets/Figure_13.1.5.png){width=100%}
 
 **Figure 13.1.5:** Spatial patterns of urbanisation in 2100 for two
 regions (North America, Africa) and two SSP scenarios (SSP1, SSP5)
 [@Gao2020]
 
-# Summary 
+# Summary
 
 In this lecture, we have identified the main drivers of future
 infrastructure needs and the total infrastructure investment gap. We

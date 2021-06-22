@@ -1,19 +1,11 @@
 ---
-title: "Mini-Lecture 9.3 - []{#_Hlk66091292 .anchor}Modelling of water
-  infrastructure networks and service delivery"
----
-
- 
-
+title: Mini-Lecture 9.3 - Modelling of water
+  infrastructure networks and service delivery
 keywords:
-
 -   Water infrastructure
-
-authors: 
-
+authors:
 -   Olivia Becher
-
---- 
+---
 
 This mini-lecture provides an overview of what constitutes a water
 infrastructure network, how water infrastructure is distinct from other
@@ -22,19 +14,15 @@ affect water supplies. The type of causes of water supply disruption,
 from asset-related failures to source-related failures, are discussed in
 turn.
 
-# Learning objectives 
+# Learning objectives
 
 -   Be able to identify the components of water infrastructure systems
-
 -   To recognise the characteristics that make water infrastructure
     stand-out compared to other infrastructure systems
-
 -   To be able to explain the full range of water infrastructure
     disruptions and how they can be modelled.
 
- 
-
-# Introduction 
+# Introduction
 
 Water infrastructure systems are made up of the assets that abstract
 (intakes), treat (water treatment plants), pump (pumping stations),
@@ -64,6 +52,8 @@ supply of electricity, the electricity supply nodes which serve water
 assets are also an important element of the water infrastructure system
 to consider.
 
+![](assets/Figure_9.3.1.jpg){width=100%}
+
 **Figure 9.3.1:** Locations of water infrastructure asset along a
 section of the river Thames [@Mortazavi-Naeini2019]
 
@@ -73,14 +63,13 @@ different standards and protocols for water management, for example, for
 the level of treatment, the capacity and form of storage, and the kind
 of connection to consumers (e.g. household-level, versus standpipes).
 
-# Global datasets on water 
+# Global datasets on water
 
 Although water infrastructure datasets on treatment plants, intakes and
 pumping stations are hard to come by even at national scales, there is a
 global database of reservoirs and dams. This can be used for quantifying
 the volume of storage capacity and, hence, the resilience of a country's
-water supplies to extreme water supply variations [@Gaupp2015;
-@Hall2014]. There are various global river network and catchment
+water supplies to extreme water supply variations [@Gaupp2015;@Hall2014]. There are various global river network and catchment
 datasets, HydroSHEDS is one of the most commonly used among these.
 
 Global hydrological models that provide data on runoff and river flows
@@ -122,16 +111,15 @@ infrastructure damages. Water infrastructure systems stand-out compared
 to other infrastructure because both water resources and assets are
 vulnerable to climate and hydrological extremes.
 
-> 1\) Flood inundation poses a climate-related risk to **water assets**.
-> In the event that critical water infrastructures or electricity supply
-> assets fail due to flooding, they would have to be taken out of
-> operation, causing further disruptions in the network.
->
-> 2\) Hydrological droughts are among the most widely studied
-> climate-related risks to **water resources**. Depending on the
-> capacity of water storage infrastructure, the system may be able to
-> buffer against droughts, protecting dependent populations from water
-> shortages.
+1. Flood inundation poses a climate-related risk to **water assets**.
+In the event that critical water infrastructures or electricity supply
+assets fail due to flooding, they would have to be taken out of
+operation, causing further disruptions in the network.
+2. Hydrological droughts are among the most widely studied
+climate-related risks to **water resources**. Depending on the
+capacity of water storage infrastructure, the system may be able to
+buffer against droughts, protecting dependent populations from water
+shortages.
 
 Thus, multiple hazards disrupt water infrastructure in different ways,
 which are summarised in Table 9.3.2 below:
@@ -198,6 +186,8 @@ Figure 9.3.2 illustrates a network model of water infrastructure,
 comprising water infrastructure assets, such as water treatment plants
 and network connections to demand centres, in England and Wales.
 
+![](assets/Figure_9.3.2.jpg){width=100%}
+
 **Figure 9.3.2:** Network model of water infrastructure, comprising
 water infrastructure assets, such as water treatment plants and network
 connections to demand centres, in England and Wales [@Dobson2020]
@@ -240,6 +230,8 @@ example, assess the vulnerability of water resources systems to extreme
 droughts [@Borgomeo2014]. Level of Service is used as a risk metric,
 shown in Figure 9.3.3, quantifying the probability of exceeding planned
 frequencies of water shortages of varying severity.
+
+![](assets/Figure_9.3.3.jpg){width=100%}
 
 **Figure 9.3.3:** Thresholds of reservoir storage over a given year that
 are associated with water use restrictions of different levels of

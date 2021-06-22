@@ -1,22 +1,12 @@
 ---
 title: Mini-Lecture 9.1 - Introduction to infrastructure services and
   infrastructure modelling
----
-
-
-
 keywords:
-
 -   Infrastructure modelling
-
 -   Infrastructure services
-
 -   Geospatial data
-
 authors:
-
 -   Sarah Gall
-
 ---
 
 This mini-lecture gives an introduction to the overall lecture
@@ -36,8 +26,6 @@ and transport sectors in the following mini-lectures.
 -   To have a basic understanding on what geospatial data is and where
     datasets for infrastructure modelling can be found.
 
-
-
 # Introduction to infrastructure modelling
 
 In this lecture we'll give an overview of how to model infrastructure
@@ -55,6 +43,8 @@ social consequences from service disruptions.
 
 An example of a framework that combines several infrastructure models is
 shown in the figure below.
+
+![](assets/Figure_9.1.1.png){width=100%}
 
 **Figure 9.1.1:** Schematic overview of the National Infrastructure
 Model (NISMOD) (based on @Hall2017)
@@ -80,6 +70,8 @@ district heat network to provide heating services. It is important to
 understand that it is the services provided that can enable or enhance
 economic activity and human well-being [@Hall2016].
 
+![](assets/Figure_9.1.2.png){width=100%}
+
 **Figure 9.1.2:** Services from infrastructure assets (based on
 @Hall2016)
 
@@ -96,7 +88,9 @@ computation of information and data. [@Hall2016]
 
 # Spatial relations between infrastructure and society
 
-    For infrastructure modelling it is important to get an understanding of the spatial aspect of infrastructure systems and services. From now on, we will focus on the water, energy and transport sector. All three sectors are based on assets that form infrastructure networks covering a region or an entire country. 
+For infrastructure modelling it is important to get an understanding of the spatial aspect of infrastructure systems and services. From now on, we will focus on the water, energy and transport sector. All three sectors are based on assets that form infrastructure networks covering a region or an entire country.
+
+![](assets/Figure_9.1.3.png){width=100%}
 
 **Figure 9.1.3:** The water, energy and transport infrastructure
 networks in Great Britain [@Russell2020]
@@ -138,6 +132,8 @@ is called "vector data". It can either have a point, line or polygon
 shape, which can be used to represent infrastructure assets or networks.
 Each of those objects can store additional information (e.g. name, size,
 capacity, etc.).
+
+![](assets/Figure_9.1.4.png){width=100%}
 
 **Figure 9.1.4:** Point, line and polygon object types in geospatial
 data. The points can represent infrastructure assets, or other points in

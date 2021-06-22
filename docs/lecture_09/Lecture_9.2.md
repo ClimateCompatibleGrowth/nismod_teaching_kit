@@ -1,22 +1,11 @@
 ---
-title: Mini-Lecture 9.2 -- Modelling of transport network flows and
-  service disruptions
----
-
-
-
+title: Mini-Lecture 9.2 -- Modelling of transport network flows and service disruptions
 keywords:
-
--   # Transport networks
-
--   # Flow mapping
-
--   # Flow disruptions
-
+- Transport networks
+- Flow mapping
+- Flow disruptions
 authors:
-
 -   Raghav Pant
-
 ---
 
 This mini-lecture will cover the general principles of transport network
@@ -27,14 +16,12 @@ mapping and flow simulation modelling of transport systems, as well as
 understand what kinds of disruption metrics can be created from such
 models.
 
-# Learning objectives {#learning-objectives-1}
+# Learning objectives
 
 -   Identify the critical components of transport systems
 -   Define the general principles of a transport flow model in terms of
     its spatial and temporal dimensions
 -   Show how to do disruption analysis for transport networks.
-
- {#lecture-content-1}
 
 # Understanding critical components of transport networks
 
@@ -74,11 +61,13 @@ layers and modes -- for example, an airport provides international and
 domestic mobility between regions and is also connected to the road and
 railway networks.
 
+![](assets/Figure_9.2.1.png){width=100%}
+
 **Figure 9.2.1:** Multi-scale representations of transport networks
 
 # Multi-modal transport flows
 
-    Flow modelling of transport networks means defining and solving a traffic assignment problem, whose goal is to represent the movement of vehicles (with people and goods) over space and time while considering the capacities (maximum allowable vehicles over space and times) of the underlying transport network being used. A detailed traffic assignment problem has several complex model assumptions and parameters, which are beyond the scope of this mini-lecture. The reader can learn about some of these details in @patriksson2015traffic and @jiang2019modelling.
+Flow modelling of transport networks means defining and solving a traffic assignment problem, whose goal is to represent the movement of vehicles (with people and goods) over space and time while considering the capacities (maximum allowable vehicles over space and times) of the underlying transport network being used. A detailed traffic assignment problem has several complex model assumptions and parameters, which are beyond the scope of this mini-lecture. The reader can learn about some of these details in @patriksson2015traffic and @jiang2019modelling.
 
 There are some generalisable principles that apply to any traffic
 assignment problem. These are described in Figure 9.2.2, where the
@@ -86,34 +75,18 @@ process of assigning transport flows (vehicles/day or passengers/day or
 freight tonnes/day) is broadly accomplished through the following data
 and steps:
 
--   We need a network that properly shows nodes and connecting links in
-    > the direction of travel. A good example is the [road
-    > network](https://www.ordnancesurvey.co.uk/business-government/products/open-map-roads)
-    > of Great Britain.
+-   We need a network that properly shows nodes and connecting links in the direction of travel. A good example is the [road network](https://www.ordnancesurvey.co.uk/business-government/products/open-map-roads) of Great Britain.
+-   We need information on link speeds and transport costs. Travel cost information could be in terms of vehicle operating costs [@archondo1994estimating] and tariff costs associated with transporting commodities [@baier2001growth].
 
--   We need information on link speeds and transport costs. Travel cost
-    > information could be in terms of vehicle operating costs
-    > [@archondo1994estimating] and tariff costs associated with
-    > transporting commodities [@baier2001growth].
+-   We need information on travel patterns along routes. The most common method is to create origin-destination (OD) matrices that show how many vehicles/people/goods move between regions or specific locations within a country [@bera2011estimation].
 
--   We need information on travel patterns along routes. The most common
-    > method is to create origin-destination (OD) matrices that show how
-    > many vehicles/people/goods move between regions or specific
-    > locations within a country [@bera2011estimation].
+-   From an OD matrix, we identify specific nodes (airports, ports, railway stations, road junctions) on the transport networks between which we need to send traffic -- vehicles/people/commodities.
 
--   From an OD matrix, we identify specific nodes (airports, ports,
-    > railway stations, road junctions) on the transport networks
-    > between which we need to send traffic --
-    > vehicles/people/commodities.
+-   The most common process of assigning (sending) traffic is the shortest path algorithm that determines a route that has the least-cost route of travel [@dijkstra1959note].
 
--   The most common process of assigning (sending) traffic is the
-    > shortest path algorithm that determines a route that has the
-    > least-cost route of travel [@dijkstra1959note].
+![](assets/Figure_9.2.2.png){width=100%}
 
-```{=html}
-<!-- -->
-```
-    Figure 9.2.2: Illustrative process and steps for building a transport flow assignment model. Applied in a transport risks analysis study in Viet Nam [@oh2019addressing]
+**Figure 9.2.2:** Illustrative process and steps for building a transport flow assignment model. Applied in a transport risks analysis study in Viet Nam [@oh2019addressing]
 
 # Flow disruption modelling
 
@@ -152,6 +125,8 @@ and demonstrated with an example in Figure 9.2.3.
         rerouted because there is no other alternative route if the
         existing one is damaged or shut down.
 
+![](assets/Figure_9.2.3.png){width=100%}
+
 **Figure 9.2.3:** Representation of the steps and example of transport
 flow disruption modelling for a road network that is flooded
 
@@ -187,11 +162,13 @@ redistribution losses and economic flow losses as a consequence of roads
 affected by natural hazards (flooding, landslides, cyclones) in Viet Nam
 [@oh2019addressing].
 
+![](assets/Figure_9.2.4.png){width=100%}
+
 **Figure 9.2.4:** Road network criticality map showing economic losses
 in US\$ per day associated with roads disrupted by natural hazards in
 Viet Nam [@oh2019addressing]
 
-# Transport accessibility analysis 
+# Transport accessibility analysis
 
 Transport networks are extremely significant in improving people's
 access to locations of importance in countries, which is critical for
@@ -218,6 +195,8 @@ source](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN
 [@ouma2018sub]), when travelling via the road network for the country
 (mapped via
 [OpenStreetMap](https://www.openstreetmap.org/export#map=6/-6.402/34.993)).
+
+![](assets/Figure_9.2.5.png){width=100%}
 
 **Figure 9.2.5:** Accessibility mapping analysis in Tanzania showing
 locations of populations with their distances to nearest health centres

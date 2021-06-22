@@ -1,21 +1,11 @@
 ---
 title: Mini-Lecture 12.3 - Projecting future hazards
----
-
-
-
 keywords:
-
 -   Future hazards
-
 -   Infrastructure exposure
-
 -   Model uncertainty
-
 authors:
-
 -   Jasper Verschuur
-
 ---
 
 In this lecture we will discuss how climate model outputs can be used to
@@ -31,9 +21,7 @@ hurricanes, storm surges, landslides) and more long-term chronic changes
 -   Evaluate what the different uncertainties are when predicting future
     hazards.
 
- 
-
-# Introduction 
+# Introduction
 
 In mini-lecture 12.2, we identified that climate change might alter the
 occurrence of hazards in the future. When evaluating changes in future
@@ -66,6 +54,8 @@ framework depends on the hazard under consideration. Before starting
 infrastructure design, it is important to identify what hazards are
 affecting your infrastructure system and how the underlying drivers
 might change in the future.
+
+![](assets/Figure_12.3.1.png){width=100%}
 
 **Figure 12.3.1:** The change in frequency (horizontal line) and
 magnitude (vertical line) of different return periods of coastal
@@ -106,7 +96,7 @@ estimated at around 3mm per year [@Nerem2018].
 Earthquakes are unaffected by climate and will not change in the future
 because of climate change.
 
-# Expected changes in hazard occurrence 
+# Expected changes in hazard occurrence
 
 We will discuss some of the mean trends identified in the literature on
 expected changes in extreme hazards. These estimates are derived by
@@ -140,11 +130,13 @@ model.
     that landslide activity in China and Nepal could see a 30 to 70%
     increase in the future [@NASA2020].
 
+![](assets/Figure_12.3.2.png){width=100%}
+
 **Figure 12.3.2:** The multi-modal mean change in the global 100-year
 flood return period over the 21^st^ century for Representative
 Concentration Pathway (RCP) 8.5 [@Hirabayashi2021]
 
-# Future infrastructure exposure 
+# Future infrastructure exposure
 
 Using the modelled hazard output, we can project the increase in the
 exposure and risk of people and infrastructure in the future due to
@@ -174,6 +166,8 @@ The damages from river flooding, wind storms and wildfires also
 increase, but are more region-specific. Figure 12.3.3. shows the
 evolution of expected annual damages over time and the geographical
 distribution of infrastructure damages.
+
+![](assets/Figure_12.3.3.png){width=100%}
 
 **Figure 12.3.3:** The expected annual damages to infrastructure assets
 for multiple hazards. The figures show the baseline scenario and the
@@ -215,7 +209,9 @@ distribution shifts to the right. The example highlights the sources and
 magnitude of climate change uncertainties that need to be considered for
 infrastructure design. In Lecture 14 we will come back to this.
 
-Figure 12.3.4: The probability density functions (left) and survival
+![](assets/Figure_12.3.4.png){width=100%}
+
+**Figure 12.3.4:** The probability density functions (left) and survival
 functions (right) of the expected sea-level rise in 2065 in Louisiana
 (United States). The different curves reflect the different climate
 scenarios, the model spread and additional uncertainties surrounding the

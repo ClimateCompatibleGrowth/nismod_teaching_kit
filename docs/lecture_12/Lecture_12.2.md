@@ -1,44 +1,32 @@
 ---
 title: Mini-Lecture 12.2 - Projecting Future Climate
----
-
- 
-
 keywords:
-
 -   Climate change
-
 -   Climate model
-
 -   Emission scenarios
-
-authors: 
-
+authors:
 -   Jasper Verschuur
-
---- 
+---
 
 In this lecture we will answer the question: "How do we predict future
 change in climate?" We will discuss the use of climate models to predict
 future conditions including the kind of scenarios they are driven by and
 how they can inform risk management.
 
-# Learning objectives 
+# Learning objectives
 
--   Learn what a climate model is
--   Compare and contrast the outcomes of different climate scenarios
--   Recognise that climate impacts may differ across regions.
+- Learn what a climate model is
+- Compare and contrast the outcomes of different climate scenarios
+- Recognise that climate impacts may differ across regions.
 
- 
-
-# Introduction 
+# Introduction
 
 Most of us check the weather forecast on a daily basis, but not many of
 us look at a forecast of climate. There is often a lot of confusion
 between the two concepts. Therefore, it is important to understand what
 they mean. In short, we can say:
 
-"Climate is what you expect, weather is what you get."
+"*Climate is what you expect, weather is what you get*."
 
 Or in more scientific terms, climate is the average of daily weather
 over a period of around 30 years. Thus, although weather changes from
@@ -57,6 +45,8 @@ More information can be found
 [here](https://www.noaa.gov/education/resource-collections/climate). We
 will mainly focus on two aspects: how we model the future climate and
 how these model projections inform us on future climate risk.
+
+![](assets/Figure_12.2.1.png){width=100%}
 
 **Figure 12.2.1:** The evolution of global mean surface temperature
 between 1850 and present. The different colours indicate different data
@@ -90,6 +80,8 @@ methane, nitrous oxides), which we have good records of, that help us
 test whether the GCM can reproduce the observed temperature trend. This
 step is essential before we can use a GCM to project into the future.
 
+![](assets/Figure_12.2.2.png){width=100%}
+
 **Figure 12.2.2:** A schematic representation of a global climate model
 with the horizontal and vertical grids that are used to simulate the
 climate, land and ocean processes [@GFDL]
@@ -121,11 +113,17 @@ consumption, resulting in very high CO~2~ concentrations.
 These scenarios help us to explore alternative futures, including the
 associated uncertainty in how the climate might change.
 
+![](assets/Figure_12.2.3.png){width=100%}
+
 **Figure 12.2.3:** The population and gross domestic product trajectory
 per RCP scenario [@Vuuren2011]
 
+![](assets/Figure_12.2.4.png){width=100%}
+
 **Figure 12.2.4:** The primary energy and oil consumption trajectories
 per RCP scenario [@Vuuren2011]
+
+![](assets/Figure_12.2.5.png){width=100%}
 
 **Figure 12.2.5:** The carbon dioxide trajectories per RCP scenario
 [@Vuuren2011]
@@ -157,6 +155,8 @@ improved representations of various physical processes in the models
 models can be quite large. For instance, for the RCP8.5 scenario, the
 lowest CMIP6 model projects 3.8°C of warming, whereas the highest CMIP6
 model projects 7.4°C of warming.
+
+![](assets/Figure_12.2.6.png){width=100%}
 
 **Figure 12.2.6:** Prediction of changes in global mean surface
 temperature for the different climate scenarios. The range indicates the
@@ -191,12 +191,14 @@ regional changes under multiple climate scenarios and models to
 understand the range of plausible futures that our infrastructure system
 might face.
 
+![](assets/Figure_12.2.7.png){width=100%}
+
 **Figure 12.2.7:** Precipitation changes over the African continent for
 two time slices (2030-2059 and 2070-2099) and two climate and
 socio-economic scenarios (RCP4.5 and RCP8.5, and SSP2 and SSP5)
 [@Almazroui2020]
 
-# Summary 
+# Summary
 
 In this lecture we have looked at how the climate is changing globally.
 We described how we make use of climate models and projections to

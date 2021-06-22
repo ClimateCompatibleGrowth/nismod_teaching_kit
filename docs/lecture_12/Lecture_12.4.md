@@ -1,21 +1,11 @@
 ---
-title: "Mini-Lecture 12.4 - Future hazard risk: Case study"
----
-
- 
-
+title: Mini-Lecture 12.4 - Future hazard risk - Case study
 keywords:
-
 -   Argentina case study
-
 -   Future infrastructure exposure
-
 -   Hotspot analysis
-
 authors:
-
 -   Jasper Verschuur
-
 ---
 
 In this lecture we will go through a detailed example on how to include
@@ -29,8 +19,6 @@ infrastructure risk analysis introduced in previous lectures.
     ways
 -   Identify infrastructure risk hotspots
 -   Explain how a future climate risk assessment can inform adaptation.
-
-
 
 # Introduction
 
@@ -62,9 +50,13 @@ we will focus on the flood vulnerability of transport infrastructure,
 since flooding, both pluvial and fluvial, are considered the major
 hazards disrupting the transport infrastructure.
 
+![](assets/Figure_12.4.1.png){width=100%}
+
 **Figure 12.4.1:** Argentina's national road and railway networks,
 including the tonnage of freight allocated for the different assets
 [@Pant2019]
+
+![](assets/Figure_12.4.2.png){width=100%}
 
 **Figure 12.4.2:** Argentina's national waterways and airport networks,
 including the tonnage of freight allocated for the different assets
@@ -72,13 +64,15 @@ including the tonnage of freight allocated for the different assets
 
 # Future hazard scenarios
 
-    As mentioned, in this mini-lecture we look particularly at flooding of transport infrastructure assets. For this purpose, flood hazard maps for ten return periods were adopted (ranging between 5 and 1,000-years). In this example, we will mainly focus on river flooding. The flood maps include flood extent and the inundation depth. 
-    To account for future changes in river flooding, the output of 32 Global Climate Models (GCMs) from the CMIP5 model ensemble was used. The 2050 time horizon was adopted in this study across two Representative Concentration Pathway (RCP) scenarios (RCP4.5 and RCP8.5). 
-    The approach taken to simulate future flooding is a so-called scenario-neutral approach. Instead of running detailed flood simulation for all 32 GCMs at a high-resolution (and on a national level), two plausible scenarios are described that are in line with the majority of climate models. These scenarios are based on the expected change of the future 5-day maximum precipitation changes for 2050, which is a good proxy of flood occurrence, and then compared to the baseline (1986-2005). 
-    Two plausible scenarios were created, called the ‘Future Median’ scenario (+6%) and a ‘Future High’ (+12%) scenario, based on the climate model output. This was used to scale the flood extent and inundation depth. For smaller case studies, more scenarios can/should be considered to explore the uncertainty in more detail. 
-    An example of the current 1 in 1,000-year river flood map is shown in Figure 12.4.3, with the intensity of the colour indicating the inundation depth. 
+As mentioned, in this mini-lecture we look particularly at flooding of transport infrastructure assets. For this purpose, flood hazard maps for ten return periods were adopted (ranging between 5 and 1,000-years). In this example, we will mainly focus on river flooding. The flood maps include flood extent and the inundation depth.
+To account for future changes in river flooding, the output of 32 Global Climate Models (GCMs) from the CMIP5 model ensemble was used. The 2050 time horizon was adopted in this study across two Representative Concentration Pathway (RCP) scenarios (RCP4.5 and RCP8.5).
+The approach taken to simulate future flooding is a so-called scenario-neutral approach. Instead of running detailed flood simulation for all 32 GCMs at a high-resolution (and on a national level), two plausible scenarios are described that are in line with the majority of climate models. These scenarios are based on the expected change of the future 5-day maximum precipitation changes for 2050, which is a good proxy of flood occurrence, and then compared to the baseline (1986-2005).
+Two plausible scenarios were created, called the ‘Future Median’ scenario (+6%) and a ‘Future High’ (+12%) scenario, based on the climate model output. This was used to scale the flood extent and inundation depth. For smaller case studies, more scenarios can/should be considered to explore the uncertainty in more detail.
+An example of the current 1 in 1,000-year river flood map is shown in Figure 12.4.3, with the intensity of the colour indicating the inundation depth.
 
-    Figure 12.4.3: An example of fluvial inundation in the baseline scenario for the north of Argentina [@Pant2019]
+![](assets/Figure_12.4.3.png){width=100%}
+
+**Figure 12.4.3:** An example of fluvial inundation in the baseline scenario for the north of Argentina [@Pant2019]
 
 # Future infrastructure exposure
 
@@ -114,9 +108,13 @@ changes are more concentrated, and some areas experience a very large
 increase in risk (\>100%). Hence, apart from looking at the aggregate
 numbers, understanding the spatial exposure changes is critical.
 
+![](assets/Figure_12.4.4.png){width=100%}
+
 **Figure 12.4.4:** The percentage change in road exposure for a 10-year
 event and a 100-year event, aggregated to a department level
 [@Pant2019]
+
+![](assets/Figure_12.4.5.png){width=100%}
 
 **Figure 12.4.5:** The percentage change in railway exposure for a
 10-year event and a 100-year event, aggregated to a department level
@@ -149,8 +147,12 @@ are likely to need upgrading in the future, in particular given budget
 constraints. Moreover, this asset-level analysis also allows us to
 evaluate the benefits of resilience measures on an asset level.
 
+![](assets/Figure_12.4.6.png){width=100%}
+
 **Figure 12.4.6:** The percentage change in expected annual economic
 losses to railway assets by 2050 [@Pant2019]
+
+![](assets/Figure_12.4.7.png){width=100%}
 
 **Figure 12.4.7:** The percentage change in expected annual economic
 losses to road bridge assets by 2050 [@Pant2019]

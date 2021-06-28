@@ -1,9 +1,6 @@
 ---
 title: Mini-Lecture 18.4 -- Implementing, monitoring and governing
   nature-based solutions (NbS) in infrastructure projects
----
-
- 
 
 keywords:
 
@@ -13,7 +10,7 @@ keywords:
 
 -   Adaptive management
 
-authors: 
+authors:
 
 -   Robyn Haggis
 
@@ -46,11 +43,11 @@ particular attention should be paid to engaging local and indigenous
 communities and NbS experts; these will be discussed here. Table 18.4.1
 provides information on additional stakeholders who can be engaged.
 
-**Local and indigenous communities**
+## Local and indigenous communities
 
 Social dimensions, including community willingness and commitment to the
 solution, are key to the success and sustainability of NbS projects
-[@Seddon2021; @IUCNn.d.]. If the community is not involved and does
+[@Seddon2021;@IUCNnd]. If the community is not involved and does
 not see the value of the ecosystem, they may knowingly or unknowingly
 contribute to its decline [@WorldBank2017]. Equally, given the role
 of nature in underpinning the three pillars of the Sustainable
@@ -66,7 +63,7 @@ identification, planning, decision-making, implementation, monitoring,
 stewardship and negotiation of trade-offs, and their inputs should be
 meaningfully considered and addressed.
 
-**Experts**
+## Experts
 
 Projects that aim to implement NbS must consider biophysical and
 socioeconomic processes at different spatial and temporal scales. This
@@ -104,7 +101,7 @@ impacts of an intervention, an understanding of trade-offs should inform
 the establishment of social and biodiversity safeguards [@IUCN2020a;
 @IUCN2020b].
 
-**Social safeguards**
+## Social safeguards
 
 A key function of NbS social safeguards is to ensure that necessary
 trade-offs do not negatively impact the most disadvantaged of society
@@ -113,7 +110,7 @@ benefits [@Seddon2021]. Potential costs and benefits of associated
 trade-offs should be fully understood by all stakeholders and should
 inform safeguards and relevant management actions.
 
-**Biodiversity safeguards**
+## Biodiversity safeguards
 
 Biodiversity safeguards are necessary to ensure the long-term properties
 of ecosystem services are not exceeded [@Seddon2020]. Such safeguards
@@ -143,9 +140,7 @@ seasons and less in winter or dry seasons when plants are dormant.
 However, not all projects require NbS to reach 100% of their potential
 to meet baselines for service delivery [@Browder2019].
 
-![A bee on a white flower Description automatically generated with
-medium confidence](media/image1.tiff){width="6.268055555555556in"
-height="2.234008092738408in"}
+![](assets/Figure_18.4.1.png){width=100%}
 
 **Figure 18.4.1:** It takes coral reefs at least 2-5 years to grow and
 reproduce, and longer before they reach suitable size and maturity to

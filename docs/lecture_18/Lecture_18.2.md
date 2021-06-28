@@ -1,10 +1,6 @@
 ---
 title: Mini-Lecture 18.2 - Data Requirements for implementing
   nature-based solutions (NbS)
----
-
- 
-
 keywords:
 
 -   Nature-based solutions
@@ -25,14 +21,12 @@ It will provide an overview of the key data requirements for developing
 solutions using nature. These include ecological, climate and
 socio-political data requirements.
 
-# Learning objectives 
+# Learning objectives
 
 -   Describe the key data requirements for implementing NbS
 -   Recall the importance of taking a system-wide landscape approach
 -   Consider potential data sources for undertaking a baseline
     assessment.
-
-#  Lecture content
 
 # Landscape approach but rooted in the local ecological and socio-economic context
 
@@ -44,7 +38,7 @@ landscape [@IUCN2020b].
 
 The need for a landscape approach to NbS is twofold:
 
-1)  Ecosystems are highly dependent on wider-scale environmental
+1.  Ecosystems are highly dependent on wider-scale environmental
     processes and anthropogenic influences. These include sediment and
     nutrient fluxes, hydrodynamics, ecology, riverine and coastal
     processes, as well as human use, existing infrastructure networks
@@ -53,7 +47,7 @@ The need for a landscape approach to NbS is twofold:
     required service (e.g. flood protection, soil stabilisation) to the
     target area.**
 
-2)  The interconnectedness of nature means that actions in one area can
+2.  The interconnectedness of nature means that actions in one area can
     impact elsewhere in the system. For example, the type and diversity
     of species forming an NbS impact surface, sub-surface and
     atmospheric processes, including water tables, biodiversity, pest
@@ -75,6 +69,8 @@ discussed in the below sections. Potential negative impacts of not
 taking into account the local context are highlighted in Figures 18.2.1
 and 18.2.2.
 
+![](assets/Figure_18.2.1.png){width=100%}
+
 **Figure 18.2.1:** A number of studies have highlighted how Eucalyptus
 forests have been implemented, to dire effect (e.g. @Chanie2013). Their
 water-hungry and flammable nature has been known to lead to a drop in
@@ -90,9 +86,7 @@ using nature must be designed to address one of 7 societal challenges,
 as defined by the International Union for the Conservation of Nature
 (IUCN).
 
-![Logo, company name Description automatically
-generated](media/image3.tiff){width="6.416148293963254in"
-height="1.5260159667541557in"}
+![](assets/Figure_18.2.2.png){width=100%}
 
 **Figure 18.2.2:** The 7 societal challenges that can be addressed by
 NbS. The societal challenge(s) identified should directly affect a
@@ -132,7 +126,7 @@ lecture, however, in practice, the exact data requirements will be
 specific to the challenge that is being addressed and to the context in
 which it is situated.
 
-# Ecological data 
+# Ecological data
 
 A baseline assessment should be undertaken to identify the baseline
 condition of the target landscape, including ecosystem extent, condition
@@ -285,13 +279,13 @@ In order to be evidence-based, the baseline assessment should include
 both local knowledge and scientific understanding. Quantitative and
 qualitative evidence can be gathered from:
 
-(1) Published and/or grey literature through a literature review process
+1. Published and/or grey literature through a literature review process
 
-(2) Stakeholder consultation, drawing upon local and expert knowledge
+2. Stakeholder consultation, drawing upon local and expert knowledge
 
-(3) Surveys and site-specific data collection
+3. Surveys and site-specific data collection
 
-(4) Geospatial datasets (see table 18.2.2 for geospatial datasets).
+4. Geospatial datasets (see table 18.2.2 for geospatial datasets).
 
 **Table 18.2.2:** Geospatial data sources
 

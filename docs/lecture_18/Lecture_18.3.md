@@ -1,9 +1,6 @@
 ---
 title: Mini-Lecture 18.3 -- Cost-benefit analysis for nature-based
   solutions
----
-
- 
 
 keywords:
 
@@ -11,7 +8,7 @@ keywords:
 
 -   Cost-benefit analysis
 
-authors: 
+authors:
 
 -   Yu Mo
 
@@ -23,7 +20,7 @@ also presents a cost comparison of nature-based solutions to their
 corresponding traditional grey infrastructures. Case studies of valuing
 nature-based solutions in practice are also presented.
 
-# Learning objectives 
+# Learning objectives
 
 -   Recognise that nature-based solutions are cost-effective in
     resolving many issues
@@ -33,9 +30,9 @@ nature-based solutions in practice are also presented.
 
 -   Perform cost-benefit analysis for nature-based solutions.
 
- 
 
-# Nature-based solutions are cost-effective 
+
+# Nature-based solutions are cost-effective
 
 Nature-based solutions are effective for many problems faced by society,
 including water regulation (Lecture 16.1), soil stabilisation (Lecture
@@ -65,11 +62,7 @@ will inform better policy making through economic incentives
     -   Mechanisms to enable consumer preferences to be expressed
         through markets.
 
-```{=html}
-<!-- -->
-```
-
-# Methods for valuing the benefits of nature-based solutions 
+# Methods for valuing the benefits of nature-based solutions
 
 Nature based solutions provide many valuable provisioning, regulating,
 supporting, and cultural services:
@@ -102,7 +95,7 @@ and the expected damage function approach. The value of the supporting
 and culture service can be estimated by the property value method and
 the contingent valuation method.
 
-## Table 18.3.1: Examples of methods for valuing nature-based solution services 
+**Table 18.3.1:** Examples of methods for valuing nature-based solution services
 
   Method                          Service                                                                Nature-based solution                         Value/ Economic returns   Source
   ------------------------------- ---------------------------------------------------------------------- --------------------------------------------- ------------------------- --------------------
@@ -111,7 +104,7 @@ the contingent valuation method.
   Avoided damage                  Regulating services: storm protection against hurricane Sandy (2012)   Coastal wetlands in the northeast USA         USD625 million            [@Costanza2008]
   Expected damage function        Regulating services: storm protection                                  Mangroves in Thailand                         USD645,769                [@Barbier2015]
   Replacement cost                Regulating services: water filtration                                  Catskill watersheds                           USD6-8 Billion            [@Heal2005]
-  Value transfer + market value   Cultural service: tourism (diving/snorkeling)                          Coral reefs in American Samoa                 USD80,000                 [@WordBank2016]
+  Value transfer + market value   Cultural service: tourism (diving/snorkeling)                          Coral reefs in American Samoa                 USD80,000                 [@WorldBank2016]
 
 # Cost comparison of nature-based solutions and grey infrastructure
 
@@ -163,7 +156,7 @@ planted in 166 communes. The number of direct beneficiaries was 350,000.
 Table 18.3.3 shows the estimated economic benefits resulting from the
 project. The benefit-cost ratio of the project is almost 30.
 
-## Table 18.3.3: Cost-benefit analysis of the Mangrove Plantation and Disaster Risk Reduction project [@RedCross2012].
+**Table 18.3.3:** Cost-benefit analysis of the Mangrove Plantation and Disaster Risk Reduction project [@RedCross2012].
 
 +----------------------------+-----------------------+
 | Cost                       | USD8.88 million       |
@@ -200,7 +193,9 @@ the northernmost reef system in the Atlantic Ocean. Nonetheless,
 Bermuda's reefs are ranked worldwide at "high risk", in great part due
 to the island's high human population density within 20km of the reefs.
 
-## Figure 18.3.1: Bermuda's known coral reef cover including hard and soft coral species [@Sarkis2013]
+![](assets/Figure_18.3.1.png){width=100%}
+
+**Figure 18.3.1:** Bermuda's known coral reef cover including hard and soft coral species [@Sarkis2013]
 
 The six key ecosystem goods and services identified are:
 
@@ -222,7 +217,7 @@ reefs is estimated to be USD722.4 million/year, with tourism and coastal
 protection adding the majority of the value, composing of 56% and 37% of
 the total economic value, respectively.
 
-## Table 18.3.4: The value of the six key services of Bermuda's reef and the method used to estimate those values
+**Table 18.3.4:** The value of the six key services of Bermuda's reef and the method used to estimate those values
 
 +----------------------+----------------------+----------------------+
 | Ecosystem service    | Method               | Average value        |

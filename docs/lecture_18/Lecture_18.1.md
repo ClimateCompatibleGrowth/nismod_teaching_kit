@@ -1,9 +1,6 @@
 ---
-title: "Mini-Lecture 18.1 - []{#_Hlk67331875 .anchor}Decision-making for
-  nature-based solutions"
----
-
-
+title: Mini-Lecture 18.1 - Decision-making for
+  nature-based solutions
 
 keywords:
 
@@ -13,11 +10,11 @@ keywords:
 
 -   Evidenced-based decision-making
 
-authors: 
+authors:
 
 -   Yu Mo
 
---- 
+---
 
 This lecture provides an overview of the process of decision-making when
 planning nature-based solutions. This lecture also introduces the common
@@ -26,7 +23,7 @@ lecture discussed the uncertainty in the process, and how adaptive
 management and evidence-based decision-making can help to solve that. A
 case study demonstrating the concepts is presented.
 
-# Learning objectives 
+# Learning objectives
 
 -   Understand what the key considerations are when planning
     nature-based solutions
@@ -37,9 +34,7 @@ case study demonstrating the concepts is presented.
 -   Obtain a basic understanding of how to account for uncertainty in
     the planning of nature-based solutions.
 
-
-
-# Decision-making in nature-based solutions 
+# Decision-making in nature-based solutions
 
 An effective decision-making mechanism should allow informed,
 transparent, and ethical decisions towards the sustainable
@@ -78,14 +73,8 @@ to the successful implementation of nature-based solutions [@MEA2005;
     the presence of corruption and weak systems of regulation and
     accountability
 
-```{=html}
-<!-- -->
-```
 -   Market failures and the misalignment of economic incentives
 
-```{=html}
-<!-- -->
-```
 -   Failure in representing the needs of the local communities,
     particularly those lacking political and economic power (such as
     women and indigenous groups)
@@ -101,25 +90,25 @@ to the successful implementation of nature-based solutions [@MEA2005;
 -   Lack of information on the value of nonmarketed ecosystem services
     and the linkage between these services and human well-being.
 
-# Tools for better decision-making 
+# Tools for better decision-making
 
 There are many tools that can be used to assist decision-making
 concerning ecosystems and their services at a variety of scales,
 including global, sub-global, and local (see Table 18.1.1)
 [@MEA2005]:
 
--   **Deliberative tools:** Tools that facilitate transparency and
+- **Deliberative tools:** Tools that facilitate transparency and
     stakeholder participation, including neighborhood forums, citizens'
     juries, community issues groups, consensus conferences, electronic
     democracy, focus groups, issue forums, and ecosystem service user
     forums
 
--   **Information-gathering tools:** Tools that help with collection of
+- **Information-gathering tools:** Tools that help with collection of
     data and opinions, such as citizens' research panels, deliberative
     opinion polls, environmental impact assessments, participatory rural
     appraisal, and rapid rural appraisal
 
--   **Planning tools:** Tools that help to evaluate different potential
+- **Planning tools:** Tools that help to evaluate different potential
     policy options, such as consensus participation, cost-benefit
     analysis, multi-criteria analysis, participatory learning and
     action, stakeholder decision analysis, trade-off analysis, and
@@ -129,26 +118,26 @@ Particularly, there are five planning tools that are commonly used in
 assessing optimisation, equity, thresholds, and uncertainty of decisions
 for nature-based solution planning:
 
--   **Cost-benefit analysis:** Evaluation of the strengths and
+- **Cost-benefit analysis:** Evaluation of the strengths and
     weaknesses of different options for the determination of the best
     option for achieving benefits while preserving cost
 
--   **Risk assessment:** Identification and analysis of (future) risk on
+- **Risk assessment:** Identification and analysis of (future) risk on
     the system and making judgments based on the tolerability of the
     risk
 
--   **Multi-criteria analysis:** Explicitly evaluating multiple
+- **Multi-criteria analysis:** Explicitly evaluating multiple
     conflicting criteria in decision-making
 
--   **Precautionary principle:** Understanding of the potential negative
+- **Precautionary principle:** Understanding of the potential negative
     impact of a decision when extensive scientific knowledge on the
     matter is lacking
 
--   **Vulnerability analysis:** Definition, identification,
+- **Vulnerability analysis:** Definition, identification,
     classification, and prioritisation of vulnerable elements in the
     system.
 
-## Table 18.1.1: Applicability of decision support methods and frameworks [@MEA2005]
+**Table 18.1.1:** Applicability of decision support methods and frameworks [@MEA2005]
 
   Method                    Optimisation   Equity   Thresholds   Uncertainty
   ------------------------- -------------- -------- ------------ -------------
@@ -165,7 +154,7 @@ uncertainty) the method has already been modified to handle uncertainty
 
 --: weak but not impossible applicability with significant effort
 
-# The uncertainty of nature-based solutions 
+# The uncertainty of nature-based solutions
 
 Nature-based solutions should be factored into infrastructure and
 development planning from the outset, to ensure sustainable, resilient
@@ -207,7 +196,7 @@ would otherwise occur. Given the high levels of uncertainty surrounding
 coupled socioecological systems, the use of active adaptive management
 is often warranted.
 
-# Evidenced-based decision-making 
+# Evidenced-based decision-making
 
 Evidenced-based decision-making can address the uncertainty in
 nature-based solution implementation and provide communication among
@@ -226,10 +215,8 @@ issues [@Bauduceau2015]:
 -   How does the effectiveness change with local conditions? Many will
     vary according to the climate, local ecology or societal variation.
 
-```{=html}
-<!-- -->
-```
-    The evidence should be assessed within a four-staged process:
+
+The evidence should be assessed within a four-staged process:
 
 1.  The first stage should be a collation of the possible interventions,
     with the objective of being as comprehensive as possible. These
@@ -250,11 +237,8 @@ issues [@Bauduceau2015]:
     a manner that can be used readily by a wide range of individuals,
     for example through existing websites.
 
-```{=html}
-<!-- -->
-```
 
-# Case Study: Eco-safe roads in Nepal 
+# Case Study: Eco-safe roads in Nepal
 
 This study presents the implementation of eco-safe roads in Nepal
 through a science-practice and policy approach [@Monty2017].
@@ -297,12 +281,13 @@ scientific findings can strengthen policy arguments, and (2)
 participation of the local communities and integration of local
 livelihood benefits are critical in implementing nature-based solutions.
 
-![](media/image1.png){width="6.5in"
-height="2.2055555555555557in"}**Figure 18.1.1:** Demonstration site
+![](assets/Figure_18.1.1.png){width=100%}
+
+**Figure 18.1.1:** Demonstration site
 Gharelu before interventions (left) after interventions (right)
 [@Monty2017]
 
-# Summary 
+# Summary
 
 This lecture introduces the process of decision-making when planning
 nature-based solutions and the common tools that can be used in the

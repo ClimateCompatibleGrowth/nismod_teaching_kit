@@ -1,8 +1,5 @@
 ---
 title: Mini-Lecture 17.1 - Nature-based solutions (NbS) for water supply
----
-
-
 
 keywords:
 
@@ -24,7 +21,7 @@ A range of NbS services are illustrated, including their services for
 provisioning freshwater, enhancing water quality and preventing
 salination of water supplies.
 
-# Learning objectives 
+# Learning objectives
 
 -   To recall a range of nature-based solutions which can support the
     delivery of freshwater
@@ -34,8 +31,6 @@ salination of water supplies.
 
 -   To recognise the value of integrating nature-based solutions with
     built infrastructure solutions for water supply.
-
- {#lecture-content-1}
 
 # Introduction
 
@@ -58,6 +53,8 @@ ecosystems, watersheds and underground aquifers, nature-based solutions
 have a critical role to play in in regulating water flows, water quality
 and ensuring sustainable supplies going forward (see Figures 17.1.1 and
 17.1.2) [@UNEP2014].
+
+![](assets/Figure_17.1.1.png){width=100%}
 
 **Figure 17.1.1:** The wider natural landscape of watersheds, ecosystems
 and underground aquifers have a key role to play in meeting
@@ -83,7 +80,7 @@ Furthermore, by mitigating climate impacts such as storm surges, NbS can
 prevent and reduce damage to built water infrastructure, such as water
 reservoirs [@Kapos2019] (see Lecture 16).
 
-![](media/image2.png){width="6.5in" height="4.639583333333333in"} 
+![](assets/Figure_17.1.2.png){width=100%}
 
 **Figure 17.1.2:** Nature-based solutions for water regulation
 [@Cohen-Shacham2016] 
@@ -91,7 +88,7 @@ reservoirs [@Kapos2019] (see Lecture 16).
 **Table 17.1.1:** Examples of NbS and services for water provision.
 Where these ecosystem functions have been degraded or lost, water
 providers are likely to face increased costs to provide a regular supply
-of quality freshwater [@Tremolet2020; @UNEP2014].
+of quality freshwater [@Tremolet2020;@UNEP2014].
 
 +----------------------------------+----------------------------------+
 | Example nature-based solution    | Example services                 |
@@ -186,9 +183,7 @@ discharges from the Weija dam (through regulating peak flows), reducing
 desilting requirements and costs, and reducing water treatment
 requirements.
 
-![Map Description automatically
-generated](media/image3.tiff){width="6.469444444444444in"
-height="4.7243055555555555in"}
+![](assets/Figure_17.1.3.png){width=100%}
 
 **Figure 17.1.3:** Location of the Atewa Forest, at the source of the
 Ayensu, Birim and Densu Rivers which together provide water for 5
@@ -250,20 +245,20 @@ removing sediments, heavy metals and other pollutants from water
 supplies, which can protect groundwater from contamination (Figure
 17.1.4) [@UNEP2014; @Gopal1999].
 
+![](assets/Figure_17.1.4.png){width=100%}
+
 **Figure 17.1.4:** Natural wetlands and reed ponds can contribute to
 enhanced water quality [@Browder2019]. The Muthurajawela integrated
 coastal wetland system in Sri Lanka (right) assimilates pollutants from
 domestic and industrial sources, ensuring quality water to downstream
-communities [@Browder2019; @UNEP2014]
+communities [@Browder2019;@UNEP2014]
 
 Water harvesting systems on buildings (e.g. green roofs), and green
 spaces and permeable pavements in urban areas can reduce stormwater
 runoff and contamination of urban water supplies, including from sewer
 overflow (Figure 17.1.5) [@Yao2015].
 
-![A picture containing text, grass, tree, outdoor Description
-automatically generated](media/image5.tiff){width="3.7930555555555556in"
-height="2.592361111111111in"}
+![](assets/Figure_17.1.5.png){width=100%}
 
 **Figure 17.1.5:** Bioswales can be implemented in urban areas to
 enhance water quality of urban water supplies, through capturing and
@@ -279,6 +274,8 @@ elevated (or sometimes reduced) due to human activities, such as waste
 heat from industrial activities [@UNEP2014]. NbS can help to mitigate
 thermal pollution through the provision of shade by riparian vegetation
 (Figure 17.1.6).
+
+![](assets/Figure_17.1.6.png){width=100%}
 
 **Figure 17.1.6:** Riparian vegetation can provide shade to waterways
 and help to reduce thermal pollution [@UNEP2014]. Photograph from
@@ -296,6 +293,8 @@ storage capacity (Figure 17.1.7) [@Browder2019]. Reducing
 sedimentation of rivers and reservoirs can help combat turbidity. As
 such, NbS that stabilise soils, reduce runoff from floods, and reduce
 sedimentation of watercourses contribute to mitigating turbidity.
+
+![](assets/Figure_17.1.7.png){width=100%}
 
 **Figure 17.1.7:** The Thirlmere reservoir in the UK had such high
 turbidity in 2015 that it was put out of service [@Tremolet2020].
@@ -320,7 +319,6 @@ control should be based on an understanding of the ecological context
 and suitability of the NbS, including its ability to assimilate
 pollutants [@Honlah2019].
 
-# 
 
 # Protecting water supplies from saline intrusion and being mindful of caveats for NbS implementation
 
@@ -333,6 +331,8 @@ coastal salt marshes and barrier oyster and coral reefs can protect
 coastal areas from erosion and saltwater intrusion, in similar ways as
 engineered solutions such as dykes and levees (Figure 17.1.8)
 [@Kapos2019]. This reduces the need for desalination water treatment.
+
+![](assets/Figure_17.1.8.png){width=100%}
 
 **Figure 17.1.8:** Coastal ecosystems such as beaches and native
 vegetation can help to prevent terrestrial inundation of seawater and
@@ -357,9 +357,6 @@ outside the project area [e.g. @Shi2012; @UNEP2014]. For example,
 while reducing sedimentation of river courses can support potable water
 supply, it can impact biodiversity within rivers and in downstream
 deltas, such as the Densu Delta in Ghana [@IUCN2016].
-
-*\
-*
 
 **Table 17.1.2:** Integrating NbS can provide various benefits to water
 service providers. Examples are shown here [@Tremolet2020;
@@ -454,7 +451,7 @@ service providers. Examples are shown here [@Tremolet2020;
 |                                  | carbon sequestration.            |
 +----------------------------------+----------------------------------+
 
-# Summary 
+# Summary
 
 Freshwater supplies originate in the broader watershed and are impacted
 by ecosystems and land use practices within the wider landscape context.

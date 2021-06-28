@@ -1,9 +1,6 @@
 ---
 title: Mini-Lecture 17.4 - Integrating nature-based solutions (NbS) in
   the built environment
----
-
-
 
 keywords:
 
@@ -34,8 +31,6 @@ and other aspects of urban contexts.
 -   Consider the ways in which NbS can benefit occupants across
     different sectors.
 
-
-
 # Introduction to nature-based solutions in the built environment
 
 Nature-based solutions (NbS) can be strategically integrated into
@@ -45,7 +40,7 @@ stations) and industrial buildings.
 
 Beyond simple aesthetic and environmental appeal, NbS can provide
 various services which can benefit the building sector and urban
-landscape [@Enzi2017; @Blicharska2019]. For example, green roofs and
+landscape [@Enzi2017;@Blicharska2019]. For example, green roofs and
 walls can shade external building facades from weather and climate
 impacts, enhance their durability and lifespan, reducing maintenance and
 associated costs.
@@ -73,25 +68,19 @@ Various cities are integrating green roofs and urban farming, including
 New York, Berlin, Hong Kong and Singapore, and sectors including air
 transport, schools and hospitals [@Newman2014].
 
-![A picture containing text, outdoor Description automatically
-generated](media/image1.tiff){width="4.813194444444444in"
-height="3.1819444444444445in"}
+![](assets/Figure_17.4.1.png){width=100%}
 
 **Figure 17.4.1:** Rooftop farming in Vienna. Green roofs can enhance
 building durability whilst doubling as space for activities that support
 economic, societal and environmental health [@Enzi2017]
 
-![A picture containing text, sky, outdoor, screenshot Description
-automatically generated](media/image2.tiff){width="4.815244969378828in"
-height="2.9304341644794403in"}
+![](assets/Figure_17.4.2.png){width=100%}
 
 **Figure 17.4.2:** Green roof on a gym in Paris. Green roofs can enhance
 durability of building structures whilst delivering co-benefits
 including air quality, mental health and well-being, space for
 recreation and aesthetic value [@Enzi2017]
 
-*\
-*
 
 **Table 17.4.1:** Examples of economic benefits of integrating NbS into
 buildings [@EuropeanCommission2013; @GMCA2019]
@@ -194,8 +183,6 @@ buildings [@EuropeanCommission2013; @GMCA2019]
 |                                  |     recurring maintenance costs. |
 +----------------------------------+----------------------------------+
 
-# 
-
 # Nature-based solutions in cities
 
 Integrating NbS in urban landscapes such as cities can provide multiple
@@ -208,13 +195,11 @@ sanitation and hygiene in urban areas by regulating water quantity,
 reducing stormwater runoff, reducing pollutant loads and preventing
 sewer system overflows, safeguarding urban water supplies.
 
-![A picture containing text, mountain Description automatically
-generated](media/image3.tiff){width="5.268055555555556in"
-height="7.186111111111111in"}
+![](assets/Figure_17.4.3.png){width=100%}
 
 **Figure 17.4.3:** Green roofs can reduce annual stormwater runoff by up
 to 50-90% for smaller storms (up to 25mm) and at least 30% for larger
-storms [@GMCA2019; @Enzi2017].
+storms [@GMCA2019;@Enzi2017].
 
 By leveraging NbS in urban areas, cities can increase economic
 generation, including by attracting inward investment and through
@@ -242,32 +227,26 @@ whole footprint coverage of a building with green space (e.g. green
 roofs, walls, balconies). In this way, the whole city is designed to
 have access to nature [@Newman2014].
 
-![A person walking on a path in a park with a city in the background
-Description automatically generated with medium
-confidence](media/image4.tiff){width="6.2027777777777775in"
-height="2.532638888888889in"}
+![](assets/Figure_17.4.4.png){width=100%}
 
 **Figure 17.4.4:** Green spaces can provide benefits to the physical and
 mental health of populations, through opportunities for exercise,
 reduction in the urban heat island effect and improving air quality, as
 well as aesthetic appeal. Photograph from @Browder2019.
 
-![A picture containing tree, sky, outdoor, plant Description
-automatically generated](media/image5.tiff){width="5.0118044619422575in"
-height="4.834722222222222in"}
+![](assets/Figure_17.4.5.png){width=100%}
 
 **Figure 17.4.5:** Green spaces in cities can shield buildings from
 weather impacts. Photograph from @Kapos2019.
 
-![](media/image6.tiff){width="6.268055555555556in"
-height="6.209029965004374in"}
+![](assets/Figure_17.4.6.png){width=100%}
 
 **Figure 17.4.6:** NbS can form part of a larger network of wildlife
 corridors in urban and suburban areas, supporting wider biodiversity
 goals, and contribute to carbon sequestration. Photographs from
 Unsplash.
 
-# Strategically integrating NbS to benefit offices, finance and retail 
+# Strategically integrating NbS to benefit offices, finance and retail
 
 Integration of NbS has been shown to increase the effectiveness and
 productivity of workforces. Studies show that high quality accessible
@@ -298,9 +277,7 @@ spending of visitors in local restaurants. Similarly, lack of nature or
 degraded natural spaces can lead to poor perceptions of an area, and act
 as a barrier to investment, recruitment and staff retention.
 
-![A picture containing text, grass, screenshot Description automatically
-generated](media/image7.tiff){width="6.23125in"
-height="4.164583333333334in"}
+![](assets/Figure_17.4.7.png){width=100%}
 
 **Figure 17.4.7:** A green roof on top of a car park and rail yard in
 Illinois. The roof helps slow stormwater runoff and provides the
@@ -336,9 +313,7 @@ living walls, could help to regulate the urban heat island effect and
 local environment, leading to benefits for surrounding communities
 [@﻿Turhan&Akkurt2018].
 
-![A picture containing water, tree, outdoor, sky Description
-automatically generated](media/image8.tiff){width="6.19910542432196in"
-height="4.1043482064741905in"}
+![](assets/Figure_17.4.8.png){width=100%}
 
 **Figure 17.4.8:** NbS could be integrated in and around factory
 buildings for various benefits including increasing the health,
@@ -346,7 +321,7 @@ well-being and productivity of workers. Photograph from Unsplash.
 
 # Strategically integrating NbS to benefit health and education
 
-**Health**
+## Health
 
 Integrating NbS into urban areas can provide a variety of services which
 improve mental health and well-being. These include (but are not limited
@@ -362,10 +337,9 @@ respiratory illnesses, purifying the environment, provisioning
 nutritious food, reducing disease and maintaining quality water supplies
 [@Blicharska2019; @CNT2010].
 
-![](media/image9.tiff){width="5.252083333333333in"
-height="6.1591043307086615in"}
+![](assets/Figure_17.4.9.png){width=100%}
 
-Figure 17.4.9: Natural ecosystems provide various benefits which
+**Figure 17.4.9:** Natural ecosystems provide various benefits which
 contribute to good health outcomes [@LivingPlanetReport2020]
 
 As well as helping to prevent health-related issues, studies have shown
@@ -378,9 +352,7 @@ healing views, that help to reduce blood pressure and heart rates.
 a view of trees from their hospital room, rather than a view of a wall,
 through restorative influences.
 
-![A picture containing tree, outdoor, building, garden Description
-automatically generated](media/image10.tiff){width="6.268055555555556in"
-height="3.301388888888889in"}
+![](assets/Figure_17.4.10.png){width=100%}
 
 **Figure 17.4.10:** The new KTP hospital in Singapore features a green
 roof, butterfly garden, waterfall, green balconies and multilevel
@@ -388,7 +360,7 @@ gardens with ponds containing \>90 fish species. A rooftop farm provides
 patients with organic and nutritious food [@Newman2014]. Photograph
 from @Krishna2019.
 
-**Education**
+## Education
 
 NbS can also support education outcomes, by increasing cognitive
 functioning, attention spans and providing opportunities for students to

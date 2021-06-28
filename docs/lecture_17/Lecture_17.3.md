@@ -1,9 +1,6 @@
 ---
 title: "Mini-Lecture 17.3 - Designing integrated NbS-built
   infrastructure networks: transport, energy and digital communications"
----
-
-
 
 keywords:
 
@@ -17,7 +14,7 @@ authors:
 
 -   Robyn Haggis
 
---- 
+---
 
 This mini-lecture will consider the ways in which nature-based solutions
 (NbS) can be integrated into built infrastructure networks for
@@ -46,7 +43,7 @@ nature-based solutions (NbS) can provide multiple benefits to the sector
 and beyond if implemented with consideration, at costs comparable or
 lower than engineered alternatives.
 
-**Integrating NbS in ports and harbours**
+## Integrating NbS in ports and harbours
 
 Due to their low-lying nature and proximity to the coastal zone, ports
 and harbours are at risk of climate impacts including flooding and storm
@@ -63,13 +60,15 @@ use of living harbour wall systems can help to extend grey
 infrastructure lifespans and reduce pollution of port waters
 [@Perkol-Finkel2018].
 
+![](assets/Figure_17.3.1.png){width=100%}
+
 **Figure 17.3.1:** Mangroves and other coastal and marine ecosystems can
 protect ports from climate impacts, support tranquillity of waters and
 increase navigability of shipping channels by reducing sedimentation and
 mitigating erosive forces from passing boats [@Paalvast2012].
 Photograph @Hijdra2021.
 
-**Integrating NbS in rivers, canals and lakes**
+## Integrating NbS in rivers, canals and lakes
 
 There are various options for integrating NbS into river, canal and lake
 systems [@EU2018]. For example, riparian vegetation along water
@@ -209,15 +208,18 @@ such, ecological corridors in the form of verges and slopes along linear
 transport networks can reduce long-term costs for maintenance and
 increase the lifespan of engineered assets (Figure 17.3.2) [@EU].
 
+![](assets/Figure_17.3.2.png){width=100%}
+
 **Figure 17.3.2:** NbS can protect road and rail infrastructure networks
 from climate impacts*.* Photograph from @Browder2019.
 
-![](media/image3.tiff){width="6.267361111111111in"
-height="2.501388888888889in"}The implementation of specific ecological
+The implementation of specific ecological
 infrastructure structures, such as overpasses or underpasses, can
 further increase the resilience of the sector, by facilitating the safe
 movement of wildlife and preventing wildlife-induced transport
 collisions (Figure 17.3.3) [@ADB2019].
+
+![](assets/Figure_17.3.3.png){width=100%}
 
 **Figure 17.3.3:** Ecological underpasses and overpasses [@ADB2019;
 @EU]
@@ -257,8 +259,9 @@ London Heathrow Airport has piloted constructed treatment wetlands and
 reed beds, to treat stormwater runoff and wastewater (see Figure 17.3.4)
 [@Revitt&Brewer2001; @WWT2013].
 
-![](media/image4.tiff){width="6.268055555555556in"
-height="2.6354166666666665in"}**Figure 17.3.4:** London Heathrow Airport
+![](assets/Figure_17.3.4.png){width=100%}
+
+**Figure 17.3.4:** London Heathrow Airport
 planted 80,000 reeds as part of a floating reedbed and constructed
 wetland system to store and treat run-off and wastewater from the
 airport. Photograph from @WWT2013.
@@ -274,6 +277,8 @@ and NbS features (Figure 17.3.5) which has led to the airport being
 considered a visitor attraction in its own right and has contributed to
 Singapore's reputation as a city in a garden [@Henderson2017;
 @Newman2013; @AT2016].
+
+![](assets/Figure_17.3.5.png){width=100%}
 
 **Figure 17.3.5:** Singapore's Changi Airport includes multiple gardens
 and an open dome to allow rainfall to be captured by an indoor waterfall
@@ -313,15 +318,15 @@ through restoring peatlands and other habitats with low-lying vegetation
 under power lines, whilst improving biodiversity (Figure 17.3.6). The
 project was shown to break even in 3-12 years and become 1.4-3.9 times
 cheaper (depending on the NbS) than traditional methods after 30 years
-[@EuropeanCommission2019; @LifeElia2021; @LifeElia].
+[@EuropeanCommission2019;@LifeElia2021;@LifeElia].
+
+![](assets/Figure_17.3.6.png){width=100%}
 
 **Figure 17.3.6:** The LIFE ELIA project restored 130km of different
 ecosystems in ecological corridors under overhead electricity
 transmission networks (2011-2017). It delivered additional benefits
 including pollination, carbon storage, increased amenity value
 [@EuropeanCommission2019; @LifeElia2021]. Photograph from Unsplash.
-
-# 
 
 # Integrating nature-based solutions into the energy sector
 
@@ -330,7 +335,7 @@ role in the delivery of energy services going forward, NbS can
 complement and enhance energy sector service delivery, and enable
 electricity provision at lower cost [@Arias2011].
 
-**Services to hydropower**
+## Services to hydropower
 
 NbS can provide multiple benefits to hydropower electricity service
 provision. For example, the restoration of forests and riparian
@@ -343,14 +348,12 @@ turbidity within reservoirs, leading to reduced downtime and protecting
 the grey infrastructure asset from turbidity-induced wear and tear
 (Figure 17.3.7) [@Browder2019].
 
-![Graphical user interface Description automatically
-generated](media/image7.tiff){width="6.295082020997375in"
-height="3.3040069991251095in"}
+![](assets/Figure_17.3.7.png){width=100%}
 
 **Figure 17.3.7:** NbS can increase the lifespan of built infrastructure
 through reducing erosion. Photograph from @Browder2019.
 
-**Services to solar power**
+## Services to solar power
 
 By maintaining ecosystems, such as wetlands, around solar panels, energy
 service providers can benefit from increased energy efficiency of solar
@@ -360,12 +363,13 @@ of green roofs can enhance solar power service delivery, by acting as a
 substrate to anchor solar panels and increasing their energy efficiency
 by as much as 20% (Figure 17.3.8) [@Enzi2017; @Semeraro2020].
 
-![](media/image8.tiff){width="6.188194444444444in"
-height="4.695138888888889in"}**Figure 17.3.8:** Green roofs can anchor
+![](assets/Figure_17.3.8.png){width=100%}
+
+**Figure 17.3.8:** Green roofs can anchor
 on green roofs, protect panels from weather impacts and support energy
 efficiency. Photograph from @Enzi2017.
 
-**Services to fixed assets**
+## Services to fixed assets
 
 The restoration, management or creation of new ecosystems around fixed
 energy assets can protect grey infrastructure assets and safeguard

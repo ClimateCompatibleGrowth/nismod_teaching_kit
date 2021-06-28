@@ -1,9 +1,6 @@
 ---
 title: Mini-Lecture 17.2 - Nature-based solutions for waste and
   wastewater treatment
----
-
- 
 
 keywords:
 
@@ -36,7 +33,7 @@ treatment.
     nature-based solutions for waste management and wastewater
     treatment.
 
- 
+
 
 # Overview of the applications of nature-based solutions in waste and wastewater treatment
 
@@ -62,7 +59,7 @@ countries and regions where expensive engineering infrastructures are
 not available. Table 17.2.1 provides an overview of applications of
 nature-based solutions in waste and wastewater treatment.
 
-## Table 17.2.1: Overview of nature-based solutions in waste and wastewater treatment[@MEA2005]
+**Table 17.2.1:** Overview of nature-based solutions in waste and wastewater treatment[@MEA2005]
 
 +----------------+----------------+----------------+----------------+
 | Services       | Hard           | Nature-based   | Co-benefits    |
@@ -270,7 +267,7 @@ pesticides, and irrigation. Native plants also better preserve
 biodiversity and the natural heritage as they provide shelter and food
 for native wildlife and pollinators.
 
-# Case study: Constructed wetlands treating landfill leachates in Ibadan, Nigeria 
+# Case study: Constructed wetlands treating landfill leachates in Ibadan, Nigeria
 
 This case study presents the implementation and performance of a
 constructed wetland in treating leachate from a landfill site in Ibadan,
@@ -293,7 +290,7 @@ wetlands. The final effluent from the constructed wetlands met the
 Nigeria Federal Environmental Protection Agency standard for discharge
 into surface waters.
 
-## Table 17.2.2: Characteristics of the influent and effluents from the constructed wetlands [@Aluko2005]
+**Table 17.2.2:** Characteristics of the influent and effluents from the constructed wetlands [@Aluko2005]
 
   Parameters (Unit)                        Influent   Effluent   Percentage removed   FEPA Standard\*
   ---------------------------------------- ---------- ---------- -------------------- -----------------
@@ -326,7 +323,7 @@ into surface waters
 
 \*\*Percentage increase
 
-# Nature-based solutions for nutrient removal 
+# Nature-based solutions for nutrient removal
 
 Human activity, mainly agriculture, has substantially increased the flux
 of phosphorus into the landscape. Such excessive nutrient inputs into
@@ -360,7 +357,7 @@ contribute to ozone depletion. Therefore, when planning for nature-based
 solutions, there should be careful consideration to also ensure minimal
 production of these greenhouse gases.
 
-# Case study: Floating wetlands treating urban wastewater in Pakistan 
+# Case study: Floating wetlands treating urban wastewater in Pakistan
 
 This case study looks at the implementation of a large-scale floating
 treatment wetland (FTWs) installed on a wastewater stabilisation pond in
@@ -389,13 +386,7 @@ study demonstrates that FTW is a cost-effective approach for large-scale
 sewage and industrial wastewater treatment, especially for regions with
 limited or insufficient wastewater treatment infrastructures.
 
-![](media/image1.emf){width="2.9999846894138233in"
-height="2.0in"}![](media/image2.png){width="2.998021653543307in"
-height="2.004166666666667in"}
-
-![](media/image2.png){width="2.9991338582677165in"
-height="1.9979166666666666in"}![](media/image2.png){width="2.998611111111111in"
-height="2.003305993000875in"}
+![](assets/Figure_17.2.1.png){width=100%}
 
 ## Figure 17.2.1: (a) A schematic representation of a hydroponic rootmat, and (b-d) the growth of FTWs (adapted from @Afzal2019)
 

@@ -1,9 +1,6 @@
 ---
 title: Mini-Lecture 20.3 -- Next steps for infrastructure sustainability
   and resilience
----
-
- 
 
 keywords:
 
@@ -24,14 +21,12 @@ systems analysis, which can be expected in the coming years. We also
 consider the potential for more widespread uptake of the datasets and
 tools that have been provided in this course.
 
-# Learning objectives 
+# Learning objectives
 
 -   Have some knowledge of future directions in infrastructure systems
     analysis
 -   Understand how technological innovation can help to promote the
     uptake of methodologies for infrastructure systems analysis.
-
- 
 
 # Introduction
 
@@ -111,7 +106,7 @@ analysis of globally available datasets. This will provide a starting
 point for more in-depth analysis, supplemented with locally obtained
 data, anywhere on Earth.
 
-![](media/image1.png){width="6.5in" height="3.563888888888889in"}
+![](assets/Figure_20.3.1.png){width=100%}
 
 **Figure 20.3.1:** Example of the NISMOD interface for transport network
 vulnerability analysis in Argentina

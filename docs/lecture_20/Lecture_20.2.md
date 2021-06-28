@@ -1,9 +1,6 @@
 ---
 title: Mini-Lecture 20.2 -- Embedding sustainability and resilience in
   infrastructure decisions
----
-
- 
 
 keywords:
 
@@ -13,7 +10,7 @@ keywords:
 
 -   Planning
 
-authors: 
+authors:
 
 -   Prof Jim Hall
 
@@ -30,8 +27,6 @@ factored into decision-making.
     life-cycle
 -   Understand how sustainability and resilience can be factored into
     these points.
-
- 
 
 # Introduction
 

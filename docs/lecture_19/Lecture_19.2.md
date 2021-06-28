@@ -1,9 +1,6 @@
 ---
 title: Mini-Lecture 19.2 -- Common challenges in infrastructure
   governance
----
-
- 
 
 keywords:
 
@@ -27,7 +24,7 @@ continuity, and stakeholder engagement. Succinct examples illustrate
 specific instances of enabling environment factors impacting governance
 and management of infrastructure.
 
-# Learning objectives 
+# Learning objectives
 
 -   Define the enabling environment in the context of infrastructure
     development and governance
@@ -35,8 +32,6 @@ and management of infrastructure.
     across multiple sectors and national contexts
 -   Recognise the unintentional negative impacts of systems and metrics
     on effective infrastructure governance.
-
-  {#lecture-content-1}
 
 # Infrastructure governance context: Enabling environment
 
@@ -54,6 +49,8 @@ constituent categories include the policy, legal, and regulatory
 environments, as well as the capacity of agencies to manage
 infrastructure, and human societal factors.
 
+![](assets/19.2.1.png){width=100%}
+
 **Figure 19.2.1:** A simplified classification of the components of the
 enabling environment for infrastructure development
 
@@ -64,15 +61,17 @@ challenges faced in developing effective infrastructure governance.
 Through the lens of the enabling environment, we will highlight and
 discuss:
 
-1)  Balancing regulation and enforcement
+1.  Balancing regulation and enforcement
 
-2)  Transboundary governance
+2.  Transboundary governance
 
-3)  Political continuity
+3.  Political continuity
 
-4)  Participatory planning
+4.  Participatory planning
 
 # Balancing regulation and enforcement
+
+![](assets/19.2.2.png){width=100%}
 
 **Figure 19.2.2:** A simplified classification of the components of the
 enabling environment highlighting the components most relevant to
@@ -112,6 +111,8 @@ flexibly meet their goals and regulatory requirements.
 
 # Transboundary governance
 
+![](assets/19.2.3.png){width=100%}
+
 **Figure 19.2.3:** A simplified classification of the components of the
 enabling environment, highlighting the components most relevant to
 transboundary governance
@@ -148,6 +149,8 @@ that is widely unattended to.
 
 # Political continuity
 
+![](assets/19.2.4.png){width=100%}
+
 **Figure 19.2.4:** A simplified classification of the components of the
 enabling environment, highlighting the components most relevant to
 societal stability and political influence
@@ -180,7 +183,9 @@ practice, among others, has led to utilities being routinely underfunded
 [@Rozenberg2019], as customers pay rates that have stagnated in
 comparison to the cost of operations.
 
-# Participatory planning 
+# Participatory planning
+
+![](assets/19.2.5.png){width=100%}
 
 **Figure 19.2.5:** A simplified classification of the components of the
 enabling environment, highlighting the components most relevant to
@@ -195,12 +200,12 @@ like low-income households. @Parfitt2004 distinguishes the benefits of
 participation by its intended outcome: whether it is undertaken as a
 *means* or an *end*.
 
-As a *means,* participation is a way to extract, interpret, and
+As a *means*, participation is a way to extract, interpret, and
 integrate local knowledge into infrastructure development, operations,
-and governance*.* It is a useful way to validate assumptions, collect
+and governance. It is a useful way to validate assumptions, collect
 new data, anticipate **environmental** and **community** impacts, and
 understand the **cultural, human and technical capacities** of the
-workforce. As an *end,* participation does not necessarily seek to
+workforce. As an *end*, participation does not necessarily seek to
 gather information to inform infrastructure processes, but instead seeks
 to educate and engage. It builds trust in the project, a sense of
 community **ownership**, and thus an investment in its success. Through
@@ -218,7 +223,7 @@ Cochabamba Water War, where communities protesting the increasing price
 of water effectively shut down facility operations by disrupting
 workers.
 
-# Summary 
+# Summary
 
 In this mini-lecture, we established a simplified framework for the
 enabling environment and used that as a tool to give a brief

@@ -1,8 +1,5 @@
 ---
 title: Mini-Lecture 19.3 -- National infrastructure planning units
----
-
- 
 
 keywords:
 
@@ -25,7 +22,7 @@ infrastructure analyses. We also examine the values of this approach and
 two case studies which demonstrate some of the nuances unique to their
 designs.
 
-# Learning objectives 
+# Learning objectives
 
 -   Understand the approach and value of national infrastructure
     planning units as an independent alternative to siloed
@@ -33,8 +30,6 @@ designs.
 -   Recognise that national infrastructure planning units can take
     different forms, which need to be context-specific to their
     governance setting in order to be effective.
-
-  {#lecture-content-1}
 
 # The role of national infrastructure planning units
 
@@ -189,4 +184,4 @@ the structure of NIPUs may play a useful role in developing national
 contexts by reducing the need for out-of-country experts, or at least
 ensuring sustained local capacity and knowledge building.
 
-# 
+#

@@ -1,8 +1,6 @@
 ---
 title: Mini-Lecture 19.4 -- The basics of finance in infrastructure
----
 
- 
 
 keywords:
 
@@ -25,14 +23,12 @@ different types of financing and closes by highlighting how
 infrastructure financing changes across the lifecycle of an
 infrastructure project.
 
-# Learning objectives 
+# Learning objectives
 
 -   Recognise the different types of infrastructure financing and
     distinguish which types of projects might attract each
 -   Understand the lifecycle of infrastructure assets and when financing
     and debt service takes place.
-
-  {#lecture-content-1}
 
 # Introduction
 
@@ -61,17 +57,17 @@ how effectively funding is used.
 This lecture will briefly discuss three important finance concepts,
 covering the ideas of who finances, why they do so, and when then do so:
 
-> \(1\) Sources of infrastructure financing
->
-> \(2\) The attraction of infrastructure investments
->
-> \(3\) Financing across asset lifecycles.
+1. Sources of infrastructure financing
+2. The attraction of infrastructure investments
+3. Financing across asset lifecycles.
 
 # Sources of infrastructure financing
 
 Financing for infrastructure projects can arise from any number of
 sources, with each type having its own benefits and drawbacks (Figure
 19.4.1).
+
+![](assets/19.4.1.png){width=100%}
 
 **Figure 19.4.1:** A simplified layout of major funding sources in
 infrastructure finance and the benefits and drawbacks most often
@@ -142,9 +138,7 @@ social, economic, and commercial [@Juneja2015].
     include toll roads and metro rail projects. Supra-national
     financiers tend also to invest in commercially viable projects.
 
-![Chart, bar chart Description automatically
-generated](media/image2.png){width="6.038246937882764in"
-height="2.466666666666667in"}
+![](assets/19.4.2.png){width=100%}
 
 **Figure 19.4.2:** Proportion of 2014 U.S. public and private spending
 by infrastructure project type noting commercial projects towards the
@@ -161,6 +155,8 @@ operations while revenues are being devoted to paying back financing
 costs. Large infrastructure assets typically have lifecycles of between
 30-100 years, and across this period, different kinds of financing and
 financiers will be engaged with the project.
+
+![](assets/19.4.3.jpg){width=100%}
 
 **Figure 19.4.3:** A comparison of the magnitude of costs incurred
 throughout the lifecycle of a physical infrastructure asset (adapted
@@ -185,7 +181,7 @@ put towards paying back the entities that financed earlier phases of the
 project. After debt services are fully paid off, capital financing
 practices have little role to play in the asset's Disposal Phase.
 
-# Summary 
+# Summary
 
 In this mini-lecture, we learned that infrastructure financing plays a
 crucial role in providing upfront capital costs for constructing and
@@ -219,5 +215,3 @@ Altogether, this mini-lecture describes the most foundational aspects of
 infrastructure financing and should equip you to begin evaluating
 infrastructure projects, understanding the objectives of their
 financiers, and their likely cost recovery approach.
-
-# 

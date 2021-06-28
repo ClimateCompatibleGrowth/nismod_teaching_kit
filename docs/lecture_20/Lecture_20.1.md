@@ -1,9 +1,6 @@
 ---
 title: Mini-Lecture 20.1 - Summary and learning outcomes for
   infrastructure sustainability and resilience
----
-
-
 
 keywords:
 
@@ -57,8 +54,7 @@ Figure 20.1.1 also recognises how these decision-making processes are
 embedded within institutional and societal contexts, which has been
 discussed in terms of the 'enabling environment' in Lecture 19.
 
-![](media/image1.png){width="6.416666666666667in"
-height="4.358397856517935in"}
+![](assets/Figure_20.1.1.png){width=100%}
 
 **Figure 20.1.1:** Iterative risk management framework [@IPCC2014]
 
@@ -128,7 +124,7 @@ this is what is quantified in a fragility curve. But we can extend risk
 analysis to incorporate the duration of disturbance, which is a function
 of emergency coping capacity.
 
-# Where do infrastructure options come from? 
+# Where do infrastructure options come from?
 
 The focus of this course has been on analysis -- analysing performance
 of, and risks to, infrastructure systems. We have explained how to

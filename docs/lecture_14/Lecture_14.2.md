@@ -1,21 +1,11 @@
 ---
 title: Mini-Lecture 14.2 -- Evaluating actions
----
-
- 
-
 keywords:
-
 -   Cost benefit analysis (CBA)
-
 -   Multi-objective analysis
-
 -   Performance indicators
-
 authors:
-
 -   Aman Majid
-
 ---
 
 This lecture will cover how decision-makers can evaluate actions when
@@ -25,15 +15,13 @@ decades but has significant limitations. By way of example, we introduce
 an alternative evaluation technique, multi-objective analysis, which is
 more suitable for infrastructure and environmental problems.
 
-# Learning objectives  {#learning-objectives-1}
+# Learning objectives
 
 -   Understand the history, rationale, and limitations of cost-benefit
     analysis
 -   Recognise alternative methods to cost-benefit analysis for option
     evaluation
 -   Demonstrate the use of multi-objective analysis to evaluate actions.
-
-
 
 # Introduction to cost-benefit analysis
 
@@ -68,18 +56,15 @@ reductive to promote sustainable development.
 
 # CBAs: limitations and alternatives
 
-    Several critiques of CBA have emerged in recent literature. Such limitations are most evident when illustrated through a simple example: suppose that we wish to evaluate whether to construct a hydroelectric dam over an ecologically diverse forest area to supply electricity to a large town. Nowadays, such a project could be swiftly costed as data on materials and labour are plentiful. However, even the most capable of teams may struggle to value the externalities and benefits. What is the value of the ecosystem that would be displaced? What is the customers’ willingness to pay? Would the residents prefer to keep the natural ecosystem intact over a hydro-electric power facility? CBA requires absolute monetary values for these complex variables.
-    Despite the obvious limitations of CBA, in that it cannot adequately incorporate the wider benefits of options, it remains a widely used tool in the financial analysis of infrastructure projects. Whether this should remain to be the case is a subject of fierce political debate, with proponents of CBA arguing that analysis frameworks can be improved and standardised [@Ratnaweera2020].
+Several critiques of CBA have emerged in recent literature. Such limitations are most evident when illustrated through a simple example: suppose that we wish to evaluate whether to construct a hydroelectric dam over an ecologically diverse forest area to supply electricity to a large town. Nowadays, such a project could be swiftly costed as data on materials and labour are plentiful. However, even the most capable of teams may struggle to value the externalities and benefits. What is the value of the ecosystem that would be displaced? What is the customers’ willingness to pay? Would the residents prefer to keep the natural ecosystem intact over a hydro-electric power facility? CBA requires absolute monetary values for these complex variables.
+Despite the obvious limitations of CBA, in that it cannot adequately incorporate the wider benefits of options, it remains a widely used tool in the financial analysis of infrastructure projects. Whether this should remain to be the case is a subject of fierce political debate, with proponents of CBA arguing that analysis frameworks can be improved and standardised [@Ratnaweera2020].
 
 There are at least four alternative approaches to cost-benefit analyses:
 
-> \(i\) Multi-objective analysis
->
-> \(ii\) Decision-making under uncertainty
->
-> \(iii\) Cost-effectiveness analysis
->
-> \(iv\) Holistic comparison of costs and benefits.
+1. Multi-objective analysis
+1. Decision-making under uncertainty
+1. Cost-effectiveness analysis
+1. Holistic comparison of costs and benefits.
 
 Since there is significant overlap in these approaches, the remainder of
 this lecture delves into one of these techniques: multi-objective
@@ -110,8 +95,7 @@ and risk tolerances. This does, however, present a weakness in the
 methodology in that the final weights given to individual performance
 criteria can be subject to biases.
 
-![](media/image1.jpeg){width="5.958024934383202in"
-height="5.857438757655293in"}
+![](assets/Figure_14.2.1.png){width=100%}
 
 **Figure 14.2.1:** The doughnut economics model [@Wikimedia2017]
 
@@ -130,6 +114,8 @@ next 30 years to ensure adequate supplies of drinking water. Planning
 water infrastructure investments is a multi-dimensional problem given
 that water processes are inherently intertwined with the environment and
 hence entails numerous objectives.
+
+![](assets/Figure_14.2.2.png){width=100%}
 
 **Figure 14.2.2:** An example framework for water sector planning using
 multi-criteria analysis
@@ -152,15 +138,10 @@ related to the criteria being evaluated (Stage 3). In this example,
 planners are concerned with the following criteria:
 
 1.  **Minimise** risk of water shortages
-
 2.  **Minimise** total carbon emissions
-
 3.  **Minimise** quantity of air pollutants from the water system
-
 4.  **Minimise** groundwater usage
-
 5.  **Maximise** average level of water in storage
-
 6.  **Minimise** total cost of expenditure.
 
 # Multi-objective analysis: An example (part II)
@@ -169,6 +150,8 @@ The final stage of the decision framework is to evaluate system
 performance criteria (Figure 14.2.3). Each indicator represents a
 variable of interest to analysts and decision-makers. The example we
 consider here evaluates six performance indicators as detailed above.
+
+![](assets/Figure_14.2.3.png){width=100%}
 
 **Figure 14.2.3:** An example scorecard of system performance indicators
 [@Loucks2017]
@@ -186,7 +169,7 @@ performance in relation to the indicators of interest. Colour-coding
 allows decision-makers to quickly parse inadequate performance in a
 given category (e.g. red squares).
 
-# Summary 
+# Summary
 
 This lecture introduced how decision-makers can evaluate options when
 devising investment strategies. We discussed that cost-benefit analyses

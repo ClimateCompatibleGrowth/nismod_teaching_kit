@@ -1,21 +1,11 @@
 ---
 title: Mini-Lecture 14.3 -- Decision-making under uncertainty
----
-
- 
-
 keywords:
-
 -   Uncertainty
-
 -   Robustness
-
 -   Multi-objective planning
-
-authors: 
-
+authors:
 -   Aman Majid
-
 ---
 
 This lecture introduces decision theory under conditions of imperfect or
@@ -31,8 +21,6 @@ uncertainty, we will run through an illustrative example.
     uncertainty
 -   Recognise the importance of robustness within decision-making
     frameworks.
-
-
 
 # Uncertainty and decision-making
 
@@ -65,6 +53,8 @@ important to first identify the types of uncertainties that we are
 dealing with. We can define two extremes of uncertainty: complete
 determinism and total ignorance, within which four levels of
 uncertainties exist [@Walker2003].
+
+![](assets/Figure_14.3.1.png){width=100%}
 
 **Figure 14.3.1:** Levels of uncertainty [@Marchau2019]
 
@@ -148,6 +138,8 @@ following uncertainties can be identified:
 Of course, stakeholders might identify additional uncertainties but the
 above will suffice for this illustrative example.
 
+![](assets/Figure_14.3.2.png){width=100%}
+
 **Figure 14.3.2:** Levels of uncertainty [@Borgomeo2018]
 
 The next stage of problem formulation is to create a computer model
@@ -162,6 +154,8 @@ happens (severity) and for *how long* (duration).
 Figure 14.3.3 shows an example simulation model of a water system in the
 Thames basin, England, using the WATHNET modelling software. The use of
 such models is widespread in infrastructure planning and management.
+
+![](assets/Figure_14.3.3.png){width=100%}
 
 **Figure 14.3.3**: An example simulation model constructed for the
 Thames basin, England, using the WATHNET platform
@@ -189,6 +183,8 @@ an investment plan with all options selected, and hence it is the most
 expensive option from a cost perspective. Generally, Figure 14.3.4 shows
 that increasing the total investment in strategies will decrease water
 security and enhance robustness.
+
+![](assets/Figure_14.3.4.png){width=100%}
 
 **Figure 14.3.4:** Trade-off curve between cost, water security, and
 robustness [@Borgomeo2018]

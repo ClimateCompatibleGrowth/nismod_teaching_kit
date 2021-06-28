@@ -1,22 +1,12 @@
 ---
 title: Mini-Lecture 14.4 - Methods and processes for good
   decision-making
----
-
-
-
 keywords:
-
 -   Stakeholder involvement
-
 -   Tolerable thresholds
-
 -   Adaptation pathways
-
 authors:
-
 -   Jasper Verschuur
-
 ---
 
 In this lecture we will look at processes for good decision-making, and
@@ -31,8 +21,6 @@ suitability by the modeller.
 -   Explain what a bottom-up vulnerability analysis is
 -   Understand the need for sequential decision-making for adaptation
     purposes.
-
-
 
 # Introduction
 
@@ -64,6 +52,8 @@ how different paths (a/b/c) lead to different risk outcomes, with the
 acceptable, tolerable or unacceptable risk states of the system
 [@Hall2012]. A similar analysis can be performed for individual
 infrastructure assets, networks, or infrastructure systems.
+
+![](assets/Figure_14.4.1.png){width=100%}
 
 **Figure 14.4.1:** Three strategies and their resulting risk outcome,
 which can be either unacceptable, tolerable or acceptable: (a) is the
@@ -102,7 +92,9 @@ irrigation). By looking at a large number of climate simulations, the
 authors could determine the likelihoods that future scenarios are in the
 non-blue areas.
 
-    Figure 14.4.2: A system response surface of a reservoir in northern Italy with changes in temperature and precipitation as the critical parameters. The blue dots illustrate the conditions at which the reservoir can continue to operate [@Culley2016] 
+![](assets/Figure_14.4.2.png){width=100%}
+
+**Figure 14.4.2:** A system response surface of a reservoir in northern Italy with changes in temperature and precipitation as the critical parameters. The blue dots illustrate the conditions at which the reservoir can continue to operate [@Culley2016]
 
 # Adaptation pathways for multiple criteria
 
@@ -134,6 +126,8 @@ where in the status-quo (top panels Figure 14.4.3) there is only a very
 small overlap (right panels) between the available budget (left panels),
 the acceptable flood risk (middle-left panels) and the ecosystem health
 criteria (middle-right panels).
+
+![](assets/Figure_14.4.3.png){width=100%}
 
 **Figure 14.4.3:** The solution space of acceptable outcomes (white in
 right panels) taking into account cost constraints (left), flood risk
@@ -174,6 +168,8 @@ including the moment when new actions should be taken. This type of
 approach presents a blueprint for planning and helps to easily
 communicate this to policymakers.
 
+![](assets/Figure_14.4.4.png){width=100%}
+
 **Figure 14.4.4:** An example of the application of dynamic adaptative
 pathways for the water supply system of The Netherlands. The (thick)
 coloured lines show all possible pathways to maintain system functioning
@@ -212,8 +208,12 @@ large sea level rise values (\>3m), both staying at Silvertown and
 moving towards Canvey are extremely costly given the risk benefits they
 provide.
 
+![](assets/Figure_14.4.5.png){width=100%}
+
 **Figure 14.4.5:** The different adaptation pathways as a function of
 the rise in sea level by 2300 [@Hall2019]
+
+![](assets/Figure_14.4.6.png){width=100%}
 
 **Figure 14.4.6:** The regret of choosing a certain pathway compared to
 the best performing pathway given different sea level rise scenarios for

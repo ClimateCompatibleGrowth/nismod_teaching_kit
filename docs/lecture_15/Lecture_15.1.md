@@ -1,20 +1,12 @@
-**Mini-Lecture 15.1 - Introduction to nature-based solutions (NbS)**
-
-**Metadata**
-
-**Keywords**
-
+---
+title: Mini-Lecture 15.1 - Introduction to nature-based solutions (NbS)
+keywords:
 -   Nature-based solutions (NbS)
-
 -   Principles and pitfalls
-
 -   Global agendas
-
-**Authors**
-
+authors:
 -   Robyn Haggis
-
-**Short description**
+---
 
 This mini-lecture will provide an introduction to the concept of
 nature-based solutions (NbS) and consider the importance and growing
@@ -22,7 +14,7 @@ interest in leveraging NbS to progress global agendas. It will examine
 the key pitfalls and principles of working with NbS, including the need
 to focus on ecosystems beyond forests.
 
-**Learning objectives**
+# Learning objectives
 
 -   Describe the concept of NbS and its importance for global agendas
 
@@ -33,11 +25,9 @@ to focus on ecosystems beyond forests.
 -   Describe why it is important to consider non-forest ecosystems as
     potential NbS.
 
-**Lecture content**
+# Context
 
-**Context**
-
-![](media/image1.tiff){width="6.5in" height="5.685416666666667in"}
+![](assets/Figure_15.1.1.png){width=100%}
 
 **Figure 15.1.1:** Nature-based solutions can encompass all types of
 ecosystems, including terrestrial and marine, and be applied in varying
@@ -90,14 +80,14 @@ sustainable development and building societal resilience
   [**New Urban Agenda**](https://unhabitat.org/sites/default/files/2019/05/nua-english.pdf)                                                  Aims to achieve sustainable development of urban areas.                                                                                                             Incorporation of nature in urban landscapes can support their sustainable development (see mini-lecture 17.4).
   [**Global Decade of Ecosystem Restoration**](https://www.decadeonrestoration.org/)                                                         Runs 2021-2030; aims to restore degraded and destroyed ecosystems, contributing to efforts to combat climate change and safeguard the services that they provide.   Nature encompasses various ecosystems and can contribute to efforts on climate change.
 
-**Definition of NbS**
+# Definition of NbS
 
 Nature-based solutions are *"actions to protect, sustainably manage and
 restore natural or modified ecosystems that address societal challenges
 effectively and adaptively, simultaneously providing human well-being
 and biodiversity benefits"* [@IUCN2020b].
 
-![](media/image2.tiff){width="4.25in" height="5.039712379702538in"}
+![](assets/FIgure_15.1.2.png){width=100%}
 
 **Figure 15.1.2:** Visual representation of the concept of NbS
 [@Cohen-Shacham2016]
@@ -123,7 +113,7 @@ solutions, they do not include nature-inspired solutions, such as
 biomimicry, or nature-derived solutions, such as wind, wave or solar
 energy (see @IUCN2020b).
 
-**'**NbS' is a relatively new term, used first in 2008 by the World Bank
+**NbS** is a relatively new term, used first in 2008 by the World Bank
 and only formally defined by the International Union for the
 Conservation of Nature (IUCN) in 2020 [@IUCN2020a; @Seddon2021]. The
 concept 'NbS' is based on the notion that healthy, well-managed
@@ -133,9 +123,7 @@ term, encompassing other pre-existing ecosystem-based concepts,
 including green infrastructure and natural climate solutions
 [@Cohen-Shacham2016] (see Figure 15.1.3).
 
-![Graphical user interface, text, application Description automatically
-generated](media/image3.tiff){width="6.178571741032371in"
-height="3.0628018372703414in"}
+![](assets/FIgure_15.1.3.png){width=100%}
 
 **Figure 15.1.3:** The concept 'NbS' unites various other
 ecosystem-based concepts within a single framework
@@ -150,9 +138,7 @@ To be considered a NbS, a solution must address one or multiple societal
 challenges in an integrated manner [@IUCN2020b]. IUCN currently refer
 to seven societal challenges, shown in Figure 15.1.4.
 
-![Logo, company name Description automatically
-generated](media/image4.tiff){width="6.416148293963254in"
-height="1.5260159667541557in"}
+![](assets/FIgure_15.1.4.png){width=100%}
 
 **Figure 15.1.4:** The seven societal challenges that can be addressed
 by NbS. The societal challenge(s) identified should directly affect a
@@ -167,9 +153,7 @@ ecosystem degradation is being addressed, at least one other societal
 challenge must be part of the solution design, to differentiate it from
 pure conservation.
 
-![Graphical user interface Description automatically
-generated](media/image5.tiff){width="6.388888888888889in"
-height="3.590531496062992in"}
+![](assets/FIgure_15.1.5.png){width=100%}
 
 **Figure 15.1.5:** NbS are actions which focus on safeguarding society -
 while there is some overlap, not all conservation measures are NbS.
@@ -184,8 +168,7 @@ policymakers and practitioners across sectors including climate,
 conservation and development [@Seddon2021]. The simplicity of the
 concept of 'working with nature to address societal challenges' has
 facilitated understanding, conversations and engagement across diverse
-sectors and encouraged widespread interest and uptake [@Seddon2021;
-@Cohen-Shacham2019; @Nesshover2017].
+sectors and encouraged widespread interest and uptake [@Seddon2021;@Cohen-Shacham2019;@Nesshover2017].
 
 This single 'umbrella' term has united communities within the same
 framework, enabling a flexible, synergistic and integrated approach to
@@ -213,138 +196,138 @@ many bold pledges have been made, and multiple NbS platforms, projects,
 initiatives and funding streams have been announced.
 
 **Table 15.1.2:** Examples of NbS interest are shown below
-[@Seddon2021; @NBSDigitalDialogues2020]. See @Seddon2021 for
+[@Seddon2021;@NbSDigitalDialogues2020]. See @Seddon2021 for
 further examples.
 
 +----------------------------------+----------------------------------+
 | Domain                           | Description                      |
 +==================================+==================================+
 | International Agreements and     | -   Paris Agreement and IPCC     |
-| Initiatives                      |     > 1.5C report highlight the  |
-|                                  |     > role of nature             |
+| Initiatives                      |     1.5C report highlight the  |
+|                                  |     role of nature             |
 |                                  |                                  |
 |                                  | -   2019 UN Climate Action       |
-|                                  |     > Summit had NbS as a key    |
-|                                  |     > action track               |
+|                                  |     Summit had NbS as a key    |
+|                                  |     action track               |
 |                                  |                                  |
 |                                  | -   Climate COP26 and            |
-|                                  |     > biodiversity COP had NbS   |
-|                                  |     > as major action tracks     |
+|                                  |     biodiversity COP had NbS   |
+|                                  |     as major action tracks     |
 |                                  |                                  |
 |                                  | -   UN Decade on Ecosystem       |
-|                                  |     > Restoration                |
+|                                  |     Restoration                |
 |                                  |                                  |
 |                                  | -   Global Commission on         |
-|                                  |     > Adaptation has action      |
-|                                  |     > track on NbS               |
+|                                  |     Adaptation has action      |
+|                                  |     track on NbS               |
 |                                  |                                  |
 |                                  | -   IUCN made NbS a major pillar |
-|                                  |     > of its 2013--2016 Program  |
+|                                  |     of its 2013--2016 Program  |
 |                                  |                                  |
 |                                  | -   The Leaders Pledge for       |
-|                                  |     > Nature holds countries (83 |
-|                                  |     > nations to date) to        |
-|                                  |     > account in reversing       |
-|                                  |     > biodiversity loss by 2030  |
+|                                  |     Nature holds countries (83 |
+|                                  |     nations to date) to        |
+|                                  |     account in reversing       |
+|                                  |     biodiversity loss by 2030  |
 |                                  |                                  |
 |                                  | -   NbS have been highlighted in |
-|                                  |     > global assessment reports  |
-|                                  |     > (e.g., IPCC Climate Change |
-|                                  |     > and Land Report and IPBES  |
-|                                  |     > reports).                  |
+|                                  |     global assessment reports  |
+|                                  |     (e.g., IPCC Climate Change |
+|                                  |     and Land Report and IPBES  |
+|                                  |     reports).                  |
 |                                  |                                  |
 |                                  | -   World Economic Forum's       |
-|                                  |     > Global Risks Report 2019   |
-|                                  |     > specifically recognised    |
-|                                  |     > economic risks posed by    |
-|                                  |     > biodiversity loss and      |
-|                                  |     > ecosystem collapse and the |
-|                                  |     > need for nature-positive   |
-|                                  |     > solutions.                 |
+|                                  |     Global Risks Report 2019   |
+|                                  |     specifically recognised    |
+|                                  |     economic risks posed by    |
+|                                  |     biodiversity loss and      |
+|                                  |     ecosystem collapse and the |
+|                                  |     need for nature-positive   |
+|                                  |     solutions.                 |
 +----------------------------------+----------------------------------+
 | Regional Initiatives             | -   Several national governments |
-|                                  |     > and the European Union     |
-|                                  |     > have pledged to plant      |
-|                                  |     > billions of trees (E.g.,   |
-|                                  |     > Bonn Challenge, New York   |
-|                                  |     > Declaration on Forests,    |
-|                                  |     > the '4 pour 1000           |
-|                                  |     > Initiative', AF100,        |
-|                                  |     > Africa's Green Wall)       |
+|                                  |     and the European Union     |
+|                                  |     have pledged to plant      |
+|                                  |     billions of trees (E.g.,   |
+|                                  |     Bonn Challenge, New York   |
+|                                  |     Declaration on Forests,    |
+|                                  |     the '4 pour 1000           |
+|                                  |     Initiative', AF100,        |
+|                                  |     Africa's Green Wall)       |
 |                                  |                                  |
 |                                  | -   The World Business Council   |
-|                                  |     > on Sustainable Development |
-|                                  |     > Vision 2050                |
+|                                  |     on Sustainable Development |
+|                                  |     Vision 2050                |
 |                                  |                                  |
 |                                  | -   European Commission (EC) is  |
-|                                  |     > focusing on NbS and green  |
-|                                  |     > infrastructure.            |
-|                                  |     > Nature-based Solutions for |
-|                                  |     > Climate Manifesto includes |
-|                                  |     > 32 countries, EU           |
-|                                  |     > commission and civil       |
-|                                  |     > society organizations      |
+|                                  |     focusing on NbS and green  |
+|                                  |     infrastructure.            |
+|                                  |     Nature-based Solutions for |
+|                                  |     Climate Manifesto includes |
+|                                  |     32 countries, EU           |
+|                                  |     commission and civil       |
+|                                  |     society organizations      |
 +----------------------------------+----------------------------------+
 | National agendas                 | -   Countries recognising the    |
-|                                  |     > role of nature in NDCs and |
-|                                  |     > NAPs (L15.3).              |
+|                                  |     role of nature in NDCs and |
+|                                  |     NAPs (L15.3).              |
 |                                  |                                  |
 |                                  | -   Governments aiming to        |
-|                                  |     > prioritise nature in       |
-|                                  |     > economic and political     |
-|                                  |     > decisions for post-COVID   |
-|                                  |     > recovery to 'build back    |
-|                                  |     > better'.                   |
+|                                  |     prioritise nature in       |
+|                                  |     economic and political     |
+|                                  |     decisions for post-COVID   |
+|                                  |     recovery to 'build back    |
+|                                  |     better'.                   |
 |                                  |                                  |
 |                                  | -   Several major NGO            |
-|                                  |     > initiatives on NbS have    |
-|                                  |     > been established.          |
+|                                  |     initiatives on NbS have    |
+|                                  |     been established.          |
 +----------------------------------+----------------------------------+
 | Financial flows                  | -   Numerous funding streams     |
-|                                  |     > have been announced.       |
+|                                  |     have been announced.       |
 |                                  |                                  |
 |                                  | -   Climate finance went from    |
-|                                  |     > 3-8% for NbS in 2020.      |
+|                                  |     3-8% for NbS in 2020.      |
 +----------------------------------+----------------------------------+
 | Private Sector (See @Seddon2021 | -   Lots of commitment from      |
-| for a table of private sector    |     > large corporates (Apple,   |
-| pledges)                         |     > Microsoft, Airlines,       |
-|                                  |     > Fossil Fuel Industry)      |
+| for a table of private sector    |     large corporates (Apple,   |
+| pledges)                         |     Microsoft, Airlines,       |
+|                                  |     Fossil Fuel Industry)      |
 |                                  |                                  |
 |                                  | -   Coalition of \>50            |
-|                                  |     > organisations called       |
-|                                  |     > 'Business for Nature'      |
-|                                  |     > (includes WEF, World       |
-|                                  |     > Business Council for       |
-|                                  |     > Sustainable Development,   |
-|                                  |     > the We Mean Business       |
-|                                  |     > Coalition, the             |
-|                                  |     > International Chamber of   |
-|                                  |     > Commerce, and groups       |
-|                                  |     > representing countries on  |
-|                                  |     > almost all continents).    |
-|                                  |     > 530 companies have         |
-|                                  |     > committed to reversing     |
-|                                  |     > nature loss and restoring  |
-|                                  |     > vital natural systems,     |
-|                                  |     > mainly through business    |
-|                                  |     > partnerships.              |
+|                                  |     organisations called       |
+|                                  |     'Business for Nature'      |
+|                                  |     (includes WEF, World       |
+|                                  |     Business Council for       |
+|                                  |     Sustainable Development,   |
+|                                  |     the We Mean Business       |
+|                                  |     Coalition, the             |
+|                                  |     International Chamber of   |
+|                                  |     Commerce, and groups       |
+|                                  |     representing countries on  |
+|                                  |     almost all continents).    |
+|                                  |     530 companies have         |
+|                                  |     committed to reversing     |
+|                                  |     nature loss and restoring  |
+|                                  |     vital natural systems,     |
+|                                  |     mainly through business    |
+|                                  |     partnerships.              |
 |                                  |                                  |
 |                                  | -   The Capitals Coalition       |
-|                                  |     > provides practical tools   |
-|                                  |     > to help companies assess   |
-|                                  |     > dependence on and impacts  |
-|                                  |     > on nature via the Natural  |
-|                                  |     > Capital Protocol.          |
+|                                  |     provides practical tools   |
+|                                  |     to help companies assess   |
+|                                  |     dependence on and impacts  |
+|                                  |     on nature via the Natural  |
+|                                  |     Capital Protocol.          |
 |                                  |                                  |
 |                                  | -                                |
 |                                  | The [1t.org](http://1t.org/) (of |
-|                                  |     > the World Economic Forum)  |
-|                                  |     > has a cross‐industry       |
-|                                  |     > corporate alliance.        |
+|                                  |     the World Economic Forum)  |
+|                                  |     has a cross‐industry       |
+|                                  |     corporate alliance.        |
 +----------------------------------+----------------------------------+
 
-**Pitfalls and principles of NbS**
+# Pitfalls and principles of NbS
 
 While NbS offer multiple social, environmental and economic co-benefits
 in principle, there are a number of potential pitfalls of implementing
@@ -369,6 +352,8 @@ NbS which are important to note [@Seddon2021; @Cohen-Shacham2019]:
 To address these pitfalls, in 2020, 4 overarching principles for NbS
 were agreed [@Seddon2021] (see Figure 15.1.6).
 
+![](assets/FIgure_15.1.6.png){width=100%}
+
 **Figure 15.1.6:** Overarching principles of NbS
 
 The impact of NbS depends on many factors, including the local and
@@ -386,7 +371,7 @@ challenges outlined above.
 
 **Table 15.1.3:** The 8 Principles of NbS
 
-  The 8 Principles of NbS   
+  The 8 Principles of NbS
   ------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Principle 1**           NbS embrace nature conservation norms and principles
   **Principle 2**           NbS can be implemented alone or in an integrated manner with other solutions to societal challenges
@@ -397,10 +382,9 @@ challenges outlined above.
   **Principle 7**           NbS recognise and address the trade-offs between the production of a few immediate economic benefits for development, and future options for the production of the full range of ecosystem services
   **Principle 8**           NbS are an integral part of the overall design of policies, and measures or actions, to address a specific challenge
 
-**NbS beyond forests**
+# NbS beyond forests
 
-![](media/image6.jpeg){width="6.489583333333333in"
-height="4.270833333333333in"}
+![](assets/FIgure_15.1.7.jpg){width=100%}
 
 **Figure 15.1.7:** NbS encompass all ecosystems, despite the large focus
 to date on forests (Unsplash)
@@ -425,18 +409,18 @@ biodiversity, soil carbon storage, nutrient cycling and livelihoods
 [@NbSDigitalDialogues2020].
 
 Concerns related to forests (beyond pitfalls mentioned above) include
-[@Seddon2020; @Seddon2021]:
+[@Seddon2020;@Seddon2021]:
 
 -   Tree-based initiatives are often monoculture or low-diversity
-    > plantations of non-native species (e.g. 45% of 350 million
-    > hectares (Mha) currently pledged for reforestation is to become
-    > commercial monoculture plantations). This has implications for
-    > resilience to climate change, pests, disease, carbon storage, and
-    > risks potential unintended consequences.
+    plantations of non-native species (e.g. 45% of 350 million
+    hectares (Mha) currently pledged for reforestation is to become
+    commercial monoculture plantations). This has implications for
+    resilience to climate change, pests, disease, carbon storage, and
+    risks potential unintended consequences.
 
 -   Services of native ecosystems are overlooked, which can compromise
-    > benefits provided to local communities and biodiversity and risk
-    > further loss of non-forest ecosystems.
+    benefits provided to local communities and biodiversity and risk
+    further loss of non-forest ecosystems.
 
 -   Overemphasis on forests can lead to maladaptation to climate change.
 
@@ -444,13 +428,12 @@ There is a major opportunity and need to scale up NbS across a range of
 ecosystems in addition to forests, including reefs, wetlands, soils and
 grassland landscapes.
 
-![A picture containing text, different Description automatically
-generated](media/image7.tiff){width="6.5in" height="5.97083552055993in"}
+![](assets/FIgure_15.1.8.png){width=100%}
 
 **Figure 15.1.8:** Photograph sources: @UNDP2019 and Unsplash images
 (Photographers: Niko Lewman, A. Shuau, Dylan de Jonge).
 
-**Summary**
+# Summary
 
 Nature-based solutions (NbS) refer to the restoration, management,
 protection and creation of all types of ecosystems. The concept is
@@ -463,7 +446,7 @@ scale-up and in order to avoid potential pitfalls, 4 overarching
 principles and 8 sub-principles of NbS have been defined, including the
 need to consider all ecosystems in project design.
 
-**Annex**
+# Annex
 
 Table 15.1.4 Examples of major tree planting initiatives
 [@Seddon2021]

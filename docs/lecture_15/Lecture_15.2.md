@@ -1,22 +1,12 @@
 ---
 title: Mini-Lecture 15.2 -- Nature-based solutions (NbS) underpinning
   the Sustainable Development Goals (SDGs)
----
-
-
-
 keywords:
-
 -   Ecosystem Services
-
 -   Nature-based solutions (NbS)
-
 -   Sustainable Development Goals (SDGs)
-
 authors:
-
 -   Robyn Haggis
-
 ---
 
 This mini-lecture introduces the concept of 'ecosystem services' and
@@ -37,8 +27,6 @@ which nature-based solutions (NbS) can influence development outcomes.
 -   Recall how nature may provide substitutable, unique or complementary
     influences.
 
-  {#lecture-content-1}
-
 # Introducing the concept of ecosystem services
 
 Natural and semi-natural ecosystems, including grasslands, forests,
@@ -51,9 +39,7 @@ societies, the economy and the environment [@Kapos2019;
 or undermine, progress on the United Nations' Sustainable Development
 Goals (SDGs) [@Wood2018; @Dasgupta2020; @Seddon2021]. 
 
-![Chart, sunburst chart Description automatically
-generated](media/image1.tiff){width="5.544444444444444in"
-height="5.35625in"}
+![](assets/Figure_15.2.1.png){width=100%}
 
 **Figure 15.2.1:** Examples of ecosystem services provided by nature
 [@LivingPlanetReport2018]
@@ -102,9 +88,7 @@ production, sustainably managing its natural resources and taking urgent
 action on climate change, so that it can support the needs of the
 present and future generations*".
 
-![Chart, sunburst chart Description automatically
-generated](media/image2.tiff){width="4.204861111111111in"
-height="4.120833333333334in"}
+![](assets/Figure_15.2.2.png){width=100%}
 
 **Figure 15.2.2:** Nature-based solutions underpin all the Sustainable
 Development Goals [@WWF2020]
@@ -126,9 +110,7 @@ risks to society and the economy are related to environmental risks,
 including biodiversity loss, water crises and climate impacts
 [@WEF2020; @WWF2019].
 
-![Diagram Description automatically generated with medium
-confidence](media/image3.tiff){width="6.066666666666666in"
-height="4.189583333333333in"}
+![](assets/Figure_15.2.3.png){width=100%}
 
 **Figure 15.2.3:** Natural ecosystems, through the provision of
 ecosystem services, underpin the three pillars of the Sustainable
@@ -173,6 +155,8 @@ managing or creating new ecosystems, practitioners can enhance the
 quality or quantity of ecosystem services provided in order to help
 progress the SDGs.
 
+![](assets/Figure_15.2.4.png){width=100%}
+
 **Figure 15.2.4:** The study by @Fuldauer2021 looked at seven ecosystem
 categories (from left to right): grasslands, savannas & shrublands;
 wetlands & peatlands; polar alpine (tundra); rivers & lakes; beaches &
@@ -189,10 +173,14 @@ diversity of ecosystem services that natural environments provide,
 including the provisioning of food, water, protective services,
 purification of the environment, recreation and heritage services.
 
+![](assets/Figure_15.2.5.png){width=100%}
+
 **Figure 15.2.5:** Natural environments were found to directly
 contribute to 63% of targets under SDG 6 ('clean water'), 60% of targets
 under SDG 11 ('sustainable cities'), 50% of targets under SDG 2 ('zero
 hunger') and to targets under six further SDGs [@Fuldauer2021].
+
+![](assets/Figure_15.2.6.png){width=100%}
 
 **Figure 15.2.6:** Natural ecosystems are only explicitly referenced
 under SDG 14 and SDG 15, and directly underpin 40% and 42% of targets
@@ -213,6 +201,8 @@ for example, ecosystems provide air purification as well as natural
 heritage services that are globally non-substitutable in their
 contributions to targets under SDG 11.
 
+![](assets/Figure_15.2.7.png){width=100%}
+
 **Figure 15.2.7:** The framework developed by @Fuldauer2021 shows the
 potential for different natural ecosystems to influence the SDGs. This
 framework will be introduced and used in Hands-on 9.
@@ -226,9 +216,9 @@ implementation is a widely cited example of where natural ecosystems can
 lead to unintended negative consequences, and thus potentially undermine
 achievement of the SDGs (see Figure 15.2.8).
 
-![A picture containing outdoor, fire, weapon, car bomb Description
-automatically generated](media/image8.tiff){width="6.5in"
-height="3.602777777777778in"}**Figure 15.2.8:** When implemented without
+![](assets/Figure_15.2.8.png){width=100%}
+
+**Figure 15.2.8:** When implemented without
 consideration of local context, eucalyptus can lead to increased
 prevalence of fires and dangerous drops in the water table, which could
 lead to dire consequences if implemented in drought-stricken regions
@@ -416,9 +406,7 @@ engineered infrastructure, which will be important for when we explore
 how NbS can be integrated into built infrastructure sectors for
 progressing on the SDGs.
 
-# 
-
-# Summary 
+# Summary
 
 Nature directly or indirectly underpins all SDGs through the provision
 of ecosystem services. Understanding the types of influences of nature

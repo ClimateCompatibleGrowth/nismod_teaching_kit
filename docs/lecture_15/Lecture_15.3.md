@@ -1,22 +1,11 @@
 ---
-title: Mini-Lecture 15.3 -- Nature-based solutions (NbS) and the Paris
-  Agreement
----
-
- 
-
+title: Mini-Lecture 15.3 -- Nature-based solutions (NbS) and the Paris Agreement
 keywords:
-
 -   Paris Agreement
-
 -   Nationally Determined Contributions (NDCs)
-
 -   Mitigation and adaptation
-
 authors:
-
 -   Robyn Haggis
-
 ---
 
 This mini-lecture provides an overview of the potential for nature-based
@@ -34,8 +23,6 @@ lectures.
 -   Consider the integration of NbS into infrastructure systems in order
     to enhance progress on the Paris Agreement.
 
- {#lecture-content-1}
-
 # Recap on the Paris Agreement and inclusion of NbS
 
 As introduced in mini-lecture 1.2, the Paris Agreement is a global
@@ -47,7 +34,7 @@ climate mitigation and adaptation, recognising that while mitigation is
 necessary to limit global temperature increase, some climate impacts are
 unavoidable.
 
-# ![Logo, company name Description automatically generated](media/image1.tiff){width="6.5in" height="2.1486111111111112in"}
+![](assets/Figure_15.3.1.png){width=100%}
 
 **Figure 15.3.1:** Key objectives of the Paris Agreement on Climate
 Change of relevance to nature-based solutions [@UNFCCC2017]
@@ -90,7 +77,7 @@ in mitigation and adaptation commitments.
   7.2       Parties recognise that adaptation is a global challenge faced by all with local, subnational, national, regional and international dimensions, and that it is a key component of and makes a contribution to the long-term global response to climate change **to protect people, livelihoods and ecosystems**, taking into account the urgent and immediate needs of those developing country Parties that are particularly vulnerable to the adverse effects of climate change
   8.4       Accordingly, areas of cooperation and facilitation to enhance understanding, action and support may include: **Resilience of communities, livelihoods and ecosystems.**
 
-# An introduction to NbS in Nationally Determined Contributions 
+# An introduction to NbS in Nationally Determined Contributions
 
 The Paris Agreement requires each signatory nation to define their
 individual commitments in terms of mitigation reductions in the form of
@@ -122,8 +109,6 @@ NDCs, and non-forest ecosystems such as grasslands, wetlands, soils and
 marine ecosystems (e.g. mangroves, reefs) are under-represented. For
 example, only 19% of countries with coastal ecosystems refer to them for
 mitigation in their NDC [@Seddon2019].
-
-# 
 
 # Contributing to the Paris Agreement through synergising NbS for adaptation and mitigation
 
@@ -164,7 +149,7 @@ approximately 12% of anthropogenic emissions, while deforested
 landscapes increase the risk of landslides, flooding and nutrient
 depletion [@IPCC2019].
 
-![](media/image2.tiff){width="4.1in" height="3.0694444444444446in"}
+![](assets/Figure_15.3.2.png){width=100%}
 
 **Figure 15.3.2:** Protecting and restoring ecosystems along coastlines
 or in upper catchments can contribute to adaptation by protecting
@@ -173,8 +158,9 @@ erosion or storm surges, while simultaneously sequestering carbon and
 protecting biodiversity (see mini-lecture 16.2). Photograph from
 Unsplash (Photographer: Vishwasa Navada K).
 
-![](media/image3.tiff){width="3.229861111111111in"
-height="3.8854166666666665in"}**Figure 15.3.3:** Investing in NbS in
+![](assets/Figure_15.3.3.png){width=100%}
+
+**Figure 15.3.3:** Investing in NbS in
 urban landscapes, such as through green roofs, green balconies and green
 spaces, can contribute to climate adaptation through services including
 air quality regulation and reduction of the urban heat island effect,
@@ -182,7 +168,7 @@ whilst sequestering carbon and providing benefits for mental health and
 well-being (see mini-lecture 16.4). Photograph from Unsplash
 (Photographer: Victor Garcia).
 
-# Contributing to the Paris Agreement through enhanced ambition on NbS 
+# Contributing to the Paris Agreement through enhanced ambition on NbS
 
 Well-designed NbS, which are implemented with consideration of the local
 socio-economic and ecological context (see Lecture 18) and which
@@ -256,9 +242,7 @@ mini-lectures will consider how development practitioners can integrate
 NbS into infrastructure systems, in order to deliver on global
 development agendas such as the Paris Agreement and SDGs.
 
-![A picture containing text, different, colorful, same Description
-automatically generated](media/image4.tiff){width="6.5in"
-height="7.95in"}
+![](assets/Figure_15.3.4.png){width=100%}
 
 **Figure 15.3.4:** Different types of ecosystems can provide carbon
 sequestration and protective services, and thus contribute to addressing

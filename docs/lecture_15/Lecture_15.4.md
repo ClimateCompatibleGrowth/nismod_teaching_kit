@@ -1,20 +1,11 @@
 ---
 title: Mini-Lecture 15.4 -- Nature-based solutions (NbS) underpinning
   infrastructure systems
----
-
-
-
 keywords:
-
 -   Green, grey and hybrid infrastructure
-
 -   Ecosystem services and infrastructure services
-
 -   SustainABLE
-
-authors: 
-
+authors:
 -   Robyn Haggis
 
 ---
@@ -25,7 +16,7 @@ expanded upon in subsequent mini-lectures. It provides a background as
 to why and how nature-based solutions can be strategically included in
 different infrastructure sectors.
 
-# Learning objectives 
+# Learning objectives
 
 -   Explain the importance of NbS in built infrastructure systems
 
@@ -35,8 +26,6 @@ different infrastructure sectors.
 -   Recall which tool can be used to support users in identifying *how*
     NbS can be included into different infrastructure sectors for the
     delivery on the SDG targets.
-
- {#lecture-content-1}
 
 # Importance of planning for NbS in built infrastructure systems
 
@@ -112,18 +101,21 @@ system performance, leading to reduced resilience, higher climate
 damage, increased costs and undermining progress on the SDGs
 [@Fuldauer2021].
 
-![](media/image1.tiff){width="6.281944444444444in"
-height="3.9444444444444446in"}![](media/image2.tiff){width="6.281944444444444in"
-height="3.948611111111111in"}**Figure 15.4.1:** Erosion in the watershed
+![](assets/Figure_15.4.1.png){width=100%}
+
+**Figure 15.4.1:** Erosion in the watershed
 of Peligre dam in Haiti has reduced its capacity by half, reducing the
 hydrogeneration potential and its ability to support irrigation and
-flood control. Photograph: stock image from Unsplash
+flood control. Photograph: Unsplash
+
+![](assets/Figure_15.4.2.png){width=100%}
 
 **Figure 15.4.2:** Deforested lands can cause landslides or runoff and
 damage transport networks. Photograph: Unsplash
 
-![](media/image3.tiff){width="6.256410761154855in"
-height="4.688297244094488in"}**Figure 15.4.3:** Loss of riparian
+![](assets/Figure_15.4.3.png){width=100%}
+
+**Figure 15.4.3:** Loss of riparian
 vegetation can cause turbidity issues and sedimentation of water courses
 and reservoirs. Photograph: Unsplash
 
@@ -133,11 +125,10 @@ the ability of NbS to provide multiple co-benefits, both within and
 beyond the sector, if implemented with consideration. These include
 increased flexibility, adaptability, resilience to climate change,
 carbon sequestration, empowered communities, lower costs, and additional
-benefits for biodiversity and society [@Cohen-Shacham2016;
-@Ozment2015; @Blicharska2019].
+benefits for biodiversity and society [@Cohen-Shacham2016;@Ozment2015;@Blicharska2019].
 
 **Table 15.4.2:** Potential benefits of integrating NbS in built
-infrastructure sectors [@Browder2019; @Kapos2019]
+infrastructure sectors [@Browder2019;@Kapos2019]
 
   Benefit                          Description
   -------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -184,8 +175,9 @@ fully understood or appreciated, and there is a growing realisation that
 the services provided by nature have been undervalued in development
 decisions and investments [@Fuldauer2021; @Seddon2020].
 
-![](media/image4.tiff){width="5.657638888888889in"
-height="7.824305555555555in"}**Figure 15.4.4:** Ecosystems provide
+![](assets/Figure_15.4.4.png){width=100%}
+
+**Figure 15.4.4:** Ecosystems provide
 services which benefit infrastructure. For example, forests can support
 hydropower generation. Coastal mangroves and reef systems can dissipate
 wave energy and protect coastlines and ports from coastal hazards.
@@ -235,8 +227,9 @@ performance and better protect communities [@Browder2019;
     multitude of additional environmental, social and economic
     co-benefits, beyond those of traditional ecosystems.
 
-![](media/image5.tiff){width="6.5in"
-height="6.798611111111111in"}**Figure 15.4.5:** Integrating nature in
+![](assets/Figure_15.4.5.png){width=100%}
+
+**Figure 15.4.5:** Integrating nature in
 infrastructure sectors can provide a variety of benefits, including the
 provision of protective services (e.g. protection from flooding). NbS
 can enhance built infrastructure lifespan and reduce maintenance
@@ -264,9 +257,7 @@ specific actions, best practice resources and case studies to inform
 infrastructure practitioners on *how* to strategically integrate nature
 to increase the potential influences across the SDG targets.
 
-![Graphical user interface, application Description automatically
-generated](media/image6.tiff){width="6.5in"
-height="3.5833333333333335in"}
+![](assets/Figure_15.4.6.png){width=100%}
 
 **Figure 15.4.6:** The SustainABLE tool covers a broad range of sectors
 [@UNOPS2019]
@@ -282,7 +273,7 @@ strategically integrated into different infrastructure sectors in order
 to deliver benefits within and beyond the sector. Hands-on 10 provides a
 step-by-step walkthrough of the SustainABLE tool.
 
-# Summary 
+# Summary
 
 NbS underpin the functioning of infrastructure through delivery of
 ecosystem services. They can be leveraged to provide various benefits to

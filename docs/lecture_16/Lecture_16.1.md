@@ -1,19 +1,10 @@
 ---
 title: Mini-Lecture 16.1 - Nature-based solutions for water regulation
----
-
-
-
 keywords:
-
 -   Nature-based solutions
-
 -   Natural flood management
-
 -   Natural drought management
-
-authors: 
-
+authors:
 -   Amelie Paszkowski
 
 ---
@@ -24,7 +15,7 @@ range of nature-based options for fluvial, pluvial and tidal flooding
 and drought are provided, and case studies are presented where
 applications of these can be seen in practice.
 
-# Learning objectives 
+# Learning objectives
 
 -   To identify a portfolio of nature-based solutions for water
     regulation in extreme situations of flooding and drought
@@ -32,8 +23,6 @@ applications of these can be seen in practice.
     conjunction with hard infrastructure to regulate flood extremes
 -   To recognise the value of nature-based solutions in adapting to and
     mitigating water extremes.
-
- 
 
 # Introduction to regulation of water extremes
 
@@ -56,6 +45,8 @@ some of the key nature-based solutions available for water management
 purposes. As shown, the fundamental concept that underpins nature-based
 solutions in water management is to mimic the inherent natural water
 cycle as much as possible.
+
+![](assets/Figure_16.1.1.png){width=100%}
 
 **Figure 16.1.1**: Nature-based solutions for water regulation
 [@Cohen-Shacham2016]
@@ -96,33 +87,32 @@ co-benefits [@Bertule2014; @Kapos2019; @Watkins2019]
 |               | Engineering    | solutions      |                |
 |               | options        |                |                |
 +===============+================+================+================+
-| Fluvial       | -   Dams       | -   Re         | -              |
-|               |                | /afforestation |    Stabilising |
-|               | -   Levees/    |     and forest |                |
-|               |                |                |    riverbanks, |
-|               |    embankments |   conservation |     reducing   |
-|               |                |     -- uses    |     impacts of |
-|               | -   Flood      |     natural    |     flooding,  |
-|               |     walls      |     ability to |     land       |
-|               |                |     retain     |     erosion    |
-|               | -   Improved   |     water,     |     and        |
-|               |     pumping,   |     slowing    |     landslides |
-|               |     piping and |     down and   |                |
-|               |     storage    |     absorbing  | -   Improved   |
-|               |     systems    |     some of    |     water      |
-|               |                |     the storm  |     quality    |
-|               | -   Channel    |     flow       |     through    |
-|               |                |                |     natural    |
-|               |  modifications | -   Riparian   |     filtration |
-|               |                |     buffers -- |                |
+| Fluvial       | -   Dams       | -   Re-/af-    |                |
+|               |                |  forestation   |                |
+|               | -   Levees/    |     and forest | - Stabilising  |
+|               |    embankments |   conservation |    riverbanks, |
+|               |                |     -- uses    |     reducing   |
+|               |                |     natural    |     impacts of |
+|               | -   Flood      |     ability to |     flooding,  |
+|               |     walls      |     retain     |     land       |
+|               |                |     water,     |     erosion    |
+|               | -   Improved   |     slowing    |     and        |
+|               |     pumping,   |     down and   |     landslides |
+|               |     piping and |     absorbing  |                |
+|               |     storage    |     some of    | -   Improved   |
+|               |     systems    |     the storm  |     water      |
+|               |                |     flow       |     quality    |
+|               | -   Channel    |                |     through    |
+|               |  modifications |                |     natural    |
+|               |                | -   Riparian   |     filtration |
+|               |                |     buffers:   |                |
 |               |                |     restoring  | -   Carbon     |
-|               |                |     and        |                |
-|               |                |     renaturing |  sequestration |
-|               |                |     areas      |     and        |
-|               |                |                |     storage    |
+|               |                |     and        |  sequestration |
+|               |                |     renaturing |     and        |
+|               |                |     areas      |     storage    |
+|               |                |                |                |
 |               |                |    surrounding |                |
 |               |                |     rivers and | -   Increased  |
-|               |                |                |                |
 |               |                |   watercourses |   availability |
 |               |                |     will       |     of         |
 |               |                |     increase   |                |
@@ -130,22 +120,19 @@ co-benefits [@Bertule2014; @Kapos2019; @Watkins2019]
 |               |                |     storage    |     food       |
 |               |                |     capacity   |     (including |
 |               |                |                |     freshwater |
-|               |                | -              |     fish) and  |
-|               |                |   Reconnecting |     other      |
+|               |                |                |     fish) and  |
+|               |                | - Reconnecting |     other      |
 |               |                |     rivers to  |     products   |
 |               |                |     their      |                |
-|               |                |                | -   Protection |
-|               |                |    floodplains |     of         |
-|               |                |                |                |
-|               |                | -   Wetland    |   agricultural |
-|               |                |                |     crops from |
+|               |                |  floodplains   | -   Protection |
+|               |                |                |     of         |
+|               |                |                |   agricultural |
+|               |                |  -   Wetland   |     crops from |
 |               |                |    restoration |     flooding,  |
-|               |                |     /          |                |
-|               |                |                |   safeguarding |
+|               |                |    /           |   safeguarding |
 |               |                |   conservation |     food       |
 |               |                |                |     supplies   |
-|               |                | -              |     (e.g.      |
-|               |                |    Constructed |                |
+|               |                | -  Constructed |     (e.g.      |
 |               |                |     wetlands   |  agroforestry) |
 |               |                |                |                |
 |               |                | -              | -              |
@@ -154,33 +141,30 @@ co-benefits [@Bertule2014; @Kapos2019; @Watkins2019]
 |               |                |     bypasses   |                |
 +---------------+----------------+----------------+----------------+
 | Pluvial/Urban | -   Expansion  | -   Urban      | -   Improved   |
-|               |     of         |                |     physical   |
-|               |     drainage   |    watercourse |     and mental |
-|               |                |                |     health in  |
-|               | infrastructure |    restoration |     urban      |
-|               |                |     and        |                |
-|               | -   Engineered |                |    populations |
-|               |     flood      |  're-naturing' |                |
-|               |     protection |     to reduce  | -   Moderate   |
-|               |                |     risk of    |     urban      |
-|               |                |     assets and |                |
-|               |                |     secure     |   temperatures |
-|               |                |     riverbanks |                |
+|               |     of         |    watercourse |     physical   |
+|               |     drainage   |    restoration |     and mental |
+|               | infrastructure |     and        |     health in  |
+|               |                |  're-naturing' |     urban      |
+|               | -   Engineered |     to reduce  |    populations |
+|               |     flood      |     risk of    |                |
+|               |     protection |     assets and | - Moderate     |
+|               |                |     secure     |   urban        |
+|               |                |     riverbanks |   temperatures |
+|               |                |                |                |
+|               |                |                |                |
 |               |                |                | -   Create     |
-|               |                | -              |     ecological |
-|               |                |    Restoration |     networks   |
+|               |                |                |     ecological |
+|               |                | - Restoration  |     networks   |
 |               |                |     and        |     which      |
-|               |                |                |     support    |
-|               |                |    maintenance |                |
+|               |                |    maintenance |   support      |
 |               |                |     of urban   |   biodiversity |
-|               |                |                |                |
-|               |                |    greenspaces | -   Air        |
-|               |                |     to improve |                |
+|               |                |    greenspaces |                |
+|               |                |     to improve | -   Air        |
 |               |                |     rainwater  |   purification |
+|               |                |   infiltration |                |
+|               |                |     and reduce | -   Noise      |
+|               |                |     runoff     |     reduction  |
 |               |                |                |                |
-|               |                |   infiltration | -   Noise      |
-|               |                |     and reduce |     reduction  |
-|               |                |     runoff     |                |
 |               |                |                |                |
 |               |                | -   Swales     |                |
 |               |                |                |                |
@@ -197,21 +181,20 @@ co-benefits [@Bertule2014; @Kapos2019; @Watkins2019]
 |               |     dykes and  |     protection |     fish       |
 |               |     levees     |     and        |     stocks     |
 |               |                |                |                |
-|               | -   Sea walls  |    restoration | -              |
-|               |                |     to anchor  |   Biodiversity |
+|               | -   Sea walls  |    restoration | - Biodiversity |
+|               |                |     to anchor  |   conservation |
 |               | -   Temporary  |     sediments  |                |
-|               |     storm      |     and        |   conservation |
+|               |     storm      |     and        |                |
 |               |     barriers   |     dissipate  |                |
 |               |                |     wave       | -   Carbon     |
-|               | -              |     energy     |                |
-|               |    Breakwaters |                |  sequestration |
-|               |                | -   Coastal    |     and        |
-|               |                |     marsh and  |     storage    |
+|               | - Breakwaters  |     energy     |  sequestration |
+|               |                |                |     and        |
+|               |                | -   Coastal    |     storage    |
+|               |                |     marsh and  |                |
 |               |                |     dune       |                |
 |               |                |     management | -   Sediment   |
 |               |                |     and        |     accretion  |
-|               |                |                |     and        |
-|               |                |    restoration |                |
+|               |                |    restoration |      and       |
 |               |                |     to         |  stabilisation |
 |               |                |     dissipate  |     of         |
 |               |                |     wave       |     coastline  |
@@ -221,7 +204,6 @@ co-benefits [@Bertule2014; @Kapos2019; @Watkins2019]
 |               |                |     and/or     |     recreation |
 |               |                |     oyster     |                |
 |               |                |     reef       |                |
-|               |                |                |                |
 |               |                |    restoration |                |
 |               |                |     and        |                |
 |               |                |     management |                |
@@ -231,7 +213,6 @@ co-benefits [@Bertule2014; @Kapos2019; @Watkins2019]
 |               |                |     energy     |                |
 |               |                |                |                |
 |               |                | -   Sea grass  |                |
-|               |                |     --         |                |
 |               |                |     stabilises |                |
 |               |                |     sediment   |                |
 |               |                |     and        |                |
@@ -276,9 +257,9 @@ The sponge city concept is a great example where urban design aims to
 mimic the natural environmental processes and provides space for these
 to occur.
 
-![](media/image3.jpg){width="3.5409722222222224in"
-height="1.8881944444444445in"}![](media/image4.jpeg){width="3.1680041557305336in"
-height="1.8720002187226596in"}**Figure 16.1.2**: Application of China's
+![](assets/Figure_16.1.2a.jpg){width=50%}![](assets/Figure_16.1.2b.jpg){width=50%}
+
+**Figure 16.1.2**: Application of China's
 sponge city concept in Jinhuan Yanwei Island Park [@Turenscape2014]
 
 # Nature-based solutions for drought regulation
@@ -322,67 +303,63 @@ relieving drought conditions [@UnitedNations2018].
 | Impacts        | Engineering    | solutions      | Co-benefits    |
 |                | Options        |                |                |
 +================+================+================+================+
-| -   Reduced    | -   Reservoirs | -   Management | -              |
-|     harvests,  |     and/or     |     and        |   Biodiversity |
-|     livestock  |     dams       |                |                |
-|     losses,    |                |    restoration |   conservation |
-|     damage to  | -   Concrete   |     of         |                |
-|                |     catchments |     watershed  | -   Carbon     |
-|    livelihoods |                |     vegetation |                |
-|     and        | -              |     to         |  sequestration |
-|                |   Desalination |     regulate   |     and        |
-|   interruption |     plants     |     flows,     |     storage    |
-|     to         |                |     enhance    |                |
-|     supplies   | -   Aqueducts  |                | -   Improved   |
-|     of         |                |   infiltration |     soil       |
-|                |                |     and        |     fertility  |
-|   agricultural |                |     recharge   |                |
-|                |                |                | -   Increased  |
-|    commodities |                |    groundwater |                |
-|                |                |     storage    |   availability |
+| -   Reduced    | -   Reservoirs | -   Management |                |
+|     harvests,  |     and/or     |     and        | - Biodiversity |
+|     livestock  |     dams       |    restoration |   conservation |
+|     losses,    |                |     of         |                |
+|     damage to  | -   Concrete   |     watershed  |                |
+|    livelihoods |     catchments |     vegetation | -   Carbon     |
+|     and        |                |     to         |  sequestration |
+|   interruption | - Desalination |     regulate   |     and        |
+|     to         |     plants     |     flows,     |     storage    |
+|     supplies   |                |     enhance    |                |
+|     of         |                |   infiltration |                |
+|   agricultural | -   Aqueducts  |     and        | -   Improved   |
+|    commodities |                |     recharge   |     soil       |
+|                |                |    groundwater |     fertility  |
+|                |                |     storage    |                |
+|                |                |                | - Increased    |
+|                |                |                |   availability |
 | -   Water      |                |                |     of         |
-|     shortages  |                | -   Establish  |                |
-|     affecting  |                |     "Green     |   wild-sourced |
-|     lives,     |                |     Belts" to  |     food       |
-|     sanitation |                |     increase   |     (including |
-|     and        |                |     water      |     freshwater |
-|     economic   |                |                |     fish) and  |
-|     activity   |                |  availability, |     other      |
-|                |                |     retain     |     products   |
-| -   Disruption |                |     sediments  |                |
-|     to         |                |     and        | -   Pr         |
-|     transport  |                |     nutrients, | event/mitigate |
-|     and        |                |     improve    |     damage,    |
-|     industrial |                |     soil       |     preserving |
-|     processes  |                |     quality,   |     longevity  |
-|     (e.g.,     |                |     and        |     of built   |
-|                |                |     provide    |                |
-|    hydropower) |                |     shade to   | infrastructure |
-|                |                |     minimise   |                |
-|                |                |                | -   Reduce     |
-|                |                |    evaporation |                |
-|                |                |                |    requirement |
-|                |                | -   Cli        |     for built  |
-|                |                | mate-resilient |                |
-|                |                |     grazing    | infrastructure |
-|                |                |     and        |                |
-|                |                |     livestock  | -              |
-|                |                |     management |    Pollination |
-|                |                |     to         |     services   |
-|                |                |     regenerate |                |
-|                |                |     vegetation |                |
-|                |                |     and        |                |
-|                |                |     improve    |                |
-|                |                |     soil       |                |
-|                |                |     quality    |                |
+|     shortages  |                | - Establish    |   wild-sourced |
+|     affecting  |                |   "Green       |   food         |
+|     lives,     |                |   Belts" to    |   (including   |
+|     sanitation |                |   increase     |   freshwater   |
+|     and        |                |   water        |   fish) and    |
+|     economic   |                |   availability |   other        |
+|     activity   |                |   , retain     |   products     |
+|                |                |   sediments    |                |
+| - Disruption   |                |   and          |                |
+|   to           |                |   nutrients,   | - Prevent/mitigate |
+|   transport    |                |   improve      |   damage,      |
+|   and          |                |   soil         |   preserving   |
+|   industrial   |                |   quality,     |   longevity    |
+|   processes    |                |   and          |   of built     |
+|   (e.g.,       |                |   provide      |   infrastructure|
+|  hydropower)   |                |   shade to     |                |
+|                |                |   minimise     |                |
+|                |                |   evaporation  |                |
+|                |                |                | - Reduce       |
+|                |                |                |   requirement  |
+|                |                | - Climate      |   for built    |
+|                |                |   resilient    | infrastructure |
+|                |                |   grazing      |                |
+|                |                |   and          |                |
+|                |                |   livestock    |                |
+|                |                |   management   | - Pollination  |
+|                |                |   to           |    services    |
+|                |                |   regenerate   |                |
+|                |                |   vegetation   |                |
+|                |                |   and          |                |
+|                |                |   improve      |                |
+|                |                |   soil         |                |
+|                |                |   quality      |                |
 |                |                |                |                |
 |                |                | -   Ecosystems |                |
 |                |                |     help to    |                |
 |                |                |     reduce     |                |
-|                |                |                |                |
 |                |                |  sedimentation |                |
 |                |                |     in         |                |
-|                |                |                |                |
 |                |                |    reservoirs, |                |
 |                |                |     increasing |                |
 |                |                |     their      |                |
@@ -392,8 +369,7 @@ relieving drought conditions [@UnitedNations2018].
 |                |                |     cost of    |                |
 |                |                |     dredging   |                |
 |                |                |                |                |
-|                |                | -              |                |
-|                |                |   Larger-scale |                |
+|                |                | - Larger-scale |                |
 |                |                |     rainwater  |                |
 |                |                |     harvesting |                |
 |                |                |     supporting |                |
@@ -404,13 +380,11 @@ relieving drought conditions [@UnitedNations2018].
 |                |                | -   Bioswales  |                |
 |                |                |     to         |                |
 |                |                |     replenish  |                |
-|                |                |                |                |
 |                |                |    groundwater |                |
 |                |                |     in urban   |                |
 |                |                |     areas      |                |
 |                |                |                |                |
 |                |                | -   Removal of |                |
-|                |                |                |                |
 |                |                |  water-thirsty |                |
 |                |                |     species    |                |
 |                |                |     and        |                |
@@ -421,7 +395,6 @@ relieving drought conditions [@UnitedNations2018].
 |                |                |                |                |
 |                |                | -   Coastal    |                |
 |                |                |     vegetation |                |
-|                |                |                |                |
 |                |                |    (mangroves, |                |
 |                |                |     reefs,     |                |
 |                |                |     salt       |                |
@@ -468,9 +441,7 @@ This case study shows how when humans adapt to the natural environment,
 allowing it to operate over its natural cycles without interference, the
 benefits experienced can be vast.
 
-# 
-
-# Summary 
+# Summary
 
 This mini-lecture has provided an introduction to nature-based solutions
 for regulating water extremes. A portfolio of options has been provided

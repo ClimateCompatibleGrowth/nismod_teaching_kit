@@ -1,20 +1,10 @@
 ---
-title: Mini-Lecture 16.3 - Nature-based solutions for erosion and
-  landslide control
----
-
-
-
+title: Mini-Lecture 16.3 - Nature-based solutions for erosion and landslide control
 keywords:
-
 -   Nature-based solutions
-
 -   Natural erosion control
-
 -   Natural landslide control
-
 authors:
-
 -   Amelie Paszkowski
 
 ---
@@ -23,14 +13,12 @@ This mini-lecture provides an overview of how nature-based solutions can
 be used for erosion and landslides control. Case studies are presented
 to show some of these solutions in practice.
 
-# Learning objectives 
+# Learning objectives
 
 -   Obtain a portfolio of nature-based solutions for both erosion and
     landslide mitigation
 -   Appreciate the value of nature-based solutions in addressing the
     hazards of erosion and landslides.
-
- 
 
 # Introduction
 
@@ -40,7 +28,7 @@ that can have dramatic consequences on the livelihoods of affected
 people. Between 2004 and 2016, almost 56,000 people were killed by
 landslides globally [@Kapos2019], with most frequent occurrences in
 India, China, the Philippines and Nepal where high precipitation events
-and frequent earthquakes coincide [@Stokes2014; @EEA2015]. Soil
+and frequent earthquakes coincide [@Stokes2014;@EEA2015]. Soil
 erosion similarly has huge consequences, particularly on the
 agricultural sector where economic losses from erosion of arable lands
 have been estimated at USD400 billion globally per year [@Kapos2019].
@@ -53,7 +41,7 @@ the river [@Stokes2014].
 The global increase in landslides is caused by more extreme rainfall
 events, combined with overexploitation of natural resources,
 deforestation, uncontrolled land use, grazing and/or construction
-[@EEA2015; @Stokes2014]. The destruction of forest cover for
+[@EEA2015;@Stokes2014]. The destruction of forest cover for
 clear-cut areas and logging roads have been identified as particularly
 important driving factors [@EEA2015].
 
@@ -165,8 +153,8 @@ erosion [@Kapos2019]
 +----------------+----------------+----------------+----------------+
 
 
-    As evident from the table, vegetating river catchments, particularly along the riverbanks, can stabilise the soil and reduce the risk to erosion. This vegetation also acts as cover for soil, reducing its exposure to surface soil erosion. In coastal areas, measures are centred around reducing the wave energy reaching the coastline. Mangroves are the most well-known nature-based solution for coastal protection from erosion; however, in areas where mangroves are not native, such as the UK for instance, sea grass has played a key role in regulating water currents and stabilising sediments, reducing the rates of erosion observed. 
-    We will now show how nature-based solutions have been used in addressing the erosion challenges faced in Bangladesh.
+As evident from the table, vegetating river catchments, particularly along the riverbanks, can stabilise the soil and reduce the risk to erosion. This vegetation also acts as cover for soil, reducing its exposure to surface soil erosion. In coastal areas, measures are centred around reducing the wave energy reaching the coastline. Mangroves are the most well-known nature-based solution for coastal protection from erosion; however, in areas where mangroves are not native, such as the UK for instance, sea grass has played a key role in regulating water currents and stabilising sediments, reducing the rates of erosion observed.
+We will now show how nature-based solutions have been used in addressing the erosion challenges faced in Bangladesh.
 
 # Case study of nature-based solutions for erosion control: Bangladesh
 
@@ -208,8 +196,8 @@ engineers, local authorities and local communities.
 
 Similar to nature-based solutions for erosion, vegetation can be used to
 stabilise slopes that are prone to landslides. Thick roots act like
-nails in the soil on slopes, reinforcing the soil [@Stokes2014;
-@EEA2015]. To effectively stabilise a slope against shallow
+nails in the soil on slopes, reinforcing the soil [@Stokes2014;@EEA2015].
+To effectively stabilise a slope against shallow
 landslides, plant roots must cross the sheer surface, which may be up to
 2m deep [@Stokes2014; ADPC2020]. Thinner and finer roots can hold the
 topsoil together and can reinforce soil by adding cohesion
@@ -262,10 +250,12 @@ The successes of slope stabilisation in Nepal are also linked with
 strong involvement of communities in establishing and maintaining these
 natural measures of soil stabilisation [IUCN2021].
 
+![](assets/Figure_16.3.1.jpg){width=100%}
+
 **Figure 16.3.1:** Local communities planting *Amriso* along unstable
 steep slopes [@WWF2013]
 
-# Summary 
+# Summary
 
 This mini-lecture provided an overview of the challenges faced with
 erosion and landslides and how nature-based solutions can provide

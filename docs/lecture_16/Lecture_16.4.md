@@ -1,19 +1,10 @@
 ---
 title: Mini-Lecture 16.4 - Nature-based solutions for urban cooling
----
-
- 
-
-keywords: 
-
+keywords:
 -   Nature-based solutions
-
 -   Urban heat island effect
-
 -   Natural urban cooling
-
 authors:
-
 -   Amelie Paszkowski
 
 ---
@@ -24,14 +15,12 @@ be used for addressing the urban heat island effect are presented. The
 mini-lecture closes with a case study where these solutions are applied
 in practice.
 
-# Learning objectives 
+# Learning objectives
 
 -   Understand why and how the urban heat island occurs
 -   Recognise the importance of nature-based solutions in addressing
     urban heat island effects
 -   Obtain a portfolio of nature-based solutions for urban cooling
-
-
 
 # Introduction to the need for cooling
 
@@ -65,10 +54,12 @@ local temperatures through canopy cover, shading and evaporative cooling
 [@Kapos2019], mitigating the human health consequences from increased
 temperatures [@Bowler2010].
 
+![](assets/Figure_16.4.1.jpg){width=100%}
+
 **Figure 16.4.1:** Introduction to natural solutions for heat mitigation
 in urban settings (Unsplash photograph: Jarrett Tan)
 
-# The urban heat island (UHI) effect 
+# The urban heat island (UHI) effect
 
 Atmospheric temperature within forested or natural areas have been shown
 to be lower than that in non-green urban sites [@Bowler2010]. This is
@@ -76,12 +67,14 @@ due to a phenomenon called the urban heat island (UHI) effect. City
 landscapes are dominated by grey infrastructure, which consists of hard,
 impervious surfaces such as buildings and roads, which trap and radiate
 heat, keeping the city warm long after the sun has gone down (see Figure
-16.4.2) [@UNEP2020; @Makido2019; @Wong2021]. The low albedo, low
+16.4.2) [@UNEP2020;@Makido2019;@Wong2021]. The low albedo, low
 green cover and low moisture availability within cities exacerbate this
 effect [@Depietri2013]. Moreover, waste heat from engines and other
 energy-consuming equipment in industry, air-conditioning and
 transportation further add heat (and air pollution) to the city air
-circulation system [@UNEP2020; @Depietri2013].
+circulation system [@UNEP2020;@Depietri2013].
+
+![](assets/Figure_16.4.2.jpg){width=100%}
 
 **Figure 16.4.2:** Conceptualisation of the urban heat island effect
 [@Wong2021]
@@ -99,7 +92,7 @@ energy-intensive. Nature-based solutions in the form of blue and/or
 green infrastructure can offer cost-effective cooling via shade and
 evapotranspiration [@Makido2019].
 
-# Nature-based solutions for UHI mitigation 
+# Nature-based solutions for UHI mitigation
 
 The air temperature difference between natural areas and urban areas
 with less vegetation can be as much as 4°C [@Kapos2019;
@@ -121,7 +114,9 @@ processes increase shading and provide evaporative cooling
 energy from solar radiation and translates this into latent heat rather
 than sensible heat, cooling the leaf and the surrounding air, whereas
 urban surfaces absorb and retain heat when exposed to solar radiation
-[@Bowler2010; @Wong2021].
+[@Bowler2010;@Wong2021].
+
+![](assets/Figure_16.4.3.jpg){width=100%}
 
 **Figure 16.4.3:** (a) Proposed framework for implementing nature-based
 solutions in urban environments at different scales; and (b) a summary
@@ -145,6 +140,8 @@ evapotranspiration, providing shade and raising the albedo
 opportunities for heat mitigation using nature-based solutions at the
 building scale.
 
+![](assets/Figure_16.4.4.jpg){width=100%}
+
 **Figure 16.4.4:** Nature-based solutions for heat mitigation at the
 building scale [@Wong2021]
 
@@ -161,6 +158,8 @@ can also be applied indoors. Figure 16.4.5 illustrates a photograph of
 the David Attenborough Building in Cambridge, UK. Here, a four-storey
 tall living green wall naturally cools the building, filters the air,
 and stimulates health and well-being in the working environment.
+
+![](assets/Figure_16.4.5.jpg){width=100%}
 
 **Figure 16.4.5:** Indoor green wall in the David Attenborough Building,
 Cambridge, UK (photograph by author)
@@ -203,9 +202,12 @@ the urban centre [@Wong2005]. These urban parks have also been
 implemented in an unrivalled aesthetical way, illustrating the
 creativity and innovation behind the urban landscape design of the city.
 
+![](assets/Figure_16.4.6a.jpg){width=100%}
+![](assets/Figure_16.4.6b.jpg){width=100%}
+
 **Figure 16.4.6:** Singapore's use of nature-based solutions in
-mitigating the urban heat island effect. Unsplash photographs by: Kirill
-Petropavlov (top) and Annie Spratt (bottom).
+mitigating the urban heat island effect.
+Unsplash photographs by: Kirill Petropavlov (top) and Annie Spratt (bottom).
 
 # Summary
 

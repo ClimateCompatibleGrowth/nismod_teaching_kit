@@ -259,13 +259,6 @@ London Heathrow Airport has piloted constructed treatment wetlands and
 reed beds, to treat stormwater runoff and wastewater (see Figure 17.3.4)
 [@Revitt&Brewer2001; @WWT2013].
 
-![](assets/Figure_17.3.4.png){width=100%}
-
-**Figure 17.3.4:** London Heathrow Airport
-planted 80,000 reeds as part of a floating reedbed and constructed
-wetland system to store and treat run-off and wastewater from the
-airport. Photograph from @WWT2013.
-
 Through the provision of services including regulation of air quality,
 microclimate and noise, NbS can relieve passenger stress and offer
 additional sector benefits by increasing airport loyalty

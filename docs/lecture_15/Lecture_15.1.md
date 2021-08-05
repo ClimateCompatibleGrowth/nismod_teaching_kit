@@ -87,7 +87,7 @@ restore natural or modified ecosystems that address societal challenges
 effectively and adaptively, simultaneously providing human well-being
 and biodiversity benefits"* [@IUCN2020b].
 
-![](assets/FIgure_15.1.2.png){width=100%}
+![](assets/Figure_15.1.2.png){width=100%}
 
 **Figure 15.1.2:** Visual representation of the concept of NbS
 [@Cohen-Shacham2016]
@@ -123,7 +123,7 @@ term, encompassing other pre-existing ecosystem-based concepts,
 including green infrastructure and natural climate solutions
 [@Cohen-Shacham2016] (see Figure 15.1.3).
 
-![](assets/FIgure_15.1.3.png){width=100%}
+![](assets/Figure_15.1.3.png){width=100%}
 
 **Figure 15.1.3:** The concept 'NbS' unites various other
 ecosystem-based concepts within a single framework
@@ -138,7 +138,7 @@ To be considered a NbS, a solution must address one or multiple societal
 challenges in an integrated manner [@IUCN2020b]. IUCN currently refer
 to seven societal challenges, shown in Figure 15.1.4.
 
-![](assets/FIgure_15.1.4.png){width=100%}
+![](assets/Figure_15.1.4.png){width=100%}
 
 **Figure 15.1.4:** The seven societal challenges that can be addressed
 by NbS. The societal challenge(s) identified should directly affect a
@@ -153,7 +153,7 @@ ecosystem degradation is being addressed, at least one other societal
 challenge must be part of the solution design, to differentiate it from
 pure conservation.
 
-![](assets/FIgure_15.1.5.png){width=100%}
+![](assets/Figure_15.1.5.png){width=100%}
 
 **Figure 15.1.5:** NbS are actions which focus on safeguarding society -
 while there is some overlap, not all conservation measures are NbS.
@@ -352,7 +352,7 @@ NbS which are important to note [@Seddon2021; @Cohen-Shacham2019]:
 To address these pitfalls, in 2020, 4 overarching principles for NbS
 were agreed [@Seddon2021] (see Figure 15.1.6).
 
-![](assets/FIgure_15.1.6.png){width=100%}
+![](assets/Figure_15.1.6.png){width=100%}
 
 **Figure 15.1.6:** Overarching principles of NbS
 
@@ -384,7 +384,7 @@ challenges outlined above.
 
 # NbS beyond forests
 
-![](assets/FIgure_15.1.7.jpg){width=100%}
+![](assets/Figure_15.1.7.jpg){width=100%}
 
 **Figure 15.1.7:** NbS encompass all ecosystems, despite the large focus
 to date on forests (Unsplash)
@@ -428,7 +428,7 @@ There is a major opportunity and need to scale up NbS across a range of
 ecosystems in addition to forests, including reefs, wetlands, soils and
 grassland landscapes.
 
-![](assets/FIgure_15.1.8.png){width=100%}
+![](assets/Figure_15.1.8.png){width=100%}
 
 **Figure 15.1.8:** Photograph sources: @UNDP2019 and Unsplash images
 (Photographers: Niko Lewman, A. Shuau, Dylan de Jonge).

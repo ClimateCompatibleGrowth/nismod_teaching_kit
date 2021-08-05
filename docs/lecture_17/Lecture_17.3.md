@@ -243,7 +243,7 @@ to the air transport sector, where they can be leveraged for
 sector-related benefits. Such benefits include reducing airport costs,
 extending infrastructure lifespan and enhancing the health and wellbeing
 of passengers and staff. For example, Chicago O'Hare airport has
-\>338,000ft^2^ green roofs across 12 buildings. They retain up to 90%
+\> 338,000 ft^2 green roofs across 12 buildings. They retain up to 90%
 precipitation (2 million gallons of stormwater annually), which help
 double roof lifespans and save the airport USD1.5 million in re-roofing
 costs [@AT2016].
@@ -255,10 +255,6 @@ airport (e.g. by reducing the need for fuel and equipment), whilst
 providing wider co-benefits including improved air quality, reduced
 water contamination and reduced soil erosion.
 
-London Heathrow Airport has piloted constructed treatment wetlands and
-reed beds, to treat stormwater runoff and wastewater (see Figure 17.3.4)
-[@Revitt&Brewer2001; @WWT2013].
-
 Through the provision of services including regulation of air quality,
 microclimate and noise, NbS can relieve passenger stress and offer
 additional sector benefits by increasing airport loyalty
@@ -266,14 +262,14 @@ additional sector benefits by increasing airport loyalty
 Airport Terminal 4 has implemented a green wall consisting of \>20,000
 species, which regulates temperature and improves air quality.
 Furthermore, Singapore's Changi airport has incorporated various gardens
-and NbS features (Figure 17.3.5) which has led to the airport being
+and NbS features (Figure 17.3.4) which has led to the airport being
 considered a visitor attraction in its own right and has contributed to
 Singapore's reputation as a city in a garden [@Henderson2017;
 @Newman2013; @AT2016].
 
-![](assets/Figure_17.3.5.png){width=100%}
+![](assets/Figure_17.3.4.png){width=100%}
 
-**Figure 17.3.5:** Singapore's Changi Airport includes multiple gardens
+**Figure 17.3.4:** Singapore's Changi Airport includes multiple gardens
 and an open dome to allow rainfall to be captured by an indoor waterfall
 and forest, which provides cooling and energy savings to the airport,
 saving the airport money whilst supporting regulation of the indoor
@@ -308,14 +304,14 @@ line projects, by providing a series of benefits to the local community.
 For example, the LIFE ELIA project has implemented NbS to demonstrate
 how electricity transmission networks can reduce maintenance costs
 through restoring peatlands and other habitats with low-lying vegetation
-under power lines, whilst improving biodiversity (Figure 17.3.6). The
+under power lines, whilst improving biodiversity (Figure 17.3.5). The
 project was shown to break even in 3-12 years and become 1.4-3.9 times
 cheaper (depending on the NbS) than traditional methods after 30 years
 [@EuropeanCommission2019;@LifeElia2021;@LifeElia].
 
-![](assets/Figure_17.3.6.png){width=100%}
+![](assets/Figure_17.3.5.png){width=100%}
 
-**Figure 17.3.6:** The LIFE ELIA project restored 130km of different
+**Figure 17.3.5:** The LIFE ELIA project restored 130km of different
 ecosystems in ecological corridors under overhead electricity
 transmission networks (2011-2017). It delivered additional benefits
 including pollination, carbon storage, increased amenity value
@@ -339,11 +335,11 @@ associated costs [@Stickler2013; @Kaura2019; @Guo2007].
 Furthermore, by stabilising soils and preventing erosion, NbS can reduce
 turbidity within reservoirs, leading to reduced downtime and protecting
 the grey infrastructure asset from turbidity-induced wear and tear
-(Figure 17.3.7) [@Browder2019].
+(Figure 17.3.6) [@Browder2019].
 
-![](assets/Figure_17.3.7.png){width=100%}
+![](assets/Figure_17.3.6.png){width=100%}
 
-**Figure 17.3.7:** NbS can increase the lifespan of built infrastructure
+**Figure 17.3.6:** NbS can increase the lifespan of built infrastructure
 through reducing erosion. Photograph from @Browder2019.
 
 ## Services to solar power
@@ -354,11 +350,11 @@ power generation, through the temperature regulating services that
 ecosystems provide. Furthermore, the implementation of NbS in the form
 of green roofs can enhance solar power service delivery, by acting as a
 substrate to anchor solar panels and increasing their energy efficiency
-by as much as 20% (Figure 17.3.8) [@Enzi2017; @Semeraro2020].
+by as much as 20% (Figure 17.3.7) [@Enzi2017; @Semeraro2020].
 
-![](assets/Figure_17.3.8.png){width=100%}
+![](assets/Figure_17.3.7.png){width=100%}
 
-**Figure 17.3.8:** Green roofs can anchor
+**Figure 17.3.7:** Green roofs can anchor
 on green roofs, protect panels from weather impacts and support energy
 efficiency. Photograph from @Enzi2017.
 

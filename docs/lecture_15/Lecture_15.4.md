@@ -175,7 +175,7 @@ fully understood or appreciated, and there is a growing realisation that
 the services provided by nature have been undervalued in development
 decisions and investments [@Fuldauer2021; @Seddon2020].
 
-![](assets/Figure_15.4.4.png){width=100%}
+![](assets/Figure_15.4.4.jpg){width=100%}
 
 **Figure 15.4.4:** Ecosystems provide
 services which benefit infrastructure. For example, forests can support

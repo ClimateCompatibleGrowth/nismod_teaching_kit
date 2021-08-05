@@ -27,7 +27,7 @@ to focus on ecosystems beyond forests.
 
 # Context
 
-![](assets/Figure_15.1.1.png){width=100%}
+![](assets/Figure_15.1.1.jpg){width=100%}
 
 **Figure 15.1.1:** Nature-based solutions can encompass all types of
 ecosystems, including terrestrial and marine, and be applied in varying

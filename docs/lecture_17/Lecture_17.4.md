@@ -239,7 +239,7 @@ well as aesthetic appeal. Photograph from @Browder2019.
 **Figure 17.4.5:** Green spaces in cities can shield buildings from
 weather impacts. Photograph from @Kapos2019.
 
-![](assets/Figure_17.4.6.png){width=100%}
+![](assets/Figure_17.4.6.jpg){width=100%}
 
 **Figure 17.4.6:** NbS can form part of a larger network of wildlife
 corridors in urban and suburban areas, supporting wider biodiversity

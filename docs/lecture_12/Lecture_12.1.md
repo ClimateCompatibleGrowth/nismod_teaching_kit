@@ -75,7 +75,7 @@ place. For example, based on 50 years of flood data for Europe
 [@Bloschl2019] found that climate change has increased the flood
 hazard in some areas while it decreased in others. How climate change
 has shifted the river flood timing might differ considerably per
-regions, as shown in Figure 12.1.2. In some areas, earlier snowmelt
+regions. In some areas, earlier snowmelt
 causes floods to change. In other areas, it is because of shifts in the
 arrival of winter storms or because of an increased saturation of the
 soil. Therefore, how climate change may affect flooding is region
@@ -83,12 +83,6 @@ specific and needs localized analysis in order to capture this.
 
 In mini-lectures 12.2-4, we will investigate this problem in more detail
 and illustrate how to model future hazards.
-
-![](assets/Figure_12.1.2.png){width=100%}
-
-**Figure 12.1.2:** The change in river flood timing for Europe over the
-period 1960-2010, including the four hotspot areas
-[@TheIrishTimes2017]
 
 # Introduction to environmental drivers
 
@@ -115,16 +109,16 @@ deforested, mainly due to the growth of agricultural cropland
 with steep surface slopes and high rainfall, are prone to landslides.
 Research, for instance, showed that large-scale deforested areas are
 associated with a large increase in the landslide area in different
-regions globally [@Lehmann2019]. This is shown in Figure 12.1.3,
+regions globally [@Lehmann2019]. This is shown in Figure 12.1.2,
 illustrating how extreme rainfall events initiate landslides before and
 after deforestation happened [@Lehmann2019].
 
 These two examples highlight that changing land-use patterns might have
 unintended consequences on the occurrence of hazards.
 
-![](assets/Figure_12.1.3.png){width=100%}
+![](assets/Figure_12.1.2.png){width=100%}
 
-**Figure 12.1.3:** The effect of deforestation on the occurrence of
+**Figure 12.1.2:** The effect of deforestation on the occurrence of
 landslides in four regions worldwide [@Lehmann2019]
 
 # Introduction to socio-economic growth
@@ -164,9 +158,9 @@ areas that demand more infrastructure services. Figure 12.1.4 shows the
 rapid urban expansion in multiple cities between 1975 and 2015, showing
 how cities are expanding in different ways.
 
-![](assets/Figure_12.1.4.jpg){width=100%}
+![](assets/Figure_12.1.3.jpg){width=100%}
 
-**Figure 12.1.4:** The urban expansion over time for cities in Sri
+**Figure 12.1.3:** The urban expansion over time for cities in Sri
 Lanka, Viet Nam, China, Bangladesh, Israel, Pakistan [@EspaceMondial]
 
 # Introduction to infrastructure dependencies
@@ -190,9 +184,9 @@ Figure 12.1.5 below, showing that increasing the reservoir storage and
 water supply can lead to an increasing dependency and vulnerability when
 the reservoir levels are low, resulting in larger economic damages.
 
-![](assets/Figure_12.1.5.png){width=100%}
+![](assets/Figure_12.1.4.png){width=100%}
 
-**Figure 12.1.5:** A schematic diagram of the reservoir effect as a
+**Figure 12.1.4:** A schematic diagram of the reservoir effect as a
 result of positive feedback processes between infrastructure and
 society, which can increase the vulnerability of the dependent
 population [@DiBaldassarre2018]

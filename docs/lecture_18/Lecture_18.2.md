@@ -66,18 +66,7 @@ NbS have a tendency to be highly context-specific, which means that
 their potential effectiveness and ecological suitability needs to also
 be assessed within the local context [@Seddon2021]. This will be
 discussed in the below sections. Potential negative impacts of not
-taking into account the local context are highlighted in Figures 18.2.1
-and 18.2.2.
-
-![](assets/Figure_18.2.1.png){width=100%}
-
-**Figure 18.2.1:** A number of studies have highlighted how Eucalyptus
-forests have been implemented, to dire effect (e.g. @Chanie2013). Their
-water-hungry and flammable nature has been known to lead to a drop in
-the water table and increased prevalence of fires, which may have dire
-consequences if implemented in drought-stricken countries. Monoculture
-eucalyptus plantations also support lower biodiversity levels.
-Photograph @GlobalForestCoalition2018.
+taking into account the local context are highlighted in Figures 18.2.1.
 
 # Defining the societal challenge and understanding where NbS can help to meet service needs
 
@@ -86,9 +75,9 @@ using nature must be designed to address one of 7 societal challenges,
 as defined by the International Union for the Conservation of Nature
 (IUCN).
 
-![](assets/Figure_18.2.2.png){width=100%}
+![](assets/Figure_18.2.1.png){width=100%}
 
-**Figure 18.2.2:** The 7 societal challenges that can be addressed by
+**Figure 18.2.1:** The 7 societal challenges that can be addressed by
 NbS. The societal challenge(s) identified should directly affect a
 specific group of people (e.g. a NbS to control coastal erosion
 endangering a specific municipality) or indirectly impact society as a

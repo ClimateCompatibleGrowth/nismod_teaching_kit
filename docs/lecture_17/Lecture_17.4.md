@@ -352,14 +352,6 @@ healing views, that help to reduce blood pressure and heart rates.
 a view of trees from their hospital room, rather than a view of a wall,
 through restorative influences.
 
-![](assets/Figure_17.4.10.png){width=100%}
-
-**Figure 17.4.10:** The new KTP hospital in Singapore features a green
-roof, butterfly garden, waterfall, green balconies and multilevel
-gardens with ponds containing \>90 fish species. A rooftop farm provides
-patients with organic and nutritious food [@Newman2014]. Photograph
-from @Krishna2019.
-
 ## Education
 
 NbS can also support education outcomes, by increasing cognitive

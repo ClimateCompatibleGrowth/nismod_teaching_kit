@@ -11,7 +11,7 @@ The course material is licensed under a [Creative Commons BY 4.0 License](https:
 This license allows you to use, remix and publish the course material as long as you give correct
 attribution.  Please use the following citation:
 
-
+    Amelie Paszkowski, Daniel Adshead, Sapphire Vital, Orlando Roman, Lena Fuldauer, Prof Jim W Hall, Raghav Pant, Sarah Gall, Olivia Becher, Aman Majid, Jasper Verschuur, Robyn Haggis, Yu Mo, & Nicholas Chow. (2021, August 6). ClimateCompatibleGrowth/nismod_teaching_kit: Initial release of lecture blocks. Zenodo. https://doi.org/10.5281/zenodo.5166742
 
 ## Creating the teaching material
 

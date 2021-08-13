@@ -79,7 +79,7 @@ There are now several open-source hazard products at global scales which are bei
 
 -   Global hazard maps for earthquakes for different return periods (250, 475, 975, 1500, 2475 years) both Peak Ground Acceleration and spectral acceleration. Data is available at 0.072 degrees (~8km at equator).
 
--   Global dataset of 10,000 synthetic tropical cyclones paths with cyclone characteristics (e.g., wind speed, pressure) on a global scale. Wind speed probabilities are derived globally (10 metre, 10 minutes sustained speed) for different return periods (10 to 10,000 years) at 10km resolution [@bloemendaal2019storm].
+-   Global dataset of 10,000 synthetic tropical cyclones paths with cyclone characteristics (e.g., wind speed, pressure) on a global scale. Wind speed probabilities are derived globally (10 metre, 10 minutes sustained speed) for different return periods (10 to 10,000 years) at 10km resolution [@Bloemendaal2019storm].
 
 ![](assets/Figure_8.3.1.png){width=100%}
 

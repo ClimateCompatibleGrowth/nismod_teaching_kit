@@ -49,6 +49,7 @@ demand.
 
 **Figure 4.1.1:** World Population Forecast by 2100 (based on data from
 @UNDESA2019)
+
 # Infrastructure as long-lived assets
 
 Emerging markets and developing economies will require annual
@@ -78,6 +79,7 @@ trends is uncertain and hard to predict [@Thoung2016]. Therefore, a
 predict-then-act approach is not recommended for these long-lived
 assets, but rather to predict a range of possible futures in recognition
 of this uncertainty.
+
 # Scenario analysis for infrastructure investments
 
 During the last decades, there was an important body of literature on
@@ -108,6 +110,7 @@ future).
 ![](assets/Figure_4.1.3.jpg){width=100%}
 
 **Figure 4.1.3:** The challenge space of SSPs [@ONeill2014]
+
 # Shared Socio-economic Pathways (SSPs)
 
 SSPs can be differentiated from each other in terms of their challenges
@@ -145,6 +148,7 @@ Commonly, five SSP narratives are used and are summarised as follows
 
 Therefore, we can see how different socio-economic and technological
 projections can help us navigate the uncertain future.
+
 # Infrastructure drivers
 
 When confronting with the difficult task of forecasting infrastructure
@@ -187,6 +191,7 @@ evident.
 
 **Figure 4.1.4:** Forecasting of different drivers under the SSPs
 [@Riahi2017]
+
 # Summary
 
 In this mini-lecture, the complexity that the future poses on

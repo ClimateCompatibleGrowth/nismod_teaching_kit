@@ -87,7 +87,7 @@ on a per capita basis. Per capita consumption rates can be found in the
 literature, policy documents and utilities´ reports, or can be discussed
 with policy makers according to their visions and expectations to the
 future. Some useful per capita consumption rates can be found, for
-example, in the World Bank Development indicators [@WorldBank2012]
+example, in the World Bank Development indicators [@WorldBank2021]
 for different countries and regions about energy and water consumption.
 These consumption rates, however, might change with the socio-economic
 development of the region [@Thoung2016].
@@ -125,7 +125,7 @@ Figure 4.3.3 shows how different regions bring different changes in population b
 
 # Other chronic effects and climate change
 
-Planning methods under uncertainty have developed extensively during the last decades, mainly due to the critical importance of climate change for our future [@Lempert2010] [@Haasnoot2013]. Alongside the importance of adaptation and mitigation, climate change might have an impact on our ability to meet infrastructure demand.
+Planning methods under uncertainty have developed extensively during the last decades, mainly due to the critical importance of climate change for our future [@Lempert2010;@Haasnoot2013]. Alongside the importance of adaptation and mitigation, climate change might have an impact on our ability to meet infrastructure demand.
 Firstly, climate change can modify our consumption patterns in terms of heating, cooling and demand for services [@Clarke2018]. It will certainly increase the seasonal variability of demand and have major impacts on our supply systems. For instance, changes in temperature, wind and rainfall patterns will affect the functioning of renewable energy (solar and wind) and water supplies [@Urich2014] (as seen in mini-lecture 4.2).
 Another chronic effect that might be important for infrastructure planning is the inevitable ageing of infrastructure assets, or the slow deterioration of our systems, which can be mitigated by good maintenance programmes. Also, strong demographic changes (increasing elderly population and variation in gender profiles) can play a role in modified consumption patterns into the future. In summary, different contexts might require a different set of drivers.
 

@@ -54,7 +54,7 @@ multiple goals in the decision-making process.
 ![](assets/Figure_7.1.1.jpg){width=100%}
 
 **Figure 7.1.1:** Natural infrastructure for multiple
-objectives[@Cohen-Shacham2016]
+objectives [@Cohen-Shacham2016]
 
 Common multiple objectives are costs, emissions (mainly for energy and
 transport), reliability of the service, access (mainly for water and

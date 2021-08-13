@@ -73,10 +73,8 @@ capturing future uncertainty (Figure 13.4.1).
 **Figure 13.4.1:** Curaçao's future waste scenarios until 2050
 [@Fuldauer2019]. Calculations were based on waste generation factors
 for SIDS
-[@Mohee2015](https://www.sciencedirect.com/science/article/pii/S095965261930678X#bib66);[@WorldBank2012](https://www.sciencedirect.com/science/article/pii/S095965261930678X#bib110)],
-residential growth scenarios
-[@terBals2014](https://www.sciencedirect.com/science/article/pii/S095965261930678X#bib6)
-and tourism growth scenarios.
+[@Mohee2015;@WorldBank2012], residential growth scenarios
+[@terBals2014] and tourism growth scenarios.
 
 Various infrastructure strategies were then created (see mini-lecture
 6.1), including an inaction, circular economy and a technology-led

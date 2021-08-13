@@ -32,7 +32,7 @@ socio-political data requirements.
 
 When aiming to integrate nature-based solutions (NbS), it is critical
 that planning, decision-making and actions take a systems perspective,
-in the context of the larger landscape [@Cohen-Schacham2016;
+in the context of the larger landscape [@Cohen-Shacham2016;
 @IUCN2020a]. This includes the ecological, economic and socio-cultural
 landscape [@IUCN2020b].
 
@@ -60,7 +60,7 @@ The wider landscape context may be at scales such as a watershed, large
 forest or ridge-to-reef. It is important to take into account the
 interactions within and between ecosystems and people within the
 landscape context, and the distribution of potential impacts (positive
-and negative) [@Cohen-Schacham2019; @Seddon2020].
+and negative) [@Cohen-Shacham2019; @Seddon2020].
 
 NbS have a tendency to be highly context-specific, which means that
 their potential effectiveness and ecological suitability needs to also
@@ -302,16 +302,12 @@ qualitative evidence can be gathered from:
 |                                  |     used in analysis at global   |
 |                                  |     and local regions.           |
 |                                  |                                  |
-|                                  | -   Has provided an *[ArcGIS Pro |
-|                                  |     Package](https://www         |
-|                                  | .arcgis.com/home/item.html?id=3b |
-|                                  | fa1aa4cd9844d5a0922540210da25b)* |
+|                                  | -   Has provided an [*ArcGIS Pro |
+|                                  |     Package*][arcpro]            |
 |                                  |     for large-scale spatial      |
 |                                  |     analysis. This contains      |
-|                                  |     original [raster             |
-|                                  |     data](https://ww             |
-|                                  | w.arcgis.com/home/item.html?id=d |
-|                                  | 9434e94c817434c8448445501aee60a) |
+|                                  |     original                     |
+|                                  |    [raster data][raster]         |
 |                                  |     with multiple table          |
 |                                  |     attributes.                  |
 |                                  |                                  |
@@ -327,16 +323,12 @@ qualitative evidence can be gathered from:
 |                                  |     global climate regions.      |
 |                                  |                                  |
 |                                  | -   It can be accessed           |
-|                                  |     [here](https://www           |
-|                                  | .arcgis.com/home/item.html?id=92 |
-|                                  | 6a206393ec40a590d8caf29ae9a93e). |
+|                                  |     [here][ecosystems]. |
 +----------------------------------+----------------------------------+
 | World Protected Areas Database   | -   The above layer can be       |
 |                                  |     combined with the [World     |
 |                                  |     Protected Areas              |
-|                                  |     Database](https://ww         |
-|                                  | w.arcgis.com/home/item.html?id=a |
-|                                  | e78aeb913a343d69e950b53e29076f7) |
+|                                  |     Database][areasdb] |
 |                                  |     to assess the types of       |
 |                                  |     ecosystems that are          |
 |                                  |     protected, and progress      |
@@ -349,23 +341,28 @@ qualitative evidence can be gathered from:
 +----------------------------------+----------------------------------+
 | Protected Planet                 | -   Provides country level data. |
 |                                  |     For example, for             |
-|                                  |     [Ghana](https://www.         |
-|                                  | protectedplanet.net/country/GHA) |
+|                                  |     [Ghana][ghana]               |
 |                                  |     and for                      |
-|                                  |     [Jamaica](https://www.p      |
-|                                  | rotectedplanet.net/country/JAM). |
+|                                  |     [Jamaica][jamaica].          |
 |                                  |                                  |
 |                                  | -   It also provides regional    |
 |                                  |     level data.                  |
 +----------------------------------+----------------------------------+
 | Nature Map                       | -   Nature map can be accessed   |
-|                                  |     [here](https:                |
-|                                  | //explorer.naturemap.earth/map). |
+|                                  |     [here][naturemap].           |
 +----------------------------------+----------------------------------+
 | UN Biodiversity Map              | -   Data is available from       |
-|                                  |     [here](http                  |
-|                                  | s://www.unbiodiversitylab.org/). |
+|                                  |     [here][biodiversitymap].     |
 +----------------------------------+----------------------------------+
+
+[arcpro]: https://www.arcgis.com/home/item.html?id=3bfa1aa4cd9844d5a0922540210da25b
+[raster]: https://www.arcgis.com/home/item.html?id=d9434e94c817434c8448445501aee60a
+[ecosystems]: https://www.arcgis.com/home/item.html?id=926a206393ec40a590d8caf29ae9a93e
+[areasdb]: https://www.arcgis.com/home/item.html?id=ae78aeb913a343d69e950b53e29076f7
+[ghana]: https://www.protectedplanet.net/country/GHA
+[jamaica]: https://www.protectedplanet.net/country/JAM
+[naturemap]: https://explorer.naturemap.earth/map
+[biodiversitymap]: https://www.unbiodiversitylab.org/
 
 # Climate data
 

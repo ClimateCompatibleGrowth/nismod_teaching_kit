@@ -72,7 +72,7 @@ climate, hydrology, engineering, ecology, economics and social sciences
 [@Seddon2021].
 
 **Table 18.4.1:** Potential stakeholders to engage in NbS projects
-[@Cohen-Schacham2019; @WorldBank2017]
+[@Cohen-Shacham2019; @WorldBank2017]
 
   Stakeholder                        Description
   ---------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -154,7 +154,7 @@ NbS can provide will also vary over time [@Seddon2021; @Seddon2020].
 NbS should be developed and implemented in a manner that is consistent
 with the temporal dynamics and complexity of ecosystems, so that the
 services provided by the ecosystem are sustainable and, as far as
-possible, resilient to future change [@Cohen-Schacham2019;
+possible, resilient to future change [@Cohen-Shacham2019;
 @Browder2019]. Holistic approaches with a long, multi-year timeframe
 have the best chance of success. 20-50 years is recommended to exploit
 the full potential of NbS, in order to support uptake and scaling
@@ -176,12 +176,12 @@ community use does not undermine the intervention.
 Community management of projects is often necessary to ensure long-term
 viability of the investment, whereby local and indigenous communities
 steward the land and habitats being harnessed as infrastructure
-solutions [﻿@Naumann2011].
+solutions [@Naumann2011].
 
 Practitioners implementing NbS should collaborate with, and gain support
 from, local communities, and work in close collaboration with them in
 maintaining and managing the NbS over the long-term
-[@Cohen-Schacham2016; @Albert2020]. Civil society organisations can
+[@Cohen-Shacham2016; @Albert2020]. Civil society organisations can
 be engaged to support local stakeholder engagement.
 
 NbS are dynamic in nature and may be influenced by climate change and
@@ -190,10 +190,10 @@ mini-lecture 18.1, to ensure sustainable performance of NbS over the
 long-term, projects should be implemented with an adaptive management
 approach, whereby management actions are adjusted as conditions change,
 new information is gathered, and as the ecosystems respond
-[@Cohen-Schacham2019; @Spearman&Dave2012]. Monitoring activities
+[@Cohen-Shacham2019; @Spearman&Dave2012]. Monitoring activities
 during and after the NbS implementation will be needed to assess and
 maintain its effectiveness and identify if further actions are necessary
-[﻿@Naumann2011]. They are also critical for growing an evidence base
+[@Naumann2011]. They are also critical for growing an evidence base
 and record lessons learned. Examples of monitoring activities are shown
 in Table 18.4.2.
 

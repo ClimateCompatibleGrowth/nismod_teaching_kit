@@ -214,15 +214,7 @@ positive influences on the SDG targets will also vary, and likely
 involve trade-offs with other targets. The case of eucalyptus forest
 implementation is a widely cited example of where natural ecosystems can
 lead to unintended negative consequences, and thus potentially undermine
-achievement of the SDGs (see Figure 15.2.8).
-
-![](assets/Figure_15.2.8.png){width=100%}
-
-**Figure 15.2.8:** When implemented without
-consideration of local context, eucalyptus can lead to increased
-prevalence of fires and dangerous drops in the water table, which could
-lead to dire consequences if implemented in drought-stricken regions
-[@Chanie2013]. Photograph [@Judd]
+achievement of the SDGs.
 
 **Table 15.2.2:** Examples of how nature broadly underpins the different
 SDGs. Note, examples are not categorised by direct or indirect. Direct

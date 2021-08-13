@@ -196,7 +196,7 @@ ambition on nature more systematically. Furthermore, the 'Nature-based
 Solutions for NDCs Toolkit' and associated 'Framework' has identified
 more than 100 tools and resources on NbS that can support
 decision-makers in enhancing their NDCs, including spatial datasets,
-guidance documents and other toolkits [@UNDP2019a; @UNDP2019b].
+guidance documents and other toolkits [@UNDP2019a; @UNDP2019].
 
 Most NDCs that have included NbS, have highlighted the need for external
 financing and support. Therefore, in leveraging NbS to enhance progress
@@ -224,7 +224,7 @@ systems whilst advancing progress on development and climate agendas
 including the Paris Agreement [@Seddon2020].
 
 Globally, ecosystems can sequester large amounts of carbon dioxide
-[@Anderson2019; @IPCC2019). The IPCC Climate Change and Land Report
+[@Anderson2019;@IPCC2019]. The IPCC Climate Change and Land Report
 found that all scenarios consistent with the Paris Agreement's 1.5°C
 temperature goal rely on land use mitigation strategies in addition to
 decarbonisation [@IPCC2019]. Equally, a widely cited study suggests

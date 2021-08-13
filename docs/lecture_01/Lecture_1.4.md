@@ -249,7 +249,7 @@ required, evidence‐based tools to undertake strategic infrastructure
 assessment will better equip the government to make effective
 investments and policies in the future [@Adshead2021].
 
-![](assets/Fig_1.4.9.png){width=100%}
+![](assets/Fig_1.4.9.png){width=80%}
 
 **Figure 1.4.9:** Role of the National Integrated Planning and Programme
 unit (NIPP) in coordinating efforts to ensure streamlined and efficient

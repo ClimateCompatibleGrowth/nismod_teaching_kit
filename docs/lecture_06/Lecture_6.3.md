@@ -102,7 +102,7 @@ stakeholders in a specific infrastructure sector, can be used as a
 checklist to ensure that all potentially relevant stakeholders have been
 included in the process of strategy generation. For more information on
 multi-stakeholder mapping, we refer readers to existing literature
-[@Mayers2005; @Sova2014; @Fuldauer2018].
+[@Mayers2005; @Sova2014; @Fuldauer2018b].
 
 # Reflecting on and overcoming drawbacks of content analysis
 

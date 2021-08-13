@@ -145,7 +145,7 @@ Previous practical studies in Curaçao, and Saint Lucia on long-term
 infrastructure planning have generated tools that can be used by
 decision-makers to develop their own strategies and identify the
 performance of these strategies under various future socio-economic
-scenarios [@Fuldauer2018; @Adshead2021].
+scenarios [@Fuldauer2018a; @Adshead2021].
 
 Allowing users to develop their own strategies can help understand their
 usefulness, and better communicate the advantages as well as drawbacks
@@ -153,13 +153,13 @@ of different strategies. As described in detail in hands-on exercise 3,
 a National Infrastructure Systems Modelling tool (NISMOD) has been
 developed to explicitly include information on the level of confidence
 with respect to each data, as well as encoding the source of the data
-point (see Figure 6.4.3) [@Fuldauer2018].
+point (see Figure 6.4.3) [@Fuldauer2018a].
 
 ![](assets/Figure_6.4.3.png){width=100%}
 
 **Figure 6.4.3:** Confidence interval used in practical tools that embed
 strategy development in long-term infrastructure planning
-[@Fuldauer2018].
+[@Fuldauer2018a].
 
 These confidence intervals and links to data sources are included
 throughout the National Infrastructure Systems Modelling tool as
@@ -172,7 +172,7 @@ Figure 6.4.4).
 
 **Figure 6.4.4:** Screenshot of National Infrastructure Systems
 Modelling tool where users can develop their own strategies
-[@Fuldauer2018].
+[@Fuldauer2018a].
 
 The National Infrastructure Systems Modelling tool then enables adding
 or deleting certain interventions or investments from a strategy, by
@@ -183,7 +183,7 @@ attached to it (Figure 6.4.5).
 
 **Figure 6.4.5:** Screenshot of infrastructure planning tool where users
 can add different interventions or investments to an infrastructure
-strategy and embed its confidence [@Fuldauer2018].
+strategy and embed its confidence [@Fuldauer2018a].
 
 # Conclusions and lessons learnt for future infrastructure strategy development
 

@@ -161,7 +161,7 @@ risk assessment (fluvial and sea defence). Note that Uncertainty is
 reflected through the use of upper and lower bounds on the conditional
 failure for fluvial and coastal flooding [@Hall2003]
 
-**Summary**
+# Summary
 
 This mini-lecture introduced the concept of infrastructure vulnerability
 which is a key element of risk assessments. You should now be able to

@@ -115,7 +115,7 @@ return periods; (B) historical bridge failures associated with an
 unknown flood return period; and (C) bridges that are assumed not to
 have failed [@Lamb2019]
 
-**Multiple asset failures**
+# Multiple asset failures
 
 The aforementioned examples make use of fragility curves to quantify the
 likelihood of single asset failure. In the case where an extreme event

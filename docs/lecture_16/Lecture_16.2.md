@@ -109,7 +109,7 @@ to act against hazards such as flooding, shoreline erosion, storm damage
 and sea-level rise. The world's existing mangroves are estimated to
 reduce the number of people affected by coastal flooding globally by
 some 39%, and the total value of flooding-related property damage by
-16% [@Losada2018). Without the world's coral reefs, global annual
+16% [@Losada2018]. Without the world's coral reefs, global annual
 damages from coastal flooding would double, the costs from frequent
 storms would triple, and the costs of flood damage from severe storms
 (100-year events) would increase by over 90% to USD272 billion
@@ -134,32 +134,29 @@ co-benefits of the nature-based solutions. 
 |                | -   Levees     |     mangroves  |     products   |
 |                |                |     and        |                |
 |                |                |     marshes    | -              |
-|                |                |     can        |    Opportunity |
-|                |                |     provide    |     for        |
-|                |                |     areas of   |     tourism    |
-|                |                |     extra      |     and        |
-|                |                |     water      |     recreation |
-|                |                |     storage    |                |
-|                |                |     and        |  opportunities |
+|                |                |     can        |  Opportunity   |
+|                |                |     provide    |  for           |
+|                |                |     areas of   |  tourism       |
+|                |                |     extra      |  and           |
+|                |                |     water      |  recreation    |
+|                |                |     storage    |  opportunities |
+|                |                |     and        |                |
 |                |                |     prevent    |                |
 |                |                |     storm      | -              |
 |                |                |     surges     |    Enhancement |
 |                |                |     from       |     of         |
-|                |                |     reaching   |                |
-|                |                |     inland     |   biodiversity |
-|                |                |     areas      |     and        |
-|                |                |                |     habitats   |
+|                |                |     reaching   |   biodiversity |
+|                |                |     inland     |     and        |
+|                |                |     areas      |     habitats   |
 |                |                |                |     for        |
-|                |                |                |                |
 |                |                |                |   economically |
 |                |                |                |     or         |
-|                |                |                |                |
 |                |                |                |   ecologically |
 |                |                |                |     important  |
 |                |                |                |     species    |
 |                |                |                |                |
-|                |                |                | -   Carbon     |
 |                |                |                |                |
+|                |                |                | -   Carbon     |
 |                |                |                |  sequestration |
 |                |                |                |     for        |
 |                |                |                |     climate    |
@@ -171,7 +168,6 @@ co-benefits of the nature-based solutions. 
 |                | -              |     ecosystems |                |
 |                |    Breakwaters |     such as    |                |
 |                |                |     muds,      |                |
-|                |                |                |                |
 |                |                |   saltmarshes, |                |
 |                |                |     mangrove,  |                |
 |                |                |     seagrass,  |                |
@@ -179,9 +175,7 @@ co-benefits of the nature-based solutions. 
 |                |                |     vegetated  |                |
 |                |                |     dunes from |                |
 |                |                |     further    |                |
-|                |                |                |                |
 |                |                |   degradation, |                |
-|                |                |                |                |
 |                |                | fragmentation, |                |
 |                |                |     and loss   |                |
 |                |                |                |                |
@@ -209,7 +203,6 @@ co-benefits of the nature-based solutions. 
 |                |                |     dune       |                |
 |                | -   Levees     |     management |                |
 |                |                |     and        |                |
-|                |                |                |                |
 |                |                |    restoration |                |
 |                |                |     can        |                |
 |                |                |     dissipate  |                |
@@ -230,10 +223,9 @@ co-benefits of the nature-based solutions. 
 |                |                |     increase   |                |
 |                |                |     elevation  |                |
 +----------------+----------------+----------------+----------------+
-| Pollution,     | -   Wastewater | -   Re         |                |
-| e              |     treatment  | -establishment |                |
-| utrophication/ |     plant      |     and        |                |
-| hypoxia        |                |                |                |
+| Pollution,     | -   Wastewater | -   Re-        |                |
+| eutrophication |     treatment  | establishment  |                |
+| hypoxia        |     plant      |     and        |                |
 |                |                |    restoration |                |
 |                |                |     of coastal |                |
 |                |                |     wetlands   |                |
@@ -311,7 +303,14 @@ climate change mitigation and adaptation.
 and adaptation \| Nature Climate
 Change](assets/Figure_16.2.3.png){width=100%}
 
-**Figure 16.2.3:** Key processes of vegetated coastal habitats for climate change mitigation and adaptation[@Duarte2013]. Processes that affect the capacity for climate change mitigation (CO~2~ sinks) and adaptation (shoreline protection from rising sea level) are shown for seagrass meadows (upper panel), salt marshes (middle panel) and mangrove forests (lower panel). Blue arrows indicate transport of atmospheric or dissolved material, red arrows show transport of particulates and purple arrows indicate vegetative growth.
+**Figure 16.2.3:** Key processes of vegetated coastal habitats for
+climate change mitigation and adaptation [@Duarte2013].
+Processes that affect the capacity for climate change mitigation
+(CO~2~ sinks) and adaptation (shoreline protection from rising sea level)
+are shown for seagrass meadows (upper panel), salt marshes (middle panel)
+and mangrove forests (lower panel).
+Blue arrows indicate transport of atmospheric or dissolved material,
+red arrows show transport of particulates and purple arrows indicate vegetative growth.
 
 However, the ability of coastal ecosystem to adjust to a changing
 climate can be impaired by anthropogenic activities, such as land
@@ -365,7 +364,7 @@ river estuary coast, was impacted by a storm and experienced a total
 direct loss of USD1,000,000. After the event, a sub-national government,
 the Departmental Office of Climate Change (DOCC), was formed to lead a
 pilot adaptation programme of using nature-based solutions to improve
-the resilience of Kiyú against extreme events[@Carro2018].
+the resilience of Kiyú against extreme events [@Carro2018].
 
 This programme was implemented through:
 

@@ -110,19 +110,18 @@ co-benefits [@Bertule2014; @Kapos2019; @Watkins2019]
 |               |                |     and        |  sequestration |
 |               |                |     renaturing |     and        |
 |               |                |     areas      |     storage    |
-|               |                |                |                |
 |               |                |    surrounding |                |
 |               |                |     rivers and | -   Increased  |
 |               |                |   watercourses |   availability |
 |               |                |     will       |     of         |
-|               |                |     increase   |                |
-|               |                |     flood      |   wild-sourced |
-|               |                |     storage    |     food       |
-|               |                |     capacity   |     (including |
-|               |                |                |     freshwater |
+|               |                |     increase   |   wild-sourced |
+|               |                |     flood      |     food       |
+|               |                |     storage    |     (including |
+|               |                |     capacity   |     freshwater |
 |               |                |                |     fish) and  |
-|               |                | - Reconnecting |     other      |
-|               |                |     rivers to  |     products   |
+|               |                |                |     other      |
+|               |                | - Reconnecting |     products   |
+|               |                |     rivers to  |                |
 |               |                |     their      |                |
 |               |                |  floodplains   | -   Protection |
 |               |                |                |     of         |
@@ -180,14 +179,14 @@ co-benefits [@Bertule2014; @Kapos2019; @Watkins2019]
 | Coastal/Tidal | -   Coastal    | -   Mangrove   | -   Improved   |
 |               |     dykes and  |     protection |     fish       |
 |               |     levees     |     and        |     stocks     |
-|               |                |                |                |
-|               | -   Sea walls  |    restoration | - Biodiversity |
-|               |                |     to anchor  |   conservation |
-|               | -   Temporary  |     sediments  |                |
-|               |     storm      |     and        |                |
-|               |     barriers   |     dissipate  |                |
-|               |                |     wave       | -   Carbon     |
-|               | - Breakwaters  |     energy     |  sequestration |
+|               |                |    restoration |                |
+|               | -   Sea walls  |     to anchor  | - Biodiversity |
+|               |                |     sediments  |   conservation |
+|               | -   Temporary  |     and        |                |
+|               |     storm      |     dissipate  |                |
+|               |     barriers   |     wave       |                |
+|               |                |     energy     | -   Carbon     |
+|               | - Breakwaters  |                |  sequestration |
 |               |                |                |     and        |
 |               |                | -   Coastal    |     storage    |
 |               |                |     marsh and  |                |

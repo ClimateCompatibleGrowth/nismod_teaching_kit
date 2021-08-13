@@ -49,7 +49,7 @@ NbS can support the delivery of basic services to buildings, including
 sanitation, water and food supplies, and sustainable energy. For
 example, constructed treatment wetlands can be incorporated into
 buildings to reduce wastewater treatment infrastructure and support
-sanitation and hygiene [@Revitt2001; ﻿@Stefanakis2019]. Equally,
+sanitation and hygiene [@Revitt2001; @Stefanakis2019]. Equally,
 green roofs, rainwater harvesting systems and landscaped areas can
 capture rainwater for reuse. This can support provision of freshwater
 for domestic purposes, support sanitation and hygiene and increase
@@ -211,7 +211,7 @@ lower insurance premiums.
 NbS can have profound impacts on the health of urban populations, by
 reducing temperatures and the urban heat island effect (mini-lecture
 16.4), purifying air and increasing the physical and mental health of
-urban dwellers [﻿@Turhan&Akkurt2018]. This can deliver wider
+urban dwellers [@TurhanAkkurt2018]. This can deliver wider
 benefits, including reduced government expenditure on health services
 through prevention and reduction of health problems.
 
@@ -254,7 +254,7 @@ green spaces can improve health, cognitive functioning, alleviate stress
 and enhance motivation of workforces. For example, a 2003 report by The
 California Energy Commission found that workers in a call centre in
 Sacramento performed 10-25% better on memory function tests when they
-had a view of vegetation, compared to no view [@﻿GINW2013]. Moreover,
+had a view of vegetation, compared to no view [@GINW2013]. Moreover,
 people's access to natural scenery is significantly correlated to job
 satisfaction, health and productivity.
 
@@ -311,7 +311,7 @@ happier, more productive workforce [@GMCA2019]. Furthermore,
 integration of nature on factory buildings, such as green roofs and
 living walls, could help to regulate the urban heat island effect and
 local environment, leading to benefits for surrounding communities
-[@﻿Turhan&Akkurt2018].
+[@TurhanAkkurt2018].
 
 ![](assets/Figure_17.4.8.png){width=100%}
 
@@ -357,7 +357,7 @@ through restorative influences.
 NbS can also support education outcomes, by increasing cognitive
 functioning, attention spans and providing opportunities for students to
 learn about aspects such as sustainable development, biodiversity and
-climate change [@﻿Stenfors2019; @Bratman2015]. Furthermore, by
+climate change [@Stenfors2019;@Bratman2015]. Furthermore, by
 integrating green roofs and rainwater harvesting devices on school and
 university buildings, students can have access to food and water,
 supporting the reduction in malnutrition, enable learning about

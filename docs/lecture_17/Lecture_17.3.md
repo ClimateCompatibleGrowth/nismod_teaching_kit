@@ -80,7 +80,7 @@ stream erosion, which may result from water wakes created by boats and
 cause sedimentation of channels. Wetlands and reeds can mitigate channel
 flooding, filter pollutants and trap sediments, as well as dissipate
 wave energy and erosive forces on riverbanks from passing boats
-[@﻿Madramootoo&Dodds1994].
+[@Madramootoo&Dodds1994].
 
 **Table 17.3.1:** Examples of NbS that can be implemented to enhance
 water transport services [@Hijdra2021; @VitalPorts;
@@ -264,8 +264,7 @@ species, which regulates temperature and improves air quality.
 Furthermore, Singapore's Changi airport has incorporated various gardens
 and NbS features (Figure 17.3.4) which has led to the airport being
 considered a visitor attraction in its own right and has contributed to
-Singapore's reputation as a city in a garden [@Henderson2017;
-@Newman2013; @AT2016].
+Singapore's reputation as a city in a garden [@Henderson2017;@Newman2014;@AT2016].
 
 ![](assets/Figure_17.3.4.png){width=100%}
 

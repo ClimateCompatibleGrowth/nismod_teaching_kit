@@ -59,7 +59,7 @@ countries and regions where expensive engineering infrastructures are
 not available. Table 17.2.1 provides an overview of applications of
 nature-based solutions in waste and wastewater treatment.
 
-**Table 17.2.1:** Overview of nature-based solutions in waste and wastewater treatment[@MEA2005]
+**Table 17.2.1:** Overview of nature-based solutions in waste and wastewater treatment [@MEA2005]
 
 +----------------+----------------+----------------+----------------+
 | Services       | Hard           | Nature-based   | Co-benefits    |
@@ -67,26 +67,25 @@ nature-based solutions in waste and wastewater treatment.
 |                | options        |                |                |
 +================+================+================+================+
 | WASTE          | -   Landfill   | -              | -   Carbon     |
-| TREATMENT      |                |  Incorporation |                |
-|                | -   Synthetic  |     of natural |  sequestration |
+| TREATMENT      |                |  Incorporation |  sequestration |
+|                | -   Synthetic  |     of natural |                |
 |                |     soil       |     and        |                |
-|                |     modifiers  |                | -   Habitat    |
-|                |                |    constructed |     provision  |
-|                |                |     wetlands   |                |
-|                |                |     in         | -              |
-|                |                |     landfill   |   Biodiversity |
-|                |                |     leachate   |                |
-|                |                |     treatment  |  conservation  |
+|                |     modifiers  |    constructed | -   Habitat    |
+|                |                |     wetlands   |     provision  |
+|                |                |     in         |                |
+|                |                |     landfill   | -              |
+|                |                |     leachate   |   Biodiversity |
+|                |                |     treatment  |                |
+|                |                |                |  conservation  |
 |                |                |                |                |
 |                |                | -   Use of     | -   Urban      |
-|                |                |                |                |
 |                |                |   phytocapping |    temperature |
 |                |                |     to reduce  |     control    |
 |                |                |     water      |                |
-|                |                |                | -   Aesthetics |
-|                |                |    percolating |                |
-|                |                |     into       | -   Mental     |
-|                |                |     landfill   |     health     |
+|                |                |    percolating | -   Aesthetics |
+|                |                |     into       |                |
+|                |                |     landfill   | -   Mental     |
+|                |                |                |     health     |
 |                |                |                |                |
 |                |                | -   Use of     |                |
 |                |                |     green      |                |
@@ -98,9 +97,9 @@ nature-based solutions in waste and wastewater treatment.
 |                |                |     properties |                |
 |                |                |                |                |
 |                |                | -   Use of     |                |
-|                |                |     hyp        |                |
-|                |                | er-accumulator |                |
-|                |                |     ph         |                |
+|                |                |     hyper-     |                |
+|                |                |    accumulator |                |
+|                |                |     ph-        |                |
 |                |                | ytoremediation |                |
 |                |                |     plants to  |                |
 |                |                |     remove     |                |
@@ -110,11 +109,10 @@ nature-based solutions in waste and wastewater treatment.
 |                |                |     soil, or   |                |
 |                |                |     to reduce  |                |
 |                |                |     their      |                |
-|                |                |     b          |                |
-|                |                | ioavailability |                |
+|                |                |     bio-       |                |
+|                |                |   availability |                |
 |                |                |                |                |
 |                |                | -   Use of     |                |
-|                |                |                |                |
 |                |                |  reconstructed |                |
 |                |                |     grassland, |                |
 |                |                |     heathland, |                |
@@ -125,21 +123,21 @@ nature-based solutions in waste and wastewater treatment.
 |                |                |     sites      |                |
 +----------------+----------------+----------------+----------------+
 | WASTEWATER     | -   Wastewater | For urban and  | -   Carbon     |
-| TREATMENT      |     treatment  | suburban       |                |
-|                |     plant      | source/point   |  sequestration |
+| TREATMENT      |     treatment  | suburban       |  sequestration |
+|                |     plant      | source/point   |                |
 |                |                | source:        |                |
 |                |                |                | -   Habitat    |
 |                |                | -   Green roof |     provision  |
 |                |                |     and rain   |                |
 |                |                |     garden to  | -              |
 |                |                |     collect,   |   Biodiversity |
-|                |                |     store and  |                |
-|                |                |     clean      |  conservation  |
+|                |                |     store and  |   conservation |
+|                |                |     clean      |                |
 |                |                |     rainwater  |                |
 |                |                |     before     | -   Urban      |
-|                |                |     gradual    |                |
-|                |                |     release    |    temperature |
-|                |                |     into water |     control    |
+|                |                |     gradual    |    temperature |
+|                |                |     release    |     control    |
+|                |                |     into water |                |
 |                |                |     courses    |                |
 |                |                |                | -   Aesthetics |
 |                |                | -              |                |
@@ -164,7 +162,6 @@ nature-based solutions in waste and wastewater treatment.
 |                |                | -              |                |
 |                |                | Biodegradation |                |
 |                |                |     and        |                |
-|                |                |                |                |
 |                |                |  bioconversion |                |
 |                |                |     to improve |                |
 |                |                |     effluent   |                |
@@ -200,7 +197,6 @@ nature-based solutions in waste and wastewater treatment.
 |                |                |     wetlands   |                |
 |                |                |                |                |
 |                |                | -   Nature or  |                |
-|                |                |                |                |
 |                |                |    constructed |                |
 |                |                |     wetland to |                |
 |                |                |     trap       |                |
@@ -388,7 +384,7 @@ limited or insufficient wastewater treatment infrastructures.
 
 ![](assets/Figure_17.2.1.png){width=100%}
 
-## Figure 17.2.1: (a) A schematic representation of a hydroponic rootmat, and (b-d) the growth of FTWs (adapted from @Afzal2019)
+**Figure 17.2.1:** (a) A schematic representation of a hydroponic rootmat, and (b-d) the growth of FTWs (adapted from @Afzal2019)
 
 # Summary
 

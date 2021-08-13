@@ -25,7 +25,7 @@ for calculating these emissions.
 ## Gross carbon emissions calculation method
 
 Mini-lecture 3.3 presents the method for estimating gross emissions
-utilised by @Adshead2018. This simplified method to estimate the gross
+utilised by @Adshead2018b. This simplified method to estimate the gross
 carbon emissions of infrastructure systems includes the following steps:
 
 **[Step 1:]{.ul}** Identify the carbon emissions per unit for each type

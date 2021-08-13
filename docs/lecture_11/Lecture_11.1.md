@@ -58,7 +58,7 @@ and businesses.
 **Figure 11.1.1:** Illustration of the range of types of impact of flood
 damages, including direct impacts and indirect impacts to assets that
 are dependent on affected business facilities or infrastructure services
-[@Koks2019]
+[@Koks2019b]
 
 The following sections will introduce the key concepts that are
 important for understanding the full range of disruptions caused by

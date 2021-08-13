@@ -31,7 +31,7 @@ three examples are outlined below:
 1. Many factory operations require a reliable supply of water and
 electricity. If factory operations are disrupted due to power or
 water supply cuts, this may cause further ripple effects through
-supply chains [@Koks2019]
+supply chains [@Koks2019b]
 
 2. As a key node of supply chains, when port infrastructure is
 disrupted, the flow of goods will also be disrupted, possibly across
@@ -84,7 +84,7 @@ scale, could be expected when ports are affected by climatic extremes.
 
 # Macro-economic impacts of electricity disruption
 
-@Koks2019 combined geospatial locations of electricity infrastructure
+@Koks2019b combined geospatial locations of electricity infrastructure
 assets in the south-east of England supplying to local industrial areas,
 with a multiregional supply-use IO model of the UK economy that traced
 the impacts of electricity flooding causing supply-side disruptions to
@@ -111,7 +111,7 @@ including electricity failure in the loss assessment.
 **Figure 11.4.1:** Projected reduction in employment due to extreme
 flooding at business asset locations (left) and at both business asset
 locations as well as the electricity assets that serve them (right), in
-absolute (top) and relative (bottom) terms [@Koks2019]
+absolute (top) and relative (bottom) terms [@Koks2019b]
 
 # Drought impacts on energy prices
 

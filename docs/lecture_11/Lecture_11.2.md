@@ -39,7 +39,7 @@ vulnerability, or the measure of negative consequences suffered due to
 failures when exposed to a hazard of given magnitude and extent, see
 mini-lecture 10.2.
 
-@Koks2019, estimated the global exposure of road and railway assets to
+@Koks2019a, estimated the global exposure of road and railway assets to
 a range of probabilistic climatic and geohazards (tropical cyclones,
 surface flooding, river flooding, coastal flooding, and earthquakes) to
 quantify the direct expected annual damage costs (EADs) to road and rail
@@ -55,7 +55,7 @@ railway assets are exposed to a 1 in 100-year flood event.
 ![](assets/Figure_11.2.1.png){width=100%}
 
 **Figure 11.2.1:** Global multi-hazard transport infrastructure exposure
-[@Koks2019]
+[@Koks2019a]
 
 # Indirect damages: a function of the strength of connection between infrastructure sectors
 

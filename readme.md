@@ -35,6 +35,7 @@ A key dependency is [pandoc](https://pandoc.org/), which is used to convert the 
         imsmanifest.xml
         imsmd_rootv1p2p1.xsd
         res
+
     For more information, check
     out the documentation in the `scorm_package` or the command-line interface help:
 
@@ -58,3 +59,19 @@ A key dependency is [pandoc](https://pandoc.org/), which is used to convert the 
     2. `cd` into the folder
     3. Create a zipped archive of the files
 
+# Common formatting issues
+
+## References
+
+- Ensure that reference authors are formatted as follows:
+
+        Joe Bloggs and Tracy Ervin Smith
+        Bloggs, J. and Smith, T.~E.
+
+## Images
+
+- SCORM packages seem to be very sensitive to the case of filenames.
+  Always use lower-case for file endings and ensure that filenames referenced in the lectures exactly match the filename.
+  For example `assets/Figure_1.1.1.PNG` will not be linked if `![](assets/Figure_1.1.1.png)` is used to embed the image.
+- Images should be of a good enough resolution to be viewed across 100% width of the text column.
+  Use `![](assets/Figure_1.1.1.png){width=100%}` to adjust this.

@@ -20,8 +20,7 @@ for filename in $lecture/*.md; do
         # Render citations and write bibliography to HTML
         echo "" >> $MD_TMP
         echo "# Bibliography" >> $MD_TMP
-        pandoc --mathjax --standalone --css $PAN --css $CSL --citeproc $MD_TMP --bibliography $BIBFILE -o $OUTPUT/$MD_NAME.html
-    else
+        pandoc --mathjax --standalone --css $PAN --css $CSL --citeproc $MD_TMP --bibliography $BIBFILE -o $OUTPUT/$MD_NAME.html  --csl https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-author-date.csl
         pandoc --mathjax --standalone --css $PAN --css $CSL $MD_TMP -o $OUTPUT/$BNAME.html
     fi
     cp -f $DIR_NAME/assets/* $OUTPUT/assets

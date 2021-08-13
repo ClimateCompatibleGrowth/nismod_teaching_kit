@@ -66,8 +66,8 @@ coastal environments.
 erosion [@Kapos2019]
 
 +----------------+----------------+----------------+----------------+
-| **Erosion      | **Ha           | **Nature-based | **             |
-| type **        | rd Engineering | solutions **   | Co-benefits ** |
+| **Erosion      | **Hard         | **Nature-based | **             |
+| type **        | Engineering    | solutions **   | Co-benefits ** |
 |                | options **     |                |                |
 +================+================+================+================+
 | **Riverine**   | -   River      | -   Riparian   | -   Reduced    |
@@ -75,62 +75,54 @@ erosion [@Kapos2019]
 |                |                |     vegetate   |     flood risk |
 |                | -   Concrete   |     riverbanks |                |
 |                |     river      |     to         | -   Improved   |
-|                |                |     stabilise  |     water      |
-|                |    embankments |     the soils  |     quality    |
+|                |    embankments |     stabilise  |     water      |
+|                |                |     the soils  |     quality    |
 |                |                |     from       |     through    |
 |                | -   Riverine   |     erosion    |     natural    |
-|                |     groynes    |                |                |
-|                |                | -              |    filtration  |
+|                |     groynes    |                |  filtration    |
+|                |                | -              |                |
 |                | -   Sandbags   |   Agroforestry |                |
 |                |     (not truly |     and/or     | -   Carbon     |
-|                |     hard       |                |                |
-|                |                |  "conservation |  sequestration |
-|                |   engineering) |                |     and        |
-|                |                |   agriculture" |     storage    |
-|                |                |     within     |                |
-|                |                |     watershed  | -              |
-|                |                |     -- enhance |    Pollination |
-|                |                |     canopy     |     services   |
-|                |                |                |                |
-|                |                |   interception | -              |
-|                |                |     of         |   Biodiversity |
-|                |                |     rainfall   |                |
-|                |                |     reducing   |   conservation |
+|                |     hard       |  "conservation |  sequestration |
+|                |   engineering) |   agriculture" |     and        |
+|                |                |     within     |     storage    |
+|                |                |     watershed  |                |
+|                |                |     -- enhance |                |
+|                |                |     canopy     | -              |
+|                |                |   interception |    Pollination |
+|                |                |     of         |     services   |
+|                |                |     rainfall   | -              |
+|                |                |     reducing   |   Biodiversity |
 |                |                |     soil       |                |
-|                |                |     exposure   |                |
+|                |                |     exposure   |   conservation |
 |                |                |     and        |                |
 |                |                |     erosion    |                |
 +----------------+----------------+----------------+----------------+
-| **Co           | -   Coastal    | -   Mangrove   | -   Reduced    |
-| astal/Tidal ** |     dykes and  |     protection |     coastal    |
+| **Coastal /    | -   Coastal    | -   Mangrove   | -   Reduced    |
+|   Tidal **     |     dykes and  |     protection |     coastal    |
 |                |     levees     |     and        |     flood risk |
-|                |                |                |                |
 |                | -   Sea walls  |    restoration | -   Improved   |
 |                |                |     to anchor  |     fish       |
 |                | -   Temporary  |     sediments  |     stocks     |
 |                |     storm      |     and        |                |
 |                |     barriers   |     dissipate  | -              |
-|                |                |                |   Biodiversity |
-|                | -              |   wave energy  |                |
-|                |   Breakwaters  |                |  conservation  |
+|                |                |    wave energy |   Biodiversity |
+|                | - Breakwaters  |                |  conservation  |
 |                |                | -   Coastal    |                |
 |                |                |     marsh and  | -   Carbon     |
-|                |                |     dune       |                |
-|                |                |     management |  sequestration |
-|                |                |     and        |     and        |
-|                |                |                |     storage    |
+|                |                |     dune       |  sequestration |
+|                |                |     management |     and        |
+|                |                |     and        |     storage    |
 |                |                |    restoration |                |
-|                |                |     to         | -   Tourism    |
-|                |                |     dissipate  |     and        |
-|                |                |                |                |
-|                |                |   wave energy  |    recreation  |
-|                |                |                |                |
+|                |                |     to         |                |
+|                |                |     dissipate  | -   Tourism    |
+|                |                |   wave energy  |     and        |
+|                |                |                |    recreation  |
 |                |                | -   Coral      |                |
-|                |                |                |                |
 |                |                |    reef and/or |                |
 |                |                |     oyster     |                |
-|                |                |     re         |                |
-|                |                | ef restoration |                |
+|                |                |     reef       |                |
+|                |                |    restoration |                |
 |                |                |     and        |                |
 |                |                |     management |                |
 |                |                |     to         |                |
@@ -142,7 +134,6 @@ erosion [@Kapos2019]
 |                |                |     grass --   |                |
 |                |                |     stabilises |                |
 |                |                |     sediment   |                |
-|                |                |                |                |
 |                |                |  and regulates |                |
 |                |                |     water      |                |
 |                |                |     currents   |                |
@@ -199,7 +190,7 @@ stabilise slopes that are prone to landslides. Thick roots act like
 nails in the soil on slopes, reinforcing the soil [@Stokes2014;@EEA2015].
 To effectively stabilise a slope against shallow
 landslides, plant roots must cross the sheer surface, which may be up to
-2m deep [@Stokes2014; ADPC2020]. Thinner and finer roots can hold the
+2m deep [@Stokes2014;@ADPC2020]. Thinner and finer roots can hold the
 topsoil together and can reinforce soil by adding cohesion
 [@Stokes2014]. The effectiveness of vegetation in protecting slopes
 depends on the architecture and extent of the root system; root depth
@@ -248,7 +239,7 @@ and landslides across rural Nepal[@IUCN2021].
 
 The successes of slope stabilisation in Nepal are also linked with
 strong involvement of communities in establishing and maintaining these
-natural measures of soil stabilisation [IUCN2021].
+natural measures of soil stabilisation [@IUCN2021].
 
 ![](assets/Figure_16.3.1.jpg){width=100%}
 

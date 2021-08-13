@@ -29,7 +29,7 @@ ambitious Nationally Determined Contributions (NDCs) every five years.
 The Agreement's Parties were to submit their first NDCs upon
 ratification, acceptance, or approval of the Paris Agreement. Subsequent
 NDCs were due by 2020 and every five years thereafter
-[@UnitedNations2015]. Most Parties submitted their first NDCs in 2016
+[@UnitedNations2015a]. Most Parties submitted their first NDCs in 2016
 and many were expected to submit their second NDCs by the 26^th^
 Conference of the Parties (COP26) of the UNFCCC which was originally
 scheduled for 2020. However, due to challenges brought about by the

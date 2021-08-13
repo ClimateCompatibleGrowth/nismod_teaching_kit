@@ -186,7 +186,7 @@ actions
 
 Some initiatives are considered to be low hanging fruit given their
 combined low cost and cross-sectoral sustainable development benefits.
-The report by IPCC [@Ipcc2018] highlights that mitigation action to
+The report by IPCC [@IPCC2018] highlights that mitigation action to
 reduce energy demand, decreased material consumption, and lower
 carbon-intensive food consumption have the highest potential sustainable
 development impact. Within those key areas, energy demand reduction sits

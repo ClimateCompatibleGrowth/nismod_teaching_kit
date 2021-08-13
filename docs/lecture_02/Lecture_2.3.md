@@ -58,7 +58,7 @@ Given this overarching knowledge there is a need to assess, as directed
 by Steps 5 and 6, the cross-sectoral sustainable development benefits of
 mitigation action within the infrastructure sector. The Sustainable
 Development Goal (SDG) framework provides a comprehensive representation
-of society's developmental needs [@UnitedNations2015]. It can
+of society's developmental needs [@UnitedNations2015b]. It can
 therefore be used to assess the interactions between infrastructure
 development, mitigation action, and sustainable development. Points of
 intersection present opportunities to utilise limited resources to reach

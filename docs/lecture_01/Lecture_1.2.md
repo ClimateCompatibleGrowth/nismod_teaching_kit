@@ -120,7 +120,7 @@ synergies and trade-offs [@FusoNerini2019].
 In addition to the SDGs and Paris Agreement, other global agendas fall
 within the sustainable development sphere, including the [*Sendai
 Framework on Disaster Risk
-Reduction*](https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030),
+Reduction*](https://www.preventionweb.net/files/43291_sendaiframeworkfordrren.pdf),
 which sets out targets to reduce disaster risk and losses in terms of
 lives, livelihoods, and other economic, social and environmental
 indicators. The [*New Urban

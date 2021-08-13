@@ -139,12 +139,12 @@ on target 1.3 (*to implement nationally appropriate social protection
 systems and measures for all*), which may enhance achievement of the
 target through services including:
 
--   Effective information management systems (digital communications)
+- Effective information management systems (digital communications)
 
--   Access to all communities in order to aid data collection
-    (transport)Services provided by non-networked facilities such as
-    government buildings, which are responsible for managing social
-    protection systems.
+- Access to all communities in order to aid data collection (transport)
+- Services provided by non-networked facilities such as
+  government buildings, which are responsible for managing social
+  protection systems.
 
 By understanding the intricate linkages between all types of
 infrastructure and specific outcomes enabled by the services they

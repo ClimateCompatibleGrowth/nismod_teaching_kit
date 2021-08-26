@@ -1,3 +1,4 @@
+rm -r _deploy/*
 for lecture in _build/lecture_*; do
 
     OUTPUT=_deploy/$(basename $lecture)

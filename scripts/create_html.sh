@@ -1,5 +1,4 @@
 #!/bin/bash
-mkdir -p _build/assets
 for lecture in docs/lecture_*; do
 for filename in $lecture/*.md; do
     echo Converting "$filename"
@@ -8,7 +7,6 @@ for filename in $lecture/*.md; do
     DIR_NAME=$lecture
     BIBFILE=$DIR_NAME/bibliography.bib
     OUTPUT=_build/$(basename $lecture)
-    mkdir -p $OUTPUT/assets
 
     CSL=https://climatecompatiblegrowth.github.io/style/csl-style.css
     PAN=https://climatecompatiblegrowth.github.io/style/pandoc.css
@@ -25,6 +23,10 @@ for filename in $lecture/*.md; do
     else
         pandoc --mathjax --standalone --css $PAN --css $CSL $MD_TMP -o $OUTPUT/$BNAME.html
     fi
+    if test -d "$OUTPUT/assets"; then
+        rm -r $OUTPUT/assets/*
+    fi
+    mkdir -p $OUTPUT/assets
     cp -f $DIR_NAME/assets/* $OUTPUT/assets
     rm $MD_TMP
 done;

@@ -697,7 +697,7 @@ Table 15.1.4 Examples of major tree planting initiatives
 | UK Nature for        | £640 M from the UK   | -   Plant 30 kha of  |
 | Climate Fund         | government.          |     trees and        |
 |                      |                      |     restore 35 kha   |
-| [Link][nfcl]         |                      |     of peatland in   |
+|                      |                      |     of peatland in   |
 |                      |                      |     England by 2025  |
 +----------------------+----------------------+----------------------+
 | Green Legacy         | Ethiopian government | -   Plant 1 billion  |
@@ -729,7 +729,6 @@ Table 15.1.4 Examples of major tree planting initiatives
 [bc]: https://www.bonnchallenge.org/ "Bonn Challenge" {target="_blank"}
 [ngp]: https://www.denr.gov.ph/index.php/priority-programs/national-greening-program "National Greening Program" {target="_blank"}
 [glp]: https://www.mpi.govt.nz/forestry/funding-tree-planting-research/one-billion-trees-programme/about-the-one-billion-trees-programme/ "Green Legacy Programmes" {target="_blank"}
-[nfcl]: https://www.gov.uk/government/news/budget‐2020‐what‐you‐need‐to‐know "UK Nature for Climate Fund" {target="_blank"}
 [ecca30]: https://infoflr.org/index.php/bonn-challenge/regional-initiatives/ecca30 "ECCA30" {target="_blank"}
 [i20x20]: https://initiative20x20.org/ "Initiative 20x20" {target="_blank"}
 [nydf]: https://forestdeclaration.org/ "New York Declaration on Forests" {target="_blank"}

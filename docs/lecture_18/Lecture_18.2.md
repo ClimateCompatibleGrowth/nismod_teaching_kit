@@ -355,14 +355,14 @@ qualitative evidence can be gathered from:
 |                                  |     [here][biodiversitymap].     |
 +----------------------------------+----------------------------------+
 
-[arcpro]: https://www.arcgis.com/home/item.html?id=3bfa1aa4cd9844d5a0922540210da25b
-[raster]: https://www.arcgis.com/home/item.html?id=d9434e94c817434c8448445501aee60a
-[ecosystems]: https://www.arcgis.com/home/item.html?id=926a206393ec40a590d8caf29ae9a93e
-[areasdb]: https://www.arcgis.com/home/item.html?id=ae78aeb913a343d69e950b53e29076f7
-[ghana]: https://www.protectedplanet.net/country/GHA
-[jamaica]: https://www.protectedplanet.net/country/JAM
-[naturemap]: https://explorer.naturemap.earth/map
-[biodiversitymap]: https://www.unbiodiversitylab.org/
+[arcpro]: https://www.arcgis.com/home/item.html?id=3bfa1aa4cd9844d5a0922540210da25b {target="_blank"}
+[raster]: https://www.arcgis.com/home/item.html?id=d9434e94c817434c8448445501aee60a {target="_blank"}
+[ecosystems]: https://www.arcgis.com/home/item.html?id=926a206393ec40a590d8caf29ae9a93e {target="_blank"}
+[areasdb]: https://www.arcgis.com/home/item.html?id=ae78aeb913a343d69e950b53e29076f7 {target="_blank"}
+[ghana]: https://www.protectedplanet.net/country/GHA {target="_blank"}
+[jamaica]: https://www.protectedplanet.net/country/JAM {target="_blank"}
+[naturemap]: https://explorer.naturemap.earth/map {target="_blank"}
+[biodiversitymap]: https://www.unbiodiversitylab.org/ {target="_blank"}
 
 # Climate data
 

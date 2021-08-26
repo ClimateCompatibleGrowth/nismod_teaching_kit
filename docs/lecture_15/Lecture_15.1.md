@@ -73,12 +73,12 @@ sustainable development and building societal resilience
 
   Agenda                                                                                                                                     Description                                                                                                                                                         Role of NBS
   ------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [**SDGs**](https://sdgs.un.org/goals)                                                                                                      17 interlinked global goals, agreed by the United Nations in 2015, to bring about positive social, economic and environmental outcomes.                             Nature underpins the achievement of the SDGs through provision of ecosystem services (see mini-lecture 15.2).
-  [**Paris Agreement**](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement)                                     An agreement within the United Nations Framework Convention on Climate Change to address climate change mitigation and adaptation.                                  Nature can contribute to addressing the causes and consequences of climate change through carbon sequestration and adaptation services (see mini-lecture 15.3).
-  [**Convention on Biological Diversity**](https://www.cbd.int/)                                                                             Aims include: conservation of biological diversity, sustainable use of biodiversity, and fair and equitable sharing of benefits arising from genetic resources.     Nature underpins the provisioning of habitat and biodiversity.
-  [**Sendai Framework for Disaster Risk Reduction**](https://www.preventionweb.net/files/43291_sendaiframeworkfordrren.pdf)   Aims to achieve substantial reduction of disaster risk and associated losses.                                                                                       Nature provides various adaptation services (see Lecture 16).
-  [**New Urban Agenda**](https://unhabitat.org/sites/default/files/2019/05/nua-english.pdf)                                                  Aims to achieve sustainable development of urban areas.                                                                                                             Incorporation of nature in urban landscapes can support their sustainable development (see mini-lecture 17.4).
-  [**Global Decade of Ecosystem Restoration**](https://www.decadeonrestoration.org/)                                                         Runs 2021-2030; aims to restore degraded and destroyed ecosystems, contributing to efforts to combat climate change and safeguard the services that they provide.   Nature encompasses various ecosystems and can contribute to efforts on climate change.
+  [**SDGs**](https://sdgs.un.org/goals){target="_blank"}                                                                                                      17 interlinked global goals, agreed by the United Nations in 2015, to bring about positive social, economic and environmental outcomes.                             Nature underpins the achievement of the SDGs through provision of ecosystem services (see mini-lecture 15.2).
+  [**Paris Agreement**](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement){target="_blank"}                                     An agreement within the United Nations Framework Convention on Climate Change to address climate change mitigation and adaptation.                                  Nature can contribute to addressing the causes and consequences of climate change through carbon sequestration and adaptation services (see mini-lecture 15.3).
+  [**Convention on Biological Diversity**](https://www.cbd.int/){target="_blank"}                                                                             Aims include: conservation of biological diversity, sustainable use of biodiversity, and fair and equitable sharing of benefits arising from genetic resources.     Nature underpins the provisioning of habitat and biodiversity.
+  [**Sendai Framework for Disaster Risk Reduction**](https://www.preventionweb.net/files/43291_sendaiframeworkfordrren.pdf){target="_blank"}   Aims to achieve substantial reduction of disaster risk and associated losses.                                                                                       Nature provides various adaptation services (see Lecture 16).
+  [**New Urban Agenda**](https://unhabitat.org/sites/default/files/2019/05/nua-english.pdf){target="_blank"}                                                  Aims to achieve sustainable development of urban areas.                                                                                                             Incorporation of nature in urban landscapes can support their sustainable development (see mini-lecture 17.4).
+  [**Global Decade of Ecosystem Restoration**](https://www.decadeonrestoration.org/){target="_blank"}                                                         Runs 2021-2030; aims to restore degraded and destroyed ecosystems, contributing to efforts to combat climate change and safeguard the services that they provide.   Nature encompasses various ecosystems and can contribute to efforts on climate change.
 
 # Definition of NbS
 
@@ -321,7 +321,7 @@ further examples.
 |                                  |     Capital Protocol.          |
 |                                  |                                  |
 |                                  | -                                |
-|                                  | The [1t.org](http://1t.org/) (of |
+|                                  | The [1t.org](http://1t.org/){target="_blank"} (of |
 |                                  |     the World Economic Forum)  |
 |                                  |     has a cross‐industry       |
 |                                  |     corporate alliance.        |
@@ -457,7 +457,7 @@ Table 15.1.4 Examples of major tree planting initiatives
 | **Global             |                      |                      |
 | initiatives**        |                      |                      |
 +----------------------+----------------------+----------------------+
-| Bonn Challenge       | Launched by IUCN and | -   42 nations       |
+| [Bonn Challenge][bc] | Launched by IUCN and | -   42 nations       |
 |                      | German Government in |     committed to     |
 |                      | 2011. National       |     collectively     |
 |                      | governments work     |     bring about      |
@@ -488,24 +488,17 @@ Table 15.1.4 Examples of major tree planting initiatives
 |                      |                      |     commercial       |
 |                      |                      |     plantations      |
 |                      |                      |                      |
-|                      |                      | Link: <https://www   |
-|                      |                      | .bonnchallenge.org/> |
 +----------------------+----------------------+----------------------+
 | New York Declaration | Voluntary commitment | -   Halve            |
 | on Forests           | signed at UN summit  |     deforestation    |
 |                      | (2014). Governments, |     and restore      |
-|                      | businesses, NGOs,    |     150 Mha forests  |
+| [Link][nydf]         | businesses, NGOs,    |     150 Mha forests  |
 |                      | communities.         |     by 2020          |
 |                      |                      |                      |
 |                      |                      | -   Target not met   |
 |                      |                      |     (NYDF Assessment |
-|                      |                      |     Part             |
-|                      |                      | ners, [2019](https:/ |
-|                      |                      | /onlinelibrary.wiley |
-|                      |                      | .com/doi/10.1111/gcb |
-|                      |                      | .15513#gcb15513-bib- |
-|                      |                      | 0195)). <https://for |
-|                      |                      | estdeclaration.org/> |
+|                      |                      |     Partners         |
+|                      |                      |     [@Seddon2021])   |
 |                      |                      |                      |
 |                      |                      | -   41 national and  |
 |                      |                      |     21 subnational   |
@@ -523,24 +516,10 @@ Table 15.1.4 Examples of major tree planting initiatives
 |                      |                      |     the New York     |
 |                      |                      |     Declaration on   |
 |                      |                      |     Forests          |
-|                      |                      |                      |
-|                      |                      | -   Target not met   |
-|                      |                      |     (NYDF Assessment |
-|                      |                      |     Partners,        |
-|                      |                      | [2019](https://onlin |
-|                      |                      | elibrary.wiley.com/d |
-|                      |                      | oi/10.1111/gcb.15513 |
-|                      |                      | #gcb15513-bib-0195)) |
-|                      |                      |                      |
-|                      |                      | Link:                |
-|                      |                      | [*http               |
-|                      |                      | s://forestdeclaratio |
-|                      |                      | n.org/*](https://for |
-|                      |                      | estdeclaration.org/) |
 +----------------------+----------------------+----------------------+
-| Trillion Trees       | BirdLife             | -   End              |
-|                      | International,       |     d                |
-|                      | Wildlife             | eforestation/improve |
+| Trillion Trees       | BirdLife             | - End                |
+|                      | International,       |   deforestation      |
+| [Link][tt]           | Wildlife             |   / improve          |
 |                      | Conservation Society |     forest           |
 |                      | and World Wide Fund  |     protection and   |
 |                      | for Nature           |     restore forests  |
@@ -548,17 +527,11 @@ Table 15.1.4 Examples of major tree planting initiatives
 |                      |                      | -   Emphasis on      |
 |                      |                      |     'right tree,     |
 |                      |                      |     right place'     |
-|                      |                      |                      |
-|                      |                      | Link:                |
-|                      |                      | [*http               |
-|                      |                      | s://www.trilliontree |
-|                      |                      | s.org/*](https://www |
-|                      |                      | .trilliontrees.org/) |
 +----------------------+----------------------+----------------------+
 | Trillion Tree        | Plant for the Planet | -   Plant 1 trillion |
 | Campaign             | (NGO supported by    |     trees            |
 |                      | UN)                  |                      |
-|                      |                      | -   13.8 billion     |
+| [Link][ttc]          |                      | -   13.8 billion     |
 |                      |                      |     planted by May   |
 |                      |                      |     2020             |
 |                      |                      |                      |
@@ -590,17 +563,11 @@ Table 15.1.4 Examples of major tree planting initiatives
 |                      |                      |     such as 'Trees   |
 |                      |                      |     can be planted   |
 |                      |                      |     almost anywhere' |
-|                      |                      |                      |
-|                      |                      | Link:                |
-|                      |                      | [*https://www.trilli |
-|                      |                      | ontreecampaign.org/* |
-|                      |                      | ](https://www.trilli |
-|                      |                      | ontreecampaign.org/) |
 +----------------------+----------------------+----------------------+
 | Trillion Tree        | World Economic Forum | -   Conserve,        |
 | Platform             |                      |     restore and grow |
 |                      |                      |     1 trillion trees |
-|                      |                      |     by 2030          |
+| [Link][ttp]          |                      |     by 2030          |
 |                      |                      |                      |
 |                      |                      | -   Platform to      |
 |                      |                      |     support the      |
@@ -616,15 +583,10 @@ Table 15.1.4 Examples of major tree planting initiatives
 |                      |                      |     that tree        |
 |                      |                      |     planting is 'not |
 |                      |                      |     a silver bullet' |
-|                      |                      |                      |
-|                      |                      | Link:                |
-|                      |                      | [*ht                 |
-|                      |                      | tps://www.1t.org/*]( |
-|                      |                      | https://www.1t.org/) |
 +----------------------+----------------------+----------------------+
 | WeForest             | NGO offering carbon  | -   Transform 250    |
 |                      | offsets to companies |     kha of forest    |
-|                      |                      |     landscape by     |
+| [Link][wf]           |                      |     landscape by     |
 |                      |                      |     2021; restore 25 |
 |                      |                      |     kha of forest    |
 |                      |                      |     with 25 million  |
@@ -635,13 +597,8 @@ Table 15.1.4 Examples of major tree planting initiatives
 |                      |                      |     practice across  |
 |                      |                      |     different        |
 |                      |                      |     ecosystems       |
-|                      |                      |                      |
-|                      |                      | Link:                |
-|                      |                      | [*https://www.we     |
-|                      |                      | forest.org/*](https: |
-|                      |                      | //www.weforest.org/) |
 +----------------------+----------------------+----------------------+
-| Ecosia               | Ecosia Internet      | -   Plant 1 billion  |
+| [Ecosia][ecosia]     | Ecosia Internet      | -   Plant 1 billion  |
 |                      | Browser              |     trees            |
 |                      |                      |                      |
 |                      |                      | -   116 million      |
@@ -663,9 +620,6 @@ Table 15.1.4 Examples of major tree planting initiatives
 |                      |                      |     from searches to |
 |                      |                      |     fund             |
 |                      |                      |     tree‐planting    |
-|                      |                      |                      |
-|                      |                      | Link: <https://i     |
-|                      |                      | nfo.ecosia.org/what> |
 +----------------------+----------------------+----------------------+
 | **Regional           |                      |                      |
 | Initiatives --       |                      |                      |
@@ -679,19 +633,14 @@ Table 15.1.4 Examples of major tree planting initiatives
 | Restoration          | World Bank to        |                      |
 | Initiative (AFR100)  | African governments  | -   Much of this     |
 |                      |                      |     will be          |
-|                      |                      |     commercial       |
+| [Link][afr100]       |                      |     commercial       |
 |                      |                      |     plantations and  |
 |                      |                      |     much will be on  |
 |                      |                      |     savannah         |
-|                      |                      |                      |
-|                      |                      | Link:                |
-|                      |                      | [*ht                 |
-|                      |                      | tps://afr100.org/*]( |
-|                      |                      | https://afr100.org/) |
 +----------------------+----------------------+----------------------+
 | Initiative 20 × 20   | \$2.4 billion so     | -   20 Mha of        |
 |                      | far, from impact     |     degraded land in |
-|                      | investors and        |     Latin America    |
+| [Link][i20x20]       | investors and        |     Latin America    |
 |                      | businesses.          |     and Caribbean    |
 |                      |                      |     brought into     |
 |                      |                      |     restoration      |
@@ -703,28 +652,13 @@ Table 15.1.4 Examples of major tree planting initiatives
 |                      |                      |     30 Mha by 2030.  |
 |                      |                      |     Includes timber  |
 |                      |                      |     plantations      |
-|                      |                      |                      |
-|                      |                      | Link:                |
-|                      |                      | [*                   |
-|                      |                      | https://initiative20 |
-|                      |                      | x20.org/*](https://i |
-|                      |                      | nitiative20x20.org/) |
 +----------------------+----------------------+----------------------+
 | ECCA30               | European, Caucasian  | -   30 Mha forest    |
 |                      | and Central Asian    |     restoration in   |
-|                      | governments and      |     Europe, the      |
+| [Link][ecca30]       | governments and      |     Europe, the      |
 |                      | investors            |     Caucasus and     |
 |                      |                      |     Central Asia by  |
 |                      |                      |     2030             |
-|                      |                      |                      |
-|                      |                      | Link:                |
-|                      |                      | [*https://           |
-|                      |                      | infoflr.org/bonn‐cha |
-|                      |                      | llenge/regional‐init |
-|                      |                      | iatives/ecca30*](htt |
-|                      |                      | ps://infoflr.org/bon |
-|                      |                      | n‐challenge/regional |
-|                      |                      | ‐initiatives/ecca30) |
 +----------------------+----------------------+----------------------+
 | **Other regional     |                      |                      |
 | initiatives**        |                      |                      |
@@ -763,36 +697,18 @@ Table 15.1.4 Examples of major tree planting initiatives
 | UK Nature for        | £640 M from the UK   | -   Plant 30 kha of  |
 | Climate Fund         | government.          |     trees and        |
 |                      |                      |     restore 35 kha   |
-|                      |                      |     of peatland in   |
+| [Link][nfcl]         |                      |     of peatland in   |
 |                      |                      |     England by 2025  |
-|                      |                      |                      |
-|                      |                      | Link:                |
-|                      |                      | [*                   |
-|                      |                      | https://www.gov.uk/g |
-|                      |                      | overnment/news/budge |
-|                      |                      | t‐2020‐what‐you‐need |
-|                      |                      | ‐to‐know*](https://w |
-|                      |                      | ww.gov.uk/government |
-|                      |                      | /news/budget‐2020‐wh |
-|                      |                      | at‐you‐need‐to‐know) |
 +----------------------+----------------------+----------------------+
 | Green Legacy         | Ethiopian government | -   Plant 1 billion  |
 | Programmes           |                      |     trees by 2028    |
 |                      |                      |                      |
-|                      |                      | -   149 planted so   |
+| [Link][glp]          |                      | -   149 planted so   |
 |                      |                      |     far              |
 |                      |                      |                      |
-|                      |                      | Link:                |
-|                      |                      | https://ww           |
-|                      |                      | w.mpi.govt.nz/forest |
-|                      |                      | ry/funding-tree-plan |
-|                      |                      | ting-research/one-bi |
-|                      |                      | llion-trees-programm |
-|                      |                      | e/about-the-one-bill |
-|                      |                      | ion-trees-programme/ |
 +----------------------+----------------------+----------------------+
-| National Greening    | Government of the    | -   Restore 1.5 Mha  |
-| Program              | Philippines          |     of degraded      |
+| [NGP][ngp]           | Government of the    | -   Restore 1.5 Mha  |
+|                      | Philippines          |     of degraded      |
 |                      |                      |     forest 2011-2016 |
 |                      |                      |     -- achieved      |
 |                      |                      |                      |
@@ -808,9 +724,18 @@ Table 15.1.4 Examples of major tree planting initiatives
 |                      |                      |     and enhancing    |
 |                      |                      |     the carbon sink  |
 |                      |                      |                      |
-|                      |                      | Link:                |
-|                      |                      | https://www.denr     |
-|                      |                      | .gov.ph/index.ph/pri |
-|                      |                      | ority-programs/natio |
-|                      |                      | nal-greening-program |
 +----------------------+----------------------+----------------------+
+
+[bc]: https://www.bonnchallenge.org/ "Bonn Challenge" {target="_blank"}
+[ngp]: https://www.denr.gov.ph/index.php/priority-programs/national-greening-program "National Greening Program" {target="_blank"}
+[glp]: https://www.mpi.govt.nz/forestry/funding-tree-planting-research/one-billion-trees-programme/about-the-one-billion-trees-programme/ "Green Legacy Programmes" {target="_blank"}
+[nfcl]: https://www.gov.uk/government/news/budget‐2020‐what‐you‐need‐to‐know "UK Nature for Climate Fund" {target="_blank"}
+[ecca30]: https://infoflr.org/index.php/bonn-challenge/regional-initiatives/ecca30 "ECCA30" {target="_blank"}
+[i20x20]: https://initiative20x20.org/ "Initiative 20x20" {target="_blank"}
+[nydf]: https://forestdeclaration.org/ "New York Declaration on Forests" {target="_blank"}
+[tt]: https://www.trilliontrees.org/ "Trillion Trees" {target="_blank"}
+[ttc]: https://www.trilliontreecampaign.org/ "Trillion Trees Campaign" {target="_blank"}
+[ttp]: https://www.1t.org/ "Trillion Trees Platform"  {target="_blank"}
+[wf]: https://www.weforest.org/ "We Forest" {target="_blank"}
+[ecosia]: https://info.ecosia.org/what "Ecosia Internet Browser" {target="_blank"}
+[afr100]: https://afr100.org/ "African Forest Landscape Restoration Initiative" {target="_blank}

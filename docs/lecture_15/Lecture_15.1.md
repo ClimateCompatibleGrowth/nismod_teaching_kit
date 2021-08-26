@@ -115,7 +115,7 @@ energy (see @IUCN2020b).
 
 **NbS** is a relatively new term, used first in 2008 by the World Bank
 and only formally defined by the International Union for the
-Conservation of Nature (IUCN) in 2020 [@IUCN2020a; @Seddon2021]. The
+Conservation of Nature (IUCN) in 2020 [@IUCN2020a;@Seddon2021]. The
 concept 'NbS' is based on the notion that healthy, well-managed
 ecosystems deliver multiple ecosystem services, which underpin societal
 and environmental well-being (see mini-lecture 15.2). It is an umbrella
@@ -331,7 +331,7 @@ further examples.
 
 While NbS offer multiple social, environmental and economic co-benefits
 in principle, there are a number of potential pitfalls of implementing
-NbS which are important to note [@Seddon2021; @Cohen-Shacham2019]:
+NbS which are important to note [@Seddon2021;@Cohen-Shacham2019]:
 
 1.  NbS are being used as a form of 'green washing' to excuse
     business-as-usual fossil fuel use.
@@ -392,7 +392,7 @@ to date on forests (Unsplash)
 Depending on how NbS are implemented and managed, they can either
 contribute to addressing societal challenges, or exacerbate the problem.
 To date, much NbS focus has been on the potential of forests. This is
-reflected across academic literature [@Bastin2019; @Lal&Singh2000],
+reflected across academic literature [@Bastin2019;@Lal&Singh2000],
 as well as regional and national initiatives, funding, government and
 private sector pledges (see annex).
 

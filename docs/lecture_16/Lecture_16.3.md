@@ -235,7 +235,7 @@ weblike network of roots, capturing the soil and holding it together
 [@IUCN2021]. Moreover, the plant also provides leaves for good fodder
 and stems for fuel and is used to make sweeping brooms [@WWF2013].
 The implementation of *Amriso* has caused a noticeable reduction in mud-
-and landslides across rural Nepal[@IUCN2021].
+and landslides across rural Nepal [@IUCN2021].
 
 The successes of slope stabilisation in Nepal are also linked with
 strong involvement of communities in establishing and maintaining these

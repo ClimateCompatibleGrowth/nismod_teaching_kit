@@ -58,8 +58,7 @@ according to Voronoi polygons dedicated to each electricity substation
 in order to estimate how many customers are served by each asset
 [@Pant2018]
 
-**Identifying which populations are indirectly served by infrastructure
-assets**
+# Identifying which populations are indirectly served by infrastructure assets
 
 The previous section shows how Voronoi diagrams can be used to allocate
 the population served directly by each asset. However, certain assets,

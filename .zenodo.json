@@ -1,5 +1,5 @@
 {
-  "description": "",
+  "description": "Course for Infrastructure and Climate Resilience",
   "license": {"id": "CC-BY-4.0"},
   "title": "Climate Compatible Growth: Infrastructure and Climate Resilience",
   "creators": [
@@ -61,8 +61,6 @@
     }
   ],
   "access_right": "open",
-  "resource_type": {
-    "type": "lesson",
-    "title": "Lesson"
+  "upload_type": "lesson"
   }
 }
